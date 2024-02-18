@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CalculationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a12d86dd-494a-456b-953d-cacf8e810b98">
+  <producedTypes>
+    <selectionType typeId="5526abf5-eaf9-4786-9188-04a6e5454687" valueTypeId="7d757a23-7c0f-4e62-9f1e-99b5f01ff2f6"/>
+    <listType typeId="135006cc-f003-4d65-89a3-d134fc070e3a" valueTypeId="3285a6d3-a93f-48d5-b6f4-28098575d406"/>
+    <managerType typeId="339cef04-9417-4f9f-9af3-13ec81289126" valueTypeId="0f279dfd-4f0e-4d28-8cf3-91ddc0596316"/>
+    <recordSetType typeId="401a8fd8-3aa9-45f1-85ab-7c25356aaebe" valueTypeId="63adc8d2-4374-4287-a24e-892a23beebc2"/>
+    <recordKeyType typeId="262f6e0a-c615-4574-aef3-f8187b084d30" valueTypeId="72bc4d01-c4f4-4875-9cf6-c36de876b96c"/>
+    <recordType typeId="fe25e822-2a66-4a46-85ce-71fee9668690" valueTypeId="16a01d88-0888-4457-9152-b62ad84c3dec"/>
+    <recalcsType typeId="0cec9045-5ec2-42b0-8275-8b9ab885a9d3" valueTypeId="92efedcd-a6bc-40a9-b8d9-ae75b5e78eaa"/>
+  </producedTypes>
+  <name>ВКМ_ДополнительныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дополнительные начисления</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <periodicity>Month</periodicity>
+  <basePeriod>true</basePeriod>
+  <chartOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</chartOfCalculationTypes>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="7aba16f6-9582-47ce-8b71-22328a9a9a6b">
+    <name>Результат</name>
+    <synonym>
+      <key>ru</key>
+      <value>Результат</value>
+    </synonym>
+    <type>
+      <types>DefinedType.ВКМ_ТипСумма</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <resources uuid="5448c966-52e8-4df2-ae99-d66b5ad9ea23">
+    <name>ОтработаноЧасов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отработано часов</value>
+    </synonym>
+    <type>
+      <types>DefinedType.ВКМ_ТипЧасыРаботы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <dimensions uuid="33c17112-73ce-4664-91ad-c3f1cb9a3ed2">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВКМ_Сотрудники</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </dimensions>
+</mdclass:CalculationRegister>

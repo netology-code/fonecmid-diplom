@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4cc2dddf-e65f-46f5-985f-b57caee39042">
+  <producedTypes>
+    <containerType typeId="8d29cee7-3fca-410a-9f82-1a1e37ac4145" valueTypeId="061a56cc-9abb-4605-a551-e41e1d64b50f"/>
+  </producedTypes>
+  <name>ВКМ_ТипЧасыРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тип часы работы</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>10</precision>
+      <scale>2</scale>
+    </numberQualifiers>
+  </type>
+</mdclass:DefinedType>

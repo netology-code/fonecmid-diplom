@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="16d0490a-cb68-42e2-bd74-84fe2bf2e15d">
+  <producedTypes>
+    <objectType typeId="ec3b7a9c-d5d1-4529-a30a-5ed591fdcb2e" valueTypeId="37e77a5b-495f-41c9-bd11-0a79c2079705"/>
+    <refType typeId="755d0096-5034-44ca-96a8-bc1901d0c846" valueTypeId="b90f6239-3be8-49bd-8e65-a46f63bf0f5d"/>
+    <selectionType typeId="41557b9b-11b4-4936-a8e8-dfed3f10a1b0" valueTypeId="3ef23056-7d68-4bb1-906b-61c828019225"/>
+    <listType typeId="431d7bb4-87e6-4390-967b-fb9cecce7b65" valueTypeId="f3b97c40-3806-423e-b89e-67aad0ad0009"/>
+    <managerType typeId="d33c42e0-79f7-4c69-bad5-7763d4feb6db" valueTypeId="466d6d48-d4ef-4eca-9868-ce14ccf36aa6"/>
+  </producedTypes>
+  <name>ВКМ_ВидДоговоров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вид договоров</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ВидДоговоров.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВКМ_ВидДоговоров.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Вид договора</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined/>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
