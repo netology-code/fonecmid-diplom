@@ -18,7 +18,7 @@
 
 ### Чек-лист готовности к работе над проектом
 
-1. Установите [учебную версию](https://drive.google.com/file/d/1zMZCr5NnLtrkqV1ziCS5u_G8mDri07Rs/view?usp=sharing) платформы 1С:Предприятие 8.3.22.1750.
+1. Установите [учебную версию](https://drive.google.com/file/d/1zMZCr5NnLtrkqV1ziCS5u_G8mDri07Rs/view?usp=sharing) платформы 1С:Предприятие 8.3.22.2411.
 2. Скачайте и установите [Liberica JDK 11](https://releases.1c.ru/project/Liberica11FullJDK).
 3. Скачайте и установите 1С:EDT [последней актуальной версии](https://edt.1c.ru/).
 4. Зарегистрируйтесь на github.com и создайте форк от этого репозитория.
