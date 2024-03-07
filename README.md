@@ -29,7 +29,7 @@
 ------
 
 ### Инструменты и дополнительные материалы для выполнения задания
-- Для учебной версии платформы [архив с дистрибутивом Vanessa Automation](https://drive.google.com/file/d/1QnZ3fnGMaH7Uueg55w1jTK5fUyipZdEF/view?usp=share_link). **В дистрибутиве заменены обращения при подключении тест-клиента с файла 1cv8c.exe на 1cv8ct.exe**.
+- Для учебной версии платформы [архив с дистрибутивом Vanessa Automation](https://u.netology.ru/backend/uploads/lms/content_assets/file/7038/download.html). **В дистрибутиве заменены обращения при подключении тест-клиента с файла 1cv8c.exe на 1cv8ct.exe**.
 - Для остальных версий платформы нужно скачать Vanessa Automation из [официального гит-репозитория](https://pr-mex.github.io/vanessa-automation/dev/).
 
 ------
