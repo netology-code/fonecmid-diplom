@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="991d8da1-626c-43f8-ae67-34cd5f8d48aa">
+  <name>ВКМ_ОтчетПоВыработкеСпециалистов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчет по выработке специалистов</value>
+  </synonym>
+</mdclass:Role>
