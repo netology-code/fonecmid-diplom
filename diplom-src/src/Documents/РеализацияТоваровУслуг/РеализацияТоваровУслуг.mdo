@@ -72,7 +72,6 @@
   <defaultListForm>Document.РеализацияТоваровУслуг.Form.ФормаСписка</defaultListForm>
   <registerRecords>AccumulationRegister.ОстаткиТоваров</registerRecords>
   <registerRecords>AccumulationRegister.ОбработкаЗаказов</registerRecords>
-  <registerRecords>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="c7ac2c20-577c-4b41-9689-ee5f9e0b5bea">
@@ -131,20 +130,8 @@
     </choiceParameterLinks>
     <choiceParameters>
       <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:FixedArrayValue">
-        <values xsi:type="core:ReferenceValue">
-          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
-        </values>
-        <values xsi:type="core:ReferenceValue">
-          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.ВКМ_АбонентскоеОбслуживание</value>
-        </values>
-        <values xsi:type="core:UndefinedValue"/>
-        <values xsi:type="core:UndefinedValue"/>
-        <values xsi:type="core:UndefinedValue"/>
-        <values xsi:type="core:UndefinedValue"/>
-        <values xsi:type="core:UndefinedValue"/>
-        <values xsi:type="core:UndefinedValue"/>
-        <values xsi:type="core:UndefinedValue"/>
+      <value xsi:type="core:ReferenceValue">
+        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
       </value>
     </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>
@@ -183,6 +170,7 @@
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
@@ -422,11 +410,4 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
-  <templates uuid="5fa476b7-9b03-4b11-b751-2382cf2153f6">
-    <name>ВКМ_ПФ_MXL_АктОбОказанныхУслугах</name>
-    <synonym>
-      <key>ru</key>
-      <value>Акт об оказанных услугах</value>
-    </synonym>
-  </templates>
 </mdclass:Document>

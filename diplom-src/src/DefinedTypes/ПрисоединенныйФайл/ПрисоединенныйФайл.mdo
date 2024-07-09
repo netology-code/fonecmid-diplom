@@ -17,6 +17,5 @@
     <types>CatalogRef.КонтрагентыПрисоединенныеФайлы</types>
     <types>CatalogRef.ОрганизацииПрисоединенныеФайлы</types>
     <types>CatalogRef.ВерсииФайлов</types>
-    <types>CatalogRef.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</types>
   </type>
 </mdclass:DefinedType>
