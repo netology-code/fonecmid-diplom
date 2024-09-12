@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:HTTPService xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="355a9c3d-f6de-4328-b2b5-7f57cd418a00">
+  <name>ВКМ_ТелеграмБот</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ телеграм бот</value>
+  </synonym>
+  <rootURL>bot</rootURL>
+  <reuseSessions>AutoUse</reuseSessions>
+  <sessionMaxAge>20</sessionMaxAge>
+  <urlTemplates uuid="71bd69f7-9513-4f50-bf45-9bebfaedbc3e">
+    <name>Ping</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ping</value>
+    </synonym>
+    <template>/ping</template>
+    <methods uuid="3d510e7c-5abd-4921-9f4a-63af00c8d280">
+      <name>GETPing</name>
+      <synonym>
+        <key>ru</key>
+        <value>GETPing</value>
+      </synonym>
+      <handler>PingGETPing</handler>
+    </methods>
+  </urlTemplates>
+  <urlTemplates uuid="c6c54601-caa1-4d1e-a828-d08b96bc56fd">
+    <name>Send</name>
+    <synonym>
+      <key>ru</key>
+      <value>Send</value>
+    </synonym>
+    <template>/send</template>
+    <methods uuid="cd706b6b-ceb4-448b-b4cf-a97af9b139ec">
+      <name>POSTSend</name>
+      <synonym>
+        <key>ru</key>
+        <value>POSTSend</value>
+      </synonym>
+      <httpMethod>POST</httpMethod>
+      <handler>SendPOSTSend</handler>
+    </methods>
+  </urlTemplates>
+</mdclass:HTTPService>

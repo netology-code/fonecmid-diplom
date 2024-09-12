@@ -12,6 +12,7 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="e618f860-9c1f-4ff5-adcc-937bf38eb0a0"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="211b6552-4b93-4f1e-b683-6067088de2c6"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="2e547306-50f7-463f-abdf-bbc50733c076"/>
+  <configurationExtensionCompatibilityMode>8.3.22</configurationExtensionCompatibilityMode>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
@@ -19,7 +20,7 @@
   <defaultRoles>Role.АдминистраторСистемы</defaultRoles>
   <defaultRoles>Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</defaultRoles>
   <vendor>ООО Нетология</vendor>
-  <version>1.0.0.1</version>
+  <version>1.0.0.4</version>
   <reportsVariantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</reportsVariantsStorage>
   <defaultReportForm>CommonForm.ФормаОтчета</defaultReportForm>
   <defaultReportVariantForm>CommonForm.ФормаВариантаОтчета</defaultReportVariantForm>
@@ -53,6 +54,9 @@
   <subsystems>Subsystem.ПодключаемыеОтчетыИОбработки</subsystems>
   <subsystems>Subsystem.ПокупкиИПродажи</subsystems>
   <subsystems>Subsystem.СтандартныеПодсистемы</subsystems>
+  <subsystems>Subsystem.ВКМ_ОбслуживаниеКлиентов</subsystems>
+  <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты</subsystems>
+  <subsystems>Subsystem.ВКМ_РаботаСКадрами</subsystems>
   <styleItems>StyleItem.ВажнаяНадписьШрифт</styleItems>
   <styleItems>StyleItem.ВладелецФайловШрифт</styleItems>
   <styleItems>StyleItem.ВычисленноеПравоДоступаЦвет</styleItems>
@@ -571,6 +575,15 @@
   <roles>Role.ЧтениеДополнительныхСведений</roles>
   <roles>Role.ЧтениеНСИ</roles>
   <roles>Role.ЧтениеУчетныхЗаписейЭлектроннойПочты</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеДокументовОбслуживания</roles>
+  <roles>Role.ВКМ_МассовоеСозданиеДокументовРеализации</roles>
+  <roles>Role.ВКМ_НачислениеЗарплаты</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеГрафикаОтпусков</roles>
+  <roles>Role.ВКМ_ЧтениеОтчетВыработкаСпециалистов</roles>
+  <roles>Role.ВКМ_ЧтениеОтчетАнализВыставленныхАктов</roles>
+  <roles>Role.ВКМ_ЧтениеОтчетРасчетыССотрудниками</roles>
+  <roles>Role.ВКМ_ЧтениеОтчетРасходОтпусков</roles>
+  <roles>Role.ВКМ_АдминистраторБотов</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияПоСозданиюФаксимильнойПодписиИПечати</commonTemplates>
@@ -789,7 +802,6 @@
   <commonModules>CommonModule.УправлениеКонтактнойИнформацией</commonModules>
   <commonModules>CommonModule.УправлениеКонтактнойИнформациейКлиент</commonModules>
   <commonModules>CommonModule.УправлениеКонтактнойИнформациейКлиентСервер</commonModules>
-  <commonModules>CommonModule.УправлениеКонтактнойИнформациейПереопределяемый</commonModules>
   <commonModules>CommonModule.УправлениеКонтактнойИнформациейСлужебный</commonModules>
   <commonModules>CommonModule.УправлениеКонтактнойИнформациейСлужебныйВызовСервера</commonModules>
   <commonModules>CommonModule.УправлениеКонтактнойИнформациейСлужебныйПовтИсп</commonModules>
@@ -799,6 +811,7 @@
   <commonModules>CommonModule.УправлениеПечатьюВызовСервера</commonModules>
   <commonModules>CommonModule.УправлениеПечатьюКлиент</commonModules>
   <commonModules>CommonModule.УправлениеПечатьюКлиентПереопределяемый</commonModules>
+  <commonModules>CommonModule.УправлениеКонтактнойИнформациейПереопределяемый</commonModules>
   <commonModules>CommonModule.УправлениеПечатьюКлиентСервер</commonModules>
   <commonModules>CommonModule.УправлениеПечатьюПереопределяемый</commonModules>
   <commonModules>CommonModule.УправлениеПечатьюРФ</commonModules>
@@ -814,6 +827,8 @@
   <commonModules>CommonModule.ФайловаяСистемаСлужебныйКлиент</commonModules>
   <commonModules>CommonModule.ФайловаяСистемаСлужебныйКлиентСервер</commonModules>
   <commonModules>CommonModule.ФизическиеЛицаКлиентСервер</commonModules>
+  <commonModules>CommonModule.ВКМ_ОбщегоНазначенияHTTP</commonModules>
+  <commonModules>CommonModule.ВКМ_Телеграм</commonModules>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
   <xDTOPackages>XDTOPackage.ApdexExport</xDTOPackages>
   <xDTOPackages>XDTOPackage.ApdexExport_1_0_0_2</xDTOPackages>
@@ -826,6 +841,7 @@
   <xDTOPackages>XDTOPackage.Адрес</xDTOPackages>
   <xDTOPackages>XDTOPackage.КонтактнаяИнформация</xDTOPackages>
   <webServices>WebService.InterfaceVersion</webServices>
+  <httpServices>HTTPService.ВКМ_ТелеграмБот</httpServices>
   <eventSubscriptions>EventSubscription.ВариантыОтчетовПередУдалениемИдентификатораОбъектаМетаданных</eventSubscriptions>
   <eventSubscriptions>EventSubscription.ВариантыОтчетовПриУдаленииПользователя</eventSubscriptions>
   <eventSubscriptions>EventSubscription.ВключитьРегламентноеЗаданиеПриИзмененииФункциональнойОпции</eventSubscriptions>
@@ -895,6 +911,7 @@
   <scheduledJobs>ScheduledJob.УдалениеУстаревшихПараметровРаботыВерсийРасширений</scheduledJobs>
   <scheduledJobs>ScheduledJob.УстановкаПериодаРассчитанныхИтогов</scheduledJobs>
   <scheduledJobs>ScheduledJob.ЭкспортОценкиПроизводительности</scheduledJobs>
+  <scheduledJobs>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграм</scheduledJobs>
   <settingsStorages>SettingsStorage.ХранилищеВариантовОтчетов</settingsStorages>
   <functionalOptions>FunctionalOption.ИспользоватьВнешнихПользователей</functionalOptions>
   <functionalOptions>FunctionalOption.ИспользоватьГруппыВнешнихПользователей</functionalOptions>
@@ -1038,6 +1055,10 @@
   <constants>Constant.УдалитьНастройкиВходаПользователей</constants>
   <constants>Constant.УчетнаяЗаписьДляВосстановленияПароля</constants>
   <constants>Constant.ХранитьФайлыВТомахНаДиске</constants>
+  <constants>Constant.ВКМ_ИдентификаторГруппыТелеграм</constants>
+  <constants>Constant.ВКМ_ТокенТелеграмБота</constants>
+  <constants>Constant.ВКМ_НоменклатураАбонентскаяПлата</constants>
+  <constants>Constant.ВКМ_НоменклатураРаботыСпециалиста</constants>
   <commonForms>CommonForm.БлокировкаРаботыСВнешнимиРесурсами</commonForms>
   <commonForms>CommonForm.ВводЗначенийСпискомСФлажками</commonForms>
   <commonForms>CommonForm.Вопрос</commonForms>
@@ -1134,11 +1155,20 @@
   <catalogs>Catalog.УчетныеЗаписиСинхронизацииФайлов</catalogs>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
   <catalogs>Catalog.Файлы</catalogs>
+  <catalogs>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.ВКМ_УведомленияТелеграмБоту</catalogs>
+  <catalogs>Catalog.ВКМ_ГрафикиРаботы</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
   <documents>Document.ПоступлениеТоваровУслуг</documents>
   <documents>Document.РеализацияТоваровУслуг</documents>
+  <documents>Document.ВКМ_ОбслуживаниеКлиента</documents>
+  <documents>Document.ВКМ_ВходящийHTTPЗапрос</documents>
+  <documents>Document.ВКМ_НачислениеЗарплаты</documents>
+  <documents>Document.ВКМ_НачислениеФиксированнойПремии</documents>
+  <documents>Document.ВКМ_ГрафикОтпусков</documents>
+  <documents>Document.ВКМ_ВыплатаЗарплаты</documents>
   <documentJournals>DocumentJournal.Деньги</documentJournals>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
   <enums>Enum.ВариантыПериода</enums>
@@ -1193,6 +1223,10 @@
   <reports>Report.ПрогрессОтложенногоОбновления</reports>
   <reports>Report.СведенияОПользователях</reports>
   <reports>Report.УниверсальныйОтчет</reports>
+  <reports>Report.ВКМ_ВыработкаСпециалистов</reports>
+  <reports>Report.ВКМ_АнализВыставленныхАктов</reports>
+  <reports>Report.ВКМ_РасчетыССотрудниками</reports>
+  <reports>Report.ВКМ_РасходЗапланированныхОтпусков</reports>
   <dataProcessors>DataProcessor.АвтоматическоеИзвлечениеТекстов</dataProcessors>
   <dataProcessors>DataProcessor.ВводКонтактнойИнформации</dataProcessors>
   <dataProcessors>DataProcessor.ГрупповоеИзменениеРеквизитов</dataProcessors>
@@ -1218,6 +1252,8 @@
   <dataProcessors>DataProcessor.Сканирование</dataProcessors>
   <dataProcessors>DataProcessor.УдалениеПомеченныхОбъектов</dataProcessors>
   <dataProcessors>DataProcessor.УправлениеИтогамиИАгрегатами</dataProcessors>
+  <dataProcessors>DataProcessor.ВКМ_МассовоеСозданиеАктов</dataProcessors>
+  <dataProcessors>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанныхОбластейДанных</informationRegisters>
   <informationRegisters>InformationRegister.ВерсииПодсистем</informationRegisters>
@@ -1284,11 +1320,24 @@
   <informationRegisters>InformationRegister.УдалитьХранимыеФайлыВерсий</informationRegisters>
   <informationRegisters>InformationRegister.УдаляемыеОбъекты</informationRegisters>
   <informationRegisters>InformationRegister.ФайлыВРабочемКаталоге</informationRegisters>
+  <informationRegisters>InformationRegister.ВКМ_УсловияОплатыСотрудников</informationRegisters>
+  <informationRegisters>InformationRegister.ВКМ_ГрафикиРаботы</informationRegisters>
+  <informationRegisters>InformationRegister.ВКМ_ПлановыеОтпуска</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПокупателей</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПоставщикам</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Затраты</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ОбработкаЗаказов</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиТоваров</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ВКМ_ФактическиеОтпуска</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения</chartsOfCharacteristicTypes>
+  <chartsOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</chartsOfCalculationTypes>
+  <chartsOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</chartsOfCalculationTypes>
+  <chartsOfCalculationTypes>ChartOfCalculationTypes.ВКМ_Удержания</chartsOfCalculationTypes>
+  <calculationRegisters>CalculationRegister.ВКМ_ОсновныеНачисления</calculationRegisters>
+  <calculationRegisters>CalculationRegister.ВКМ_ДополнительныеНачисления</calculationRegisters>
+  <calculationRegisters>CalculationRegister.ВКМ_Удержания</calculationRegisters>
 </mdclass:Configuration>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CalculationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b4a8f8fd-a2b4-46be-a16e-3a6e25b55163">
+  <producedTypes>
+    <selectionType typeId="b14514fc-7c45-4004-afb5-201d10a95248" valueTypeId="1434986a-4c8b-430b-9b75-e4706e7d710a"/>
+    <listType typeId="0347c801-c69b-4ed9-afe9-6ebc1454158e" valueTypeId="059cddbd-23c1-4081-8fd3-33094dcf1082"/>
+    <managerType typeId="72d15934-9ef5-4431-b304-dab9b2b2da2b" valueTypeId="da2476bf-d4e5-4e33-9871-2b9537a65648"/>
+    <recordSetType typeId="0f8c51f2-2741-433b-9b80-644d834fe41d" valueTypeId="ac089c1f-45b8-4765-a942-5acd17484a85"/>
+    <recordKeyType typeId="ea0ccbed-660d-4b49-a1bc-f0500b8bfafd" valueTypeId="2d2025b1-0b74-418f-84dd-9eafc13097eb"/>
+    <recordType typeId="a2408c49-6183-4023-ab02-f623679f8b1d" valueTypeId="6e310fba-53ff-44e0-9744-2aebec2ed84b"/>
+    <recalcsType typeId="d03b6ddc-71fa-4fc7-9e32-f3af76ee5db5" valueTypeId="5b9796af-d05e-4290-aa74-49dbb995e910"/>
+  </producedTypes>
+  <name>ВКМ_ОсновныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Основные начисления</value>
+  </synonym>
+  <comment>Контеева: создан для начисления зарплаты</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <periodicity>Month</periodicity>
+  <actionPeriod>true</actionPeriod>
+  <basePeriod>true</basePeriod>
+  <schedule>InformationRegister.ВКМ_ГрафикиРаботы</schedule>
+  <scheduleValue>InformationRegister.ВКМ_ГрафикиРаботы.Resource.Значение</scheduleValue>
+  <scheduleDate>InformationRegister.ВКМ_ГрафикиРаботы.Dimension.Дата</scheduleDate>
+  <chartOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</chartOfCalculationTypes>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="f970c41f-9f62-4f34-b2e1-84cbf0d235ea">
+    <name>Начислено</name>
+    <synonym>
+      <key>ru</key>
+      <value>Начислено</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <resources uuid="1b6738a3-33d8-4e22-89f4-9ddc6e29713e">
+    <name>КоличествоРабочихДней</name>
+    <synonym>
+      <key>ru</key>
+      <value>Количество рабочих дней</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <attributes uuid="22874ef8-3a2d-4f7c-8064-fa88a41595ab">
+    <name>Оклад</name>
+    <synonym>
+      <key>ru</key>
+      <value>Оклад</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <attributes uuid="b7a471b5-9187-4549-9cfd-60dcba244421">
+    <name>ГрафикРаботы</name>
+    <synonym>
+      <key>ru</key>
+      <value>График работы</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВКМ_ГрафикиРаботы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <scheduleLink>InformationRegister.ВКМ_ГрафикиРаботы.Dimension.ГрафикРаботы</scheduleLink>
+  </attributes>
+  <dimensions uuid="b87b893e-51d0-4d59-aa42-ca80208d7cf0">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Пользователи</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </dimensions>
+</mdclass:CalculationRegister>

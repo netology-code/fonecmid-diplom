@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a5d678fa-71b3-4d3f-a01c-e2e4b4bac3e6">
+  <producedTypes>
+    <objectType typeId="5fe57ef7-b842-49ca-bf69-6299cef495d4" valueTypeId="a1617a9e-b6b4-4f9a-b059-ac12f90b1875"/>
+    <refType typeId="0a40dd46-f07a-422b-9e77-47c8231b96d2" valueTypeId="516814d7-846d-4cc9-bca8-70a813d003bd"/>
+    <selectionType typeId="7b0ea820-60bf-4a9e-b2df-db27d64d6d3f" valueTypeId="d2b449bd-b4b6-4de4-a0d0-6df5643af0f1"/>
+    <listType typeId="fc0c6fa6-3b5e-46d2-8e31-0bcb091dc911" valueTypeId="a078e9bf-67f9-4b9f-b0e4-6096576b6999"/>
+    <managerType typeId="243426b2-95de-4344-aaf8-0ee9db24735f" valueTypeId="dbfa13f8-c541-4451-86d3-85ca920003ca"/>
+  </producedTypes>
+  <name>ВКМ_ГрафикиРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тип графика работы</value>
+  </synonym>
+  <comment>Контеева: создан для начисления зарплаты</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Тип графика работы</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Типы графиков работы</value>
+  </listPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="73162216-23ad-444c-af5b-dbcf533e069e">
+  <producedTypes>
+    <objectType typeId="4e1cffb2-81e6-4925-87b2-712be457ece2" valueTypeId="e88e0b3d-d6cc-4c64-b040-49061fd6694d"/>
+    <managerType typeId="331d8741-3cc4-402c-8ae9-1fff097156b9" valueTypeId="4d91b414-170c-420d-8219-198746d3c3a9"/>
+  </producedTypes>
+  <name>ВКМ_ЗаполнениеГрафикаРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заполнение графика работы</value>
+  </synonym>
+  <comment>Контеева: создан заполнения графика работы при начислении зарплаты</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы.Form.Форма</defaultForm>
+  <forms uuid="2a093d0a-ffbd-474c-b896-e63bdde4cc57">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

@@ -26,4 +26,12 @@
       <value>Покупатель</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="b53c7db9-321e-45da-8596-1f5007952bb5">
+    <name>ВКМ_Обслуживание</name>
+    <synonym>
+      <key>ru</key>
+      <value>Обслуживание</value>
+    </synonym>
+    <comment>Контеева: создан для договоров обслуживания</comment>
+  </enumValues>
 </mdclass:Enum>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b214409-2ea2-4806-8aa6-2e6538ff6891">
+  <name>ВКМ_РаботаСКадрами</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с кадрами</value>
+  </synonym>
+  <comment>Контеева: создана для расчета зарплаты и графика отпусков</comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.ВКМ_ГрафикиРаботы</content>
+  <content>Catalog.Пользователи</content>
+  <content>Document.ВКМ_НачислениеЗарплаты</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>InformationRegister.ВКМ_ПлановыеОтпуска</content>
+  <content>AccumulationRegister.ВКМ_ФактическиеОтпуска</content>
+</mdclass:Subsystem>

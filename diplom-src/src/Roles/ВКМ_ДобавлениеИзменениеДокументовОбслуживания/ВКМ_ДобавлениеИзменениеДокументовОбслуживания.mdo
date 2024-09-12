@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b946c1e2-7af5-4009-9737-8a030b232787">
+  <name>ВКМ_ДобавлениеИзменениеДокументовОбслуживания</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавление изменение документов обслуживания</value>
+  </synonym>
+  <comment>Контеева: создана для договоров обслуживания</comment>
+</mdclass:Role>

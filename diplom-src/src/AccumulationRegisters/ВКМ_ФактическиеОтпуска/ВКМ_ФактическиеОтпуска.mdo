@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="af8fa3ba-db21-47fa-b58b-7b4d16e19462">
+  <producedTypes>
+    <selectionType typeId="5a8dd1a1-7932-4bc1-9b22-793bf098e918" valueTypeId="6d79a64d-27c9-480a-bb27-30bacc6fd6b8"/>
+    <listType typeId="ef98e998-5878-49fc-83a2-72c35f059c7e" valueTypeId="26de94c6-0b32-4923-9dfd-40ecc5d29c81"/>
+    <managerType typeId="4a187443-6bc9-456e-a053-df4e11314555" valueTypeId="500971ac-9f4a-46c4-8832-9a0a806868ce"/>
+    <recordSetType typeId="73318b32-8f7a-4d20-9f36-a49d59b15e38" valueTypeId="d07249a8-af1c-4c63-8bae-a308a6d225ed"/>
+    <recordKeyType typeId="64e9944d-30b0-4369-bd83-1e03bff6bf24" valueTypeId="8b8c3eb2-a9d0-49e5-9dc2-7d81d99dfb32"/>
+    <recordType typeId="1df78abd-b986-4c7a-8aac-5f6a61b1a7ec" valueTypeId="c11e871f-b93e-4547-8a5e-3e5c962a3782"/>
+  </producedTypes>
+  <name>ВКМ_ФактическиеОтпуска</name>
+  <synonym>
+    <key>ru</key>
+    <value>Фактические отпуска</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <registerType>Turnovers</registerType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <listPresentation>
+    <key>ru</key>
+    <value>Фактические отпуска</value>
+  </listPresentation>
+  <resources uuid="56a021bc-a435-4a11-b832-1e0ba892df5d">
+    <name>ОтпускФакт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отпуск факт</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>3</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <dimensions uuid="5c3037a4-65d7-4dd2-ad2e-90e7a48eae07">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Пользователи</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+</mdclass:AccumulationRegister>

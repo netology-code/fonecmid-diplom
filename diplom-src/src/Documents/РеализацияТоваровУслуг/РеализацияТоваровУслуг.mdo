@@ -128,12 +128,6 @@
       <name>Отбор.Организация</name>
       <field>Document.РеализацияТоваровУслуг.Attribute.Организация</field>
     </choiceParameterLinks>
-    <choiceParameters>
-      <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:ReferenceValue">
-        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
-      </value>
-    </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
@@ -167,10 +161,19 @@
     </synonym>
     <type>
       <types>DocumentRef.ЗаказПокупателя</types>
+      <types>CatalogRef.ДоговорыКонтрагентов</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
+    <choiceParameterLinks>
+      <name>Отбор.Владелец</name>
+      <field>Document.РеализацияТоваровУслуг.Attribute.Контрагент</field>
+    </choiceParameterLinks>
+    <choiceParameterLinks>
+      <name>Отбор.Организация</name>
+      <field>Document.РеализацияТоваровУслуг.Attribute.Организация</field>
+    </choiceParameterLinks>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
@@ -410,4 +413,12 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <templates uuid="fb0c71a8-c5e3-4779-8d24-06a84dc62660">
+    <name>ПФ_MXL_Акт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт выполненных услуг</value>
+    </synonym>
+    <comment>Контеева: создан для вывода акта об услугах в док-те Реализации</comment>
+  </templates>
 </mdclass:Document>

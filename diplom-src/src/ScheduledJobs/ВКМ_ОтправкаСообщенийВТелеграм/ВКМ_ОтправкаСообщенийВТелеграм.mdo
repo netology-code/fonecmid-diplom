@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ScheduledJob xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8409dc89-23e6-482a-aa71-13a07516d6ac">
+  <name>ВКМ_ОтправкаСообщенийВТелеграм</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отправка сообщений в Телеграм</value>
+  </synonym>
+  <comment>Контеева: создано для  обхода (в раб.время каждые 4 ч) спр.Уведомления, отправки сообщений в ТГ,удаления  элементов справочника</comment>
+  <methodName>CommonModule.ВКМ_Телеграм.ПеребратьЭлементыСпрУведомления</methodName>
+  <use>true</use>
+  <predefined>true</predefined>
+  <restartCountOnFailure>3</restartCountOnFailure>
+  <restartIntervalOnFailure>10</restartIntervalOnFailure>
+</mdclass:ScheduledJob>

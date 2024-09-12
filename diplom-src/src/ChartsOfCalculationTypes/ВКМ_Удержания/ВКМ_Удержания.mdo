@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCalculationTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="46dc352f-290a-4b34-b998-1414b45e4283">
+  <producedTypes>
+    <objectType typeId="76959930-807e-47cc-bc32-4fe1914f70c2" valueTypeId="516dc755-7372-47a9-8991-6b5889fb6928"/>
+    <refType typeId="2fd016df-9dc1-40db-be94-7fafb3de1a0d" valueTypeId="0d8d1a4c-22b3-4866-9e3c-6921b85e92f6"/>
+    <selectionType typeId="dbc49441-f4f2-48a8-b25a-02586a90be34" valueTypeId="29aff1d3-d0e1-462b-8a3e-95cd131af3e5"/>
+    <listType typeId="9f65817e-bf60-44c5-ab53-f9900cb1e00e" valueTypeId="c50ca82b-aa36-4d1a-aee5-a7d61b774886"/>
+    <managerType typeId="bcd0dc40-039d-4715-ad15-545d7db0b864" valueTypeId="92b7bb0e-fe4e-4c8c-8261-07bff0d79dd8"/>
+    <displacingCalculationTypesType typeId="c9f0a033-8588-477a-9ead-770883e39a3e" valueTypeId="2876f27a-da9a-407b-85bf-473431e063b5"/>
+    <displacingCalculationTypesRowType typeId="1cbdde23-7849-4a2c-875e-949838731448" valueTypeId="a4fdf753-0b50-4dbe-bde7-ed366d2e5a05"/>
+    <baseCalculationTypesType typeId="91e08aad-851a-4e1f-b6a9-1adfa1db0145" valueTypeId="c7823d50-e058-4052-a009-9e598613b496"/>
+    <baseCalculationTypesRowType typeId="a5937d7d-e7c2-41d7-a9d6-174c084b8045" valueTypeId="f056cc21-e3b9-4ad7-b85d-45c81e4666ca"/>
+    <leadingCalculationTypesType typeId="fb037995-a0e2-44e4-b3db-f8544c196144" valueTypeId="f626d7a9-adae-4370-8d47-811729a5a529"/>
+    <leadingCalculationTypesRowType typeId="cb664a53-16dc-4273-9857-b59ad42975c4" valueTypeId="eec7307d-df02-4212-a10b-0846b4664230"/>
+  </producedTypes>
+  <name>ВКМ_Удержания</name>
+  <synonym>
+    <key>ru</key>
+    <value>Удержания</value>
+  </synonym>
+  <comment>Контеева: создан для начисления зарплаты</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ChartOfCalculationTypes.ВКМ_Удержания.StandardAttribute.Description</inputByString>
+  <inputByString>ChartOfCalculationTypes.ВКМ_Удержания.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Удержание</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Удержания</value>
+  </listPresentation>
+  <codeLength>9</codeLength>
+  <descriptionLength>40</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <dependenceOnCalculationTypes>OnRegistrationPeriod</dependenceOnCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</baseCalculationTypes>
+  <predefined>
+    <items id="2ab5b4d9-0934-43e6-bcf0-8f3dd9ce0f6f">
+      <name>НДФЛ</name>
+      <description>НДФЛ</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</base>
+      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</base>
+      <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.Премия</base>
+    </items>
+  </predefined>
+</mdclass:ChartOfCalculationTypes>

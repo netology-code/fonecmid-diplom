@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ecd48f00-154f-47b8-ba9e-a7a7516680f8">
+  <producedTypes>
+    <objectType typeId="f12e51f3-d179-4110-bee2-1369993acf91" valueTypeId="d4a1a1e6-4400-48d5-b958-1df8d9659f98"/>
+    <managerType typeId="e345e684-acb0-4976-9bf8-1b6d4895413a" valueTypeId="79652b08-491c-4c5b-bc3d-dd57c4536f47"/>
+  </producedTypes>
+  <name>ВКМ_РасходЗапланированныхОтпусков</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расход запланированных отпусков</value>
+  </synonym>
+  <comment>Контеева: отчет показ. сколько по плану дней отпуска, сколько по факту дней было</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>Report.ВКМ_РасходЗапланированныхОтпусков.Form.ФормаОтчета</defaultForm>
+  <mainDataCompositionSchema>Report.ВКМ_РасходЗапланированныхОтпусков.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <forms uuid="4540770f-abdf-49e7-978b-309930527142">
+    <name>ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="d3933514-7c94-4f17-8f6e-3b0fc3dcff39">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="47c4a78d-1716-47a1-992a-679daf1aeaac">
+  <producedTypes>
+    <objectType typeId="14db817c-c516-4fd4-b1a3-0e0898c305be" valueTypeId="09b46c58-6804-4cfb-b044-8a3db95d2e94"/>
+    <refType typeId="6a2c1743-547c-418b-aa27-d53cd631e0ba" valueTypeId="4c347737-a72e-4392-991b-af60b279a615"/>
+    <selectionType typeId="39382fe5-5ac5-45ee-a9b8-b65e51b997c3" valueTypeId="aaa66a67-19e8-4a1b-8c70-a382bfe43388"/>
+    <listType typeId="f52fa751-0b31-47fb-b33e-84831398bf4a" valueTypeId="1953cfcb-e86b-4389-ada2-1311ff9d8515"/>
+    <managerType typeId="067706b2-7954-47e6-8ba1-9175d0050c8a" valueTypeId="ba03a289-9696-4b20-bd25-4c815789457b"/>
+  </producedTypes>
+  <name>ВКМ_ВходящийHTTPЗапрос</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ входящий HTTPЗапрос</value>
+  </synonym>
+  <comment>Контеева: создан для передачи сообщений в телеграм-бот</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ВКМ_ВходящийHTTPЗапрос.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value> Входящий HTTP-запрос</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value> Входящие HTTP-запросы</value>
+  </listPresentation>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultObjectForm>Document.ВКМ_ВходящийHTTPЗапрос.Form.ФормаДокумента</defaultObjectForm>
+  <defaultListForm>Document.ВКМ_ВходящийHTTPЗапрос.Form.ФормаСписка</defaultListForm>
+  <posting>Deny</posting>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="1df04d38-d48e-413a-b0aa-f94fc47bbdc7">
+    <name>ТелоЗапроса</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тело запроса</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="34c2adc8-dc50-4f20-8470-3b59eeeca0f0">
+    <name>КодСостояния</name>
+    <synonym>
+      <key>ru</key>
+      <value>Код состояния</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="bc71d677-ae46-4ac5-ab78-c11d1909e9c2">
+    <name>ИмяМетода</name>
+    <synonym>
+      <key>ru</key>
+      <value>Имя метода</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>150</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <forms uuid="99cb6b07-b2c3-41e5-8861-c09982661572">
+    <name>ФормаДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма документа</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="86b85569-667e-4c19-996e-85233f356688">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Document>
