@@ -128,12 +128,6 @@
       <name>Отбор.Организация</name>
       <field>Document.РеализацияТоваровУслуг.Attribute.Организация</field>
     </choiceParameterLinks>
-    <choiceParameters>
-      <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:ReferenceValue">
-        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
-      </value>
-    </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
@@ -410,4 +404,20 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <templates uuid="93d9066b-297d-450b-a51b-f870e1816e3a">
+    <name>ПФ_MXL_АктОказанныхУслуг</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт оказанных услуг</value>
+    </synonym>
+  </templates>
+  <commands uuid="4177e611-b1b8-410d-bdc8-b547cde6c61d">
+    <name>АктОказанныхУслуг</name>
+    <group>FormCommandBarImportant</group>
+    <commandParameterType>
+      <types>DocumentRef.РеализацияТоваровУслуг</types>
+    </commandParameterType>
+    <parameterUseMode>Multiple</parameterUseMode>
+    <representation>Auto</representation>
+  </commands>
 </mdclass:Document>

@@ -131,8 +131,13 @@
     </choiceParameterLinks>
     <choiceParameters>
       <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:ReferenceValue">
-        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
+      <value xsi:type="core:FixedArrayValue">
+        <values xsi:type="core:ReferenceValue">
+          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.ВКМ_АбонентскоеОбслуживание</value>
+        </values>
+        <values xsi:type="core:ReferenceValue">
+          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
+        </values>
       </value>
     </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>

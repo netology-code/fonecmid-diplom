@@ -1535,9 +1535,6 @@
         <behavior>Auto</behavior>
         <showLeftMargin>true</showLeftMargin>
         <united>true</united>
-        <backColor xsi:type="core:ColorRef">
-          <color>Style.ТекстЗапрещеннойЯчейкиЦвет</color>
-        </backColor>
         <throughAlign>Auto</throughAlign>
         <currentRowUse>Auto</currentRowUse>
       </extInfo>

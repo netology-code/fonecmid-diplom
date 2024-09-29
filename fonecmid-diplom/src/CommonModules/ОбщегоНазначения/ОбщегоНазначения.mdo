@@ -6,6 +6,7 @@
     <value>Общего назначения</value>
   </synonym>
   <comment>Серверные процедуры и функции общего назначения</comment>
+  <clientManagedApplication>true</clientManagedApplication>
   <server>true</server>
   <externalConnection>true</externalConnection>
   <clientOrdinaryApplication>true</clientOrdinaryApplication>
