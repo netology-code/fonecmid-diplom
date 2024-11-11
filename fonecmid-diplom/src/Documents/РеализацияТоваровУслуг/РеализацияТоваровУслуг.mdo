@@ -130,8 +130,13 @@
     </choiceParameterLinks>
     <choiceParameters>
       <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:ReferenceValue">
-        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
+      <value xsi:type="core:FixedArrayValue">
+        <values xsi:type="core:ReferenceValue">
+          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
+        </values>
+        <values xsi:type="core:ReferenceValue">
+          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.ВКМ_АбонентскоеОбслуживание</value>
+        </values>
       </value>
     </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>
@@ -410,4 +415,7 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <templates uuid="b6ed129e-237e-4941-89e8-1059586c2c0e">
+    <name>ПФ_MXL_ПечатьАкта</name>
+  </templates>
 </mdclass:Document>

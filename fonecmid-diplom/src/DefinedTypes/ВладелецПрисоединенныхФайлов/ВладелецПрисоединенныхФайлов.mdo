@@ -17,5 +17,6 @@
     <types>CatalogRef.ДоговорыКонтрагентов</types>
     <types>DocumentRef.РеализацияТоваровУслуг</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
+    <types>DocumentRef.ВКМ_ОбслуживаниеКлиента</types>
   </type>
 </mdclass:DefinedType>

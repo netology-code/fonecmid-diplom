@@ -15,4 +15,5 @@
   <content>Document.ОплатаПоставщику</content>
   <content>Report.ЗадолженностьПокупателей</content>
   <content>Report.ЗадолженностьПоставщикам</content>
+  <content>Role.Администрирование</content>
 </mdclass:Subsystem>
