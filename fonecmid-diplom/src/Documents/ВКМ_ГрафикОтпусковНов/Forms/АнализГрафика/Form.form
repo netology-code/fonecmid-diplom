@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:form="http://g5.1c.ru/v8/dt/form">
+  <saveWindowSettings>true</saveWindowSettings>
+  <autoTitle>true</autoTitle>
+  <autoUrl>true</autoUrl>
+  <group>Vertical</group>
+  <autoFillCheck>true</autoFillCheck>
+  <allowFormCustomize>true</allowFormCustomize>
+  <enabled>true</enabled>
+  <showTitle>true</showTitle>
+  <showCloseButton>true</showCloseButton>
+  <attributes>
+    <name>АнализОтпусков</name>
+    <title>
+      <key>ru</key>
+      <value>Анализ отпусков</value>
+    </title>
+    <id>1</id>
+    <extInfo xsi:type="form:GanttChartExtInfo"/>
+  </attributes>
+</form:Form>

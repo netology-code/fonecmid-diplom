@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5125008c-7c01-4557-b11d-b6b653949ae7">
+  <producedTypes>
+    <objectType typeId="54988bc5-a659-45da-ad62-f81fda0dd512" valueTypeId="1defb892-d8fc-43f0-8f53-708fd5e0e337"/>
+    <refType typeId="9d05ec36-f058-4b9a-846f-15b08e458839" valueTypeId="9edb055a-eb43-47e6-a628-eab55653aa1a"/>
+    <selectionType typeId="52ea77d0-5c1e-4523-b8b9-e06ced1e825d" valueTypeId="a5a626d6-1b70-4de9-b74c-3e343f6a82fe"/>
+    <listType typeId="d3664e95-34cd-41b3-a508-e8a293e35943" valueTypeId="993dd55a-fdd0-4a75-a359-0fd1072dd53e"/>
+    <managerType typeId="7aa76265-d58d-4a3f-8dd6-1aaf2d052f4a" valueTypeId="f3462101-c7cc-4630-8efa-4b5763d85859"/>
+  </producedTypes>
+  <name>ВКМ_Сотрудники</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сотрудники</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_Сотрудники.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВКМ_Сотрудники.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

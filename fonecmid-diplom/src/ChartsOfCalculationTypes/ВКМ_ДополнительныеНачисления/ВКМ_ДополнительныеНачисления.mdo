@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCalculationTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a8d3252a-e303-427d-9cb0-26d0fd1278ef">
+  <producedTypes>
+    <objectType typeId="2f13d250-82eb-4a44-bcb9-7d9d98a382d0" valueTypeId="946f9501-4828-4c50-8ce5-7f5260984aa3"/>
+    <refType typeId="d50da6a2-81b4-4253-9fe4-1ee102ee6768" valueTypeId="04fbb7e7-f6ad-40f5-9a8c-cd3ca0f350aa"/>
+    <selectionType typeId="cb88f6fe-010d-43c0-b908-e2a69ed4c430" valueTypeId="4a454eef-c022-4eac-b729-e6562338101e"/>
+    <listType typeId="3fd2afc8-1d41-452c-b6ba-24b4f5a4ed94" valueTypeId="167befb5-5742-46f8-9dc6-01e65d6f4af2"/>
+    <managerType typeId="4840cbb4-ab57-4327-8baa-d5ba1f5c8a4e" valueTypeId="b4f79756-9078-41e3-993e-da691614ac39"/>
+    <displacingCalculationTypesType typeId="31f1d4f3-d1d7-44f0-b6de-0928a831c9a5" valueTypeId="69577b1c-582d-40ec-89d5-b4f6c4445908"/>
+    <displacingCalculationTypesRowType typeId="56d178f2-c4e6-4d15-8b91-e7fde3c901ba" valueTypeId="21e93dce-7e6f-492a-8486-2f7e773209a8"/>
+    <baseCalculationTypesType typeId="0c562706-6655-4877-9e5d-d3bfeb21b9cb" valueTypeId="59f41c73-1d70-4619-b4a6-8e2a1c5630e5"/>
+    <baseCalculationTypesRowType typeId="44876395-83dd-4740-abf0-8d1120d61312" valueTypeId="3c95f7c2-f38e-4229-8547-9eaacb5f0723"/>
+    <leadingCalculationTypesType typeId="5ab57d9b-d2be-4e2e-923d-1ed2ce8f1966" valueTypeId="15115dc6-1aef-4fd1-a4c8-48ad1e2ef1e5"/>
+    <leadingCalculationTypesRowType typeId="b192a546-5135-4922-a883-7a1b5b6ce557" valueTypeId="3f985a14-ef41-4c02-95de-d2a1fa0feb17"/>
+  </producedTypes>
+  <name>ВКМ_ДополнительныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дополнительные начисления</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.StandardAttribute.Code</inputByString>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <descriptionLength>40</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <actionPeriodUse>true</actionPeriodUse>
+  <predefined>
+    <items id="1827ee07-3f48-481f-be68-e1c2113eb62c">
+      <name>Премия</name>
+      <description>Премия</description>
+      <code xsi:type="core:StringValue">
+        <value>Премия</value>
+      </code>
+    </items>
+  </predefined>
+</mdclass:ChartOfCalculationTypes>
