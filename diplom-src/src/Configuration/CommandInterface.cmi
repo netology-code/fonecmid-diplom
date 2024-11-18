@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
+  <subsystemsVisibility>
+    <visibilityFragments>
+      <subsystem>Subsystem.ВКМ_ДобавленныеОбъекты</subsystem>
+      <visible/>
+    </visibilityFragments>
+  </subsystemsVisibility>
   <subsystemsOrder>
     <subsystems>Subsystem.ПокупкиИПродажи</subsystems>
     <subsystems>Subsystem.Деньги</subsystems>
+    <subsystems>Subsystem.ВКМ_ОбслуживаниеКлиентов</subsystems>
     <subsystems>Subsystem.Администрирование</subsystems>
+    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>
