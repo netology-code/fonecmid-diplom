@@ -18,6 +18,7 @@
 
 ### Чек-лист готовности к работе над проектом
 
+
 1. Установите [платформу 1С:Предприятие 8.3.25](https://developer.1c.ru/applications/Console?state=community).
 2. Скачайте и установите 1С:EDT [последней актуальной версии](https://dl03.1c.ru/content/DevelopmentTools/2024_1_0/runningedt.html).
 3. Зарегистрируйтесь на github.com и создайте форк от этого репозитория.
@@ -29,6 +30,8 @@
 
 ### Инструменты и дополнительные материалы для выполнения задания
 - Скачайте Vanessa Automation из [официального гит-репозитория](https://pr-mex.github.io/vanessa-automation/dev/).
+=======
+
 
 ------
 
