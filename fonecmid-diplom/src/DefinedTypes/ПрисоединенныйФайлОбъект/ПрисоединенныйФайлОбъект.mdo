@@ -10,6 +10,7 @@
   </synonym>
   <type>
     <types>CatalogObject.ДоговорыКонтрагентовПрисоединенныеФайлы</types>
+    <types>CatalogObject.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</types>
     <types>CatalogObject.ВерсииФайлов</types>
     <types>CatalogObject.ПоступлениеТоваровУслугПрисоединенныеФайлы</types>
     <types>CatalogObject.ОрганизацииПрисоединенныеФайлы</types>

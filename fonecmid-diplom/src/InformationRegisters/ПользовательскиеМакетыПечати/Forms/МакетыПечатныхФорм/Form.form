@@ -397,6 +397,10 @@
           <autoMaxHeight>true</autoMaxHeight>
           <horizontalStretch>true</horizontalStretch>
           <verticalStretch>true</verticalStretch>
+          <border xsi:type="core:BorderDef">
+            <style>Single</style>
+            <width>1</width>
+          </border>
           <fileDragMode>AsFileRef</fileDragMode>
         </extInfo>
       </items>
@@ -593,6 +597,10 @@
         <valuesPicture xsi:type="core:PictureRef">
           <picture>CommonPicture.ИспользованиеМакета</picture>
         </valuesPicture>
+        <border xsi:type="core:BorderDef">
+          <style>Single</style>
+          <width>1</width>
+        </border>
         <fileDragMode>AsFileRef</fileDragMode>
       </extInfo>
     </items>
@@ -652,6 +660,10 @@
         <valuesPicture xsi:type="core:PictureRef">
           <picture>StdPicture.DataCompositionOutputParameters</picture>
         </valuesPicture>
+        <border xsi:type="core:BorderDef">
+          <style>Single</style>
+          <width>1</width>
+        </border>
         <fileDragMode>AsFileRef</fileDragMode>
       </extInfo>
     </items>
@@ -747,6 +759,10 @@
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
         <verticalStretch>true</verticalStretch>
+        <border xsi:type="core:BorderDef">
+          <style>Single</style>
+          <width>1</width>
+        </border>
         <fileDragMode>AsFileRef</fileDragMode>
       </extInfo>
     </items>

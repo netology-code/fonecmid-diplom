@@ -349,6 +349,10 @@
           <key>ru</key>
           <value>Подождите. Идет сканирование...</value>
         </nonselectedPictureText>
+        <border xsi:type="core:BorderDef">
+          <style>Single</style>
+          <width>1</width>
+        </border>
       </extInfo>
     </items>
     <visible>true</visible>

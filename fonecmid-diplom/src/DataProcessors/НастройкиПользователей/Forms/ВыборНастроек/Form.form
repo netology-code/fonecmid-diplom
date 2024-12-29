@@ -449,6 +449,10 @@
                     <autoMaxHeight>true</autoMaxHeight>
                     <horizontalStretch>true</horizontalStretch>
                     <verticalStretch>true</verticalStretch>
+                    <border xsi:type="core:BorderDef">
+                      <style>Single</style>
+                      <width>1</width>
+                    </border>
                   </extInfo>
                 </items>
                 <items xsi:type="form:FormField">
@@ -984,6 +988,10 @@
                     <autoMaxHeight>true</autoMaxHeight>
                     <horizontalStretch>true</horizontalStretch>
                     <verticalStretch>true</verticalStretch>
+                    <border xsi:type="core:BorderDef">
+                      <style>Single</style>
+                      <width>1</width>
+                    </border>
                   </extInfo>
                 </items>
                 <items xsi:type="form:FormField">
@@ -1522,6 +1530,10 @@
                     <autoMaxHeight>true</autoMaxHeight>
                     <horizontalStretch>true</horizontalStretch>
                     <verticalStretch>true</verticalStretch>
+                    <border xsi:type="core:BorderDef">
+                      <style>Single</style>
+                      <width>1</width>
+                    </border>
                   </extInfo>
                 </items>
                 <items xsi:type="form:FormField">

@@ -238,7 +238,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="19eef329-f372-41d7-bb1b-56f2a20ae2cd">
+  <forms uuid="0453881a-b028-4b44-8fa7-4d58b76df097">
     <name>ВКМ_ФормаЭлемента</name>
     <synonym>
       <key>ru</key>

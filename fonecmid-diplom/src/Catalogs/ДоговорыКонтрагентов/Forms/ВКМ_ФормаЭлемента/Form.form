@@ -205,11 +205,11 @@
     </extInfo>
   </items>
   <items xsi:type="form:FormGroup">
-    <name>ВКМ_РеквизитыАбонентскогоДоговора</name>
-    <id>34</id>
+    <name>ВКМ_ДанныеАбонентскогоДоговора</name>
+    <id>28</id>
     <items xsi:type="form:FormGroup">
-      <name>ВКМ_ГруппаПериод</name>
-      <id>36</id>
+      <name>ВКМ_Период</name>
+      <id>30</id>
       <items xsi:type="form:FormField">
         <name>ВКМ_ДатаНачалаДействия</name>
         <id>16</id>
@@ -296,8 +296,8 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВКМ_ГруппаПериодРасширеннаяПодсказка</name>
-        <id>37</id>
+        <name>ВКМ_ПериодРасширеннаяПодсказка</name>
+        <id>31</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -318,7 +318,7 @@
     </items>
     <items xsi:type="form:FormField">
       <name>ВКМ_СуммаАбонентскойПлаты</name>
-      <id>28</id>
+      <id>22</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -329,7 +329,7 @@
       </dataPath>
       <extendedTooltip>
         <name>ВКМ_СуммаАбонентскойПлатыРасширеннаяПодсказка</name>
-        <id>30</id>
+        <id>24</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -339,11 +339,11 @@
       </extendedTooltip>
       <contextMenu>
         <name>ВКМ_СуммаАбонентскойПлатыКонтекстноеМеню</name>
-        <id>29</id>
+        <id>23</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
-      <editMode>Enter</editMode>
+      <editMode>EnterOnInput</editMode>
       <showInHeader>true</showInHeader>
       <headerHorizontalAlign>Left</headerHorizontalAlign>
       <showInFooter>true</showInFooter>
@@ -358,7 +358,7 @@
     </items>
     <items xsi:type="form:FormField">
       <name>ВКМ_СтоимостьЧаса</name>
-      <id>31</id>
+      <id>25</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -369,7 +369,7 @@
       </dataPath>
       <extendedTooltip>
         <name>ВКМ_СтоимостьЧасаРасширеннаяПодсказка</name>
-        <id>33</id>
+        <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -379,11 +379,11 @@
       </extendedTooltip>
       <contextMenu>
         <name>ВКМ_СтоимостьЧасаКонтекстноеМеню</name>
-        <id>32</id>
+        <id>26</id>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
-      <editMode>Enter</editMode>
+      <editMode>EnterOnInput</editMode>
       <showInHeader>true</showInHeader>
       <headerHorizontalAlign>Left</headerHorizontalAlign>
       <showInFooter>true</showInFooter>
@@ -396,13 +396,14 @@
         <textEdit>true</textEdit>
       </extInfo>
     </items>
+    <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>ВКМ_РеквизитыАбонентскогоДоговораРасширеннаяПодсказка</name>
-      <id>35</id>
+      <name>ВКМ_ДанныеАбонентскогоДоговораРасширеннаяПодсказка</name>
+      <id>29</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -412,7 +413,7 @@
     </extendedTooltip>
     <type>UsualGroup</type>
     <extInfo xsi:type="form:UsualGroupExtInfo">
-      <group>HorizontalIfPossible</group>
+      <group>Vertical</group>
       <behavior>Auto</behavior>
       <representation>WeakSeparation</representation>
       <showLeftMargin>true</showLeftMargin>

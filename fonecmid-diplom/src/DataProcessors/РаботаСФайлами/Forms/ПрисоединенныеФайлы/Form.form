@@ -522,6 +522,10 @@
           <valuesPicture xsi:type="core:PictureRef">
             <picture>CommonPicture.ПодписанЗашифрованСостояния</picture>
           </valuesPicture>
+          <border xsi:type="core:BorderDef">
+            <style>Single</style>
+            <width>1</width>
+          </border>
         </extInfo>
       </items>
       <items xsi:type="form:FormGroup">
@@ -2276,6 +2280,10 @@
           <key>ru</key>
           <value>Выберите файл для предварительного просмотра</value>
         </nonselectedPictureText>
+        <border xsi:type="core:BorderDef">
+          <style>Single</style>
+          <width>1</width>
+        </border>
       </extInfo>
     </items>
     <visible>true</visible>
