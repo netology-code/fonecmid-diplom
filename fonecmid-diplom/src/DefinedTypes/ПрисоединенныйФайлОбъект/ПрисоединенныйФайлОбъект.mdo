@@ -9,11 +9,12 @@
     <value>Присоединенный файл объект</value>
   </synonym>
   <type>
-    <types>CatalogObject.ДоговорыКонтрагентовПрисоединенныеФайлы</types>
+    <types>CatalogObject.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</types>
     <types>CatalogObject.ВерсииФайлов</types>
     <types>CatalogObject.ПоступлениеТоваровУслугПрисоединенныеФайлы</types>
     <types>CatalogObject.ОрганизацииПрисоединенныеФайлы</types>
     <types>CatalogObject.ЗаказПокупателяПрисоединенныеФайлы</types>
+    <types>CatalogObject.ДоговорыКонтрагентовПрисоединенныеФайлы</types>
     <types>CatalogObject.КонтрагентыПрисоединенныеФайлы</types>
     <types>CatalogObject.Файлы</types>
     <types>CatalogObject.РеализацияТоваровУслугПрисоединенныеФайлы</types>

@@ -173,7 +173,7 @@
           </userVisible>
           <title>
             <key>ru</key>
-            <value>Компоновщик настроек</value>
+            <value>Компоновщик настроек настройки отбор группа 1</value>
           </title>
           <extendedTooltip>
             <name>КомпоновщикНастроекНастройкиОтборГруппа1РасширеннаяПодсказка</name>
@@ -240,20 +240,8 @@
         <name>КомпоновщикНастроекНастройкиОтборПередНачаломДобавления</name>
       </handlers>
       <handlers>
-        <event>OnActivateRow</event>
-        <name>КомпоновщикНастроекНастройкиОтборПриАктивизацииСтроки</name>
-      </handlers>
-      <handlers>
-        <event>OnStartEdit</event>
-        <name>КомпоновщикНастроекНастройкиОтборПриНачалеРедактирования</name>
-      </handlers>
-      <handlers>
         <event>AfterDeleteRow</event>
         <name>КомпоновщикНастроекНастройкиОтборПослеУдаления</name>
-      </handlers>
-      <handlers>
-        <event>OnChange</event>
-        <name>КомпоновщикНастроекНастройкиОтборПриИзменении</name>
       </handlers>
       <searchStringAddition>
         <visible>true</visible>
@@ -587,6 +575,10 @@
         <event>Selection</event>
         <name>СписокВыбор</name>
       </handlers>
+      <handlers>
+        <event>OnActivateRow</event>
+        <name>СписокПриАктивизацииСтроки</name>
+      </handlers>
       <searchStringAddition>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -826,7 +818,6 @@
       <autoMaxHeight>true</autoMaxHeight>
       <autoMaxRowsCount>true</autoMaxRowsCount>
       <selectionMode>MultiRow</selectionMode>
-      <header>true</header>
       <headerHeight>1</headerHeight>
       <footerHeight>1</footerHeight>
       <horizontalScrollBar>AutoUse</horizontalScrollBar>
@@ -1102,36 +1093,6 @@
       <types>Number</types>
       <numberQualifiers>
         <precision>10</precision>
-      </numberQualifiers>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>ВыполняетсяРедактированиеОтборов</name>
-    <id>9</id>
-    <valueType>
-      <types>Boolean</types>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>КоличествоУсловий</name>
-    <id>10</id>
-    <valueType>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>10</precision>
-        <nonNegative>true</nonNegative>
       </numberQualifiers>
     </valueType>
     <view>

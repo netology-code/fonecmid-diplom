@@ -382,7 +382,7 @@
       <name>ГоризонтальнаяГруппа</name>
       <id>34</id>
       <items xsi:type="form:FormGroup">
-        <name>ПерваяКолонка</name>
+        <name>ВертикальнаяГруппа3</name>
         <id>54</id>
         <items xsi:type="form:FormField">
           <name>УровеньРазрешенияПрава</name>
@@ -491,10 +491,10 @@
         </userVisible>
         <title>
           <key>ru</key>
-          <value>Первая колонка</value>
+          <value>Вертикальная группа 3</value>
         </title>
         <extendedTooltip>
-          <name>ПерваяКолонкаРасширеннаяПодсказка</name>
+          <name>ВертикальнаяГруппа3РасширеннаяПодсказка</name>
           <id>55</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -518,7 +518,7 @@
         </extInfo>
       </items>
       <items xsi:type="form:FormGroup">
-        <name>ВтораяКолонка</name>
+        <name>ВертикальнаяГруппа1</name>
         <id>32</id>
         <items xsi:type="form:FormField">
           <name>УровеньРазрешенияЧтения</name>
@@ -627,10 +627,10 @@
         </userVisible>
         <title>
           <key>ru</key>
-          <value>Вторая колонка</value>
+          <value>Вертикальная группа 1</value>
         </title>
         <extendedTooltip>
-          <name>ВтораяКолонкаРасширеннаяПодсказка</name>
+          <name>ВертикальнаяГруппа1ExtendedTooltip</name>
           <id>45</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -654,7 +654,7 @@
         </extInfo>
       </items>
       <items xsi:type="form:FormGroup">
-        <name>ТретьяКолонка</name>
+        <name>ВертикальнаяГруппа2</name>
         <id>33</id>
         <items xsi:type="form:FormField">
           <name>УровеньРазрешенияИзменения</name>
@@ -763,10 +763,10 @@
         </userVisible>
         <title>
           <key>ru</key>
-          <value>Третья колонка</value>
+          <value>Вертикальная группа 2</value>
         </title>
         <extendedTooltip>
-          <name>ТретьяКолонкаРасширеннаяПодсказка</name>
+          <name>ВертикальнаяГруппа2ExtendedTooltip</name>
           <id>50</id>
           <visible>true</visible>
           <enabled>true</enabled>

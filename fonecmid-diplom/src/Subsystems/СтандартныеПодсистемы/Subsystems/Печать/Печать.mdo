@@ -51,10 +51,5 @@
   <content>CommonPicture.МестоДляКартинки</content>
   <content>CommonPicture.ПовторятьВКонцеСтраницы</content>
   <content>CommonPicture.ПовторятьВНачалеСтраницы</content>
-  <content>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</content>
-  <content>CommonTemplate.МакетШтемпеляЭЦПOfficeOpen</content>
-  <content>CommonTemplate.ПустойМакетDOCX</content>
-  <content>CommonForm.ПечатьДокументовOfficeOpen</content>
-  <content>CommonForm.РедактированиеДокументаOfficeOpen</content>
   <parentSubsystem>Subsystem.СтандартныеПодсистемы</parentSubsystem>
 </mdclass:Subsystem>

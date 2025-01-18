@@ -1877,102 +1877,6 @@
       <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
     </items>
     <items xsi:type="form:FormField">
-      <name>ОбработчикиОбновленияИзмененаПроцедураПроверки</name>
-      <id>262</id>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible/>
-      <dataPath xsi:type="form:DataPath">
-        <segments>Объект.ОбработчикиОбновления.ИзмененаПроцедураПроверки</segments>
-      </dataPath>
-      <titleLocation>None</titleLocation>
-      <toolTip>
-        <key>ru</key>
-        <value>Изменена процедура проверки</value>
-      </toolTip>
-      <extendedTooltip>
-        <name>ОбработчикиОбновленияИзмененаПроцедураПроверкиРасширеннаяПодсказка</name>
-        <id>264</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <contextMenu>
-        <name>ОбработчикиОбновленияИзмененаПроцедураПроверкиКонтекстноеМеню</name>
-        <id>263</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <autoFill>true</autoFill>
-      </contextMenu>
-      <type>CheckBoxField</type>
-      <readOnly>true</readOnly>
-      <editMode>EnterOnInput</editMode>
-      <showInHeader>true</showInHeader>
-      <headerPicture xsi:type="core:PictureRef">
-        <picture>CommonPicture.ВидыСравнения</picture>
-      </headerPicture>
-      <headerHorizontalAlign>Left</headerHorizontalAlign>
-      <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
-    </items>
-    <items xsi:type="form:FormField">
-      <name>ОбработчикиОбновленияЧтениеНизкогоПорядка</name>
-      <id>265</id>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible/>
-      <dataPath xsi:type="form:DataPath">
-        <segments>Объект.ОбработчикиОбновления.ЧтениеНизкогоПорядка</segments>
-      </dataPath>
-      <titleLocation>None</titleLocation>
-      <extendedTooltip>
-        <name>ОбработчикиОбновленияЧтениеНизкогоПорядкаРасширеннаяПодсказка</name>
-        <id>267</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <contextMenu>
-        <name>ОбработчикиОбновленияЧтениеНизкогоПорядкаКонтекстноеМеню</name>
-        <id>266</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <autoFill>true</autoFill>
-      </contextMenu>
-      <type>CheckBoxField</type>
-      <readOnly>true</readOnly>
-      <editMode>EnterOnInput</editMode>
-      <showInHeader>true</showInHeader>
-      <headerPicture xsi:type="core:PictureRef">
-        <picture>CommonPicture.ЗнакСтоп</picture>
-      </headerPicture>
-      <headerHorizontalAlign>Left</headerHorizontalAlign>
-      <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
-    </items>
-    <items xsi:type="form:FormField">
       <name>ОбработчикиОбновленияИзменен</name>
       <id>198</id>
       <visible>true</visible>
@@ -2147,57 +2051,6 @@
       <contextMenu>
         <name>ОбработчикиОбновленияПорядокБиблиотекиКонтекстноеМеню</name>
         <id>249</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <autoFill>true</autoFill>
-      </contextMenu>
-      <type>InputField</type>
-      <readOnly>true</readOnly>
-      <editMode>EnterOnInput</editMode>
-      <showInHeader>true</showInHeader>
-      <headerHorizontalAlign>Left</headerHorizontalAlign>
-      <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:InputFieldExtInfo">
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <wrap>true</wrap>
-        <chooseType>true</chooseType>
-        <typeDomainEnabled>true</typeDomainEnabled>
-        <textEdit>true</textEdit>
-      </extInfo>
-    </items>
-    <items xsi:type="form:FormField">
-      <name>ОбработчикиОбновленияПорядок</name>
-      <id>259</id>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>Объект.ОбработчикиОбновления.Порядок</segments>
-      </dataPath>
-      <extendedTooltip>
-        <name>ОбработчикиОбновленияПорядокРасширеннаяПодсказка</name>
-        <id>261</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <contextMenu>
-        <name>ОбработчикиОбновленияПорядокКонтекстноеМеню</name>
-        <id>260</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -3511,6 +3364,22 @@
     </edit>
   </attributes>
   <attributes>
+    <name>СтатусНетПроблем</name>
+    <id>14</id>
+    <valueType>
+      <types>String</types>
+      <stringQualifiers>
+        <length>30</length>
+      </stringQualifiers>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
     <name>СтатусНеобходимАнализ</name>
     <id>15</id>
     <valueType>
@@ -3735,38 +3604,6 @@
     <settingsSavedData xsi:type="form:DataPath">
       <segments>РасширенныйРежимФормы</segments>
     </settingsSavedData>
-  </attributes>
-  <attributes>
-    <name>СтатусИзмененаПроцедураПроверки</name>
-    <id>27</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers>
-        <length>30</length>
-      </stringQualifiers>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>СтатусЧтениеНизкогоПорядка</name>
-    <id>28</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers>
-        <length>30</length>
-      </stringQualifiers>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
   </attributes>
   <formCommands>
     <name>ЗагрузитьОбработчики</name>

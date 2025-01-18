@@ -324,7 +324,6 @@
     <verticalStretch>true</verticalStretch>
     <enableStartDrag>true</enableStartDrag>
     <enableDrag>true</enableDrag>
-    <searchStringLocation>Top</searchStringLocation>
     <rowFilter xsi:type="core:UndefinedValue"/>
   </items>
   <commandBarLocation>Bottom</commandBarLocation>

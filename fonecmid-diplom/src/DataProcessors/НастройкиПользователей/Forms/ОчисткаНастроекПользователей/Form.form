@@ -505,23 +505,15 @@
     </edit>
   </attributes>
   <attributes>
-    <name>ВыбранныеПользователи</name>
+    <name>ПользователиКоторымОчищаютсяНастройки</name>
     <id>6</id>
-    <valueType>
-      <types>ValueList</types>
-    </valueType>
+    <valueType/>
     <view>
       <common>true</common>
     </view>
     <edit>
       <common>true</common>
     </edit>
-    <extInfo xsi:type="form:ValueListExtInfo">
-      <itemValueType>
-        <types>CatalogRef.ВнешниеПользователи</types>
-        <types>CatalogRef.Пользователи</types>
-      </itemValueType>
-    </extInfo>
   </attributes>
   <attributes>
     <name>ВыбранныеНастройки</name>

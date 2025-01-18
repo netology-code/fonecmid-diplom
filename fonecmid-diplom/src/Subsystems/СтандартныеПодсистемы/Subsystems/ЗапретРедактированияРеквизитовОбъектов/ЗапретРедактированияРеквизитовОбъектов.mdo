@@ -18,6 +18,5 @@
   <content>CommonModule.ЗапретРедактированияРеквизитовОбъектовСлужебныйКлиент</content>
   <content>CommonModule.ЗапретРедактированияРеквизитовОбъектовПереопределяемый</content>
   <content>CommonModule.ЗапретРедактированияРеквизитовОбъектовСлужебный</content>
-  <content>CommonForm.РазблокированиеРеквизитов</content>
   <parentSubsystem>Subsystem.СтандартныеПодсистемы</parentSubsystem>
 </mdclass:Subsystem>

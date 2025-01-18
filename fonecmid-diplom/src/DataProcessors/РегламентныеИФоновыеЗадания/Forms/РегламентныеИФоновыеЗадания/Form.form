@@ -1303,7 +1303,7 @@
                     <horizontalAlign>Left</horizontalAlign>
                   </extInfo>
                 </extendedTooltip>
-                <commandName>Form.Command.ОбновитьРегламентныеЗадания</commandName>
+                <commandName>0</commandName>
                 <representation>Auto</representation>
                 <autoMaxWidth>true</autoMaxWidth>
                 <autoMaxHeight>true</autoMaxHeight>
@@ -4429,7 +4429,50 @@
     <currentRowUse>DontUse</currentRowUse>
   </formCommands>
   <commandInterface>
-    <navigationPanel/>
+    <navigationPanel>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <group>FormNavigationPanelImportant</group>
+        <index>2</index>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <group>FormNavigationPanelImportant</group>
+        <index>0</index>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <group>FormNavigationPanelImportant</group>
+        <index>1</index>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <type>Added</type>
+        <group>FormNavigationPanelGoTo</group>
+        <index>1</index>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <type>Added</type>
+        <group>FormNavigationPanelImportant</group>
+        <index>0</index>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <type>Added</type>
+        <group>FormNavigationPanelGoTo</group>
+        <index>0</index>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+    </navigationPanel>
     <commandBar/>
   </commandInterface>
   <extInfo xsi:type="form:ObjectFormExtInfo"/>
