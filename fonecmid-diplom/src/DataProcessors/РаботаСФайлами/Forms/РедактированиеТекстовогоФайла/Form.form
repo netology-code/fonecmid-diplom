@@ -621,7 +621,7 @@
     <id>2</id>
     <toolTip>
       <key>ru</key>
-      <value>Сохранить файл на компьютер или другое устройство</value>
+      <value>Сохранить файл на диск или другое устройство</value>
     </toolTip>
     <use>
       <common>true</common>

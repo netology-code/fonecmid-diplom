@@ -31,10 +31,6 @@
       <dataPath xsi:type="form:DataPath">
         <segments>УсловияВидимости.ПредставлениеПоля</segments>
       </dataPath>
-      <handlers>
-        <event>OnChange</event>
-        <name>УсловияВидимостиПолеПриИзменении</name>
-      </handlers>
       <extendedTooltip>
         <name>УсловияВидимостиПолеРасширеннаяПодсказка</name>
         <id>31</id>
@@ -73,6 +69,7 @@
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
         <wrap>true</wrap>
+        <listChoiceMode>true</listChoiceMode>
         <chooseType>true</chooseType>
         <typeDomainEnabled>true</typeDomainEnabled>
         <textEdit>true</textEdit>
@@ -205,10 +202,6 @@
     <handlers>
       <event>OnActivateRow</event>
       <name>УсловияВидимостиПриАктивизацииСтроки</name>
-    </handlers>
-    <handlers>
-      <event>OnStartEdit</event>
-      <name>УсловияВидимостиПриНачалеРедактирования</name>
     </handlers>
     <searchStringAddition>
       <visible>true</visible>

@@ -25,9 +25,5 @@
   <content>Role.ЧтениеУчетныхЗаписейЭлектроннойПочты</content>
   <content>Constant.УчетнаяЗаписьДляВосстановленияПароля</content>
   <content>Catalog.НастройкиАвторизацииИнтернетСервисов</content>
-  <content>ScheduledJob.ПолучениеСтатусовЭлектронныхПисем</content>
-  <content>Enum.СтатусыЭлектронныхПисем</content>
-  <content>CommonModule.РаботаСПочтовымиСообщениямиСлужебныйЛокализация</content>
-  <content>CommonModule.РаботаСПочтовымиСообщениямиСлужебныйКлиентСервер</content>
   <parentSubsystem>Subsystem.СтандартныеПодсистемы</parentSubsystem>
 </mdclass:Subsystem>

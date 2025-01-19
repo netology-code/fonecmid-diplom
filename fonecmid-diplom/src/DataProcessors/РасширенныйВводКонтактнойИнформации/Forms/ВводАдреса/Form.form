@@ -2880,7 +2880,7 @@
                   </userVisible>
                   <title>
                     <key>ru</key>
-                    <value>Представление адреса</value>
+                    <value>Представление адреса контекстное меню группа 1</value>
                   </title>
                   <extendedTooltip>
                     <name>ПредставлениеАдресаКонтекстноеМенюГруппаРасширеннаяПодсказка</name>
@@ -5152,7 +5152,7 @@
     <id>9</id>
     <toolTip>
       <key>ru</key>
-      <value>Подключить Интернет-поддержку пользователей</value>
+      <value>Подключить интернет поддержку</value>
     </toolTip>
     <use>
       <common>true</common>

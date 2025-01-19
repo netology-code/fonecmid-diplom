@@ -110,7 +110,7 @@
     <name>ПрограммныеПраваПользователя</name>
     <id>25</id>
     <items xsi:type="form:FormGroup">
-      <name>ПерваяКолонка</name>
+      <name>ВертикальнаяГруппа1</name>
       <id>29</id>
       <items xsi:type="form:FormField">
         <name>ПравоЧтение</name>
@@ -256,10 +256,10 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Первая колонка</value>
+        <value>Вертикальная группа 1</value>
       </title>
       <extendedTooltip>
-        <name>ПерваяКолонкаРасширеннаяПодсказка</name>
+        <name>ВертикальнаяГруппа1ExtendedTooltip</name>
         <id>36</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -283,7 +283,7 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormGroup">
-      <name>ВтораяКолонка</name>
+      <name>ВертикальнаяГруппа2</name>
       <id>30</id>
       <items xsi:type="form:FormField">
         <name>ПравоЧтениеБезОграничения</name>
@@ -424,10 +424,10 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Вторая колонка</value>
+        <value>Вертикальная группа 2</value>
       </title>
       <extendedTooltip>
-        <name>ВтораяКолонкаРасширеннаяПодсказка</name>
+        <name>ВертикальнаяГруппа2ExtendedTooltip</name>
         <id>41</id>
         <visible>true</visible>
         <enabled>true</enabled>

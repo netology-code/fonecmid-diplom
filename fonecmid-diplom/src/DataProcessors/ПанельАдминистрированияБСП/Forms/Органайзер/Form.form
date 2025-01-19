@@ -715,7 +715,7 @@
             <id>1659</id>
             <title>
               <key>ru</key>
-              <value>Электронная почта для рассылки уведомлений из программы.</value>
+              <value>Основная учетная запись электронной почты для отправки уведомлений из программы.</value>
             </title>
             <visible>true</visible>
             <enabled>true</enabled>

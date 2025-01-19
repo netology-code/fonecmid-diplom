@@ -202,10 +202,10 @@
   </items>
   <items xsi:type="form:FormGroup">
     <name>ГруппаПриобретеннаяНоменклатура</name>
-    <id>43</id>
+    <id>33</id>
     <items xsi:type="form:Table">
       <name>ПриобретеннаяНоменклатура</name>
-      <id>45</id>
+      <id>14</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -217,7 +217,7 @@
       <titleLocation>None</titleLocation>
       <items xsi:type="form:FormField">
         <name>ПриобретеннаяНоменклатураНомерСтроки</name>
-        <id>58</id>
+        <id>27</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -228,7 +228,7 @@
         </dataPath>
         <extendedTooltip>
           <name>ПриобретеннаяНоменклатураНомерСтрокиРасширеннаяПодсказка</name>
-          <id>60</id>
+          <id>29</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -243,7 +243,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>ПриобретеннаяНоменклатураНомерСтрокиКонтекстноеМеню</name>
-          <id>59</id>
+          <id>28</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -263,7 +263,7 @@
       </items>
       <items xsi:type="form:FormField">
         <name>ПриобретеннаяНоменклатураНоменклатура</name>
-        <id>61</id>
+        <id>30</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -274,7 +274,7 @@
         </dataPath>
         <extendedTooltip>
           <name>ПриобретеннаяНоменклатураНоменклатураРасширеннаяПодсказка</name>
-          <id>63</id>
+          <id>32</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -289,7 +289,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>ПриобретеннаяНоменклатураНоменклатураКонтекстноеМеню</name>
-          <id>62</id>
+          <id>31</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -313,10 +313,10 @@
       </items>
       <autoCommandBar>
         <name>ПриобретеннаяНоменклатураКоманднаяПанель</name>
-        <id>47</id>
+        <id>16</id>
         <items xsi:type="form:Button">
           <name>ПриобретеннаяНоменклатураПодбор</name>
-          <id>64</id>
+          <id>35</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -324,7 +324,7 @@
           </userVisible>
           <extendedTooltip>
             <name>ПриобретеннаяНоменклатураПодборРасширеннаяПодсказка</name>
-            <id>65</id>
+            <id>36</id>
             <visible>true</visible>
             <enabled>true</enabled>
             <userVisible>
@@ -363,10 +363,10 @@
           <common>true</common>
         </userVisible>
         <name>ПриобретеннаяНоменклатураСтрокаПоиска</name>
-        <id>49</id>
+        <id>18</id>
         <extendedTooltip>
           <name>ПриобретеннаяНоменклатураСтрокаПоискаРасширеннаяПодсказка</name>
-          <id>51</id>
+          <id>20</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -381,7 +381,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>ПриобретеннаяНоменклатураСтрокаПоискаКонтекстноеМеню</name>
-          <id>50</id>
+          <id>19</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -401,10 +401,10 @@
           <common>true</common>
         </userVisible>
         <name>ПриобретеннаяНоменклатураСостояниеПросмотра</name>
-        <id>52</id>
+        <id>21</id>
         <extendedTooltip>
           <name>ПриобретеннаяНоменклатураСостояниеПросмотраРасширеннаяПодсказка</name>
-          <id>54</id>
+          <id>23</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -419,7 +419,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>ПриобретеннаяНоменклатураСостояниеПросмотраКонтекстноеМеню</name>
-          <id>53</id>
+          <id>22</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -440,10 +440,10 @@
           <common>true</common>
         </userVisible>
         <name>ПриобретеннаяНоменклатураУправлениеПоиском</name>
-        <id>55</id>
+        <id>24</id>
         <extendedTooltip>
           <name>ПриобретеннаяНоменклатураУправлениеПоискомРасширеннаяПодсказка</name>
-          <id>57</id>
+          <id>26</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -458,7 +458,7 @@
         </extendedTooltip>
         <contextMenu>
           <name>ПриобретеннаяНоменклатураУправлениеПоискомКонтекстноеМеню</name>
-          <id>56</id>
+          <id>25</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -474,7 +474,7 @@
       </searchControlAddition>
       <extendedTooltip>
         <name>ПриобретеннаяНоменклатураРасширеннаяПодсказка</name>
-        <id>48</id>
+        <id>17</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -489,7 +489,7 @@
       </extendedTooltip>
       <contextMenu>
         <name>ПриобретеннаяНоменклатураКонтекстноеМеню</name>
-        <id>46</id>
+        <id>15</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -536,7 +536,7 @@
     </toolTip>
     <extendedTooltip>
       <name>ГруппаПриобретеннаяНоменклатураРасширеннаяПодсказка</name>
-      <id>44</id>
+      <id>34</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>

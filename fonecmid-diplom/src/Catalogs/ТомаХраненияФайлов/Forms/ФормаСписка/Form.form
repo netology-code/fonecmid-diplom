@@ -242,7 +242,7 @@
     <excludedCommands>Delete</excludedCommands>
     <excludedCommands>SetDeletionMark</excludedCommands>
     <items xsi:type="form:FormGroup">
-      <name>ПерваяКолонка</name>
+      <name>ВертикальнаяГруппа1</name>
       <id>56</id>
       <displayImportance>VeryHigh</displayImportance>
       <items xsi:type="form:FormField">
@@ -350,10 +350,10 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Первая колонка</value>
+        <value>Вертикальная группа 1</value>
       </title>
       <extendedTooltip>
-        <name>ПерваяКолонкаРасширеннаяПодсказка</name>
+        <name>ВертикальнаяГруппа1РасширеннаяПодсказка</name>
         <id>57</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -374,7 +374,7 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormGroup">
-      <name>ВтораяКолонка</name>
+      <name>ВертикальнаяГруппа2</name>
       <id>58</id>
       <items xsi:type="form:FormField">
         <name>СписокПорядокЗаполнения</name>
@@ -479,10 +479,10 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Вторая колонка</value>
+        <value>Вертикальная группа 2</value>
       </title>
       <extendedTooltip>
-        <name>ВтораяКолонкаРасширеннаяПодсказка</name>
+        <name>ВертикальнаяГруппа2РасширеннаяПодсказка</name>
         <id>59</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -503,7 +503,7 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormGroup">
-      <name>ТретьяКолонка</name>
+      <name>ВертикальнаяГруппа3</name>
       <id>60</id>
       <items xsi:type="form:FormField">
         <name>СписокПолныйПутьWindows</name>
@@ -616,10 +616,10 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Третья колонка</value>
+        <value>Вертикальная группа 3</value>
       </title>
       <extendedTooltip>
-        <name>ТретьяКолонкаРасширеннаяПодсказка</name>
+        <name>ВертикальнаяГруппа3РасширеннаяПодсказка</name>
         <id>61</id>
         <visible>true</visible>
         <enabled>true</enabled>

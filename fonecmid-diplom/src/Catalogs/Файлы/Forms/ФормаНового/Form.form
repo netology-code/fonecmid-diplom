@@ -56,7 +56,7 @@
       <choiceList>
         <presentation>
           <key>ru</key>
-          <value>Файл с компьютера</value>
+          <value>Файл с диска</value>
         </presentation>
         <value xsi:type="core:NumberValue">
           <value>2</value>

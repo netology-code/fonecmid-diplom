@@ -194,7 +194,6 @@
     <verticalStretch>true</verticalStretch>
     <enableStartDrag>true</enableStartDrag>
     <enableDrag>true</enableDrag>
-    <searchStringLocation>CommandBar</searchStringLocation>
     <viewMode>All</viewMode>
     <settingsNamedItemDetailedRepresentation>false</settingsNamedItemDetailedRepresentation>
   </items>

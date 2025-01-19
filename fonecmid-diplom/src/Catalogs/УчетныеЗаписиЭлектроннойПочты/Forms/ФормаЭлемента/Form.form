@@ -22,7 +22,7 @@
       <titleLocation>Left</titleLocation>
       <toolTip>
         <key>ru</key>
-        <value>Наименование почты</value>
+        <value>Наименование учетной записи</value>
       </toolTip>
       <extendedTooltip>
         <name>НаименованиеРасширеннаяПодсказка</name>
@@ -435,7 +435,7 @@
       <id>227</id>
       <title>
         <key>ru</key>
-        <value>Владелец почты</value>
+        <value>Владелец учетной записи</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -535,7 +535,7 @@
       <displayImportance>VeryHigh</displayImportance>
       <title>
         <key>ru</key>
-        <value>Тип почты</value>
+        <value>Тип учетной записи</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -849,7 +849,7 @@
           <passwordMode>true</passwordMode>
           <choiceButton>true</choiceButton>
           <choiceButtonPicture xsi:type="core:PictureRef">
-            <picture>CommonPicture.ВводимыеСимволыВидны</picture>
+            <picture>CommonPicture.ВводимыеСимволыСкрыты</picture>
           </choiceButtonPicture>
           <chooseType>true</chooseType>
           <typeDomainEnabled>true</typeDomainEnabled>
@@ -2025,7 +2025,7 @@
     </extendedTooltip>
     <type>UsualGroup</type>
     <extInfo xsi:type="form:UsualGroupExtInfo">
-      <group>Vertical</group>
+      <group>HorizontalIfPossible</group>
       <representation>WeakSeparation</representation>
       <showLeftMargin>true</showLeftMargin>
       <united>true</united>
@@ -2321,7 +2321,7 @@
     <name>ВидУчетнойЗаписи</name>
     <title>
       <key>ru</key>
-      <value>Вид почты</value>
+      <value>Вид учетной записи</value>
     </title>
     <id>7</id>
     <valueType>

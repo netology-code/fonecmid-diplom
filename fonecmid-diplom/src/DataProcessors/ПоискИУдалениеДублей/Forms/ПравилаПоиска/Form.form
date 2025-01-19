@@ -17,7 +17,7 @@
     </dataPath>
     <titleLocation>Top</titleLocation>
     <items xsi:type="form:FormGroup">
-      <name>ПравилаПоискаГруппаОсновное</name>
+      <name>ПравилаПоискаГруппа1</name>
       <id>46</id>
       <items xsi:type="form:FormField">
         <name>ПравилаПоискаИспользовать</name>
@@ -124,10 +124,10 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Основное</value>
+        <value>Правила поиска группа 1</value>
       </title>
       <extendedTooltip>
-        <name>ПравилаПоискаГруппаОсновноеРасширеннаяПодсказка</name>
+        <name>ПравилаПоискаГруппа1РасширеннаяПодсказка</name>
         <id>47</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -389,7 +389,6 @@
     <verticalStretch>true</verticalStretch>
     <enableStartDrag>true</enableStartDrag>
     <enableDrag>true</enableDrag>
-    <searchStringLocation>Top</searchStringLocation>
     <rowFilter xsi:type="core:UndefinedValue"/>
   </items>
   <items xsi:type="form:FormField">

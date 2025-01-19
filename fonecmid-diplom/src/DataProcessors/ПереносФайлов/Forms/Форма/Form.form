@@ -56,7 +56,7 @@
       <choiceList>
         <presentation>
           <key>ru</key>
-          <value>Между томами</value>
+          <value>Между томами на диске</value>
         </presentation>
         <value xsi:type="core:StringValue">
           <value>ПеренестиМеждуТомами</value>
@@ -65,7 +65,7 @@
       <choiceList>
         <presentation>
           <key>ru</key>
-          <value>Из информационной базы в тома</value>
+          <value>Из информационной базы в тома на диске</value>
         </presentation>
         <value xsi:type="core:StringValue">
           <value>ПеренестиВТома</value>
@@ -74,7 +74,7 @@
       <choiceList>
         <presentation>
           <key>ru</key>
-          <value>Из томов в информационную базу</value>
+          <value>Из томов на диске в информационную базу</value>
         </presentation>
         <value xsi:type="core:StringValue">
           <value>ПеренестиВБазу</value>

@@ -122,7 +122,7 @@
               <value>Поля</value>
             </presentation>
             <value xsi:type="core:StringValue">
-              <value>Поле</value>
+              <value>Поля</value>
             </value>
           </choiceList>
           <choiceList>
@@ -2585,7 +2585,7 @@
           </userVisible>
           <title>
             <key>ru</key>
-            <value>Фильтры</value>
+            <value>Фильтр группа 6</value>
           </title>
           <extendedTooltip>
             <name>ОтборГруппа6РасширеннаяПодсказка</name>
