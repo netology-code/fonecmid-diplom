@@ -10,4 +10,6 @@
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>CommonForm.ФормаКонстант</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>DataProcessor.ВКМ_ОтправкаСообщений</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
 </mdclass:Subsystem>

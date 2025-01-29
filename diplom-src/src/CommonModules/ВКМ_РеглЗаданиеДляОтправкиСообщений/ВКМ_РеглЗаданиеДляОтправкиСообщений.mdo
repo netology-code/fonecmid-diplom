@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e978305e-aeef-4088-8a6a-5bfe1d537c72">
+  <name>ВКМ_РеглЗаданиеДляОтправкиСообщений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регламентное задание для отправки сообщений</value>
+  </synonym>
+  <comment>Регламентное задание для отправки сообщений в Telegram</comment>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

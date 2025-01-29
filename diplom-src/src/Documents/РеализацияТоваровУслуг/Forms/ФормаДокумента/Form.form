@@ -299,6 +299,10 @@
         <dataPath xsi:type="form:DataPath">
           <segments>Объект.Договор</segments>
         </dataPath>
+        <handlers>
+          <event>OnChange</event>
+          <name>ДоговорПриИзменении</name>
+        </handlers>
         <extendedTooltip>
           <name>ДоговорРасширеннаяПодсказка</name>
           <id>24</id>

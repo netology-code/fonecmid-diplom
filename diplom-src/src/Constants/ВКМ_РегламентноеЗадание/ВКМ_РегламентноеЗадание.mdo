@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2c449bf0-eee9-4e03-b0d2-2af9f1fe817b">
+  <producedTypes>
+    <managerType typeId="70518005-ea03-4cee-aa46-2a6df4438c12" valueTypeId="2fda1853-5f14-491c-921d-45d0a37ed83f"/>
+    <valueManagerType typeId="1b0bd5b5-c73b-4db6-81fd-b22bbcd3b668" valueTypeId="5c0eb09f-23da-420a-9845-b1268363d9a1"/>
+    <valueKeyType typeId="a6d5e20d-65a1-46ba-b8c2-42424e7c1068" valueTypeId="5c4c4b4f-6883-48e4-a80d-a6eda374caaa"/>
+  </producedTypes>
+  <name>ВКМ_РегламентноеЗадание</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регламентное задание</value>
+  </synonym>
+  <comment>Регламентное задание для отправки сообщений</comment>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>40</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ФормаКонстант</defaultForm>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
