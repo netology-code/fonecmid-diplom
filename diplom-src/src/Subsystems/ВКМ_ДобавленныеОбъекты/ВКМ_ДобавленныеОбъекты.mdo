@@ -17,4 +17,5 @@
   <content>CommonModule.ВКМ_Телеграм</content>
   <content>CommonModule.ВКМ_РаботаСФормами</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_МассовоеСозданиеДокументовРеализации</content>
 </mdclass:Subsystem>
