@@ -300,10 +300,10 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="3e090261-4aa2-4ece-9f77-62df83c890b3">
-    <name>УдалитьСвойстваПользователяИБ</name>
+    <name>СвойстваПользователяИБ</name>
     <synonym>
       <key>ru</key>
-      <value>(не используется) Свойства пользователя ИБ</value>
+      <value>Свойства пользователя ИБ</value>
     </synonym>
     <type>
       <types>ValueStorage</types>

@@ -106,7 +106,7 @@
     <name>ГруппаПрава</name>
     <id>48</id>
     <items xsi:type="form:FormGroup">
-      <name>ПерваяКолонка</name>
+      <name>ВертикальнаяГруппа1</name>
       <id>50</id>
       <items xsi:type="form:FormField">
         <name>ПравоЧтение</name>
@@ -252,10 +252,10 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Первая колонка</value>
+        <value>Вертикальная группа 1</value>
       </title>
       <extendedTooltip>
-        <name>ПерваяКолонкаРасширеннаяПодсказка</name>
+        <name>ВертикальнаяГруппа1РасширеннаяПодсказка</name>
         <id>51</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -279,7 +279,7 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormGroup">
-      <name>ВтораяКолонка</name>
+      <name>ВертикальнаяГруппа2</name>
       <id>52</id>
       <items xsi:type="form:FormField">
         <name>ПравоЧтениеБезОграничения</name>
@@ -420,10 +420,10 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Вторая колонка</value>
+        <value>Вертикальная группа 2</value>
       </title>
       <extendedTooltip>
-        <name>ВтораяКолонкаРасширеннаяПодсказка</name>
+        <name>ВертикальнаяГруппа2РасширеннаяПодсказка</name>
         <id>53</id>
         <visible>true</visible>
         <enabled>true</enabled>

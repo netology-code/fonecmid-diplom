@@ -827,7 +827,7 @@
     <items xsi:type="form:Addition">
       <title>
         <key>ru</key>
-        <value>Поиск</value>
+        <value>Строка поиска</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>

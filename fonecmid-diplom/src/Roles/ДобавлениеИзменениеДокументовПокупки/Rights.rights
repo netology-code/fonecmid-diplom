@@ -290,7 +290,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьСертификатыШифрования.Attribute.Отпечаток</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьСертификатыШифрования.Attribute.Отпечаток</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -928,7 +928,7 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.СведенияОПользователях.Resource.УдалитьИспользованныеПароли</name>
+		<name>InformationRegister.СведенияОПользователях.Resource.ИспользованныеПароли</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -1060,7 +1060,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.ДатаПодписи</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.ДатаПодписи</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -1412,7 +1412,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьСертификатыШифрования.Attribute.Представление</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьСертификатыШифрования.Attribute.Представление</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -1489,7 +1489,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ДатаМодификацииУниверсальная</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ДатаМодификацииУниверсальная</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -1852,7 +1852,7 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.СведенияОПользователях.Resource.УдалитьДатаНачалаИспользованияПароля</name>
+		<name>InformationRegister.СведенияОПользователях.Resource.ДатаНачалаИспользованияПароля</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -1874,7 +1874,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.Том</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.Том</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -1918,7 +1918,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.ИмяФайлаПодписи</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.ИмяФайлаПодписи</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -2017,7 +2017,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ВидыКонтактнойИнформации.Attribute.ТелефонСДобавочнымНомером</name>
+		<name>Catalog.ВидыКонтактнойИнформации.Attribute.ТелефонCДобавочнымНомером</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -2083,7 +2083,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.Служебный</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.Служебный</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -2424,7 +2424,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.Комментарий</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.Комментарий</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -3194,7 +3194,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.УстановившийПодпись</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.УстановившийПодпись</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -3370,7 +3370,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ИндексКартинки</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ИндексКартинки</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -3502,7 +3502,7 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.ОтправленныеСерверныеОповещения.Attribute.ДатаЗаписиВСистемуВзаимодействияМиллисекунды</name>
+		<name>InformationRegister.ОтправленныеСерверныеОповещения.Attribute.ЗаписаноВСистемуВзаимодействия</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -3535,7 +3535,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.Отпечаток</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.Отпечаток</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -3712,6 +3712,17 @@
 	</object>
 	<object>
 		<name>InformationRegister.ДанныеОбработанныеВЦентральномУзлеРИБ.Dimension.Очередь</name>
+		<right>
+			<name>View</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.УдаляемыеОбъекты.Resource.ВремяБлокировки</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -4173,7 +4184,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.Зашифрован</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.Зашифрован</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -4437,7 +4448,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.СтатусИзвлеченияТекста</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.СтатусИзвлеченияТекста</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -4811,7 +4822,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ДатаСоздания</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ДатаСоздания</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -5229,7 +5240,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ВнешниеПользователи.Attribute.УдалитьСвойстваПользователяИБ</name>
+		<name>Catalog.ВнешниеПользователи.Attribute.СвойстваПользователяИБ</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -5999,7 +6010,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ВладелецФайла</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ВладелецФайла</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -6744,7 +6755,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.Изменил</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.Изменил</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -6799,7 +6810,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.Автор</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.Автор</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -6854,7 +6865,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.КомуВыданСертификат</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.КомуВыданСертификат</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -7668,7 +7679,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.Подпись</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.Подпись</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -7701,7 +7712,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ФайлХранилище</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ФайлХранилище</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -8394,7 +8405,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьСертификатыШифрования</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьСертификатыШифрования</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9758,7 +9769,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.StandardAttribute.PredefinedDataName</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.StandardAttribute.PredefinedDataName</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9769,7 +9780,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.StandardAttribute.Predefined</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.StandardAttribute.Predefined</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9780,7 +9791,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.StandardAttribute.Ref</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.StandardAttribute.Ref</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9791,7 +9802,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.StandardAttribute.DeletionMark</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.StandardAttribute.DeletionMark</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9802,7 +9813,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.StandardAttribute.IsFolder</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.StandardAttribute.IsFolder</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9813,7 +9824,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.StandardAttribute.Owner</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.StandardAttribute.Owner</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9824,7 +9835,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.StandardAttribute.Parent</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.StandardAttribute.Parent</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9835,7 +9846,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.StandardAttribute.Description</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.StandardAttribute.Description</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9846,7 +9857,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.StandardAttribute.Code</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.StandardAttribute.Code</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9879,7 +9890,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.ДатаПроверкиПодписи</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.ДатаПроверкиПодписи</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -9923,7 +9934,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ТипХраненияФайла</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ТипХраненияФайла</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -10781,7 +10792,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ВидыКонтактнойИнформации.Attribute.УдалитьПроверятьПоФИАС</name>
+		<name>Catalog.ВидыКонтактнойИнформации.Attribute.ПроверятьПоФИАС</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -11056,7 +11067,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ТекстХранилище</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ТекстХранилище</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -11496,7 +11507,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.Описание</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.Описание</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -12739,7 +12750,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ПодписанЭП</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ПодписанЭП</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -13399,7 +13410,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.Сертификат</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.Сертификат</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -14147,7 +14158,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.Редактирует</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.Редактирует</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -14313,6 +14324,17 @@
 	</object>
 	<object>
 		<name>InformationRegister.УдалитьХранимыеФайлыВерсий.Dimension.ВерсияФайла</name>
+		<right>
+			<name>View</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.ДлительныеОперации.Attribute.ИдентификаторПроцесса</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -14785,7 +14807,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.ПодписьВерна</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи.Attribute.ПодписьВерна</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -14972,7 +14994,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.Размер</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.Размер</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -16369,7 +16391,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ПутьКФайлу</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ПутьКФайлу</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -16512,7 +16534,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.Расширение</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.Расширение</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -18696,7 +18718,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.Пользователи.Attribute.УдалитьСвойстваПользователяИБ</name>
+		<name>Catalog.Пользователи.Attribute.СвойстваПользователяИБ</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -19554,7 +19576,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьСертификатыШифрования.Attribute.Сертификат</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьСертификатыШифрования.Attribute.Сертификат</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -20379,7 +20401,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ДатаЗаема</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ДатаЗаема</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -21589,7 +21611,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.Attribute.ХранитьВерсии</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.Attribute.ХранитьВерсии</name>
 		<right>
 			<name>View</name>
 			<value>false</value>
@@ -21820,7 +21842,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи</name>
+		<name>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы.TabularSection.УдалитьЭлектронныеПодписи</name>
 		<right>
 			<name>View</name>
 			<value>false</value>

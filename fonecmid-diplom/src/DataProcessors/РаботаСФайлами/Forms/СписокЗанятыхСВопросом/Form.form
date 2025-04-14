@@ -147,48 +147,6 @@
       </borderColor>
       <representationInContextMenu>Auto</representationInContextMenu>
     </items>
-    <items xsi:type="form:Addition">
-      <title>
-        <key>ru</key>
-        <value>Поиск</value>
-      </title>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <name>СтрокаПоиска</name>
-      <id>124</id>
-      <extendedTooltip>
-        <name>СтрокаПоискаРасширеннаяПодсказка</name>
-        <id>126</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <contextMenu>
-        <name>СтрокаПоискаКонтекстноеМеню</name>
-        <id>125</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <autoFill>true</autoFill>
-      </contextMenu>
-      <source>Список</source>
-      <extInfo xsi:type="form:SearchStringAdditionExtInfo">
-        <autoMaxWidth>true</autoMaxWidth>
-      </extInfo>
-    </items>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
@@ -1610,7 +1568,7 @@
     <id>6</id>
     <toolTip>
       <key>ru</key>
-      <value>Сохранить файл на компьютер или другое устройство</value>
+      <value>Сохранить файл на диск или другое устройство</value>
     </toolTip>
     <use>
       <common>true</common>
@@ -1630,12 +1588,12 @@
     <name>ОбновитьИзФайлаНаДиске</name>
     <title>
       <key>ru</key>
-      <value>Обновить из файла на компьютере...</value>
+      <value>Обновить из файла на диске...</value>
     </title>
     <id>7</id>
     <toolTip>
       <key>ru</key>
-      <value>Обновить из файла на компьютере</value>
+      <value>Обновить из файла на диске</value>
     </toolTip>
     <use>
       <common>true</common>
@@ -1750,5 +1708,7 @@
     <navigationPanel/>
     <commandBar/>
   </commandInterface>
-  <extInfo xsi:type="form:DynamicListFormExtInfo"/>
+  <extInfo xsi:type="form:DynamicListFormExtInfo">
+    <groupList>СписокКонтекстноеМеню</groupList>
+  </extInfo>
 </form:Form>

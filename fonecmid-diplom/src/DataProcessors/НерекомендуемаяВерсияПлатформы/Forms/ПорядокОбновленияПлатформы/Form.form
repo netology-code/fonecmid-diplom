@@ -189,25 +189,6 @@
     <representation>TextPicture</representation>
     <currentRowUse>DontUse</currentRowUse>
   </formCommands>
-  <parameters>
-    <name>ВерсияПлатформы</name>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
-  </parameters>
-  <parameters>
-    <name>ИнструкцияДляФайловой</name>
-    <valueType>
-      <types>Boolean</types>
-    </valueType>
-  </parameters>
-  <parameters>
-    <name>УдалениеПрограммы</name>
-    <valueType>
-      <types>Boolean</types>
-    </valueType>
-  </parameters>
   <commandInterface>
     <navigationPanel/>
     <commandBar/>

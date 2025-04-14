@@ -340,7 +340,7 @@
           <id>37</id>
           <title>
             <key>ru</key>
-            <value>Добавить из файла на компьютере...</value>
+            <value>Добавить из файла на диске...</value>
           </title>
           <visible>true</visible>
           <enabled>true</enabled>
