@@ -115,6 +115,7 @@
       <key>ru</key>
       <value>Договор</value>
     </synonym>
+    <comment>Очищено поле Параметры выбора: Отбор.ВидДоговора(Покупатель) Иконникова Е.Ю.</comment>
     <type>
       <types>CatalogRef.ДоговорыКонтрагентов</types>
     </type>
@@ -129,12 +130,6 @@
       <name>Отбор.Организация</name>
       <field>Document.ЗаказПокупателя.Attribute.Организация</field>
     </choiceParameterLinks>
-    <choiceParameters>
-      <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:ReferenceValue">
-        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
-      </value>
-    </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>

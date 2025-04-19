@@ -57,6 +57,11 @@
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
   <createOnInput>Use</createOnInput>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
   <dataLockControlMode>Managed</dataLockControlMode>
   <fullTextSearch>Use</fullTextSearch>
   <listPresentation>
@@ -114,6 +119,7 @@
       <key>ru</key>
       <value>Договор</value>
     </synonym>
+    <comment>Очищены параметры выбора: вид договора: Покупатель (Иконникова К.Ю.)</comment>
     <type>
       <types>CatalogRef.ДоговорыКонтрагентов</types>
     </type>
@@ -128,12 +134,6 @@
       <name>Отбор.Организация</name>
       <field>Document.РеализацияТоваровУслуг.Attribute.Организация</field>
     </choiceParameterLinks>
-    <choiceParameters>
-      <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:ReferenceValue">
-        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
-      </value>
-    </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
@@ -165,7 +165,9 @@
       <key>ru</key>
       <value>Основание</value>
     </synonym>
+    <comment>ВКМ в Тип добавлен ДоговорыКонтрагентов</comment>
     <type>
+      <types>CatalogRef.ДоговорыКонтрагентов</types>
       <types>DocumentRef.ЗаказПокупателя</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
@@ -200,6 +202,7 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <multiLine>true</multiLine>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:StringValue">
@@ -214,6 +217,11 @@
       <key>ru</key>
       <value>Форма документа</value>
     </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
@@ -410,4 +418,21 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <templates uuid="8a3d8ac7-97a8-4934-98cd-31c8084c7653">
+    <name>ПФ_MXL_ВКМ_АктОбОказанныхУслугах</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт об оказанных услугах</value>
+    </synonym>
+    <comment>ВКМ_АктОбОказанииУслуг_MXL</comment>
+  </templates>
+  <templates uuid="aa90a4ad-78a3-4d85-a9d8-f8716c3fd4bc">
+    <name>ПФ_DOC_АктОбОказанииУслуг</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт об оказании услуг</value>
+    </synonym>
+    <comment>ВКМ_АктОбОказанииУслуг</comment>
+    <templateType>BinaryData</templateType>
+  </templates>
 </mdclass:Document>
