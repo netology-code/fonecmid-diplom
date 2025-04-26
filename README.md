@@ -18,8 +18,8 @@
 
 ### Чек-лист готовности к работе над проектом
 
-1. Установите [платформу 1С:Предприятие 8.3.25](https://developer.1c.ru/applications/Console?state=community).
-2. Скачайте и установите 1С:EDT [последней актуальной версии](https://dl03.1c.ru/content/DevelopmentTools/2024_1_0/runningedt.html).
+1. Установите [платформу 1С:Предприятие 8.3.27](https://developer.1c.ru/applications/Console?state=community).
+2. Скачайте и установите 1С:EDT [последней актуальной версии](https://releases.1c.ru/version_files?nick=DevelopmentTools10&ver=2024.2.5).
 3. Зарегистрируйтесь на github.com и создайте форк от этого репозитория.
 4. С помощью 1С:EDT клонируйте свой форк репозитория.
 
