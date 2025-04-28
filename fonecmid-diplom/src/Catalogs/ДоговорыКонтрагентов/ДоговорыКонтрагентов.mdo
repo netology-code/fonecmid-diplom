@@ -117,6 +117,7 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента</defaultObjectForm>
   <defaultListForm>Catalog.ДоговорыКонтрагентов.Form.ФормаСписка</defaultListForm>
   <attributes uuid="a81d1f8d-ea75-4cec-9742-5970eceda758">
     <name>Организация</name>
@@ -152,11 +153,94 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="ab04ee14-8c96-49d4-a1d1-86ec3d063451">
+    <name>ВКМ_ДатаНачалаДействияДоговора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дата начала действия договора</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="1b882ff9-17e1-4351-be81-84842e0f8536">
+    <name>ВКМ_СуммаАбонентскойПлаты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма абонентской платы</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="47009e3a-fd92-4435-b321-8699fe06b2c6">
+    <name>ВКМ_СтоимостьЧасаРаботы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Стоимость часа работы</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="13248c0f-ab3f-4d78-8194-b08ac8dd127a">
+    <name>ВКМ_ДатаОкончанияДействияДоговора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дата окончания действия договора</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="b9f6131a-ead6-4afe-9a0f-575594d3d620">
     <name>ФормаСписка</name>
     <synonym>
       <key>ru</key>
       <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="8f01dd34-3de1-469d-aa1e-ae4313736ac5">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
