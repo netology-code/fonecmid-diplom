@@ -603,7 +603,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>DocumentObject.ГрафикОтпусков</types>
+      <types>DocumentObject.ВКМ_ГрафикОтпусков</types>
     </valueType>
     <view>
       <common>true</common>

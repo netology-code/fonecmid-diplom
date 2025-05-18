@@ -107,7 +107,7 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.МассовоеСозданиеАктов.Attribute.Период</name>
+		<name>DataProcessor.ВКМ_МассовоеСозданиеАктов.Attribute.Период</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -531,7 +531,7 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.МассовоеСозданиеАктов</name>
+		<name>DataProcessor.ВКМ_МассовоеСозданиеАктов</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>
@@ -542,7 +542,7 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.МассовоеСозданиеАктов.TabularSection.Данные</name>
+		<name>DataProcessor.ВКМ_МассовоеСозданиеАктов.TabularSection.Данные</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -794,7 +794,7 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.МассовоеСозданиеАктов.TabularSection.Данные.Attribute.Реализация</name>
+		<name>DataProcessor.ВКМ_МассовоеСозданиеАктов.TabularSection.Данные.Attribute.Реализация</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -1117,7 +1117,7 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.МассовоеСозданиеАктов.TabularSection.Данные.Attribute.Договор</name>
+		<name>DataProcessor.ВКМ_МассовоеСозданиеАктов.TabularSection.Данные.Attribute.Договор</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>

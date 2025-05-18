@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0d626258-9b4b-4cd6-990b-af7f5c6f5ca5">
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="919fc909-d6fc-40f2-bc8a-384e699b8520">
   <producedTypes>
-    <objectType typeId="8e368208-5c25-4833-abe7-6b62410ee0ab" valueTypeId="fa147621-3ae2-4e4a-8827-ded33e8cbb65"/>
-    <managerType typeId="82e254c9-a830-4f79-95b8-bf49aaccb9f0" valueTypeId="4b58c4cb-f839-42d8-ba00-44cc285b439a"/>
+    <objectType typeId="e184f1c2-12c5-4488-a4bd-81ca5575c754" valueTypeId="fd944743-16e0-47ab-9ff6-6410bbe2dc7e"/>
+    <managerType typeId="d50ad5d9-3bc3-4526-83a8-2df1b550be61" valueTypeId="c9c500c9-2085-441c-9125-146e01e1a015"/>
   </producedTypes>
   <name>ВКМ_МассовоеСозданиеАктов</name>
   <synonym>
@@ -11,29 +11,41 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.ВКМ_МассовоеСозданиеАктов.Form.Форма</defaultForm>
-  <attributes uuid="f37c86e5-af64-4d87-b036-47f866596949">
+  <attributes uuid="2090210d-f7ec-447d-b175-e5486f74e392">
     <name>Период</name>
     <synonym>
       <key>ru</key>
       <value>Период</value>
     </synonym>
     <type>
-      <types>StandardPeriod</types>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
   </attributes>
-  <tabularSections uuid="55eea7c1-1bbc-47b9-8b1a-a20f67622e0b">
+  <tabularSections uuid="a1df1522-2cc7-44e7-a322-85c358d6c4a8">
     <producedTypes>
-      <objectType typeId="7f0054fa-ab69-4d1c-a677-f4299adab962" valueTypeId="748b8439-421d-4f26-97a6-c76f8fb1d2e6"/>
-      <rowType typeId="977f3ab5-d8f3-40bb-9129-58592f028298" valueTypeId="97fd15b1-e990-4c40-8623-e98526c1376a"/>
+      <objectType typeId="b893b64f-a83d-4a87-8bf1-2bf08ad20222" valueTypeId="6dbbb673-25b7-40c1-b878-42d9b08c9d0a"/>
+      <rowType typeId="a143b44a-88b4-4d91-8376-dac75fdfaf77" valueTypeId="954ea2cb-6554-4558-b510-23949805302a"/>
     </producedTypes>
-    <name>СписокДоговоров</name>
+    <name>Данные</name>
     <synonym>
       <key>ru</key>
-      <value>Список договоров</value>
+      <value>Данные</value>
     </synonym>
-    <attributes uuid="1926256e-9df5-4994-a349-d419d226c097">
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+    <attributes uuid="eee3ecb8-ff19-4451-80af-70a09aefa85f">
       <name>Договор</name>
       <synonym>
         <key>ru</key>
@@ -46,11 +58,11 @@
       <maxValue xsi:type="core:UndefinedValue"/>
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
-    <attributes uuid="cefd93d0-7343-422c-85d9-0ced1c144b84">
-      <name>СсылкаНаДокумент</name>
+    <attributes uuid="d0f3734c-abcd-46f3-a245-ff62d15e5396">
+      <name>Реализация</name>
       <synonym>
         <key>ru</key>
-        <value>Ссылка на документ</value>
+        <value>Реализация</value>
       </synonym>
       <type>
         <types>DocumentRef.РеализацияТоваровУслуг</types>
@@ -60,7 +72,7 @@
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
   </tabularSections>
-  <forms uuid="75586801-08c0-426e-8109-d240f6979641">
+  <forms uuid="7b106f84-b4a0-4254-bdfa-d4eebc49d0e3">
     <name>Форма</name>
     <synonym>
       <key>ru</key>

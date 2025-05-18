@@ -7,13 +7,13 @@
     <listType typeId="8d643cbc-ee8e-4049-a7f6-a619c1b2cfc8" valueTypeId="6e443ef9-d616-480a-ae4d-5cfe187c9e4a"/>
     <managerType typeId="566c64b6-e800-4999-b60d-87da22d1dfe1" valueTypeId="82a2cdc7-04e7-4d70-849e-22f458a87f9a"/>
   </producedTypes>
-  <name>НачислениеЗаработнойПлаты</name>
+  <name>ВКМ_НачислениеЗаработнойПлаты</name>
   <synonym>
     <key>ru</key>
     <value>Начисление заработной платы</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Document.НачислениеЗаработнойПлаты.StandardAttribute.Number</inputByString>
+  <inputByString>Document.ВКМ_НачислениеЗаработнойПлаты.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>

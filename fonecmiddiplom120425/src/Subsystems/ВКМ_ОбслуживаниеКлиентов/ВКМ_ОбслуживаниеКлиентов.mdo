@@ -11,5 +11,5 @@
   <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
   <content>Role.ВКМ_ОбслуживаниеКлиента</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
-  <content>DataProcessor.МассовоеСозданиеАктов</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
 </mdclass:Subsystem>

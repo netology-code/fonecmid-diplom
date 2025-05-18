@@ -465,7 +465,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>DocumentObject.ВыплатаЗарплаты</types>
+      <types>DocumentObject.ВКМ_выплатаЗарплаты</types>
     </valueType>
     <view>
       <common>true</common>

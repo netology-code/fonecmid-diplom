@@ -24,10 +24,10 @@
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
   <content>InformationRegister.ГрафикиРаботы</content>
   <content>ChartOfCalculationTypes.ОсновныеНачисления</content>
-  <content>Document.НачислениеЗаработнойПлаты</content>
-  <content>Document.НачислениеФиксированныхПремий</content>
-  <content>Document.ВыплатаЗарплаты</content>
-  <content>Document.ГрафикОтпусков</content>
+  <content>Document.ВКМ_НачислениеЗаработнойПлаты</content>
+  <content>Document.ВКМ_НачислениеФиксированныхПремий</content>
+  <content>Document.ВКМ_выплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>Report.ВыработкаCпециалистов</content>
   <content>Report.АнализВыставленныхАктов</content>
   <content>Report.РасчётыССотрудниками</content>

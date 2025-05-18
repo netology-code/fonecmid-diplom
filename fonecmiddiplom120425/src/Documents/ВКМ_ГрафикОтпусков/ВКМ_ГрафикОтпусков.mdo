@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="174f8cd4-4aeb-488a-8bec-11f1e27bad7a">
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="73edeee3-fbdd-426c-b554-72ea41a7a430">
   <producedTypes>
-    <objectType typeId="6fa8efe8-38c3-4918-9448-f13cbc2b1130" valueTypeId="b6aa61ed-8577-4ced-ad7d-bece622c9086"/>
-    <refType typeId="69ee511f-3e2d-47aa-991f-834844692c7b" valueTypeId="151cafa4-02e0-4cca-b935-a5bc7a9fd0c7"/>
-    <selectionType typeId="ebb9a04a-73bb-4182-9fff-eb608e29af7f" valueTypeId="dad8fe85-2c19-4eac-b1f3-c33d545df43a"/>
-    <listType typeId="91e2d61e-dfb0-4dfb-af00-c894ca117e84" valueTypeId="1ba8997d-601e-4a92-b2cc-7707686a1907"/>
-    <managerType typeId="ee2780a6-95b9-44d1-84a7-74e35ebbca18" valueTypeId="2176a349-03bc-4da2-a447-e0ba8bfcd5ff"/>
+    <objectType typeId="508d83c3-92ab-45cb-b19b-353dcfc109b8" valueTypeId="f0db36d6-2c9d-4e44-8704-1952b1b57cec"/>
+    <refType typeId="36d24d3e-0ec2-4119-a193-ec58d557a69a" valueTypeId="27287846-26b8-4924-83ab-0dfa81cb934b"/>
+    <selectionType typeId="d4f50143-ff51-46b0-b789-b7f55bdcfc2a" valueTypeId="a4f3cd9b-7424-47fa-bdec-2096b5956b90"/>
+    <listType typeId="a25da31b-31d9-4e7a-9b09-ea939cae27be" valueTypeId="4a35df5f-320b-4067-a451-c2e536a3e9b5"/>
+    <managerType typeId="1877a003-d633-40df-a679-2ed191f8c5be" valueTypeId="0f89633a-e592-45d1-b5c5-1a35699468ea"/>
   </producedTypes>
-  <name>ВыплатаЗарплаты</name>
+  <name>ВКМ_ГрафикОтпусков</name>
   <synonym>
     <key>ru</key>
-    <value>Выплата зарплаты</value>
+    <value>График отпусков</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Document.ВыплатаЗарплаты.StandardAttribute.Number</inputByString>
+  <inputByString>Document.ВКМ_ГрафикОтпусков.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -64,11 +64,28 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
-  <defaultObjectForm>Document.ВыплатаЗарплаты.Form.ФормаДокумента</defaultObjectForm>
-  <registerRecords>AccumulationRegister.ВзаиморасчетыССотрудниками</registerRecords>
+  <defaultObjectForm>Document.ВКМ_ГрафикОтпусков.Form.ФормаДокумента</defaultObjectForm>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
-  <forms uuid="e0b45b34-ad01-4c84-b330-71c8e4488164">
+  <attributes uuid="833b1df1-1240-4c28-b080-0f0f9eba9678">
+    <name>Год</name>
+    <synonym>
+      <key>ru</key>
+      <value>Год</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <forms uuid="e93db6aa-da25-428a-836b-4b968a2a8825">
     <name>ФормаДокумента</name>
     <synonym>
       <key>ru</key>
@@ -77,15 +94,24 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <tabularSections uuid="2bb235fa-dd25-455e-94dc-e565bc7c1053">
-    <producedTypes>
-      <objectType typeId="ad39efe5-9a4e-4508-bae6-48a59389c65f" valueTypeId="4685e2d4-5372-4a28-b83a-6aba000325e8"/>
-      <rowType typeId="30ec7c1f-a071-4052-85a1-b1d7e7513aff" valueTypeId="264184d9-3c13-41d0-8dfc-9b892cc267b9"/>
-    </producedTypes>
-    <name>Выплаты</name>
+  <forms uuid="cc4efe7a-5e0d-453c-a811-551f5c2753e7">
+    <name>АнализГрафика</name>
     <synonym>
       <key>ru</key>
-      <value>Выплаты</value>
+      <value>Анализ графика</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <tabularSections uuid="a5639f0c-fa4a-4305-885d-aa3ca1a6c6e6">
+    <producedTypes>
+      <objectType typeId="a98847c9-9d6b-4cc4-b4f6-112b2335a255" valueTypeId="b14645d0-8a85-40d1-9f08-65edba838e79"/>
+      <rowType typeId="2152b309-9dd1-493e-9fdf-b52f01ddee09" valueTypeId="f30ed6bc-0d56-435f-9fda-7de465e19793"/>
+    </producedTypes>
+    <name>ОтпускаСотрудников</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отпуска сотрудников</value>
     </synonym>
     <standardAttributes>
       <dataHistory>Use</dataHistory>
@@ -95,7 +121,7 @@
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
     </standardAttributes>
-    <attributes uuid="588404a3-0474-4c46-8e2f-09456f1a3bcc">
+    <attributes uuid="cf3d7c29-556a-4e52-90a4-28ce23a5614c">
       <name>Сотрудник</name>
       <synonym>
         <key>ru</key>
@@ -109,18 +135,34 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="08b00001-5587-415f-a844-435c106f22e9">
-      <name>Сумма</name>
+    <attributes uuid="cfb20885-c344-47ac-9dab-1a73b3b3a035">
+      <name>ДатаНачала</name>
       <synonym>
         <key>ru</key>
-        <value>Сумма</value>
+        <value>Дата начала</value>
       </synonym>
       <type>
-        <types>Number</types>
-        <numberQualifiers>
-          <precision>15</precision>
-          <scale>2</scale>
-        </numberQualifiers>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="8f75afea-e1d2-459d-a2a2-3e7e978ca419">
+      <name>ДатаОкончания</name>
+      <synonym>
+        <key>ru</key>
+        <value>Дата окончания</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>

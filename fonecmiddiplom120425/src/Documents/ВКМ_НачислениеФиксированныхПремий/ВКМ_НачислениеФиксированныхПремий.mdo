@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="73edeee3-fbdd-426c-b554-72ea41a7a430">
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ba27c00e-5448-43f3-84bc-eee04d1adc75">
   <producedTypes>
-    <objectType typeId="508d83c3-92ab-45cb-b19b-353dcfc109b8" valueTypeId="f0db36d6-2c9d-4e44-8704-1952b1b57cec"/>
-    <refType typeId="36d24d3e-0ec2-4119-a193-ec58d557a69a" valueTypeId="27287846-26b8-4924-83ab-0dfa81cb934b"/>
-    <selectionType typeId="d4f50143-ff51-46b0-b789-b7f55bdcfc2a" valueTypeId="a4f3cd9b-7424-47fa-bdec-2096b5956b90"/>
-    <listType typeId="a25da31b-31d9-4e7a-9b09-ea939cae27be" valueTypeId="4a35df5f-320b-4067-a451-c2e536a3e9b5"/>
-    <managerType typeId="1877a003-d633-40df-a679-2ed191f8c5be" valueTypeId="0f89633a-e592-45d1-b5c5-1a35699468ea"/>
+    <objectType typeId="55fe7878-d4ed-49bb-bb79-261ed27a1649" valueTypeId="67d05eeb-d81c-48e7-938b-c200b3b91dd6"/>
+    <refType typeId="e059fde3-29db-45e9-8305-061e05c6c440" valueTypeId="8f8df416-b36f-41e0-bda3-d1ec4e8be3af"/>
+    <selectionType typeId="23a5fbb0-7a9f-42e9-9ae5-a208c49c7801" valueTypeId="cb25628d-4810-4cf8-afcc-3454052d3078"/>
+    <listType typeId="b9b86524-58d7-487e-82db-94721d34fcbc" valueTypeId="5313c703-37c9-4b1f-a971-63db9e783b1e"/>
+    <managerType typeId="7c532292-7711-4efe-abf1-d5c70456c9a6" valueTypeId="fd27f29d-aa3b-475a-b591-2b9bd17dcff5"/>
   </producedTypes>
-  <name>ГрафикОтпусков</name>
+  <name>ВКМ_НачислениеФиксированныхПремий</name>
   <synonym>
     <key>ru</key>
-    <value>График отпусков</value>
+    <value>Начисление фиксированных премий</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Document.ГрафикОтпусков.StandardAttribute.Number</inputByString>
+  <inputByString>Document.ВКМ_НачислениеФиксированныхПремий.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -64,54 +64,19 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
-  <defaultObjectForm>Document.ГрафикОтпусков.Form.ФормаДокумента</defaultObjectForm>
+  <registerRecords>CalculationRegister.ДополнительныеНачисления</registerRecords>
+  <registerRecords>AccumulationRegister.ВзаиморасчетыССотрудниками</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
-  <attributes uuid="833b1df1-1240-4c28-b080-0f0f9eba9678">
-    <name>Год</name>
-    <synonym>
-      <key>ru</key>
-      <value>Год</value>
-    </synonym>
-    <type>
-      <types>Date</types>
-      <dateQualifiers>
-        <dateFractions>Date</dateFractions>
-      </dateQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-  </attributes>
-  <forms uuid="e93db6aa-da25-428a-836b-4b968a2a8825">
-    <name>ФормаДокумента</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма документа</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
-  <forms uuid="cc4efe7a-5e0d-453c-a811-551f5c2753e7">
-    <name>АнализГрафика</name>
-    <synonym>
-      <key>ru</key>
-      <value>Анализ графика</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
-  <tabularSections uuid="a5639f0c-fa4a-4305-885d-aa3ca1a6c6e6">
+  <tabularSections uuid="ecba29c2-fb04-4ede-bdc1-77853485674c">
     <producedTypes>
-      <objectType typeId="a98847c9-9d6b-4cc4-b4f6-112b2335a255" valueTypeId="b14645d0-8a85-40d1-9f08-65edba838e79"/>
-      <rowType typeId="2152b309-9dd1-493e-9fdf-b52f01ddee09" valueTypeId="f30ed6bc-0d56-435f-9fda-7de465e19793"/>
+      <objectType typeId="89dcdb0a-f081-4925-9997-dcf7c8a442bd" valueTypeId="f90805cb-6e4f-45eb-a5e3-da1a8e6f3330"/>
+      <rowType typeId="323fb272-0029-4282-b585-b6c78a2bee11" valueTypeId="b6dcf554-c7fe-4d75-b07a-b118f22973c9"/>
     </producedTypes>
-    <name>ОтпускаСотрудников</name>
+    <name>СписокСотрудников</name>
     <synonym>
       <key>ru</key>
-      <value>Отпуска сотрудников</value>
+      <value>Список сотрудников</value>
     </synonym>
     <standardAttributes>
       <dataHistory>Use</dataHistory>
@@ -121,7 +86,7 @@
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
     </standardAttributes>
-    <attributes uuid="cf3d7c29-556a-4e52-90a4-28ce23a5614c">
+    <attributes uuid="36dfbda2-68cf-4f44-b117-34ec5cb047b2">
       <name>Сотрудник</name>
       <synonym>
         <key>ru</key>
@@ -135,34 +100,32 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="cfb20885-c344-47ac-9dab-1a73b3b3a035">
-      <name>ДатаНачала</name>
+    <attributes uuid="4991fd68-e198-4ccf-be8e-29d3ab9e4e75">
+      <name>ВидРасчета</name>
       <synonym>
         <key>ru</key>
-        <value>Дата начала</value>
+        <value>Вид расчета</value>
       </synonym>
       <type>
-        <types>Date</types>
-        <dateQualifiers>
-          <dateFractions>Date</dateFractions>
-        </dateQualifiers>
+        <types>ChartOfCalculationTypesRef.ДополнительныеНачисления</types>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="8f75afea-e1d2-459d-a2a2-3e7e978ca419">
-      <name>ДатаОкончания</name>
+    <attributes uuid="925da3d2-18fe-49f4-bbac-cc6a5025c8d5">
+      <name>СуммаПремии</name>
       <synonym>
         <key>ru</key>
-        <value>Дата окончания</value>
+        <value>Сумма премии</value>
       </synonym>
       <type>
-        <types>Date</types>
-        <dateQualifiers>
-          <dateFractions>Date</dateFractions>
-        </dateQualifiers>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>15</precision>
+          <scale>2</scale>
+        </numberQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
