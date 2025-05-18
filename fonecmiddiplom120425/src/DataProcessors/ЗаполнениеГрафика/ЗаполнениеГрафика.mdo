@@ -18,7 +18,7 @@
       <value>График</value>
     </synonym>
     <type>
-      <types>CatalogRef.Графики</types>
+      <types>CatalogRef.ВКМ_Графики</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

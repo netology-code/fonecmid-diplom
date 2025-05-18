@@ -8,7 +8,7 @@
     <recordKeyType typeId="f08173b6-08df-49f5-a3b4-dc934fcd648e" valueTypeId="cce36d75-0632-449f-aa04-f32377145829"/>
     <recordType typeId="d39b0202-7db9-457b-9db5-3ef73b9a3e7c" valueTypeId="5386587f-a8e1-4e46-93ce-416ccb8c8bc3"/>
   </producedTypes>
-  <name>ВзаиморасчетыССотрудниками</name>
+  <name>ВКМ_ВзаиморасчетыССотрудниками</name>
   <synonym>
     <key>ru</key>
     <value>Взаиморасчеты с сотрудниками</value>

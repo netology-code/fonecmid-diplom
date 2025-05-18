@@ -20,9 +20,9 @@
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
   <content>Document.РеализацияТоваровУслуг</content>
-  <content>InformationRegister.УсловияОплатыСотрудников</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
-  <content>InformationRegister.ГрафикиРаботы</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
   <content>ChartOfCalculationTypes.ОсновныеНачисления</content>
   <content>Document.ВКМ_НачислениеЗаработнойПлаты</content>
   <content>Document.ВКМ_НачислениеФиксированныхПремий</content>
@@ -31,4 +31,5 @@
   <content>Report.ВыработкаCпециалистов</content>
   <content>Report.АнализВыставленныхАктов</content>
   <content>Report.РасчётыССотрудниками</content>
+  <content>Role.ВКМ_КадровикРасчетчик</content>
 </mdclass:Subsystem>

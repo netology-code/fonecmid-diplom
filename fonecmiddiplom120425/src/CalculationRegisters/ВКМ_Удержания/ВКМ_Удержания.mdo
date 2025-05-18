@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CalculationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2de80f68-e5d6-4a3a-9e64-4ed0dcebe8ff">
+<mdclass:CalculationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d85286f4-68f5-4e64-bf72-323618264b3f">
   <producedTypes>
-    <selectionType typeId="897bff31-404c-4ba2-af0e-92cb5a641745" valueTypeId="0dd84019-27c9-41a7-a892-6c276b26f8e5"/>
-    <listType typeId="819a49c3-b3ff-4d14-9cd1-daab898057fd" valueTypeId="5a981fb7-e01f-4ff7-bff1-a8c7cc60ac10"/>
-    <managerType typeId="7e59f5a1-54bc-42f5-b085-bc25f87a82cc" valueTypeId="0816eb94-f87d-467d-84c8-12a0e188cbe4"/>
-    <recordSetType typeId="e292eb8d-8cba-4fc8-847a-71c297edddd9" valueTypeId="78ff17c8-ef7c-4b42-a937-ac1e973aef40"/>
-    <recordKeyType typeId="b282bfbb-8365-4653-a19e-f2f9eb48dceb" valueTypeId="eb33ac5b-da53-49d3-a2ae-0ea20fcd2cbb"/>
-    <recordType typeId="12e2727d-d230-4def-af5e-7d3d2becdda9" valueTypeId="be75be7c-cbf0-4a89-9ad6-2f318223912a"/>
-    <recalcsType typeId="cbf0c5a4-2b8f-43c9-ae78-e8ddfd33f3ad" valueTypeId="033f6253-2324-47e6-be48-702c70e90210"/>
+    <selectionType typeId="70521912-b8a8-4ffe-bd4d-085e86c8df04" valueTypeId="1418c00c-e07a-4bd4-8f4f-07251d0b2e8b"/>
+    <listType typeId="05bf4704-42fe-4ce4-9175-847689c227f9" valueTypeId="7d96893e-3c64-4f96-a4f9-f24a949ac69e"/>
+    <managerType typeId="f1ae040b-5e91-4c86-8ba6-466969825b57" valueTypeId="6af15316-210e-4269-9b16-8f8cb02a3fd2"/>
+    <recordSetType typeId="4abd5698-3c0f-4c28-8936-17163a0e0c27" valueTypeId="d91d5b3a-06d2-4e00-90a7-6af28d22e9a2"/>
+    <recordKeyType typeId="2d837077-6d0f-4269-a30f-254aec78e60a" valueTypeId="3e97990a-ad0e-486f-89ed-729a168a5218"/>
+    <recordType typeId="a2415e6b-c098-40b2-b37c-de0b4161018b" valueTypeId="0d6b90a0-17c4-4f7f-896d-ec35e7b806fb"/>
+    <recalcsType typeId="8d4b93d7-a261-4c80-8fce-87b3f8afcb03" valueTypeId="bca7e65c-cd6c-45ef-9845-81bac7de4ce2"/>
   </producedTypes>
-  <name>ОсновныеНачисления</name>
+  <name>ВКМ_Удержания</name>
   <synonym>
     <key>ru</key>
-    <value>Основные начисления</value>
+    <value>Удержания</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <periodicity>Month</periodicity>
-  <actionPeriod>true</actionPeriod>
-  <schedule>InformationRegister.ГрафикиРаботы</schedule>
-  <scheduleValue>InformationRegister.ГрафикиРаботы.Resource.КоличествоДней</scheduleValue>
-  <scheduleDate>InformationRegister.ГрафикиРаботы.Dimension.Дата</scheduleDate>
-  <chartOfCalculationTypes>ChartOfCalculationTypes.ОсновныеНачисления</chartOfCalculationTypes>
+  <chartOfCalculationTypes>ChartOfCalculationTypes.Удержания</chartOfCalculationTypes>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
     <name>RegistrationPeriod</name>
@@ -114,16 +110,16 @@
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
   <dataLockControlMode>Managed</dataLockControlMode>
-  <resources uuid="40f02fe0-6310-4ee9-8de9-fc63b75d921c">
-    <name>Результат</name>
+  <resources uuid="c4c209eb-9d2d-4490-9111-a5e7794c4b4f">
+    <name>СуммаУдержания</name>
     <synonym>
       <key>ru</key>
-      <value>Результат</value>
+      <value>Сумма удержания</value>
     </synonym>
     <type>
       <types>Number</types>
       <numberQualifiers>
-        <precision>12</precision>
+        <precision>15</precision>
         <scale>2</scale>
       </numberQualifiers>
     </type>
@@ -131,21 +127,7 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <attributes uuid="28b5209a-39aa-40a0-870e-481e09b60b20">
-    <name>График</name>
-    <synonym>
-      <key>ru</key>
-      <value>График</value>
-    </synonym>
-    <type>
-      <types>CatalogRef.Графики</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <scheduleLink>InformationRegister.ГрафикиРаботы.Dimension.График</scheduleLink>
-  </attributes>
-  <dimensions uuid="3b566453-3191-486c-9125-2873499e7c6d">
+  <dimensions uuid="bc5dc270-9c11-4bd6-ab88-a98597210d2f">
     <name>Сотрудник</name>
     <synonym>
       <key>ru</key>

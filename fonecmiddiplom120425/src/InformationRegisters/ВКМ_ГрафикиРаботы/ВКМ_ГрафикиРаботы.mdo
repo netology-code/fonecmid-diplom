@@ -9,7 +9,7 @@
     <recordType typeId="da6fa6f1-3f6e-4176-9412-fe7685e82c83" valueTypeId="36012568-6ee6-4efb-a301-764f3105bab1"/>
     <recordManagerType typeId="e19c4e33-48a0-4b7b-955f-c52b2557782d" valueTypeId="7d571c7b-98aa-4cec-8f7f-ee11a40a2201"/>
   </producedTypes>
-  <name>ГрафикиРаботы</name>
+  <name>ВКМ_ГрафикиРаботы</name>
   <synonym>
     <key>ru</key>
     <value>Графики работы</value>
@@ -96,7 +96,7 @@
       <value>График</value>
     </synonym>
     <type>
-      <types>CatalogRef.Графики</types>
+      <types>CatalogRef.ВКМ_Графики</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

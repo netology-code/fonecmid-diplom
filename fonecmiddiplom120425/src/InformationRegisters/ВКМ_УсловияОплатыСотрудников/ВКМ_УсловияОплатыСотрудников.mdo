@@ -9,7 +9,7 @@
     <recordType typeId="03d099bc-346f-43a1-a6d8-d8ee5ee29b11" valueTypeId="6d08c1e6-afca-4e77-8bbe-83f3b1099ec4"/>
     <recordManagerType typeId="60841aa8-5dd9-4886-b3e2-616d860215f2" valueTypeId="d36711cb-327f-43b8-81ba-95c49b469b57"/>
   </producedTypes>
-  <name>УсловияОплатыСотрудников</name>
+  <name>ВКМ_УсловияОплатыСотрудников</name>
   <synonym>
     <key>ru</key>
     <value>Условия оплаты сотрудников</value>

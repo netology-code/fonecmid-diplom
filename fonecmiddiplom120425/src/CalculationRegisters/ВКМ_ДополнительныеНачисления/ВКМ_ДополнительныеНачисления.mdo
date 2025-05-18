@@ -9,7 +9,7 @@
     <recordType typeId="8cf87ae6-ff3e-475f-8540-5fd5ab11a2b2" valueTypeId="af372b52-2429-423a-9004-0e2e509ec722"/>
     <recalcsType typeId="4b7ea380-228a-4669-808a-483f1c848ff5" valueTypeId="736dd2ee-3429-4f10-858b-86e66c786d1c"/>
   </producedTypes>
-  <name>ДополнительныеНачисления</name>
+  <name>ВКМ_ДополнительныеНачисления</name>
   <synonym>
     <key>ru</key>
     <value>Дополнительные начисления</value>

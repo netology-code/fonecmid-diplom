@@ -64,10 +64,10 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
-  <registerRecords>CalculationRegister.ДополнительныеНачисления</registerRecords>
-  <registerRecords>CalculationRegister.ОсновныеНачисления</registerRecords>
-  <registerRecords>AccumulationRegister.ВзаиморасчетыССотрудниками</registerRecords>
-  <registerRecords>CalculationRegister.Удержания</registerRecords>
+  <registerRecords>CalculationRegister.ВКМ_ДополнительныеНачисления</registerRecords>
+  <registerRecords>CalculationRegister.ВКМ_ОсновныеНачисления</registerRecords>
+  <registerRecords>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</registerRecords>
+  <registerRecords>CalculationRegister.ВКМ_Удержания</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <tabularSections uuid="79a6a8fe-cea5-4d3c-a870-6d5e1eed23fe">
@@ -123,7 +123,7 @@
         <value>График</value>
       </synonym>
       <type>
-        <types>CatalogRef.Графики</types>
+        <types>CatalogRef.ВКМ_Графики</types>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
