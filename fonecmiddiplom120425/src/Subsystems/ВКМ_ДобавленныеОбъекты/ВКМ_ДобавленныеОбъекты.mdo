@@ -32,4 +32,5 @@
   <content>Report.АнализВыставленныхАктов</content>
   <content>Report.РасчётыССотрудниками</content>
   <content>Role.ВКМ_КадровикРасчетчик</content>
+  <content>DataProcessor.ЗаполнениеГрафика</content>
 </mdclass:Subsystem>
