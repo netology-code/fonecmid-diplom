@@ -421,4 +421,13 @@
     <parameterUseMode>Multiple</parameterUseMode>
     <representation>Auto</representation>
   </commands>
+  <commands uuid="1d6ea94e-b151-4f74-b1e3-2421e5fc1425">
+    <name>Заполнить1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заполнить1</value>
+    </synonym>
+    <group>FormCommandBarImportant</group>
+    <representation>Auto</representation>
+  </commands>
 </mdclass:Document>
