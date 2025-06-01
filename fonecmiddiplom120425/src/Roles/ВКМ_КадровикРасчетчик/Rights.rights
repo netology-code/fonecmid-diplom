@@ -51,7 +51,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.ВКМ_выплатаЗарплаты</name>
+		<name>Document.ВКМ_ВыплатаЗарплаты</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>

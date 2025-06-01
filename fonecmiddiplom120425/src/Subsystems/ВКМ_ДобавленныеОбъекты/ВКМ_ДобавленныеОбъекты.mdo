@@ -26,7 +26,7 @@
   <content>ChartOfCalculationTypes.ОсновныеНачисления</content>
   <content>Document.ВКМ_НачислениеЗаработнойПлаты</content>
   <content>Document.ВКМ_НачислениеФиксированныхПремий</content>
-  <content>Document.ВКМ_выплатаЗарплаты</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>Report.ВыработкаCпециалистов</content>
   <content>Report.АнализВыставленныхАктов</content>
@@ -35,4 +35,5 @@
   <content>DataProcessor.ЗаполнениеГрафика</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>ScheduledJob.ВКМ_ОтправкаУведомленияВТелеграмОбслуживаниеКлиента</content>
+  <content>Constant.ВКМ_СтавкаНДФЛ</content>
 </mdclass:Subsystem>

@@ -7,13 +7,13 @@
     <listType typeId="91e2d61e-dfb0-4dfb-af00-c894ca117e84" valueTypeId="1ba8997d-601e-4a92-b2cc-7707686a1907"/>
     <managerType typeId="ee2780a6-95b9-44d1-84a7-74e35ebbca18" valueTypeId="2176a349-03bc-4da2-a447-e0ba8bfcd5ff"/>
   </producedTypes>
-  <name>ВКМ_выплатаЗарплаты</name>
+  <name>ВКМ_ВыплатаЗарплаты</name>
   <synonym>
     <key>ru</key>
     <value>Выплата зарплаты</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Document.ВКМ_выплатаЗарплаты.StandardAttribute.Number</inputByString>
+  <inputByString>Document.ВКМ_ВыплатаЗарплаты.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -64,7 +64,7 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
-  <defaultObjectForm>Document.ВКМ_выплатаЗарплаты.Form.ФормаДокумента</defaultObjectForm>
+  <defaultObjectForm>Document.ВКМ_ВыплатаЗарплаты.Form.ФормаДокумента</defaultObjectForm>
   <registerRecords>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>

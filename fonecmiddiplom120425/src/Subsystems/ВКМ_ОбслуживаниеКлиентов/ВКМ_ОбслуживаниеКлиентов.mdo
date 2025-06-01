@@ -15,4 +15,5 @@
   <content>Role.ВКМ_МассовоеСозданиеДокументовРеализации</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>ScheduledJob.ВКМ_ОтправкаУведомленияВТелеграмОбслуживаниеКлиента</content>
+  <content>Constant.ВКМ_СтавкаНДФЛ</content>
 </mdclass:Subsystem>
