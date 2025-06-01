@@ -13,4 +13,6 @@
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>Role.ВКМ_МассовоеСозданиеДокументовРеализации</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>ScheduledJob.ВКМ_ОтправкаУведомленияВТелеграмОбслуживаниеКлиента</content>
 </mdclass:Subsystem>

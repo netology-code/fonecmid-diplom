@@ -3,7 +3,7 @@
   <name>ВКМ_ДобавленныеОбъекты</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ добавленные объекты</value>
+    <value>Добавленные объекты</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
@@ -33,4 +33,6 @@
   <content>Report.РасчётыССотрудниками</content>
   <content>Role.ВКМ_КадровикРасчетчик</content>
   <content>DataProcessor.ЗаполнениеГрафика</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>ScheduledJob.ВКМ_ОтправкаУведомленияВТелеграмОбслуживаниеКлиента</content>
 </mdclass:Subsystem>

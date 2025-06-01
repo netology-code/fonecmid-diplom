@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="aa47a092-c423-485c-bb56-c876599a19d5">
+  <producedTypes>
+    <objectType typeId="dd0ba794-75bc-43bb-b464-a2f95d01b7dd" valueTypeId="60b458ab-fb83-4cbe-8384-285cc8c4a04d"/>
+    <refType typeId="12446a4a-8ff1-4500-a4cc-0c7ef66e8166" valueTypeId="0f91a264-25f2-42a1-ad99-59732a978220"/>
+    <selectionType typeId="c958f553-d6e2-4187-8c92-21e18d176906" valueTypeId="c5edc31c-0bfb-4ea0-8972-8b18c8119670"/>
+    <listType typeId="b7827e56-2991-41c0-88b5-866be23e2495" valueTypeId="95946255-3444-4782-9959-5822efaaf9c2"/>
+    <managerType typeId="6016bf99-74c1-45a6-94a6-8346f122d74b" valueTypeId="1c00c31e-51e9-4f5c-aa6e-7e2412bb2d6c"/>
+  </producedTypes>
+  <name>ВКМ_УведомленияТелеграмБоту</name>
+  <synonym>
+    <key>ru</key>
+    <value>Уведомления телеграм боту</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="147f9b4f-8187-4d13-96c3-f4d4b4c9c26c">
+    <name>Документ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Документ</value>
+    </synonym>
+    <type>
+      <types>DocumentRef.ВКМ_ОбслуживаниеКлиента</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="509e9d72-d477-424b-84e5-94f20414c0e5">
+    <name>ВремяИзменения</name>
+    <synonym>
+      <key>ru</key>
+      <value>Время изменения</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="73606939-ee8f-4f70-93f6-30c24e983bc0">
+    <name>ТекстСообщения</name>
+    <synonym>
+      <key>ru</key>
+      <value>Текст сообщения</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>
