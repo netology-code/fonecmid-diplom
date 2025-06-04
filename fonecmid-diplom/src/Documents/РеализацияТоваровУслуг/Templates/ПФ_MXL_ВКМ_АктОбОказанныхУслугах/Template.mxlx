@@ -3594,7 +3594,6 @@
 			<endRow>-1</endRow>
 			<beginColumn>0</beginColumn>
 			<endColumn>22</endColumn>
-			<columnsID>115e45c8-53e5-4661-aa9b-ab7ac690a838</columnsID>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
@@ -3605,7 +3604,6 @@
 			<endRow>-1</endRow>
 			<beginColumn>22</beginColumn>
 			<endColumn>22</endColumn>
-			<columnsID>115e45c8-53e5-4661-aa9b-ab7ac690a838</columnsID>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">

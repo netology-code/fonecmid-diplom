@@ -53,6 +53,7 @@
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
     <attributes uuid="e882532b-a845-4154-b1e2-b90432d0a3dc">
       <name>Реализация</name>

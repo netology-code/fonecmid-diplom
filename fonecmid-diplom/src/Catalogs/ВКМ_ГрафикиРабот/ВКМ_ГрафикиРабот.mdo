@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7e1d1bd1-1563-4bdf-b690-e50fa52e530b">
+  <producedTypes>
+    <objectType typeId="5b37456e-549f-46c2-a415-e0f056004405" valueTypeId="b5df8424-6931-4d21-b028-0e7fede2a5d2"/>
+    <refType typeId="d63ef1a6-8486-4e0b-82c9-f6aa6bba3809" valueTypeId="9fde7258-d153-4dcf-be75-cffd97fedd7d"/>
+    <selectionType typeId="0886ce11-93e7-48c4-b1e1-4b5f98bb9497" valueTypeId="e427f77e-cff1-405c-84e6-c2de2cbeb747"/>
+    <listType typeId="7aea6bfc-3b3b-47c8-8e7e-581db62537d6" valueTypeId="dab8ebf0-a5d4-46a5-af2d-f13323535c37"/>
+    <managerType typeId="078e8d24-8146-45ee-94ba-7d54de73c74c" valueTypeId="b7bf4d95-ee9a-48c6-8320-545ae63146de"/>
+  </producedTypes>
+  <name>ВКМ_ГрафикиРабот</name>
+  <synonym>
+    <key>ru</key>
+    <value>Графики работ</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ГрафикиРабот.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВКМ_ГрафикиРабот.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Графики работ</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.ВКМ_ГрафикиРабот.Form.ФормаЭлемента</defaultObjectForm>
+  <forms uuid="10b14dd0-5c34-4f3a-9442-fabc36cd366b">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>

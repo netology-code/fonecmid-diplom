@@ -167,8 +167,8 @@
     </synonym>
     <comment>ВКМ в Тип добавлен ДоговорыКонтрагентов</comment>
     <type>
-      <types>CatalogRef.ДоговорыКонтрагентов</types>
       <types>DocumentRef.ЗаказПокупателя</types>
+      <types>CatalogRef.ДоговорыКонтрагентов</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

@@ -8,6 +8,6 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <subsystems>ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
-  <subsystems>ВКМ_РасчётУправленческойЗарплаты</subsystems>
+  <subsystems>ВКМ_РасчетУправленческойЗарплаты</subsystems>
   <subsystems>ВКМ_ОбслуживаниеКлиентов</subsystems>
 </mdclass:Subsystem>
