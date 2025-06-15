@@ -7,18 +7,6 @@
 	<dataSet xsi:type="DataSetQuery">
 		<name>НаборДанных1</name>
 		<field xsi:type="DataSetFieldField">
-			<dataPath>ВКМ_Клиент</dataPath>
-			<field>ВКМ_Клиент</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>ВКМ_Договор</dataPath>
-			<field>ВКМ_Договор</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>ВКМ_ЧасыКОплатеКлиенту</dataPath>
-			<field>ВКМ_ЧасыКОплатеКлиенту</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
 			<dataPath>СуммаПоНоменклатуре</dataPath>
 			<field>СуммаПоНоменклатуре</field>
 			<title xsi:type="v8:LocalStringType">
@@ -28,36 +16,117 @@
 				</v8:item>
 			</title>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>Клиент</dataPath>
+			<field>Клиент</field>
+			<role>
+				<dcscom:dimension>true</dcscom:dimension>
+			</role>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>Договор</dataPath>
+			<field>Договор</field>
+			<role>
+				<dcscom:dimension>true</dcscom:dimension>
+			</role>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>ЧасыКОплатеКлиенту</dataPath>
+			<field>ЧасыКОплатеКлиенту</field>
+			<title xsi:type="v8:LocalStringType">
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Часы к оплате клиенту</v8:content>
+				</v8:item>
+			</title>
+			<role>
+				<dcscom:balance>true</dcscom:balance>
+				<dcscom:balanceGroupName/>
+				<dcscom:balanceType>None</dcscom:balanceType>
+			</role>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
-	ВКМ_ОбслуживаниеКлиента.ВКМ_Клиент КАК ВКМ_Клиент,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_Договор КАК ВКМ_Договор,
-	ВКМ_ОбслуживаниеКлиентаВКМ_ВыполненныеРаботы.ВКМ_ЧасыКОплатеКлиенту КАК ВКМ_ЧасыКОплатеКлиенту,
-	ВКМ_ОбслуживаниеКлиентаВКМ_ВыполненныеРаботы.ВКМ_ЧасыКОплатеКлиенту * ВКМ_НоменклатураРаботыСпециалиста.Значение КАК СуммаПоНоменклатуре
+	ВКМ_ВыполненныеКлиентуРаботыОстаткиИОбороты.Клиент КАК Клиент,
+	ВКМ_ВыполненныеКлиентуРаботыОстаткиИОбороты.Договор КАК Договор,
+	ВКМ_ВыполненныеКлиентуРаботыОстаткиИОбороты.КоличествоЧасовКонечныйОстаток КАК ЧасыКОплатеКлиенту,
+	ВКМ_ВыполненныеКлиентуРаботыОстаткиИОбороты.КоличествоЧасовКонечныйОстаток *
+		ВКМ_НоменклатураРаботыСпециалиста.Значение КАК СуммаПоНоменклатуре
 ИЗ
-	Константа.ВКМ_НоменклатураРаботыСпециалиста КАК ВКМ_НоменклатураРаботыСпециалиста,
-	Документ.ВКМ_ОбслуживаниеКлиента КАК ВКМ_ОбслуживаниеКлиента
-		ЛЕВОЕ СОЕДИНЕНИЕ Документ.ВКМ_ОбслуживаниеКлиента.ВКМ_ВыполненныеРаботы КАК ВКМ_ОбслуживаниеКлиентаВКМ_ВыполненныеРаботы
-		ПО (ВКМ_ОбслуживаниеКлиентаВКМ_ВыполненныеРаботы.Ссылка = ВКМ_ОбслуживаниеКлиента.Ссылка)</query>
+	РегистрНакопления.ВКМ_ВыполненныеКлиентуРаботы.ОстаткиИОбороты(&amp;НачалоПериода, &amp;КонецПериода,,,) КАК
+		ВКМ_ВыполненныеКлиентуРаботыОстаткиИОбороты,
+	Константа.ВКМ_НоменклатураРаботыСпециалиста КАК ВКМ_НоменклатураРаботыСпециалиста</query>
 	</dataSet>
+	<parameter>
+		<name>НачалоПериода</name>
+		<title xsi:type="v8:LocalStringType">
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>Начало периода</v8:content>
+			</v8:item>
+		</title>
+		<valueType>
+			<v8:Type>xs:dateTime</v8:Type>
+			<v8:DateQualifiers>
+				<v8:DateFractions>DateTime</v8:DateFractions>
+			</v8:DateQualifiers>
+		</valueType>
+		<value xsi:type="xs:dateTime">2024-12-01T00:00:00</value>
+		<useRestriction>false</useRestriction>
+	</parameter>
+	<parameter>
+		<name>КонецПериода</name>
+		<title xsi:type="v8:LocalStringType">
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>Конец периода</v8:content>
+			</v8:item>
+		</title>
+		<valueType>
+			<v8:Type>xs:dateTime</v8:Type>
+			<v8:DateQualifiers>
+				<v8:DateFractions>DateTime</v8:DateFractions>
+			</v8:DateQualifiers>
+		</valueType>
+		<value xsi:type="xs:dateTime">2026-01-01T00:00:00</value>
+		<useRestriction>false</useRestriction>
+	</parameter>
 	<settingsVariant>
 		<dcsset:name>Основной</dcsset:name>
 		<dcsset:presentation xsi:type="xs:string">Основной</dcsset:presentation>
 		<dcsset:settings xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows">
 			<dcsset:selection>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>ВКМ_Клиент</dcsset:field>
+					<dcsset:field>Договор</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>ВКМ_Договор</dcsset:field>
+					<dcsset:field>Клиент</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>ВКМ_ЧасыКОплатеКлиенту</dcsset:field>
+					<dcsset:field>ЧасыКОплатеКлиенту</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>СуммаПоНоменклатуре</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
+			<dcsset:dataParameters>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:use>false</dcscor:use>
+					<dcscor:parameter>НачалоПериода</dcscor:parameter>
+					<dcsset:userSettingID>ad33a01a-945d-4b8e-b989-cfe0235f2ddf</dcsset:userSettingID>
+				</dcscor:item>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:use>false</dcscor:use>
+					<dcscor:parameter>КонецПериода</dcscor:parameter>
+					<dcsset:userSettingID>3ea8eba8-4687-4a20-9ed7-1cb2563a847f</dcsset:userSettingID>
+				</dcscor:item>
+			</dcsset:dataParameters>
+			<dcsset:outputParameters>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>ВыводитьПараметрыДанных</dcscor:parameter>
+					<dcscor:value xsi:type="dcsset:DataCompositionTextOutputType">Auto</dcscor:value>
+				</dcscor:item>
+			</dcsset:outputParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
 				<dcsset:order>
 					<dcsset:item xsi:type="dcsset:OrderItemAuto"/>

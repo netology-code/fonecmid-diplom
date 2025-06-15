@@ -7,7 +7,7 @@
   <name>ВКМ_АнализВыставленныхАктов</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ анализ выставленных актов</value>
+    <value>Анализ выставленных актов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <mainDataCompositionSchema>Report.ВКМ_АнализВыставленныхАктов.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>

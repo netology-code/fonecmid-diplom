@@ -7,11 +7,11 @@
   <name>ВКМ_РасчётыССотрудниками</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ расчёты с сотрудниками</value>
+    <value>Расчёты с сотрудниками</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <mainDataCompositionSchema>Report.ВКМ_РасчётыССотрудниками.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
-  <templates uuid="33e10481-740e-411c-a9b8-c1d222439eb9">
+  <templates uuid="d55f3bec-a42a-48f6-b99f-ee6bee851735">
     <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>
       <key>ru</key>

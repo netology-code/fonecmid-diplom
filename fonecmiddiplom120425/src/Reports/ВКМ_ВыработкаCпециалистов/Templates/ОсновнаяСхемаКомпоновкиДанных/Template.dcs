@@ -108,7 +108,7 @@
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>НачалоПериода</dcscor:parameter>
 					<dcscor:value xsi:type="xs:dateTime">0001-01-01T00:00:00</dcscor:value>
-					<dcsset:userSettingID>8e7af236-38d7-4c96-95fe-92f23659988b</dcsset:userSettingID>
+					<dcsset:userSettingID>d92dabba-bce8-4ec7-ad04-8bd6101273df</dcsset:userSettingID>
 				</dcscor:item>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>КонецПериода</dcscor:parameter>

@@ -16,4 +16,5 @@
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>ScheduledJob.ВКМ_ОтправкаУведомленияВТелеграмОбслуживаниеКлиента</content>
   <content>Constant.ВКМ_СтавкаНДФЛ</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
 </mdclass:Subsystem>
