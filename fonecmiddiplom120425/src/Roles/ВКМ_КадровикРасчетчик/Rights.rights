@@ -196,6 +196,17 @@
 		</right>
 	</object>
 	<object>
+		<name>Report.ВКМ_РасходЗаланированныхОтпусков</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.Пользователи</name>
 		<right>
 			<name>Read</name>
@@ -1184,7 +1195,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Report.ВыработкаCпециалистов</name>
+		<name>Report.ВКМ_ВыработкаCпециалистов</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>
@@ -1254,7 +1265,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Report.РасчётыССотрудниками</name>
+		<name>Report.ВКМ_РасчётыССотрудниками</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>

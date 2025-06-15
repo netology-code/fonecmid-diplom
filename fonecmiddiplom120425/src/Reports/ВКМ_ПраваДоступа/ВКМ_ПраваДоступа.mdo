@@ -4,14 +4,14 @@
     <objectType typeId="ed536904-bff2-4883-9ad3-e05928966c3f" valueTypeId="d4bd3ca6-e2b7-4896-95cb-1841f2e025b7"/>
     <managerType typeId="7797e5eb-b41c-43db-b428-d4e57d387e33" valueTypeId="350269a7-6fb7-4432-9317-5a76d8cb21e2"/>
   </producedTypes>
-  <name>ПраваДоступа</name>
+  <name>ВКМ_ПраваДоступа</name>
   <synonym>
     <key>ru</key>
-    <value>Права доступа</value>
+    <value>ВКМ права доступа</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>CommonForm.ФормаОтчета</defaultForm>
-  <mainDataCompositionSchema>Report.ПраваДоступа.Template.МакетПараметров</mainDataCompositionSchema>
+  <mainDataCompositionSchema>Report.ВКМ_ПраваДоступа.Template.МакетПараметров</mainDataCompositionSchema>
   <defaultSettingsForm>CommonForm.ФормаНастроекОтчета</defaultSettingsForm>
   <defaultVariantForm>CommonForm.ФормаВариантаОтчета</defaultVariantForm>
   <variantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</variantsStorage>

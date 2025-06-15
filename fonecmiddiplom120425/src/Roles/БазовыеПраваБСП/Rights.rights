@@ -944,7 +944,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Report.ПраваДоступа</name>
+		<name>Report.ВКМ_ПраваДоступа</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>

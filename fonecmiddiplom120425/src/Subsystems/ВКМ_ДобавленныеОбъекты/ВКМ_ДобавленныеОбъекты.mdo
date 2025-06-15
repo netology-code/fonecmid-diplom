@@ -28,12 +28,14 @@
   <content>Document.ВКМ_НачислениеФиксированныхПремий</content>
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
-  <content>Report.ВыработкаCпециалистов</content>
-  <content>Report.АнализВыставленныхАктов</content>
-  <content>Report.РасчётыССотрудниками</content>
+  <content>Report.ВКМ_ВыработкаCпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_РасчётыССотрудниками</content>
   <content>Role.ВКМ_КадровикРасчетчик</content>
   <content>DataProcessor.ЗаполнениеГрафика</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>ScheduledJob.ВКМ_ОтправкаУведомленияВТелеграмОбслуживаниеКлиента</content>
   <content>Constant.ВКМ_СтавкаНДФЛ</content>
+  <content>Report.ВКМ_РасходЗаланированныхОтпусков</content>
+  <content>AccumulationRegister.ВКМ_ГрафикОтпусков</content>
 </mdclass:Subsystem>

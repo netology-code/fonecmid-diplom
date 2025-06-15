@@ -224,7 +224,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Report.АнализВыставленныхАктов</name>
+		<name>Report.ВКМ_АнализВыставленныхАктов</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>

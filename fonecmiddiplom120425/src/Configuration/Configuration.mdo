@@ -1296,15 +1296,16 @@
   <reports>Report.МестаИспользованияСсылок</reports>
   <reports>Report.ОбъемНенужныхФайлов</reports>
   <reports>Report.ОценкаПроизводительности</reports>
-  <reports>Report.ПраваДоступа</reports>
+  <reports>Report.ВКМ_ПраваДоступа</reports>
   <reports>Report.ПраваРолей</reports>
   <reports>Report.ПроверкаЦелостностиТома</reports>
   <reports>Report.ПрогрессОтложенногоОбновления</reports>
   <reports>Report.СведенияОПользователях</reports>
   <reports>Report.УниверсальныйОтчет</reports>
-  <reports>Report.ВыработкаCпециалистов</reports>
-  <reports>Report.АнализВыставленныхАктов</reports>
-  <reports>Report.РасчётыССотрудниками</reports>
+  <reports>Report.ВКМ_ВыработкаCпециалистов</reports>
+  <reports>Report.ВКМ_АнализВыставленныхАктов</reports>
+  <reports>Report.ВКМ_РасчётыССотрудниками</reports>
+  <reports>Report.ВКМ_РасходЗаланированныхОтпусков</reports>
   <dataProcessors>DataProcessor.АвтоматическоеИзвлечениеТекстов</dataProcessors>
   <dataProcessors>DataProcessor.ВводКонтактнойИнформации</dataProcessors>
   <dataProcessors>DataProcessor.ГрупповоеИзменениеРеквизитов</dataProcessors>
@@ -1411,6 +1412,7 @@
   <accumulationRegisters>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ВКМ_ГрафикОтпусков</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения</chartsOfCharacteristicTypes>
   <chartsOfCalculationTypes>ChartOfCalculationTypes.ОсновныеНачисления</chartsOfCalculationTypes>
   <chartsOfCalculationTypes>ChartOfCalculationTypes.ДополнительныеНачисления</chartsOfCalculationTypes>

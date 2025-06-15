@@ -41,7 +41,7 @@
   <content>CommonModule.УправлениеДоступомСлужебныйПовтИсп</content>
   <content>DefinedType.ВладелецНастроекПравОбъект</content>
   <content>SessionParameter.ОграничениеДоступаНаУровнеЗаписейИспользуется</content>
-  <content>Report.ПраваДоступа</content>
+  <content>Report.ВКМ_ПраваДоступа</content>
   <content>EventSubscription.ПроверитьДоступПередЗаписью</content>
   <content>CommonCommand.ПраваДоступа</content>
   <content>DefinedType.ВладелецСОграничениемПоНаборамЗначенийДоступаОбъект</content>

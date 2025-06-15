@@ -4,13 +4,13 @@
     <objectType typeId="33983979-9424-477b-a7d4-acdb0d494016" valueTypeId="1c7284ec-0e60-4172-98b3-3ffe10607eb8"/>
     <managerType typeId="672d8178-eadf-4e4e-af92-8431222a6090" valueTypeId="d25ad0d2-107f-4300-ae42-9a39b0cec7e8"/>
   </producedTypes>
-  <name>ВыработкаCпециалистов</name>
+  <name>ВКМ_ВыработкаCпециалистов</name>
   <synonym>
     <key>ru</key>
-    <value>Выработка cпециалистов</value>
+    <value>ВКМ выработка cпециалистов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <mainDataCompositionSchema>Report.ВыработкаCпециалистов.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <mainDataCompositionSchema>Report.ВКМ_ВыработкаCпециалистов.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
   <templates uuid="b2574e0f-a17c-45cd-8b24-838491fa4ab3">
     <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>

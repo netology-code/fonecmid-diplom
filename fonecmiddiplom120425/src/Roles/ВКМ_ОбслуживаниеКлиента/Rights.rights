@@ -1306,7 +1306,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Report.ВыработкаCпециалистов</name>
+		<name>Report.ВКМ_ВыработкаCпециалистов</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>
