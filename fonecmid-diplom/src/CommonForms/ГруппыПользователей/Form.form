@@ -22,7 +22,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаЗаписатьИЗакрытьExtendedTooltip</name>
+            <name>ФормаЗаписатьИЗакрытьРасширеннаяПодсказка</name>
             <id>30</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -48,7 +48,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаИсключитьИзВсехГруппExtendedTooltip</name>
+            <name>ФормаИсключитьИзВсехГруппРасширеннаяПодсказка</name>
             <id>31</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -73,7 +73,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ВывестиСписокExtendedTooltip</name>
+            <name>ВывестиСписокРасширеннаяПодсказка</name>
             <id>32</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -131,7 +131,7 @@
           <value>Командная панель</value>
         </title>
         <extendedTooltip>
-          <name>КоманднаяПанельExtendedTooltip</name>
+          <name>КоманднаяПанельРасширеннаяПодсказка</name>
           <id>29</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -193,7 +193,7 @@
               <name>ДеревоГруппПометкаПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ДеревоГруппПометкаExtendedTooltip</name>
+              <name>ДеревоГруппПометкаРасширеннаяПодсказка</name>
               <id>37</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -227,7 +227,7 @@
               <segments>ДеревоГрупп.Картинка</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ДеревоГруппКартинкаExtendedTooltip</name>
+              <name>ДеревоГруппКартинкаРасширеннаяПодсказка</name>
               <id>38</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -273,7 +273,7 @@
               <segments>ДеревоГрупп.Группа</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ДеревоГруппГруппаExtendedTooltip</name>
+              <name>ДеревоГруппГруппаРасширеннаяПодсказка</name>
               <id>39</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -313,7 +313,7 @@
             <value>Пометка картинка</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаПометкаКартинкаExtendedTooltip</name>
+            <name>ГруппаПометкаКартинкаРасширеннаяПодсказка</name>
             <id>36</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -409,7 +409,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ДеревоГруппExtendedTooltip</name>
+          <name>ДеревоГруппРасширеннаяПодсказка</name>
           <id>35</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -451,7 +451,7 @@
         <value>Группа</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаExtendedTooltip</name>
+        <name>ГруппаРасширеннаяПодсказка</name>
         <id>28</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -482,7 +482,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КартинкаПредупрежденияExtendedTooltip</name>
+          <name>КартинкаПредупрежденияРасширеннаяПодсказка</name>
           <id>41</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -517,7 +517,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстПредупрежденияExtendedTooltip</name>
+          <name>ТекстПредупрежденияРасширеннаяПодсказка</name>
           <id>42</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -549,7 +549,7 @@
         <value>Предупреждение</value>
       </title>
       <extendedTooltip>
-        <name>ПредупреждениеExtendedTooltip</name>
+        <name>ПредупреждениеРасширеннаяПодсказка</name>
         <id>40</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -574,7 +574,7 @@
       <value>Группы или предупреждение</value>
     </title>
     <extendedTooltip>
-      <name>ГруппыИлиПредупреждениеExtendedTooltip</name>
+      <name>ГруппыИлиПредупреждениеРасширеннаяПодсказка</name>
       <id>27</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

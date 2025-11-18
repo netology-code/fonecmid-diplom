@@ -150,7 +150,7 @@
         </userVisible>
         <defaultItem>true</defaultItem>
         <extendedTooltip>
-          <name>ПроверитьЗаполнениеАдресаExtendedTooltip</name>
+          <name>ПроверитьЗаполнениеАдресаРасширеннаяПодсказка</name>
           <id>138</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -325,7 +325,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОчиститьАдресExtendedTooltip</name>
+          <name>ФормаОчиститьАдресРасширеннаяПодсказка</name>
           <id>143</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -555,7 +555,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>148</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -582,7 +582,7 @@
         <value>Панель команд формы</value>
       </title>
       <extendedTooltip>
-        <name>ПанельКомандФормыExtendedTooltip</name>
+        <name>ПанельКомандФормыРасширеннаяПодсказка</name>
         <id>139</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -951,7 +951,7 @@
                 <name>СтранаПриИзменении</name>
               </handlers>
               <extendedTooltip>
-                <name>СтранаExtendedTooltip</name>
+                <name>СтранаРасширеннаяПодсказка</name>
                 <id>107</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1044,7 +1044,7 @@
                 <name>НаселенныйПунктПриИзменении</name>
               </handlers>
               <extendedTooltip>
-                <name>НаселенныйПунктExtendedTooltip</name>
+                <name>НаселенныйПунктРасширеннаяПодсказка</name>
                 <id>113</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1113,7 +1113,7 @@
                 <name>УлицаПриИзменении</name>
               </handlers>
               <extendedTooltip>
-                <name>УлицаExtendedTooltip</name>
+                <name>УлицаРасширеннаяПодсказка</name>
                 <id>114</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1225,7 +1225,7 @@
                     <name>ТипДомаПриИзменении</name>
                   </handlers>
                   <extendedTooltip>
-                    <name>ТипДомаExtendedTooltip</name>
+                    <name>ТипДомаРасширеннаяПодсказка</name>
                     <id>116</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1275,7 +1275,7 @@
                     <name>ДомПриИзменении</name>
                   </handlers>
                   <extendedTooltip>
-                    <name>ДомExtendedTooltip</name>
+                    <name>ДомРасширеннаяПодсказка</name>
                     <id>117</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1369,7 +1369,7 @@
                     <name>ТипСтроенияПриИзменении</name>
                   </handlers>
                   <extendedTooltip>
-                    <name>ТипСтроенияExtendedTooltip</name>
+                    <name>ТипСтроенияРасширеннаяПодсказка</name>
                     <id>120</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1423,7 +1423,7 @@
                     <name>СтроениеПриИзменении</name>
                   </handlers>
                   <extendedTooltip>
-                    <name>СтроениеExtendedTooltip</name>
+                    <name>СтроениеРасширеннаяПодсказка</name>
                     <id>121</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1548,7 +1548,7 @@
                     <name>ТипПомещенияПриИзменении</name>
                   </handlers>
                   <extendedTooltip>
-                    <name>ТипПомещенияExtendedTooltip</name>
+                    <name>ТипПомещенияРасширеннаяПодсказка</name>
                     <id>125</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1606,7 +1606,7 @@
                     <name>ПомещениеПриИзменении</name>
                   </handlers>
                   <extendedTooltip>
-                    <name>ПомещениеExtendedTooltip</name>
+                    <name>ПомещениеРасширеннаяПодсказка</name>
                     <id>126</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -2219,7 +2219,7 @@
                 <name>ИндексПриИзменении</name>
               </handlers>
               <extendedTooltip>
-                <name>ИндексExtendedTooltip</name>
+                <name>ИндексРасширеннаяПодсказка</name>
                 <id>110</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -2388,7 +2388,7 @@
                 <value>Представление адреса</value>
               </toolTip>
               <extendedTooltip>
-                <name>ПредставлениеАдресаExtendedTooltip</name>
+                <name>ПредставлениеАдресаРасширеннаяПодсказка</name>
                 <id>130</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -2696,7 +2696,7 @@
               <name>ПредставлениеИностранногоАдресаПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ПредставлениеИностранногоАдресаExtendedTooltip</name>
+              <name>ПредставлениеИностранногоАдресаРасширеннаяПодсказка</name>
               <id>132</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -3219,7 +3219,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаКомандаОКExtendedTooltip</name>
+          <name>ФормаКомандаОКРасширеннаяПодсказка</name>
           <id>140</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -3248,7 +3248,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОтменаExtendedTooltip</name>
+          <name>ФормаОтменаРасширеннаяПодсказка</name>
           <id>141</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

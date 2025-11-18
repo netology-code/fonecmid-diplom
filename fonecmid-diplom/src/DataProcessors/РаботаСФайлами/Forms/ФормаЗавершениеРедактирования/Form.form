@@ -48,7 +48,7 @@
             <segments>ВыбранныеФайлы.ИндексКартинки</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ВыбранныеФайлыИндексКартинкиExtendedTooltip</name>
+            <name>ВыбранныеФайлыИндексКартинкиРасширеннаяПодсказка</name>
             <id>44</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -127,7 +127,7 @@
           <value>Картинка и наименование</value>
         </title>
         <extendedTooltip>
-          <name>КартинкаИНаименованиеExtendedTooltip</name>
+          <name>КартинкаИНаименованиеРасширеннаяПодсказка</name>
           <id>43</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -225,7 +225,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ВыбранныеФайлыExtendedTooltip</name>
+        <name>ВыбранныеФайлыРасширеннаяПодсказка</name>
         <id>42</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -312,7 +312,7 @@
       <segments>Комментарий</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОписаниеExtendedTooltip</name>
+      <name>ОписаниеРасширеннаяПодсказка</name>
       <id>48</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -358,7 +358,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>ХранитьВерсииExtendedTooltip</name>
+      <name>ХранитьВерсииРасширеннаяПодсказка</name>
       <id>49</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -429,7 +429,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>55</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -464,7 +464,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
+      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
       <id>53</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

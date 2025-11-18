@@ -200,7 +200,7 @@
             </dataPath>
             <defaultItem>true</defaultItem>
             <extendedTooltip>
-              <name>ПредставлениеExtendedTooltip</name>
+              <name>ПредставлениеРасширеннаяПодсказка</name>
               <id>123</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -358,7 +358,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>НаборыСвойствExtendedTooltip</name>
+            <name>НаборыСвойствРасширеннаяПодсказка</name>
             <id>122</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -711,7 +711,7 @@
           <segments>Свойства.Заголовок</segments>
         </dataPath>
         <extendedTooltip>
-          <name>СвойстваЗаголовокExtendedTooltip</name>
+          <name>СвойстваЗаголовокРасширеннаяПодсказка</name>
           <id>134</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -755,7 +755,7 @@
           <value>Типы значения, которое можно ввести при заполнении реквизита.</value>
         </toolTip>
         <extendedTooltip>
-          <name>СвойстваТипЗначенияExtendedTooltip</name>
+          <name>СвойстваТипЗначенияРасширеннаяПодсказка</name>
           <id>135</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -797,7 +797,7 @@
           <value>Настройка проверки заполненности дополнительного реквизита.</value>
         </toolTip>
         <extendedTooltip>
-          <name>СвойстваЗаполнятьОбязательноExtendedTooltip</name>
+          <name>СвойстваЗаполнятьОбязательноРасширеннаяПодсказка</name>
           <id>136</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -833,7 +833,7 @@
           <value>Реквизит использует список значений реквизита-образца.</value>
         </toolTip>
         <extendedTooltip>
-          <name>СвойстваОбщиеЗначенияExtendedTooltip</name>
+          <name>СвойстваОбщиеЗначенияРасширеннаяПодсказка</name>
           <id>137</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -869,7 +869,7 @@
           <value>Реквизит может быть в нескольких разных наборах.</value>
         </toolTip>
         <extendedTooltip>
-          <name>СвойстваОбщееExtendedTooltip</name>
+          <name>СвойстваОбщееРасширеннаяПодсказка</name>
           <id>138</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1034,7 +1034,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>СвойстваExtendedTooltip</name>
+        <name>СвойстваРасширеннаяПодсказка</name>
         <id>133</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1058,7 +1058,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СвойстваКонтекстноеМенюСоздатьExtendedTooltip</name>
+              <name>СвойстваКонтекстноеМенюСоздатьРасширеннаяПодсказка</name>
               <id>126</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1109,7 +1109,7 @@
             <value>Добавить</value>
           </title>
           <extendedTooltip>
-            <name>СвойстваКонтекстноеМенюПодменюДобавитьExtendedTooltip</name>
+            <name>СвойстваКонтекстноеМенюПодменюДобавитьРасширеннаяПодсказка</name>
             <id>125</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1138,7 +1138,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СвойстваКонтекстноеМенюСкопироватьExtendedTooltip</name>
+              <name>СвойстваКонтекстноеМенюСкопироватьРасширеннаяПодсказка</name>
               <id>130</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1163,7 +1163,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СвойстваКонтекстноеМенюИзменитьExtendedTooltip</name>
+              <name>СвойстваКонтекстноеМенюИзменитьРасширеннаяПодсказка</name>
               <id>131</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1188,7 +1188,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СвойстваКонтекстноеМенюПометитьНаУдалениеExtendedTooltip</name>
+              <name>СвойстваКонтекстноеМенюПометитьНаУдалениеРасширеннаяПодсказка</name>
               <id>132</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1214,7 +1214,7 @@
             <value>Свойства контекстное меню группа кнопок 2</value>
           </title>
           <extendedTooltip>
-            <name>СвойстваКонтекстноеМенюГруппаКнопок2ExtendedTooltip</name>
+            <name>СвойстваКонтекстноеМенюГруппаКнопок2РасширеннаяПодсказка</name>
             <id>129</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1390,7 +1390,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СвойстваСоздатьExtendedTooltip</name>
+          <name>СвойстваСоздатьРасширеннаяПодсказка</name>
           <id>107</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1441,7 +1441,7 @@
         <value>Добавить</value>
       </title>
       <extendedTooltip>
-        <name>СвойстваПодменюДобавитьExtendedTooltip</name>
+        <name>СвойстваПодменюДобавитьРасширеннаяПодсказка</name>
         <id>106</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1469,7 +1469,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СвойстваСкопироватьExtendedTooltip</name>
+          <name>СвойстваСкопироватьРасширеннаяПодсказка</name>
           <id>111</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1495,7 +1495,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СвойстваИзменитьExtendedTooltip</name>
+          <name>СвойстваИзменитьРасширеннаяПодсказка</name>
           <id>112</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1521,7 +1521,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СвойстваПометитьНаУдалениеExtendedTooltip</name>
+          <name>СвойстваПометитьНаУдалениеРасширеннаяПодсказка</name>
           <id>113</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1571,7 +1571,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СвойстваПереместитьВверхExtendedTooltip</name>
+          <name>СвойстваПереместитьВверхРасширеннаяПодсказка</name>
           <id>115</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1597,7 +1597,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СвойстваПереместитьВнизExtendedTooltip</name>
+          <name>СвойстваПереместитьВнизРасширеннаяПодсказка</name>
           <id>116</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1744,7 +1744,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаИзменитьФормуExtendedTooltip</name>
+        <name>ФормаИзменитьФормуРасширеннаяПодсказка</name>
         <id>119</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1769,7 +1769,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>120</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

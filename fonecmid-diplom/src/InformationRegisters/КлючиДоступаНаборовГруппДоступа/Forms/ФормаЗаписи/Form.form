@@ -160,7 +160,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
+        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
         <id>11</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

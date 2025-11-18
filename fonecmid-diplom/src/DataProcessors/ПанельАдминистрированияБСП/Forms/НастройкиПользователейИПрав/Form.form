@@ -16,7 +16,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОписаниеРазделаExtendedTooltip</name>
+        <name>ОписаниеРазделаРасширеннаяПодсказка</name>
         <id>2038</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -50,7 +50,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>2041</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -76,7 +76,7 @@
         <value>Справка</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСправкаExtendedTooltip</name>
+        <name>ГруппаСправкаРасширеннаяПодсказка</name>
         <id>2040</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -100,7 +100,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокExtendedTooltip</name>
+      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
       <id>2037</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -133,7 +133,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ОткрытьПользователиExtendedTooltip</name>
+          <name>ОткрытьПользователиРасширеннаяПодсказка</name>
           <id>2044</id>
           <title>
             <key>ru</key>
@@ -181,7 +181,7 @@
           <name>ИспользоватьГруппыПользователейПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ИспользоватьГруппыПользователейExtendedTooltip</name>
+          <name>ИспользоватьГруппыПользователейРасширеннаяПодсказка</name>
           <id>2047</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -231,7 +231,7 @@
             <name>ИспользоватьВнешнихПользователейПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьВнешнихПользователейExtendedTooltip</name>
+            <name>ИспользоватьВнешнихПользователейРасширеннаяПодсказка</name>
             <id>2072</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -557,7 +557,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОткрытьГруппыДоступаExtendedTooltip</name>
+            <name>ОткрытьГруппыДоступаРасширеннаяПодсказка</name>
             <id>2052</id>
             <title>
               <key>ru</key>
@@ -601,7 +601,7 @@
             <name>ОграничиватьДоступНаУровнеЗаписейПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ОграничиватьДоступНаУровнеЗаписейExtendedTooltip</name>
+            <name>ОграничиватьДоступНаУровнеЗаписейРасширеннаяПодсказка</name>
             <id>2058</id>
             <type>Label</type>
             <autoMaxHeight>true</autoMaxHeight>
@@ -663,7 +663,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОткрытьПрофилиГруппДоступаExtendedTooltip</name>
+            <name>ОткрытьПрофилиГруппДоступаРасширеннаяПодсказка</name>
             <id>2055</id>
             <title>
               <key>ru</key>
@@ -901,7 +901,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КопированиеНастроекПользователейExtendedTooltip</name>
+            <name>КопированиеНастроекПользователейРасширеннаяПодсказка</name>
             <id>2062</id>
             <title>
               <key>ru</key>
@@ -934,7 +934,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаКопированиеНастроекПользователейExtendedTooltip</name>
+          <name>ГруппаКопированиеНастроекПользователейРасширеннаяПодсказка</name>
           <id>2061</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -964,7 +964,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>НастройкиПользователейExtendedTooltip</name>
+            <name>НастройкиПользователейРасширеннаяПодсказка</name>
             <id>2065</id>
             <title>
               <key>ru</key>
@@ -997,7 +997,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаНастройкиПользователейExtendedTooltip</name>
+          <name>ГруппаНастройкиПользователейРасширеннаяПодсказка</name>
           <id>2064</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1056,7 +1056,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ОчисткаНастроекПользователейExtendedTooltip</name>
+          <name>ОчисткаНастроекПользователейРасширеннаяПодсказка</name>
           <id>2068</id>
           <title>
             <key>ru</key>
@@ -1089,7 +1089,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаОчисткаНастроекПользователейExtendedTooltip</name>
+        <name>ГруппаОчисткаНастроекПользователейРасширеннаяПодсказка</name>
         <id>2067</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1311,7 +1311,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОткрытьНастройкиРегистрацииСобытийДоступаКПерсональнымДаннымExtendedTooltip</name>
+            <name>ОткрытьНастройкиРегистрацииСобытийДоступаКПерсональнымДаннымРасширеннаяПодсказка</name>
             <id>2214</id>
             <title>
               <key>ru</key>
@@ -1344,7 +1344,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаОткрытьНастройкиРегистрацииСобытийДоступаКПерсональнымДаннымExtendedTooltip</name>
+          <name>ГруппаОткрытьНастройкиРегистрацииСобытийДоступаКПерсональнымДаннымРасширеннаяПодсказка</name>
           <id>2212</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1547,7 +1547,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ОбработкаЗащитаПерсональныхДанныхExtendedTooltip</name>
+          <name>ОбработкаЗащитаПерсональныхДанныхРасширеннаяПодсказка</name>
           <id>2218</id>
           <title>
             <key>ru</key>
@@ -1580,7 +1580,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаОбработкаЗащитаПерсональныхДанныхExtendedTooltip</name>
+        <name>ГруппаОбработкаЗащитаПерсональныхДанныхРасширеннаяПодсказка</name>
         <id>2216</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1608,7 +1608,7 @@
       <value>Защита персональных данных</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗащитаПерсональныхДанныхExtendedTooltip</name>
+      <name>ГруппаЗащитаПерсональныхДанныхРасширеннаяПодсказка</name>
       <id>2210</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

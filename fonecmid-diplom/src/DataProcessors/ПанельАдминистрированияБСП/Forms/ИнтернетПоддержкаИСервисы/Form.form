@@ -49,7 +49,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>1604</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -75,7 +75,7 @@
         <value>Справка</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСправкаExtendedTooltip</name>
+        <name>ГруппаСправкаРасширеннаяПодсказка</name>
         <id>1603</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -99,7 +99,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокExtendedTooltip</name>
+      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
       <id>1600</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -258,7 +258,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаОбработкаЗагрузкаКурсовВалютExtendedTooltip</name>
+        <name>ГруппаОбработкаЗагрузкаКурсовВалютРасширеннаяПодсказка</name>
         <id>1644</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -286,7 +286,7 @@
       <value>Классификаторы и курсы валют</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКлассификаторыExtendedTooltip</name>
+      <name>ГруппаКлассификаторыРасширеннаяПодсказка</name>
       <id>1638</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

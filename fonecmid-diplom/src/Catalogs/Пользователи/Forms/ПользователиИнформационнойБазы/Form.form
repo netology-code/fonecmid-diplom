@@ -311,7 +311,7 @@
       <value>Командная панель</value>
     </title>
     <extendedTooltip>
-      <name>КоманднаяПанельExtendedTooltip</name>
+      <name>КоманднаяПанельРасширеннаяПодсказка</name>
       <id>55</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -368,7 +368,7 @@
         <value>Полное имя пользователя информационной базы</value>
       </toolTip>
       <extendedTooltip>
-        <name>ПолноеИмяExtendedTooltip</name>
+        <name>ПолноеИмяРасширеннаяПодсказка</name>
         <id>67</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -412,7 +412,7 @@
         <value>Имя пользователя информационной базы</value>
       </toolTip>
       <extendedTooltip>
-        <name>ИмяExtendedTooltip</name>
+        <name>ИмяРасширеннаяПодсказка</name>
         <id>68</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -457,7 +457,7 @@
 указанного для пользователя 1С:Предприятия</value>
       </toolTip>
       <extendedTooltip>
-        <name>АутентификацияСтандартнаяExtendedTooltip</name>
+        <name>АутентификацияСтандартнаяРасширеннаяПодсказка</name>
         <id>69</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -651,7 +651,7 @@
 связанного с пользователем 1С:Предприятия</value>
         </toolTip>
         <extendedTooltip>
-          <name>АутентификацияОСExtendedTooltip</name>
+          <name>АутентификацияОСРасширеннаяПодсказка</name>
           <id>71</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -692,7 +692,7 @@
           <value>Пользователь операционной системы</value>
         </toolTip>
         <extendedTooltip>
-          <name>ПользовательОСExtendedTooltip</name>
+          <name>ПользовательОСРасширеннаяПодсказка</name>
           <id>72</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

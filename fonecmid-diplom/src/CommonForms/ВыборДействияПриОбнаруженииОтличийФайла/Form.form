@@ -16,7 +16,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗначокСообщенияExtendedTooltip</name>
+        <name>ЗначокСообщенияРасширеннаяПодсказка</name>
         <id>43</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -52,7 +52,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>СообщениеExtendedTooltip</name>
+        <name>СообщениеРасширеннаяПодсказка</name>
         <id>44</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -87,7 +87,7 @@
       <value>Сообщение для пользователя</value>
     </title>
     <extendedTooltip>
-      <name>СообщениеДляПользователяExtendedTooltip</name>
+      <name>СообщениеДляПользователяРасширеннаяПодсказка</name>
       <id>42</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -160,7 +160,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОткрытьКаталогExtendedTooltip</name>
+        <name>ОткрытьКаталогРасширеннаяПодсказка</name>
         <id>49</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -187,7 +187,7 @@
       <value>Файл и кнопка</value>
     </title>
     <extendedTooltip>
-      <name>ФайлИКнопкаExtendedTooltip</name>
+      <name>ФайлИКнопкаРасширеннаяПодсказка</name>
       <id>47</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -222,7 +222,7 @@
         <value>Дата изменения (местное время)</value>
       </title>
       <extendedTooltip>
-        <name>ДатаИзмененияExtendedTooltip</name>
+        <name>ДатаИзмененияРасширеннаяПодсказка</name>
         <id>51</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -255,7 +255,7 @@
         <value>Размер (байт)</value>
       </title>
       <extendedTooltip>
-        <name>РазмерExtendedTooltip</name>
+        <name>РазмерРасширеннаяПодсказка</name>
         <id>54</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -330,7 +330,7 @@
           <segments>РазмерВРабочемКаталоге</segments>
         </dataPath>
         <extendedTooltip>
-          <name>РазмерВРабочемКаталогеExtendedTooltip</name>
+          <name>РазмерВРабочемКаталогеРасширеннаяПодсказка</name>
           <id>55</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -445,7 +445,7 @@
           <segments>РазмерВХранилищеФайлов</segments>
         </dataPath>
         <extendedTooltip>
-          <name>РазмерВХранилищеФайловExtendedTooltip</name>
+          <name>РазмерВХранилищеФайловРасширеннаяПодсказка</name>
           <id>56</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -515,7 +515,7 @@
       <value>Свойства файлов</value>
     </title>
     <extendedTooltip>
-      <name>СвойстваФайловExtendedTooltip</name>
+      <name>СвойстваФайловРасширеннаяПодсказка</name>
       <id>50</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -546,7 +546,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОткрытьСуществующийExtendedTooltip</name>
+        <name>ФормаОткрытьСуществующийРасширеннаяПодсказка</name>
         <id>37</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -571,7 +571,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаПоместитьExtendedTooltip</name>
+        <name>ФормаПоместитьРасширеннаяПодсказка</name>
         <id>38</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -596,7 +596,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВзятьИзХранилищаExtendedTooltip</name>
+        <name>ФормаВзятьИзХранилищаРасширеннаяПодсказка</name>
         <id>39</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -621,7 +621,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаНеПомещатьExtendedTooltip</name>
+        <name>ФормаНеПомещатьРасширеннаяПодсказка</name>
         <id>40</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -647,7 +647,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменитьExtendedTooltip</name>
+        <name>ОтменитьРасширеннаяПодсказка</name>
         <id>41</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

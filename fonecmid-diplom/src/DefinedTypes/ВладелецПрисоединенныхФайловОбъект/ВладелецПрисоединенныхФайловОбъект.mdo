@@ -13,6 +13,7 @@
     <types>CatalogObject.ПапкиФайлов</types>
     <types>CatalogObject.Контрагенты</types>
     <types>CatalogObject.Организации</types>
+    <types>CatalogObject.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</types>
     <types>CatalogObject.ИдентификаторыОбъектовМетаданных</types>
   </type>
 </mdclass:DefinedType>

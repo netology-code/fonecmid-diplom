@@ -32,7 +32,7 @@
         <segments>СписокКодировок.Value</segments>
       </dataPath>
       <extendedTooltip>
-        <name>СписокКодировокЗначениеExtendedTooltip</name>
+        <name>СписокКодировокЗначениеРасширеннаяПодсказка</name>
         <id>12</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -70,10 +70,10 @@
       <name>СписокКодировокВыбор</name>
     </handlers>
     <searchStringAddition>
-      <name>СписокКодировокSearchString</name>
+      <name>СписокКодировокСтрокаПоиска</name>
       <id>14</id>
       <extendedTooltip>
-        <name>СписокКодировокSearchStringExtendedTooltip</name>
+        <name>СписокКодировокСтрокаПоискаРасширеннаяПодсказка</name>
         <id>16</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -83,7 +83,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокКодировокSearchStringContextMenu</name>
+        <name>СписокКодировокСтрокаПоискаКонтекстноеМеню</name>
         <id>15</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -93,10 +93,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>СписокКодировокViewStatus</name>
+      <name>СписокКодировокСостояниеПросмотра</name>
       <id>17</id>
       <extendedTooltip>
-        <name>СписокКодировокViewStatusExtendedTooltip</name>
+        <name>СписокКодировокViewStatusРасширеннаяПодсказка</name>
         <id>19</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -106,7 +106,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокКодировокViewStatusContextMenu</name>
+        <name>СписокКодировокViewStatusКонтекстноеМеню</name>
         <id>18</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -117,10 +117,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>СписокКодировокSearchControl</name>
+      <name>СписокКодировокУправлениеПоиском</name>
       <id>20</id>
       <extendedTooltip>
-        <name>СписокКодировокSearchControlExtendedTooltip</name>
+        <name>СписокКодировокSearchControlРасширеннаяПодсказка</name>
         <id>22</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -130,7 +130,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокКодировокSearchControlContextMenu</name>
+        <name>СписокКодировокSearchControlКонтекстноеМеню</name>
         <id>21</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -141,7 +141,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокКодировокExtendedTooltip</name>
+      <name>СписокКодировокРасширеннаяПодсказка</name>
       <id>11</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -196,7 +196,7 @@
       <name>ПоказыватьТолькоОсновныеКодировкиПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ПоказыватьТолькоОсновныеКодировкиExtendedTooltip</name>
+      <name>ПоказыватьТолькоОсновныеКодировкиРасширеннаяПодсказка</name>
       <id>13</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

@@ -558,7 +558,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>87</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1130,7 +1130,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>ПоказыватьЗанятыеФайлыПриЗавершенииРаботыExtendedTooltip</name>
+      <name>ПоказыватьЗанятыеФайлыПриЗавершенииРаботыРасширеннаяПодсказка</name>
       <id>94</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1167,7 +1167,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗаписатьИЗакрытьExtendedTooltip</name>
+        <name>ЗаписатьИЗакрытьРасширеннаяПодсказка</name>
         <id>96</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1197,7 +1197,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>97</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1222,7 +1222,7 @@
       <value>Командной панели</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКоманднойПанелиExtendedTooltip</name>
+      <name>ГруппаКоманднойПанелиРасширеннаяПодсказка</name>
       <id>95</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

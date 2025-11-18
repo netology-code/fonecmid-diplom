@@ -182,7 +182,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ФормаОчиститьАдресExtendedTooltip</name>
+              <name>ФормаОчиститьАдресРасширеннаяПодсказка</name>
               <id>143</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -276,7 +276,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>148</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -303,7 +303,7 @@
         <value>Панель команд формы</value>
       </title>
       <extendedTooltip>
-        <name>ПанельКомандФормыExtendedTooltip</name>
+        <name>ПанельКомандФормыРасширеннаяПодсказка</name>
         <id>139</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -327,7 +327,7 @@
       <value>Панель команд</value>
     </title>
     <extendedTooltip>
-      <name>ПанельКомандExtendedTooltip</name>
+      <name>ПанельКомандРасширеннаяПодсказка</name>
       <id>136</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -710,7 +710,7 @@
               <name>ПредставлениеИностранногоАдресаПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ПредставлениеИностранногоАдресаExtendedTooltip</name>
+              <name>ПредставлениеИностранногоАдресаРасширеннаяПодсказка</name>
               <id>132</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -978,7 +978,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаКомандаОКExtendedTooltip</name>
+          <name>ФормаКомандаОКРасширеннаяПодсказка</name>
           <id>140</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1004,7 +1004,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОтменаExtendedTooltip</name>
+          <name>ФормаОтменаРасширеннаяПодсказка</name>
           <id>141</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

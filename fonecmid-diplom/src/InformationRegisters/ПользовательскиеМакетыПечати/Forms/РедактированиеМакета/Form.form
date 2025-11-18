@@ -25,7 +25,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НадписьПередЗагрузкойМакетаПрограммаВебКлиентExtendedTooltip</name>
+          <name>НадписьПередЗагрузкойМакетаПрограммаВебКлиентРасширеннаяПодсказка</name>
           <id>65</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -58,7 +58,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СсылкаНаСтраницуПрограммыПередЗагрузкойВебКлиентExtendedTooltip</name>
+          <name>СсылкаНаСтраницуПрограммыПередЗагрузкойВебКлиентРасширеннаяПодсказка</name>
           <id>66</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -96,7 +96,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НадписьПередЗагрузкойМакетаИнструкцияВебКлиентExtendedTooltip</name>
+          <name>НадписьПередЗагрузкойМакетаИнструкцияВебКлиентРасширеннаяПодсказка</name>
           <id>67</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -126,7 +126,7 @@
         <value>Страница загрузка на компьютер веб клиент</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаЗагрузкаНаКомпьютерВебКлиентExtendedTooltip</name>
+        <name>СтраницаЗагрузкаНаКомпьютерВебКлиентРасширеннаяПодсказка</name>
         <id>64</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -156,7 +156,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НадписьПередЗагрузкойМакетаПрограммаНеВебКлиентExtendedTooltip</name>
+          <name>НадписьПередЗагрузкойМакетаПрограммаНеВебКлиентРасширеннаяПодсказка</name>
           <id>69</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -189,7 +189,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СсылкаНаСтраницуПрограммыПередЗагрузкойНеВебКлиентExtendedTooltip</name>
+          <name>СсылкаНаСтраницуПрограммыПередЗагрузкойНеВебКлиентРасширеннаяПодсказка</name>
           <id>70</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -227,7 +227,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НадписьПередЗагрузкойМакетаИнструкцияНеВебКлиентExtendedTooltip</name>
+          <name>НадписьПередЗагрузкойМакетаИнструкцияНеВебКлиентРасширеннаяПодсказка</name>
           <id>71</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -257,7 +257,7 @@
         <value>Страница загрузка на компьютер не веб клиент</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаЗагрузкаНаКомпьютерНеВебКлиентExtendedTooltip</name>
+        <name>СтраницаЗагрузкаНаКомпьютерНеВебКлиентРасширеннаяПодсказка</name>
         <id>68</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -291,7 +291,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НадписьЗавершениеИзмененияВебКлиентExtendedTooltip</name>
+          <name>НадписьЗавершениеИзмененияВебКлиентРасширеннаяПодсказка</name>
           <id>73</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -324,7 +324,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СсылкаНаСтраницуПрограммыЗавершениеИзмененияВебКлиентExtendedTooltip</name>
+          <name>СсылкаНаСтраницуПрограммыЗавершениеИзмененияВебКлиентРасширеннаяПодсказка</name>
           <id>74</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -359,7 +359,7 @@
         <value>Страница загрузка в информационную базу веб клиент</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаЗагрузкаВИнформационнуюБазуВебКлиентExtendedTooltip</name>
+        <name>СтраницаЗагрузкаВИнформационнуюБазуВебКлиентРасширеннаяПодсказка</name>
         <id>72</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -393,7 +393,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НадписьЗавершениеИзмененияНеВебКлиентExtendedTooltip</name>
+          <name>НадписьЗавершениеИзмененияНеВебКлиентРасширеннаяПодсказка</name>
           <id>76</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -426,7 +426,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СсылкаНаСтраницуПрограммыЗавершениеИзмененияНеВебКлиентExtendedTooltip</name>
+          <name>СсылкаНаСтраницуПрограммыЗавершениеИзмененияНеВебКлиентРасширеннаяПодсказка</name>
           <id>77</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -461,7 +461,7 @@
         <value>Страница загрузка в информационную базу не веб клиент</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаЗагрузкаВИнформационнуюБазуНеВебКлиентExtendedTooltip</name>
+        <name>СтраницаЗагрузкаВИнформационнуюБазуНеВебКлиентРасширеннаяПодсказка</name>
         <id>75</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -485,7 +485,7 @@
       <value>Диалог</value>
     </title>
     <extendedTooltip>
-      <name>ДиалогExtendedTooltip</name>
+      <name>ДиалогРасширеннаяПодсказка</name>
       <id>63</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -520,7 +520,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаИзменитьExtendedTooltip</name>
+              <name>КнопкаИзменитьРасширеннаяПодсказка</name>
               <id>81</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -545,7 +545,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаОтменаЗагрузкиExtendedTooltip</name>
+              <name>КнопкаОтменаЗагрузкиРасширеннаяПодсказка</name>
               <id>82</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -570,7 +570,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаСправкаЗагрузкаExtendedTooltip</name>
+              <name>КнопкаСправкаЗагрузкаРасширеннаяПодсказка</name>
               <id>83</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -596,7 +596,7 @@
             <value>Кнопок загрузка</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаКнопокЗагрузкаExtendedTooltip</name>
+            <name>ГруппаКнопокЗагрузкаРасширеннаяПодсказка</name>
             <id>80</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -620,7 +620,7 @@
           <value>Панель загрузка</value>
         </title>
         <extendedTooltip>
-          <name>ПанельЗагрузкаExtendedTooltip</name>
+          <name>ПанельЗагрузкаРасширеннаяПодсказка</name>
           <id>79</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -649,7 +649,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаЗавершитьИзменениеExtendedTooltip</name>
+              <name>КнопкаЗавершитьИзменениеРасширеннаяПодсказка</name>
               <id>86</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -675,7 +675,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаСправкаЗавершениеИзмененияExtendedTooltip</name>
+              <name>КнопкаСправкаЗавершениеИзмененияРасширеннаяПодсказка</name>
               <id>87</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -700,7 +700,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаОтменаИзмененийExtendedTooltip</name>
+              <name>КнопкаОтменаИзмененийРасширеннаяПодсказка</name>
               <id>88</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -726,7 +726,7 @@
             <value>Кнопок завершение изменения</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаКнопокЗавершениеИзмененияExtendedTooltip</name>
+            <name>ГруппаКнопокЗавершениеИзмененияРасширеннаяПодсказка</name>
             <id>85</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -750,7 +750,7 @@
           <value>Панель завершение изменения</value>
         </title>
         <extendedTooltip>
-          <name>ПанельЗавершениеИзмененияExtendedTooltip</name>
+          <name>ПанельЗавершениеИзмененияРасширеннаяПодсказка</name>
           <id>84</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -774,7 +774,7 @@
         <value>Командная панель</value>
       </title>
       <extendedTooltip>
-        <name>КоманднаяПанельExtendedTooltip</name>
+        <name>КоманднаяПанельРасширеннаяПодсказка</name>
         <id>78</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

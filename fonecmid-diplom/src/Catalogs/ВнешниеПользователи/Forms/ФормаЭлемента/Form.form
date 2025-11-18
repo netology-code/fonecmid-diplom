@@ -266,7 +266,7 @@
           <name>ОбъектАвторизацииПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ОбъектАвторизацииExtendedTooltip</name>
+          <name>ОбъектАвторизацииРасширеннаяПодсказка</name>
           <id>202</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -313,7 +313,7 @@
           <name>НедействителенПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>НедействителенExtendedTooltip</name>
+          <name>НедействителенРасширеннаяПодсказка</name>
           <id>203</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1326,7 +1326,7 @@
               <value>Свойства аутентификации 1С предприятия</value>
             </title>
             <extendedTooltip>
-              <name>СвойстваАутентификации1СПредприятияExtendedTooltip</name>
+              <name>СвойстваАутентификации1СПредприятияРасширеннаяПодсказка</name>
               <id>208</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1693,7 +1693,7 @@
           <name>УстановитьРолиНепосредственноПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>УстановитьРолиНепосредственноExtendedTooltip</name>
+          <name>УстановитьРолиНепосредственноРасширеннаяПодсказка</name>
           <id>218</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1753,7 +1753,7 @@
                 <name>РолиПометкаПриИзменении</name>
               </handlers>
               <extendedTooltip>
-                <name>РолиПометкаExtendedTooltip</name>
+                <name>РолиПометкаРасширеннаяПодсказка</name>
                 <id>226</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1784,7 +1784,7 @@
                 <segments>Роли.Синоним</segments>
               </dataPath>
               <extendedTooltip>
-                <name>РолиСинонимExtendedTooltip</name>
+                <name>РолиСинонимРасширеннаяПодсказка</name>
                 <id>227</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1823,7 +1823,7 @@
               <value>Роли колонок</value>
             </title>
             <extendedTooltip>
-              <name>РолиКолонокExtendedTooltip</name>
+              <name>РолиКолонокРасширеннаяПодсказка</name>
               <id>225</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1854,7 +1854,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>РолиУстановитьФлажкиExtendedTooltip</name>
+                  <name>РолиУстановитьФлажкиРасширеннаяПодсказка</name>
                   <id>220</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1880,7 +1880,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>РолиСнятьФлажкиExtendedTooltip</name>
+                  <name>РолиСнятьФлажкиРасширеннаяПодсказка</name>
                   <id>221</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1929,7 +1929,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>РолиПоказатьТолькоВыбранныеРолиExtendedTooltip</name>
+                <name>РолиПоказатьТолькоВыбранныеРолиРасширеннаяПодсказка</name>
                 <id>222</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1954,7 +1954,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>РолиПоказатьПодсистемыРолейExtendedTooltip</name>
+                <name>РолиПоказатьПодсистемыРолейРасширеннаяПодсказка</name>
                 <id>223</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -2103,7 +2103,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>РолиExtendedTooltip</name>
+            <name>РолиРасширеннаяПодсказка</name>
             <id>224</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2152,7 +2152,7 @@
           <value>Список ролей</value>
         </title>
         <extendedTooltip>
-          <name>ОтображениеРолейExtendedTooltip</name>
+          <name>ОтображениеРолейРасширеннаяПодсказка</name>
           <id>219</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2299,7 +2299,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>КомментарийExtendedTooltip</name>
+          <name>КомментарийРасширеннаяПодсказка</name>
           <id>259</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

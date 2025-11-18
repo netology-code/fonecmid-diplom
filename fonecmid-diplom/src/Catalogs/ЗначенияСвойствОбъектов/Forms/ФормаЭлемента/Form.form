@@ -12,7 +12,7 @@
       <segments>Объект.Description</segments>
     </dataPath>
     <extendedTooltip>
-      <name>НаименованиеExtendedTooltip</name>
+      <name>НаименованиеРасширеннаяПодсказка</name>
       <id>9</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -92,7 +92,7 @@
       <segments>Объект.Parent</segments>
     </dataPath>
     <extendedTooltip>
-      <name>РодительExtendedTooltip</name>
+      <name>РодительРасширеннаяПодсказка</name>
       <id>10</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -137,7 +137,7 @@
       <segments>Объект.Вес</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ВесExtendedTooltip</name>
+      <name>ВесРасширеннаяПодсказка</name>
       <id>11</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -176,7 +176,7 @@
       <segments>Объект.Owner</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ВладелецExtendedTooltip</name>
+      <name>ВладелецРасширеннаяПодсказка</name>
       <id>12</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

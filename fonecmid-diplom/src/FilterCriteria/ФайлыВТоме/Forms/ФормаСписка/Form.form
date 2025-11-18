@@ -145,7 +145,7 @@
           <segments>Список.Ref.ИндексКартинки</segments>
         </dataPath>
         <extendedTooltip>
-          <name>СсылкаИндексКартинкиExtendedTooltip</name>
+          <name>СсылкаИндексКартинкиРасширеннаяПодсказка</name>
           <id>17</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -189,7 +189,7 @@
           <segments>Список.Ref.ПутьКФайлу</segments>
         </dataPath>
         <extendedTooltip>
-          <name>СсылкаПутьКФайлуExtendedTooltip</name>
+          <name>СсылкаПутьКФайлуРасширеннаяПодсказка</name>
           <id>18</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -223,7 +223,7 @@
         <value>Картинка и наименование</value>
       </title>
       <extendedTooltip>
-        <name>КартинкаИНаименованиеExtendedTooltip</name>
+        <name>КартинкаИНаименованиеРасширеннаяПодсказка</name>
         <id>16</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -250,7 +250,7 @@
         <segments>Список.Ref.Размер</segments>
       </dataPath>
       <extendedTooltip>
-        <name>СсылкаРазмерExtendedTooltip</name>
+        <name>СсылкаРазмерРасширеннаяПодсказка</name>
         <id>19</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -287,7 +287,7 @@
         <segments>Список.Ref.Автор</segments>
       </dataPath>
       <extendedTooltip>
-        <name>СсылкаАвторExtendedTooltip</name>
+        <name>СсылкаАвторРасширеннаяПодсказка</name>
         <id>20</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -389,7 +389,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>15</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

@@ -12,7 +12,7 @@
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>НедостаточноПравНаПросмотрExtendedTooltip</name>
+      <name>НедостаточноПравНаПросмотрРасширеннаяПодсказка</name>
       <id>116</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -76,7 +76,7 @@
             <segments>ГруппыДоступа.Наименование</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ГруппыДоступаНаименованиеExtendedTooltip</name>
+            <name>ГруппыДоступаНаименованиеРасширеннаяПодсказка</name>
             <id>125</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -116,7 +116,7 @@
             <segments>ГруппыДоступа.ПрофильНаименование</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ГруппыДоступаПрофильПредставлениеExtendedTooltip</name>
+            <name>ГруппыДоступаПрофильПредставлениеРасширеннаяПодсказка</name>
             <id>126</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -156,7 +156,7 @@
             <segments>ГруппыДоступа.Ответственный</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ГруппыДоступаОтветственныйExtendedTooltip</name>
+            <name>ГруппыДоступаОтветственныйРасширеннаяПодсказка</name>
             <id>127</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -196,7 +196,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ГруппыДоступаВключитьВГруппуExtendedTooltip</name>
+              <name>ГруппыДоступаВключитьВГруппуРасширеннаяПодсказка</name>
               <id>121</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -221,7 +221,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ГруппыДоступаИсключитьИзГруппыExtendedTooltip</name>
+              <name>ГруппыДоступаИсключитьИзГруппыРасширеннаяПодсказка</name>
               <id>122</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -246,7 +246,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ГруппыДоступаИзменитьГруппуExtendedTooltip</name>
+              <name>ГруппыДоступаИзменитьГруппуРасширеннаяПодсказка</name>
               <id>123</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -305,10 +305,10 @@
           <name>ГруппыДоступаПриАктивизацииСтроки</name>
         </handlers>
         <searchStringAddition>
-          <name>ГруппыДоступаSearchString</name>
+          <name>ГруппыДоступаСтрокаПоиска</name>
           <id>138</id>
           <extendedTooltip>
-            <name>ГруппыДоступаSearchStringExtendedTooltip</name>
+            <name>ГруппыДоступаСтрокаПоискаРасширеннаяПодсказка</name>
             <id>140</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -318,7 +318,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ГруппыДоступаSearchStringContextMenu</name>
+            <name>ГруппыДоступаСтрокаПоискаКонтекстноеМеню</name>
             <id>139</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -328,10 +328,10 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <name>ГруппыДоступаViewStatus</name>
+          <name>ГруппыДоступаСостояниеПросмотра</name>
           <id>141</id>
           <extendedTooltip>
-            <name>ГруппыДоступаViewStatusExtendedTooltip</name>
+            <name>ГруппыДоступаСостояниеПросмотраРасширеннаяПодсказка</name>
             <id>143</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -341,7 +341,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ГруппыДоступаViewStatusContextMenu</name>
+            <name>ГруппыДоступаСостояниеПросмотраКонтекстноеМеню</name>
             <id>142</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -352,10 +352,10 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <name>ГруппыДоступаSearchControl</name>
+          <name>ГруппыДоступаУправлениеПоиском</name>
           <id>144</id>
           <extendedTooltip>
-            <name>ГруппыДоступаSearchControlExtendedTooltip</name>
+            <name>ГруппыДоступаУправлениеПоискомРасширеннаяПодсказка</name>
             <id>146</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -365,7 +365,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ГруппыДоступаSearchControlContextMenu</name>
+            <name>ГруппыДоступаУправлениеПоискомКонтекстноеМеню</name>
             <id>145</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -376,7 +376,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ГруппыДоступаExtendedTooltip</name>
+          <name>ГруппыДоступаРасширеннаяПодсказка</name>
           <id>124</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -397,7 +397,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ГруппыДоступаКонтекстноеМенюИзменитьГруппуExtendedTooltip</name>
+              <name>ГруппыДоступаКонтекстноеМенюИзменитьГруппуРасширеннаяПодсказка</name>
               <id>119</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -429,7 +429,7 @@
               <value>Группы доступа контекстное авто меню</value>
             </title>
             <extendedTooltip>
-              <name>ГруппыДоступаКонтекстноеАвтоМенюExtendedTooltip</name>
+              <name>ГруппыДоступаКонтекстноеАвтоМенюРасширеннаяПодсказка</name>
               <id>120</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -531,7 +531,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ЕстьЗапрещенныеГруппыКартинкаExtendedTooltip</name>
+            <name>ЕстьЗапрещенныеГруппыКартинкаРасширеннаяПодсказка</name>
             <id>130</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -568,7 +568,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ЕстьЗапрещенныеГруппыТекстExtendedTooltip</name>
+            <name>ЕстьЗапрещенныеГруппыТекстРасширеннаяПодсказка</name>
             <id>131</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -599,7 +599,7 @@
           <value>Предупреждение есть скрытые группы доступа</value>
         </title>
         <extendedTooltip>
-          <name>ПредупреждениеЕстьСкрытыеГруппыДоступаExtendedTooltip</name>
+          <name>ПредупреждениеЕстьСкрытыеГруппыДоступаРасширеннаяПодсказка</name>
           <id>129</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -627,7 +627,7 @@
         <value>Группы доступа</value>
       </title>
       <extendedTooltip>
-        <name>ГруппыДоступаПользователяExtendedTooltip</name>
+        <name>ГруппыДоступаПользователяРасширеннаяПодсказка</name>
         <id>118</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -689,7 +689,7 @@
               <segments>Роли.Пометка</segments>
             </dataPath>
             <extendedTooltip>
-              <name>РолиПометкаExtendedTooltip</name>
+              <name>РолиПометкаРасширеннаяПодсказка</name>
               <id>136</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -720,7 +720,7 @@
               <segments>Роли.Синоним</segments>
             </dataPath>
             <extendedTooltip>
-              <name>РолиСинонимExtendedTooltip</name>
+              <name>РолиСинонимРасширеннаяПодсказка</name>
               <id>137</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -759,7 +759,7 @@
             <value>Роли колонок</value>
           </title>
           <extendedTooltip>
-            <name>РолиКолонокExtendedTooltip</name>
+            <name>РолиКолонокРасширеннаяПодсказка</name>
             <id>135</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -786,7 +786,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>РолиПоказатьПодсистемыРолейExtendedTooltip</name>
+              <name>РолиПоказатьПодсистемыРолейРасширеннаяПодсказка</name>
               <id>133</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -837,10 +837,10 @@
           <horizontalAlign>Left</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <name>РолиSearchString</name>
+          <name>РолиСтрокаПоиска</name>
           <id>147</id>
           <extendedTooltip>
-            <name>РолиSearchStringExtendedTooltip</name>
+            <name>РолиСтрокаПоискаРасширеннаяПодсказка</name>
             <id>149</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -850,7 +850,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>РолиSearchStringContextMenu</name>
+            <name>РолиСтрокаПоискаКонтекстноеМеню</name>
             <id>148</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -860,10 +860,10 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <name>РолиViewStatus</name>
+          <name>РолиСостояниеПросмотра</name>
           <id>150</id>
           <extendedTooltip>
-            <name>РолиViewStatusExtendedTooltip</name>
+            <name>РолиСостояниеПросмотраРасширеннаяПодсказка</name>
             <id>152</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -873,7 +873,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>РолиViewStatusContextMenu</name>
+            <name>РолиСостояниеПросмотраКонтекстноеМеню</name>
             <id>151</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -884,10 +884,10 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <name>РолиSearchControl</name>
+          <name>РолиУправлениеПоиском</name>
           <id>153</id>
           <extendedTooltip>
-            <name>РолиSearchControlExtendedTooltip</name>
+            <name>РолиSearchControlРасширеннаяПодсказка</name>
             <id>155</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -897,7 +897,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>РолиSearchControlContextMenu</name>
+            <name>РолиSearchControlКонтекстноеМеню</name>
             <id>154</id>
             <autoFill>true</autoFill>
           </contextMenu>
@@ -908,7 +908,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>РолиExtendedTooltip</name>
+          <name>РолиРасширеннаяПодсказка</name>
           <id>134</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -956,7 +956,7 @@
         <value>Разрешенные действия (роли)</value>
       </title>
       <extendedTooltip>
-        <name>ОтображениеРолейExtendedTooltip</name>
+        <name>ОтображениеРолейРасширеннаяПодсказка</name>
         <id>132</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -981,7 +981,7 @@
       <value>Группы доступа и роли</value>
     </title>
     <extendedTooltip>
-      <name>ГруппыДоступаИРолиExtendedTooltip</name>
+      <name>ГруппыДоступаИРолиРасширеннаяПодсказка</name>
       <id>117</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1007,7 +1007,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВГруппуExtendedTooltip</name>
+        <name>ФормаВключитьВГруппуРасширеннаяПодсказка</name>
         <id>109</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1031,7 +1031,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаИсключитьИзГруппыExtendedTooltip</name>
+        <name>ФормаИсключитьИзГруппыРасширеннаяПодсказка</name>
         <id>110</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1055,7 +1055,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаИзменитьГруппуExtendedTooltip</name>
+        <name>ФормаИзменитьГруппуРасширеннаяПодсказка</name>
         <id>111</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1105,7 +1105,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОбновитьExtendedTooltip</name>
+        <name>ФормаОбновитьРасширеннаяПодсказка</name>
         <id>115</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1131,7 +1131,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтчетПраваДоступаExtendedTooltip</name>
+        <name>ФормаОтчетПраваДоступаРасширеннаяПодсказка</name>
         <id>112</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1161,7 +1161,7 @@
         <value>Панель формы</value>
       </title>
       <extendedTooltip>
-        <name>ПанельФормыExtendedTooltip</name>
+        <name>ПанельФормыРасширеннаяПодсказка</name>
         <id>113</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1183,7 +1183,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>114</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

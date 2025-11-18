@@ -12,10 +12,12 @@
     <types>CatalogRef.Контрагенты</types>
     <types>CatalogRef.ПапкиФайлов</types>
     <types>DocumentRef.ЗаказПокупателя</types>
+    <types>DocumentRef.BKM_ОбслуживаниеКлиентов</types>
     <types>CatalogRef.Организации</types>
     <types>DocumentRef.ПоступлениеТоваровУслуг</types>
     <types>CatalogRef.ДоговорыКонтрагентов</types>
     <types>DocumentRef.РеализацияТоваровУслуг</types>
+    <types>CatalogRef.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
   </type>
 </mdclass:DefinedType>

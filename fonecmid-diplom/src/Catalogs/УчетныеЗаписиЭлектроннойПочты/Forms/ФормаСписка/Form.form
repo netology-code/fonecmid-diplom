@@ -94,7 +94,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>11</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -104,7 +104,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>Наименование_КонтекстноеМеню</name>
+        <name>НаименованиеКонтекстноеМеню</name>
         <id>5</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -136,7 +136,7 @@
         <segments>Список.ИмяПользователя</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИмяПользователяExtendedTooltip</name>
+        <name>ИмяПользователяРасширеннаяПодсказка</name>
         <id>12</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -146,7 +146,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ИмяПользователя_КонтекстноеМеню</name>
+        <name>ИмяПользователяКонтекстноеМеню</name>
         <id>7</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -177,7 +177,7 @@
         <segments>Список.АдресЭлектроннойПочты</segments>
       </dataPath>
       <extendedTooltip>
-        <name>АдресЭлектроннойПочтыExtendedTooltip</name>
+        <name>АдресЭлектроннойПочтыРасширеннаяПодсказка</name>
         <id>13</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -187,7 +187,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>АдресЭлектроннойПочты_КонтекстноеМеню</name>
+        <name>АдресЭлектроннойПочтыКонтекстноеМеню</name>
         <id>9</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -274,7 +274,7 @@
     </items>
     <commandBarLocation>None</commandBarLocation>
     <autoCommandBar>
-      <name>Список_КоманднаяПанель</name>
+      <name>СписокКоманднаяПанель</name>
       <id>3</id>
       <horizontalAlign>Left</horizontalAlign>
       <autoFill>true</autoFill>
@@ -355,7 +355,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>10</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -365,7 +365,7 @@
       </extInfo>
     </extendedTooltip>
     <contextMenu>
-      <name>Список_КонтекстноеМеню</name>
+      <name>СписокКонтекстноеМеню</name>
       <id>2</id>
       <autoFill>true</autoFill>
     </contextMenu>
@@ -514,7 +514,7 @@
     </extInfo>
   </items>
   <autoCommandBar>
-    <name>Форма_КоманднаяПанель</name>
+    <name>ФормаКоманднаяПанель</name>
     <id>-1</id>
     <horizontalAlign>Left</horizontalAlign>
   </autoCommandBar>

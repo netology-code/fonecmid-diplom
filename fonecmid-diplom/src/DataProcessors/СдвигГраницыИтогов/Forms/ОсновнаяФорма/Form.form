@@ -20,7 +20,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДлительнаяОперацияExtendedTooltip</name>
+        <name>ДлительнаяОперацияРасширеннаяПодсказка</name>
         <id>17</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

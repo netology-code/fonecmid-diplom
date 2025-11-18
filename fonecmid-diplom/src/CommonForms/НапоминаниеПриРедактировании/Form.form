@@ -25,7 +25,7 @@
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>ТекстНапоминанияExtendedTooltip</name>
+      <name>ТекстНапоминанияРасширеннаяПодсказка</name>
       <id>20</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -64,7 +64,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДополнениеMozillaFireFoxExtendedTooltip</name>
+          <name>ДополнениеMozillaFireFoxРасширеннаяПодсказка</name>
           <id>25</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -94,7 +94,7 @@
         <value>Mozilla fire fox</value>
       </title>
       <extendedTooltip>
-        <name>MozillaFireFoxExtendedTooltip</name>
+        <name>MozillaFireFoxРасширеннаяПодсказка</name>
         <id>24</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -121,7 +121,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПустаяНадписьExtendedTooltip</name>
+          <name>ПустаяНадписьРасширеннаяПодсказка</name>
           <id>23</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -152,7 +152,7 @@
         <value>Пустая</value>
       </title>
       <extendedTooltip>
-        <name>ПустаяExtendedTooltip</name>
+        <name>ПустаяРасширеннаяПодсказка</name>
         <id>22</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -177,7 +177,7 @@
       <value>Дополнения</value>
     </title>
     <extendedTooltip>
-      <name>ДополненияExtendedTooltip</name>
+      <name>ДополненияРасширеннаяПодсказка</name>
       <id>21</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -208,7 +208,7 @@
       <titleLocation>Right</titleLocation>
       <titleHeight>1</titleHeight>
       <extendedTooltip>
-        <name>ПоказыватьНапоминаниеПриРедактированииExtendedTooltip</name>
+        <name>ПоказыватьНапоминаниеПриРедактированииРасширеннаяПодсказка</name>
         <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -239,7 +239,7 @@
       <value>Отступ</value>
     </title>
     <extendedTooltip>
-      <name>ОтступExtendedTooltip</name>
+      <name>ОтступРасширеннаяПодсказка</name>
       <id>26</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

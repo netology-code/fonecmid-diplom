@@ -94,7 +94,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>9</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -131,7 +131,7 @@
         <segments>Список.Комментарий</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КомментарийExtendedTooltip</name>
+        <name>КомментарийРасширеннаяПодсказка</name>
         <id>10</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -276,7 +276,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>8</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

@@ -17,7 +17,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗакрытьExtendedTooltip</name>
+        <name>ЗакрытьРасширеннаяПодсказка</name>
         <id>159</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -49,7 +49,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>160</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -75,7 +75,7 @@
       <value>Кнопок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКнопокExtendedTooltip</name>
+      <name>ГруппаКнопокРасширеннаяПодсказка</name>
       <id>158</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -107,7 +107,7 @@
           <segments>ИмяПользователя</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ИмяПользователяExtendedTooltip</name>
+          <name>ИмяПользователяРасширеннаяПодсказка</name>
           <id>111</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -150,7 +150,7 @@
           <segments>Дата</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ДатаExtendedTooltip</name>
+          <name>ДатаРасширеннаяПодсказка</name>
           <id>112</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -189,7 +189,7 @@
         <value>Дата пользователь</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаДатаПользовательExtendedTooltip</name>
+        <name>ГруппаДатаПользовательРасширеннаяПодсказка</name>
         <id>110</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -221,7 +221,7 @@
           <segments>ПредставлениеПриложения</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПредставлениеПриложенияExtendedTooltip</name>
+          <name>ПредставлениеПриложенияРасширеннаяПодсказка</name>
           <id>114</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -310,7 +310,7 @@
           <segments>Компьютер</segments>
         </dataPath>
         <extendedTooltip>
-          <name>КомпьютерExtendedTooltip</name>
+          <name>КомпьютерРасширеннаяПодсказка</name>
           <id>116</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -351,7 +351,7 @@
         <value>Компьютер приложение разделение данных</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаКомпьютерПриложениеРазделениеДанныхExtendedTooltip</name>
+        <name>ГруппаКомпьютерПриложениеРазделениеДанныхРасширеннаяПодсказка</name>
         <id>113</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -379,7 +379,7 @@
       <value>Основные</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОсновныеExtendedTooltip</name>
+      <name>ГруппаОсновныеРасширеннаяПодсказка</name>
       <id>109</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -420,7 +420,7 @@
         </dataPath>
         <titleLocation>Left</titleLocation>
         <extendedTooltip>
-          <name>ПредставлениеСобытияExtendedTooltip</name>
+          <name>ПредставлениеСобытияРасширеннаяПодсказка</name>
           <id>147</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -464,7 +464,7 @@
         </dataPath>
         <titleLocation>Left</titleLocation>
         <extendedTooltip>
-          <name>КомментарийExtendedTooltip</name>
+          <name>КомментарийРасширеннаяПодсказка</name>
           <id>148</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -509,7 +509,7 @@
         <value>Событие</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСобытиеExtendedTooltip</name>
+        <name>ГруппаСобытиеРасширеннаяПодсказка</name>
         <id>146</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -552,7 +552,7 @@
               <value>Представление метаданных</value>
             </toolTip>
             <extendedTooltip>
-              <name>ПредставлениеМетаданныхExtendedTooltip</name>
+              <name>ПредставлениеМетаданныхРасширеннаяПодсказка</name>
               <id>121</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -599,7 +599,7 @@
               <segments>Данные</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ДанныеExtendedTooltip</name>
+              <name>ДанныеРасширеннаяПодсказка</name>
               <id>122</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -648,7 +648,7 @@
             </dataPath>
             <titleLocation>Left</titleLocation>
             <extendedTooltip>
-              <name>ПредставлениеДанныхExtendedTooltip</name>
+              <name>ПредставлениеДанныхРасширеннаяПодсказка</name>
               <id>123</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -692,7 +692,7 @@
             <value>Простые данные</value>
           </title>
           <extendedTooltip>
-            <name>ПростыеДанныеExtendedTooltip</name>
+            <name>ПростыеДанныеРасширеннаяПодсказка</name>
             <id>120</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -726,7 +726,7 @@
               <value>Представление метаданных</value>
             </toolTip>
             <extendedTooltip>
-              <name>ПредставлениеМетаданныхДоступаExtendedTooltip</name>
+              <name>ПредставлениеМетаданныхДоступаРасширеннаяПодсказка</name>
               <id>125</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -870,7 +870,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>ТаблицаДанныхДоступаExtendedTooltip</name>
+              <name>ТаблицаДанныхДоступаРасширеннаяПодсказка</name>
               <id>127</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -891,7 +891,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ТаблицаДанныхДоступаКонтекстноеМенюВывестиСписокExtendedTooltip</name>
+                  <name>ТаблицаДанныхДоступаКонтекстноеМенюВывестиСписокРасширеннаяПодсказка</name>
                   <id>126</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -943,7 +943,7 @@
             <value>Данные доступа</value>
           </title>
           <extendedTooltip>
-            <name>ДанныеДоступаExtendedTooltip</name>
+            <name>ДанныеДоступаРасширеннаяПодсказка</name>
             <id>124</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -977,7 +977,7 @@
               <value>Представление метаданных</value>
             </toolTip>
             <extendedTooltip>
-              <name>ПредставлениеМетаданныхОтказаПраваДоступаExtendedTooltip</name>
+              <name>ПредставлениеМетаданныхОтказаПраваДоступаРасширеннаяПодсказка</name>
               <id>129</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1024,7 +1024,7 @@
               <segments>ОтказПраваДоступа</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ОтказПраваДоступаExtendedTooltip</name>
+              <name>ОтказПраваДоступаРасширеннаяПодсказка</name>
               <id>130</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1063,7 +1063,7 @@
             <value>Данные отказа права доступа</value>
           </title>
           <extendedTooltip>
-            <name>ДанныеОтказаПраваДоступаExtendedTooltip</name>
+            <name>ДанныеОтказаПраваДоступаРасширеннаяПодсказка</name>
             <id>128</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1097,7 +1097,7 @@
               <value>Представление метаданных</value>
             </toolTip>
             <extendedTooltip>
-              <name>ПредставлениеМетаданныхОтказаДействияДоступаExtendedTooltip</name>
+              <name>ПредставлениеМетаданныхОтказаДействияДоступаРасширеннаяПодсказка</name>
               <id>132</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1144,7 +1144,7 @@
               <segments>ОтказДействияДоступа</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ОтказДействияДоступаExtendedTooltip</name>
+              <name>ОтказДействияДоступаРасширеннаяПодсказка</name>
               <id>133</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1282,7 +1282,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>ТаблицаДанныхОтказаДействияДоступаExtendedTooltip</name>
+              <name>ТаблицаДанныхОтказаДействияДоступаРасширеннаяПодсказка</name>
               <id>135</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1303,7 +1303,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ТаблицаДанныхОтказаДействияДоступаКонтекстноеМенюВывестиСписокExtendedTooltip</name>
+                  <name>ТаблицаДанныхОтказаДействияДоступаКонтекстноеМенюВывестиСписокРасширеннаяПодсказка</name>
                   <id>134</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1355,7 +1355,7 @@
             <value>Данные отказа действия доступа</value>
           </title>
           <extendedTooltip>
-            <name>ДанныеОтказаДействияДоступаExtendedTooltip</name>
+            <name>ДанныеОтказаДействияДоступаРасширеннаяПодсказка</name>
             <id>131</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1385,7 +1385,7 @@
               <segments>АутентификацияИмяПользователя</segments>
             </dataPath>
             <extendedTooltip>
-              <name>АутентификацияИмяПользователяExtendedTooltip</name>
+              <name>АутентификацияИмяПользователяРасширеннаяПодсказка</name>
               <id>137</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1426,7 +1426,7 @@
               <segments>АутентификацияПользовательОС</segments>
             </dataPath>
             <extendedTooltip>
-              <name>АутентификацияПользовательОСExtendedTooltip</name>
+              <name>АутентификацияПользовательОСРасширеннаяПодсказка</name>
               <id>138</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1468,7 +1468,7 @@
             </dataPath>
             <titleHeight>2</titleHeight>
             <extendedTooltip>
-              <name>АутентификацияТекущийПользовательОСExtendedTooltip</name>
+              <name>АутентификацияТекущийПользовательОСРасширеннаяПодсказка</name>
               <id>139</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1507,7 +1507,7 @@
             <value>Данные аутентификации</value>
           </title>
           <extendedTooltip>
-            <name>ДанныеАутентификацииExtendedTooltip</name>
+            <name>ДанныеАутентификацииРасширеннаяПодсказка</name>
             <id>136</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1637,7 +1637,7 @@
                 </extInfo>
               </searchControlAddition>
               <extendedTooltip>
-                <name>ТаблицаСвойствПользователяИБExtendedTooltip</name>
+                <name>ТаблицаСвойствПользователяИБРасширеннаяПодсказка</name>
                 <id>143</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1658,7 +1658,7 @@
                     <common>true</common>
                   </userVisible>
                   <extendedTooltip>
-                    <name>ТаблицаСвойствПользователяИБКонтекстноеМенюВывестиСписокExtendedTooltip</name>
+                    <name>ТаблицаСвойствПользователяИБКонтекстноеМенюВывестиСписокРасширеннаяПодсказка</name>
                     <id>142</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1808,7 +1808,7 @@
                 </extInfo>
               </searchControlAddition>
               <extendedTooltip>
-                <name>ТаблицаРолейПользователяИБExtendedTooltip</name>
+                <name>ТаблицаРолейПользователяИБРасширеннаяПодсказка</name>
                 <id>145</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1829,7 +1829,7 @@
                     <common>true</common>
                   </userVisible>
                   <extendedTooltip>
-                    <name>ТаблицаРолейПользователяИБКонтекстноеМенюВывестиСписокExtendedTooltip</name>
+                    <name>ТаблицаРолейПользователяИБКонтекстноеМенюВывестиСписокРасширеннаяПодсказка</name>
                     <id>144</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1880,7 +1880,7 @@
               <value>Горизонтальная группа свойств пользователя ИБ</value>
             </title>
             <extendedTooltip>
-              <name>ГоризонтальнаяГруппаСвойствПользователяИБExtendedTooltip</name>
+              <name>ГоризонтальнаяГруппаСвойствПользователяИБРасширеннаяПодсказка</name>
               <id>141</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1908,7 +1908,7 @@
             <value>Данные пользователя ИБ</value>
           </title>
           <extendedTooltip>
-            <name>ДанныеПользователяИБExtendedTooltip</name>
+            <name>ДанныеПользователяИБРасширеннаяПодсказка</name>
             <id>140</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1933,7 +1933,7 @@
           <value>Представления данных</value>
         </title>
         <extendedTooltip>
-          <name>ПредставленияДанныхExtendedTooltip</name>
+          <name>ПредставленияДанныхРасширеннаяПодсказка</name>
           <id>119</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1958,7 +1958,7 @@
         <value>Данные</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаДанныеExtendedTooltip</name>
+        <name>ГруппаДанныеРасширеннаяПодсказка</name>
         <id>118</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2023,7 +2023,7 @@
           <segments>Сеанс</segments>
         </dataPath>
         <extendedTooltip>
-          <name>СеансExtendedTooltip</name>
+          <name>СеансРасширеннаяПодсказка</name>
           <id>151</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2067,7 +2067,7 @@
           <segments>РабочийСервер</segments>
         </dataPath>
         <extendedTooltip>
-          <name>РабочийСерверExtendedTooltip</name>
+          <name>РабочийСерверРасширеннаяПодсказка</name>
           <id>152</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2110,7 +2110,7 @@
           <segments>ОсновнойIPПорт</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ОсновнойIPПортExtendedTooltip</name>
+          <name>ОсновнойIPПортРасширеннаяПодсказка</name>
           <id>153</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2155,7 +2155,7 @@
         </dataPath>
         <titleHeight>2</titleHeight>
         <extendedTooltip>
-          <name>ВспомогательныйIPПортExtendedTooltip</name>
+          <name>ВспомогательныйIPПортРасширеннаяПодсказка</name>
           <id>154</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2197,7 +2197,7 @@
         <value>Сеанс</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСоединениеExtendedTooltip</name>
+        <name>ГруппаСоединениеРасширеннаяПодсказка</name>
         <id>150</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2231,7 +2231,7 @@
           <segments>Транзакция</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ТранзакцияExtendedTooltip</name>
+          <name>ТранзакцияРасширеннаяПодсказка</name>
           <id>156</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2276,7 +2276,7 @@
         </dataPath>
         <titleHeight>2</titleHeight>
         <extendedTooltip>
-          <name>СтатусТранзакцииExtendedTooltip</name>
+          <name>СтатусТранзакцииРасширеннаяПодсказка</name>
           <id>157</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2318,7 +2318,7 @@
         <value>Транзакция</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаТранзакцияExtendedTooltip</name>
+        <name>ГруппаТранзакцияРасширеннаяПодсказка</name>
         <id>155</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2346,7 +2346,7 @@
       <value>Транзакция соединение</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаТранзакцияСоединениеExtendedTooltip</name>
+      <name>ГруппаТранзакцияСоединениеРасширеннаяПодсказка</name>
       <id>149</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

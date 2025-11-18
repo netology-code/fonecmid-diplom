@@ -24,7 +24,7 @@
       </dataPath>
       <titleLocation>Top</titleLocation>
       <extendedTooltip>
-        <name>ПутьКАрхивуWindowsExtendedTooltip</name>
+        <name>ПутьКАрхивуWindowsРасширеннаяПодсказка</name>
         <id>9</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -74,7 +74,7 @@
       </dataPath>
       <titleLocation>Top</titleLocation>
       <extendedTooltip>
-        <name>ПутьКАрхивуLinuxExtendedTooltip</name>
+        <name>ПутьКАрхивуLinuxРасширеннаяПодсказка</name>
         <id>10</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -112,7 +112,7 @@
       <value>Путь к архиву с файлами начального образа</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПутьФайловойБазыExtendedTooltip</name>
+      <name>ГруппаПутьФайловойБазыРасширеннаяПодсказка</name>
       <id>8</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -146,7 +146,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>РазместитьExtendedTooltip</name>
+        <name>РазместитьРасширеннаяПодсказка</name>
         <id>7</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

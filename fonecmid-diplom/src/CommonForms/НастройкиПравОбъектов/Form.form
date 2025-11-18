@@ -37,7 +37,7 @@
         <name>ГруппыПравПользовательПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ГруппыПравПользовательExtendedTooltip</name>
+        <name>ГруппыПравПользовательРасширеннаяПодсказка</name>
         <id>57</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -190,7 +190,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ГруппыПравExtendedTooltip</name>
+      <name>ГруппыПравРасширеннаяПодсказка</name>
       <id>56</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -212,7 +212,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюДобавитьExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюДобавитьРасширеннаяПодсказка</name>
           <id>50</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -238,7 +238,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюСкопироватьExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюСкопироватьРасширеннаяПодсказка</name>
           <id>51</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -264,7 +264,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюУдалитьExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюУдалитьРасширеннаяПодсказка</name>
           <id>52</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -288,7 +288,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюСнятьУстановкуПраваExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюСнятьУстановкуПраваРасширеннаяПодсказка</name>
           <id>53</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -312,7 +312,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюУстановитьЗапретПраваExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюУстановитьЗапретПраваРасширеннаяПодсказка</name>
           <id>54</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -336,7 +336,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюУстановитьРазрешениеПраваExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюУстановитьРазрешениеПраваРасширеннаяПодсказка</name>
           <id>55</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -405,7 +405,7 @@
         <name>НаследоватьПраваРодителейПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>НаследоватьПраваРодителейExtendedTooltip</name>
+        <name>НаследоватьПраваРодителейРасширеннаяПодсказка</name>
         <id>58</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -882,7 +882,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаЗаписатьИЗакрытьExtendedTooltip</name>
+        <name>ФормаЗаписатьИЗакрытьРасширеннаяПодсказка</name>
         <id>42</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -908,7 +908,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаЗаписатьExtendedTooltip</name>
+        <name>ФормаЗаписатьРасширеннаяПодсказка</name>
         <id>43</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -934,7 +934,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаДобавитьExtendedTooltip</name>
+        <name>ФормаДобавитьРасширеннаяПодсказка</name>
         <id>44</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -960,7 +960,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаУдалитьExtendedTooltip</name>
+        <name>ФормаУдалитьРасширеннаяПодсказка</name>
         <id>45</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -988,7 +988,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаПереместитьВверхExtendedTooltip</name>
+          <name>ФормаПереместитьВверхРасширеннаяПодсказка</name>
           <id>46</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1013,7 +1013,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаПереместитьВнизExtendedTooltip</name>
+          <name>ФормаПереместитьВнизРасширеннаяПодсказка</name>
           <id>47</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1061,7 +1061,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>48</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1087,7 +1087,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаИзменитьФормуExtendedTooltip</name>
+        <name>ФормаИзменитьФормуРасширеннаяПодсказка</name>
         <id>49</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

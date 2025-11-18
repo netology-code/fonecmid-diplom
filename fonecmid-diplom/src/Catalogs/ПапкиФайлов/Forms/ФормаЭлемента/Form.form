@@ -111,7 +111,7 @@
       <segments>Объект.Code</segments>
     </dataPath>
     <extendedTooltip>
-      <name>КодExtendedTooltip</name>
+      <name>КодРасширеннаяПодсказка</name>
       <id>32</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -153,7 +153,7 @@
       <segments>Объект.Description</segments>
     </dataPath>
     <extendedTooltip>
-      <name>НаименованиеExtendedTooltip</name>
+      <name>НаименованиеРасширеннаяПодсказка</name>
       <id>33</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -203,7 +203,7 @@
       <name>РодительПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>РодительExtendedTooltip</name>
+      <name>РодительРасширеннаяПодсказка</name>
       <id>34</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -246,7 +246,7 @@
       <segments>ПолныйПуть</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПолныйПутьExtendedTooltip</name>
+      <name>ПолныйПутьРасширеннаяПодсказка</name>
       <id>35</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -286,7 +286,7 @@
       <segments>Объект.Описание</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОписаниеExtendedTooltip</name>
+      <name>ОписаниеРасширеннаяПодсказка</name>
       <id>36</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -329,7 +329,7 @@
       <segments>Объект.Ответственный</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОтветственныйExtendedTooltip</name>
+      <name>ОтветственныйРасширеннаяПодсказка</name>
       <id>37</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -372,7 +372,7 @@
       <segments>Объект.ДатаСоздания</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ДатаСозданияExtendedTooltip</name>
+      <name>ДатаСозданияРасширеннаяПодсказка</name>
       <id>38</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -416,7 +416,7 @@
       <segments>РабочийКаталог</segments>
     </dataPath>
     <extendedTooltip>
-      <name>РабочийКаталогExtendedTooltip</name>
+      <name>РабочийКаталогРасширеннаяПодсказка</name>
       <id>39</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -615,12 +615,6 @@
   </formCommands>
   <commandInterface>
     <navigationPanel>
-      <cmiFragmentRecord>
-        <command>0</command>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-      </cmiFragmentRecord>
       <cmiFragmentRecord>
         <command>CommonCommand.ПрисоединенныеФайлы</command>
         <userVisible/>

@@ -40,7 +40,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>7</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -179,7 +179,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>6</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

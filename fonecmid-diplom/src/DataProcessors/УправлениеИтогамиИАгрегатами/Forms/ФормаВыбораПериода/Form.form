@@ -20,7 +20,7 @@
       <name>ПериодДляРегистровНакопленияПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ПериодДляРегистровНакопленияExtendedTooltip</name>
+      <name>ПериодДляРегистровНакопленияРасширеннаяПодсказка</name>
       <id>15</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -63,7 +63,7 @@
       <name>ПериодДляРегистровБухгалтерииПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ПериодДляРегистровБухгалтерииExtendedTooltip</name>
+      <name>ПериодДляРегистровБухгалтерииРасширеннаяПодсказка</name>
       <id>16</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -104,7 +104,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>OKExtendedTooltip</name>
+        <name>OKРасширеннаяПодсказка</name>
         <id>12</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -131,7 +131,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>13</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -157,7 +157,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>14</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

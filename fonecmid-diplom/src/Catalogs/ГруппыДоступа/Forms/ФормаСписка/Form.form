@@ -44,7 +44,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВыбратьExtendedTooltip</name>
+        <name>ФормаВыбратьРасширеннаяПодсказка</name>
         <id>22</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -70,7 +70,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСоздатьExtendedTooltip</name>
+        <name>ФормаСоздатьРасширеннаяПодсказка</name>
         <id>23</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -95,7 +95,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСоздатьГруппуExtendedTooltip</name>
+        <name>ФормаСоздатьГруппуРасширеннаяПодсказка</name>
         <id>24</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -120,7 +120,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСкопироватьExtendedTooltip</name>
+        <name>ФормаСкопироватьРасширеннаяПодсказка</name>
         <id>25</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -149,7 +149,7 @@
         <value>Командная панель формы</value>
       </title>
       <extendedTooltip>
-        <name>КоманднаяПанельФормыExtendedTooltip</name>
+        <name>КоманднаяПанельФормыРасширеннаяПодсказка</name>
         <id>26</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -171,7 +171,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -306,7 +306,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>33</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -346,7 +346,7 @@
         <segments>Список.Профиль</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ПрофильExtendedTooltip</name>
+        <name>ПрофильРасширеннаяПодсказка</name>
         <id>34</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -386,7 +386,7 @@
         <segments>Список.Ответственный</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ОтветственныйExtendedTooltip</name>
+        <name>ОтветственныйРасширеннаяПодсказка</name>
         <id>35</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -552,7 +552,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>32</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -573,7 +573,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СписокКонтекстноеМенюСоздатьExtendedTooltip</name>
+          <name>СписокКонтекстноеМенюСоздатьРасширеннаяПодсказка</name>
           <id>28</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -598,7 +598,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СписокКонтекстноеМенюСоздатьГруппуExtendedTooltip</name>
+          <name>СписокКонтекстноеМенюСоздатьГруппуРасширеннаяПодсказка</name>
           <id>29</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -623,7 +623,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СписокКонтекстноеМенюСкопироватьExtendedTooltip</name>
+          <name>СписокКонтекстноеМенюСкопироватьРасширеннаяПодсказка</name>
           <id>30</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -652,7 +652,7 @@
           <value>Контекстное меню списка</value>
         </title>
         <extendedTooltip>
-          <name>КонтекстноеМенюСпискаExtendedTooltip</name>
+          <name>КонтекстноеМенюСпискаРасширеннаяПодсказка</name>
           <id>31</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

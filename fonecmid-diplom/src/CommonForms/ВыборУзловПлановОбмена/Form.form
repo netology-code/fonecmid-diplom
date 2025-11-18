@@ -41,7 +41,7 @@
         <segments>УзлыПлановОбмена.ПланОбменаПредставление</segments>
       </dataPath>
       <extendedTooltip>
-        <name>УзлыПлановОбменаПланОбменаПредставлениеExtendedTooltip</name>
+        <name>УзлыПлановОбменаПланОбменаПредставлениеРасширеннаяПодсказка</name>
         <id>31</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -82,7 +82,7 @@
         <segments>УзлыПлановОбмена.УзелПредставление</segments>
       </dataPath>
       <extendedTooltip>
-        <name>УзлыПлановОбменаУзелПредставлениеExtendedTooltip</name>
+        <name>УзлыПлановОбменаУзелПредставлениеРасширеннаяПодсказка</name>
         <id>32</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -123,10 +123,10 @@
       <name>УзлыПлановОбменаВыбор</name>
     </handlers>
     <searchStringAddition>
-      <name>УзлыПлановОбменаSearchString</name>
+      <name>УзлыПлановОбменаСтрокаПоиска</name>
       <id>33</id>
       <extendedTooltip>
-        <name>УзлыПлановОбменаSearchStringExtendedTooltip</name>
+        <name>УзлыПлановОбменаСтрокаПоискаРасширеннаяПодсказка</name>
         <id>35</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -136,7 +136,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>УзлыПлановОбменаSearchStringContextMenu</name>
+        <name>УзлыПлановОбменаСтрокаПоискаКонтекстноеМеню</name>
         <id>34</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -146,10 +146,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>УзлыПлановОбменаViewStatus</name>
+      <name>УзлыПлановОбменаСостояниеПросмотра</name>
       <id>36</id>
       <extendedTooltip>
-        <name>УзлыПлановОбменаViewStatusExtendedTooltip</name>
+        <name>УзлыПлановОбменаViewStatusРасширеннаяПодсказка</name>
         <id>38</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -159,7 +159,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>УзлыПлановОбменаViewStatusContextMenu</name>
+        <name>УзлыПлановОбменаСостояниеПросмотраКонтекстноеМеню</name>
         <id>37</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -170,10 +170,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>УзлыПлановОбменаSearchControl</name>
+      <name>УзлыПлановОбменаУправлениеПоиском</name>
       <id>39</id>
       <extendedTooltip>
-        <name>УзлыПлановОбменаSearchControlExtendedTooltip</name>
+        <name>УзлыПлановОбменаSearchControlРасширеннаяПодсказка</name>
         <id>41</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -183,7 +183,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>УзлыПлановОбменаSearchControlContextMenu</name>
+        <name>УзлыПлановОбменаУправлениеПоискомКонтекстноеМеню</name>
         <id>40</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -194,7 +194,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>УзлыПлановОбменаExtendedTooltip</name>
+      <name>УзлыПлановОбменаРасширеннаяПодсказка</name>
       <id>30</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -244,7 +244,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВыбратьExtendedTooltip</name>
+        <name>ФормаВыбратьРасширеннаяПодсказка</name>
         <id>28</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -274,7 +274,7 @@
         <value>Команды списка узлов</value>
       </title>
       <extendedTooltip>
-        <name>КомандыСпискаУзловExtendedTooltip</name>
+        <name>КомандыСпискаУзловРасширеннаяПодсказка</name>
         <id>29</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

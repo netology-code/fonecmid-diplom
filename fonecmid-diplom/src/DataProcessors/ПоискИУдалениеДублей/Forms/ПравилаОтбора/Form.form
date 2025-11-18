@@ -27,10 +27,10 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <name>КомпоновщикПредварительногоОтбораНастройкиОтборSearchString</name>
+      <name>КомпоновщикПредварительногоОтбораНастройкиОтборСтрокаПоиска</name>
       <id>13</id>
       <extendedTooltip>
-        <name>КомпоновщикПредварительногоОтбораНастройкиОтборSearchStringExtendedTooltip</name>
+        <name>КомпоновщикПредварительногоОтбораНастройкиОтборSearchStringРасширеннаяПодсказка</name>
         <id>15</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -40,7 +40,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>КомпоновщикПредварительногоОтбораНастройкиОтборSearchStringContextMenu</name>
+        <name>КомпоновщикПредварительногоОтбораНастройкиОтборСтрокаПоискаКонтекстноеМеню</name>
         <id>14</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -50,10 +50,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>КомпоновщикПредварительногоОтбораНастройкиОтборViewStatus</name>
+      <name>КомпоновщикПредварительногоОтбораНастройкиОтборСостояниеПросмотра</name>
       <id>16</id>
       <extendedTooltip>
-        <name>КомпоновщикПредварительногоОтбораНастройкиОтборViewStatusExtendedTooltip</name>
+        <name>КомпоновщикПредварительногоОтбораНастройкиОтборСостояниеПросмотраРасширеннаяПодсказка</name>
         <id>18</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -63,7 +63,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>КомпоновщикПредварительногоОтбораНастройкиОтборViewStatusContextMenu</name>
+        <name>КомпоновщикПредварительногоОтбораНастройкиОтборViewStatusКонтекстноеМеню</name>
         <id>17</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -74,10 +74,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>КомпоновщикПредварительногоОтбораНастройкиОтборSearchControl</name>
+      <name>КомпоновщикПредварительногоОтбораНастройкиОтборУправлениеПоиском</name>
       <id>19</id>
       <extendedTooltip>
-        <name>КомпоновщикПредварительногоОтбораНастройкиОтборSearchControlExtendedTooltip</name>
+        <name>КомпоновщикПредварительногоОтбораНастройкиОтборУправлениеПоискомРасширеннаяПодсказка</name>
         <id>21</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -87,7 +87,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>КомпоновщикПредварительногоОтбораНастройкиОтборSearchControlContextMenu</name>
+        <name>КомпоновщикПредварительногоОтбораНастройкиОтборУправлениеПоискомКонтекстноеМеню</name>
         <id>20</id>
         <autoFill>true</autoFill>
       </contextMenu>

@@ -17,7 +17,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>СообщениеExtendedTooltip</name>
+      <name>СообщениеРасширеннаяПодсказка</name>
       <id>24</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -75,7 +75,7 @@
         <segments>ФайлыБольшие.Value</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ЗначениеExtendedTooltip</name>
+        <name>ЗначениеРасширеннаяПодсказка</name>
         <id>26</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -110,10 +110,10 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <name>ФайлыБольшиеSearchString</name>
+      <name>ФайлыБольшиеСтрокаПоиска</name>
       <id>28</id>
       <extendedTooltip>
-        <name>ФайлыБольшиеSearchStringExtendedTooltip</name>
+        <name>ФайлыБольшиеСтрокаПоискаРасширеннаяПодсказка</name>
         <id>30</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -123,7 +123,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ФайлыБольшиеSearchStringContextMenu</name>
+        <name>ФайлыБольшиеСтрокаПоискаКонтекстноеМеню</name>
         <id>29</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -133,10 +133,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>ФайлыБольшиеViewStatus</name>
+      <name>ФайлыБольшиеСостояниеПросмотра</name>
       <id>31</id>
       <extendedTooltip>
-        <name>ФайлыБольшиеViewStatusExtendedTooltip</name>
+        <name>ФайлыБольшиеViewStatusРасширеннаяПодсказка</name>
         <id>33</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -146,7 +146,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ФайлыБольшиеViewStatusContextMenu</name>
+        <name>ФайлыБольшиеСостояниеПросмотраКонтекстноеМеню</name>
         <id>32</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -157,10 +157,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>ФайлыБольшиеSearchControl</name>
+      <name>ФайлыБольшиеУправлениеПоиском</name>
       <id>34</id>
       <extendedTooltip>
-        <name>ФайлыБольшиеSearchControlExtendedTooltip</name>
+        <name>ФайлыБольшиеSearchControlРасширеннаяПодсказка</name>
         <id>36</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -170,7 +170,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ФайлыБольшиеSearchControlContextMenu</name>
+        <name>ФайлыБольшиеУправлениеПоискомКонтекстноеМеню</name>
         <id>35</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -181,7 +181,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ФайлыБольшиеExtendedTooltip</name>
+      <name>ФайлыБольшиеРасширеннаяПодсказка</name>
       <id>25</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -231,7 +231,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
+      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
       <id>27</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -263,7 +263,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>OKExtendedTooltip</name>
+        <name>OKРасширеннаяПодсказка</name>
         <id>21</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -290,7 +290,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>22</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -316,7 +316,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>23</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

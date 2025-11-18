@@ -1606,7 +1606,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>НастроитьПараметрыИзмененийExtendedTooltip</name>
+            <name>НастроитьПараметрыИзмененийРасширеннаяПодсказка</name>
             <id>79</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1696,7 +1696,7 @@
         <value>Настройка изменений</value>
       </title>
       <extendedTooltip>
-        <name>НастройкаИзмененийExtendedTooltip</name>
+        <name>НастройкаИзмененийРасширеннаяПодсказка</name>
         <id>75</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2097,7 +2097,7 @@
         <value>Изменение объектов</value>
       </title>
       <extendedTooltip>
-        <name>ИзменениеОбъектовExtendedTooltip</name>
+        <name>ИзменениеОбъектовРасширеннаяПодсказка</name>
         <id>86</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2131,7 +2131,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияДлительнаяОперацияExtendedTooltip</name>
+            <name>ДекорацияДлительнаяОперацияРасширеннаяПодсказка</name>
             <id>102</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2166,7 +2166,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияПоясняющийТекстДлительнойОперацииExtendedTooltip</name>
+            <name>ДекорацияПоясняющийТекстДлительнойОперацииРасширеннаяПодсказка</name>
             <id>103</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2226,7 +2226,7 @@
         <value>Ожидание обработки</value>
       </title>
       <extendedTooltip>
-        <name>ОжиданиеОбработкиExtendedTooltip</name>
+        <name>ОжиданиеОбработкиРасширеннаяПодсказка</name>
         <id>101</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2377,7 +2377,7 @@
       <value>Страницы</value>
     </title>
     <extendedTooltip>
-      <name>СтраницыExtendedTooltip</name>
+      <name>СтраницыРасширеннаяПодсказка</name>
       <id>74</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -2462,7 +2462,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаИзменитьExtendedTooltip</name>
+          <name>ФормаИзменитьРасширеннаяПодсказка</name>
           <id>71</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2488,7 +2488,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаСправкаExtendedTooltip</name>
+          <name>ФормаСправкаРасширеннаяПодсказка</name>
           <id>73</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

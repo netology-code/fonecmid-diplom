@@ -26,7 +26,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>УстановитьПериодРассчитанныхИтоговExtendedTooltip</name>
+              <name>УстановитьПериодРассчитанныхИтоговРасширеннаяПодсказка</name>
               <id>334</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -61,7 +61,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОписаниеУстановкиПериодаExtendedTooltip</name>
+              <name>ОписаниеУстановкиПериодаРасширеннаяПодсказка</name>
               <id>335</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -128,7 +128,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>ВключитьИспользованиеИтоговExtendedTooltip</name>
+              <name>ВключитьИспользованиеИтоговРасширеннаяПодсказка</name>
               <id>337</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -161,7 +161,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПростыеИтогиОписаниеExtendedTooltip</name>
+              <name>ПростыеИтогиОписаниеРасширеннаяПодсказка</name>
               <id>338</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -197,7 +197,7 @@
             <value>Включение итогов</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаВключениеИтоговExtendedTooltip</name>
+            <name>ГруппаВключениеИтоговРасширеннаяПодсказка</name>
             <id>336</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -225,7 +225,7 @@
           <value>Итоги</value>
         </title>
         <extendedTooltip>
-          <name>БыстрыйДоступИтогиExtendedTooltip</name>
+          <name>БыстрыйДоступИтогиРасширеннаяПодсказка</name>
           <id>332</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -261,7 +261,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>ПерестроитьИЗаполнитьАгрегатыExtendedTooltip</name>
+              <name>ПерестроитьИЗаполнитьАгрегатыРасширеннаяПодсказка</name>
               <id>341</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -294,7 +294,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПростоеПостроениеИЗаполнениеОписаниеExtendedTooltip</name>
+              <name>ПростоеПостроениеИЗаполнениеОписаниеРасширеннаяПодсказка</name>
               <id>342</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -330,7 +330,7 @@
             <value>Перестроение и заполнение агрегатов</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаПерестроениеИЗаполнениеАгрегатовExtendedTooltip</name>
+            <name>ГруппаПерестроениеИЗаполнениеАгрегатовРасширеннаяПодсказка</name>
             <id>340</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -360,7 +360,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>ПолучитьОптимальныеАгрегатыExtendedTooltip</name>
+              <name>ПолучитьОптимальныеАгрегатыРасширеннаяПодсказка</name>
               <id>344</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -393,7 +393,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПростоеПолучениеОптимальныхАгрегатовExtendedTooltip</name>
+              <name>ПростоеПолучениеОптимальныхАгрегатовРасширеннаяПодсказка</name>
               <id>345</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -429,7 +429,7 @@
             <value>Получение оптимальных агрегатов</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаПолучениеОптимальныхАгрегатовExtendedTooltip</name>
+            <name>ГруппаПолучениеОптимальныхАгрегатовРасширеннаяПодсказка</name>
             <id>343</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -486,7 +486,7 @@
         <value>Типовые операции</value>
       </title>
       <extendedTooltip>
-        <name>БыстрыйДоступExtendedTooltip</name>
+        <name>БыстрыйДоступРасширеннаяПодсказка</name>
         <id>331</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -552,7 +552,7 @@
                 <value>Признак использования итогов данным регистром.</value>
               </toolTip>
               <extendedTooltip>
-                <name>ИтогиИспользоватьИтогиExtendedTooltip</name>
+                <name>ИтогиИспользоватьИтогиРасширеннаяПодсказка</name>
                 <id>373</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -588,7 +588,7 @@
                   <segments>СписокИтогов.Наименование</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ИтогиНаименованиеExtendedTooltip</name>
+                  <name>ИтогиНаименованиеРасширеннаяПодсказка</name>
                   <id>372</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -632,7 +632,7 @@
                   <value>Какой режим использует регистр: итогов или агрегатов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ИтогиАгрегатыИтогиExtendedTooltip</name>
+                  <name>ИтогиАгрегатыИтогиРасширеннаяПодсказка</name>
                   <id>377</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -704,7 +704,7 @@
                 <value>Текущая дата актуальности итогов</value>
               </toolTip>
               <extendedTooltip>
-                <name>ИтогиПериодИтоговExtendedTooltip</name>
+                <name>ИтогиПериодИтоговРасширеннаяПодсказка</name>
                 <id>375</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -749,7 +749,7 @@
                 <value>Признак использования текущих итогов данным регистром.</value>
               </toolTip>
               <extendedTooltip>
-                <name>ИтогиИспользоватьТекущиеИтогиExtendedTooltip</name>
+                <name>ИтогиИспользоватьТекущиеИтогиРасширеннаяПодсказка</name>
                 <id>374</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -786,7 +786,7 @@
                 <value>Возможность разделения итогов</value>
               </toolTip>
               <extendedTooltip>
-                <name>ИтогиРазделениеИтоговExtendedTooltip</name>
+                <name>ИтогиРазделениеИтоговРасширеннаяПодсказка</name>
                 <id>376</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -821,7 +821,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>ОбновитьСостояниеИтоговExtendedTooltip</name>
+                  <name>ОбновитьСостояниеИтоговРасширеннаяПодсказка</name>
                   <id>353</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -849,7 +849,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ИтогиВключитьИспользованиеИтоговExtendedTooltip</name>
+                    <name>ИтогиВключитьИспользованиеИтоговРасширеннаяПодсказка</name>
                     <id>355</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -875,7 +875,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ИтогиВыключитьИспользованиеИтоговExtendedTooltip</name>
+                    <name>ИтогиВыключитьИспользованиеИтоговРасширеннаяПодсказка</name>
                     <id>356</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -905,7 +905,7 @@
                   <value>Включение/выключение использования итогов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаИтогиExtendedTooltip</name>
+                  <name>ГруппаИтогиРасширеннаяПодсказка</name>
                   <id>354</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -932,7 +932,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ВключитьИспользованиеТекущихИтоговExtendedTooltip</name>
+                    <name>ВключитьИспользованиеТекущихИтоговРасширеннаяПодсказка</name>
                     <id>358</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -958,7 +958,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ВыключитьИспользованиеТекущихИтоговExtendedTooltip</name>
+                    <name>ВыключитьИспользованиеТекущихИтоговРасширеннаяПодсказка</name>
                     <id>359</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -988,7 +988,7 @@
                   <value>Включение/выключение использования текущих итогов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаТекущиеИтогиExtendedTooltip</name>
+                  <name>ГруппаТекущиеИтогиРасширеннаяПодсказка</name>
                   <id>357</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1015,7 +1015,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ВключитьРазделениеИтоговExtendedTooltip</name>
+                    <name>ВключитьРазделениеИтоговРасширеннаяПодсказка</name>
                     <id>361</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1041,7 +1041,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ВыключитьРазделениеИтоговExtendedTooltip</name>
+                    <name>ВыключитьРазделениеИтоговРасширеннаяПодсказка</name>
                     <id>362</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1071,7 +1071,7 @@
                   <value>Включение/выключение разделения итогов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаРазделениеИтоговExtendedTooltip</name>
+                  <name>ГруппаРазделениеИтоговРасширеннаяПодсказка</name>
                   <id>360</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1095,7 +1095,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>УстановитьПериодИтоговExtendedTooltip</name>
+                  <name>УстановитьПериодИтоговРасширеннаяПодсказка</name>
                   <id>363</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1124,7 +1124,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ПересчитатьИтогиExtendedTooltip</name>
+                    <name>ПересчитатьИтогиРасширеннаяПодсказка</name>
                     <id>365</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1150,7 +1150,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ПересчитатьТекущиеИтогиExtendedTooltip</name>
+                    <name>ПересчитатьТекущиеИтогиРасширеннаяПодсказка</name>
                     <id>366</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1176,7 +1176,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ПересчитатьИтогиЗаПериодExtendedTooltip</name>
+                    <name>ПересчитатьИтогиЗаПериодРасширеннаяПодсказка</name>
                     <id>367</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -1206,7 +1206,7 @@
                   <value>Пересчет итогов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаПересчетExtendedTooltip</name>
+                  <name>ГруппаПересчетРасширеннаяПодсказка</name>
                   <id>364</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1230,7 +1230,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>НайтиExtendedTooltip</name>
+                  <name>НайтиРасширеннаяПодсказка</name>
                   <id>368</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1256,7 +1256,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>ОтменитьПоискExtendedTooltip</name>
+                  <name>ОтменитьПоискРасширеннаяПодсказка</name>
                   <id>369</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1282,7 +1282,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>ВыделитьВсеExtendedTooltip</name>
+                  <name>ВыделитьВсеРасширеннаяПодсказка</name>
                   <id>370</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1381,7 +1381,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>СписокИтоговExtendedTooltip</name>
+              <name>СписокИтоговРасширеннаяПодсказка</name>
               <id>371</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1403,7 +1403,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>КонтекстноеМенюИтогиУстановитьПериодИтоговExtendedTooltip</name>
+                  <name>КонтекстноеМенюИтогиУстановитьПериодИтоговРасширеннаяПодсказка</name>
                   <id>349</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1429,7 +1429,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>КонтекстноеМенюИтогиПересчитатьИтогиExtendedTooltip</name>
+                  <name>КонтекстноеМенюИтогиПересчитатьИтогиРасширеннаяПодсказка</name>
                   <id>350</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1455,7 +1455,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>КонтекстноеМенюИтогиПересчитатьТекущиеИтогиExtendedTooltip</name>
+                  <name>КонтекстноеМенюИтогиПересчитатьТекущиеИтогиРасширеннаяПодсказка</name>
                   <id>351</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1481,7 +1481,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>КонтекстноеМенюИтогиВыделитьВсеExtendedTooltip</name>
+                  <name>КонтекстноеМенюИтогиВыделитьВсеРасширеннаяПодсказка</name>
                   <id>352</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -1530,7 +1530,7 @@
             </dataPath>
             <titleLocation>Right</titleLocation>
             <extendedTooltip>
-              <name>ПрерыватьПриОшибкеExtendedTooltip</name>
+              <name>ПрерыватьПриОшибкеРасширеннаяПодсказка</name>
               <id>378</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1565,7 +1565,7 @@
             <value>Управление итогами</value>
           </toolTip>
           <extendedTooltip>
-            <name>ГруппаИтоговExtendedTooltip</name>
+            <name>ГруппаИтоговРасширеннаяПодсказка</name>
             <id>348</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2084,7 +2084,7 @@
                   <value>Изменение режима использования регистра</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаРежимExtendedTooltip</name>
+                  <name>ГруппаРежимРасширеннаяПодсказка</name>
                   <id>385</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -2167,7 +2167,7 @@
                   <value>Изменение режима использования агрегатов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаИспользованиеExtendedTooltip</name>
+                  <name>ГруппаИспользованиеРасширеннаяПодсказка</name>
                   <id>388</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -2390,7 +2390,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>АгрегатыПоРегистрамExtendedTooltip</name>
+              <name>АгрегатыПоРегистрамРасширеннаяПодсказка</name>
               <id>396</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2901,7 +2901,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>СписокАгрегатовExtendedTooltip</name>
+              <name>СписокАгрегатовРасширеннаяПодсказка</name>
               <id>404</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2949,7 +2949,7 @@
             <value>Управление агрегатами</value>
           </toolTip>
           <extendedTooltip>
-            <name>ГруппаАгрегатыExtendedTooltip</name>
+            <name>ГруппаАгрегатыРасширеннаяПодсказка</name>
             <id>379</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2974,7 +2974,7 @@
           <value>Расширенные инструменты</value>
         </title>
         <extendedTooltip>
-          <name>РасширенныеИнструментыExtendedTooltip</name>
+          <name>РасширенныеИнструментыРасширеннаяПодсказка</name>
           <id>347</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2999,7 +2999,7 @@
         <value>Расширенная</value>
       </title>
       <extendedTooltip>
-        <name>РасширенныеВозможностиExtendedTooltip</name>
+        <name>РасширенныеВозможностиРасширеннаяПодсказка</name>
         <id>346</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -3024,7 +3024,7 @@
       <value>Операции</value>
     </title>
     <extendedTooltip>
-      <name>ОперацииExtendedTooltip</name>
+      <name>ОперацииРасширеннаяПодсказка</name>
       <id>330</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -3095,7 +3095,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>413</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -3122,7 +3122,7 @@
       <value>Подвал</value>
     </title>
     <extendedTooltip>
-      <name>ПодвалExtendedTooltip</name>
+      <name>ПодвалРасширеннаяПодсказка</name>
       <id>411</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

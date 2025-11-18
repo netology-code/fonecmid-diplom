@@ -27,7 +27,7 @@
           <name>ВидБазыПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ВидБазыExtendedTooltip</name>
+          <name>ВидБазыРасширеннаяПодсказка</name>
           <id>51</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -89,7 +89,7 @@
                 <segments>Язык</segments>
               </dataPath>
               <extendedTooltip>
-                <name>ЯзыкФайловойБазыExtendedTooltip</name>
+                <name>ЯзыкФайловойБазыРасширеннаяПодсказка</name>
                 <id>55</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -141,7 +141,7 @@
                   <name>ПолноеИмяФайловойБазыПриИзменении</name>
                 </handlers>
                 <extendedTooltip>
-                  <name>ПолноеИмяФайловойБазыExtendedTooltip</name>
+                  <name>ПолноеИмяФайловойБазыРасширеннаяПодсказка</name>
                   <id>57</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -191,7 +191,7 @@
                 </dataPath>
                 <titleLocation>Top</titleLocation>
                 <extendedTooltip>
-                  <name>ПолноеИмяФайловойБазыLinuxExtendedTooltip</name>
+                  <name>ПолноеИмяФайловойБазыLinuxРасширеннаяПодсказка</name>
                   <id>58</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -229,7 +229,7 @@
                 <value>Полное имя файловой базы</value>
               </title>
               <extendedTooltip>
-                <name>ГруппаПутьФайловойБазыExtendedTooltip</name>
+                <name>ГруппаПутьФайловойБазыРасширеннаяПодсказка</name>
                 <id>56</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -259,7 +259,7 @@
               <value>Заполнить параметры файловой базы</value>
             </title>
             <extendedTooltip>
-              <name>ЗаполнитьПараметрыФайловойБазыExtendedTooltip</name>
+              <name>ЗаполнитьПараметрыФайловойБазыРасширеннаяПодсказка</name>
               <id>54</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -292,7 +292,7 @@
                   <segments>Сервер</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>СерверExtendedTooltip</name>
+                  <name>СерверРасширеннаяПодсказка</name>
                   <id>60</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -332,7 +332,7 @@
                   <segments>ИмяАдминистратораКластера</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ИмяАдминистратораКластераExtendedTooltip</name>
+                  <name>ИмяАдминистратораКластераРасширеннаяПодсказка</name>
                   <id>101</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -371,7 +371,7 @@
                   <segments>ПарольАдминистратораКластера</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ПарольАдминистратораКластераExtendedTooltip</name>
+                  <name>ПарольАдминистратораКластераРасширеннаяПодсказка</name>
                   <id>104</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -412,7 +412,7 @@
                   <segments>ИмяБазы</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ИмяБазыExtendedTooltip</name>
+                  <name>ИмяБазыРасширеннаяПодсказка</name>
                   <id>61</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -452,7 +452,7 @@
                   <segments>ЗащищенноеСоединение</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ЗащищенноеСоединениеExtendedTooltip</name>
+                  <name>ЗащищенноеСоединениеРасширеннаяПодсказка</name>
                   <id>62</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -521,7 +521,7 @@
                   <segments>Язык</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ЯзыкБазыСервераExtendedTooltip</name>
+                  <name>ЯзыкБазыСервераРасширеннаяПодсказка</name>
                   <id>69</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -561,7 +561,7 @@
                 </dataPath>
                 <titleLocation>Right</titleLocation>
                 <extendedTooltip>
-                  <name>УстановитьБлокировкуРегламентныхЗаданийExtendedTooltip</name>
+                  <name>УстановитьБлокировкуРегламентныхЗаданийРасширеннаяПодсказка</name>
                   <id>70</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -629,7 +629,7 @@
                   <name>ТипСУБДПриИзменении</name>
                 </handlers>
                 <extendedTooltip>
-                  <name>ТипСУБДExtendedTooltip</name>
+                  <name>ТипСУБДРасширеннаяПодсказка</name>
                   <id>63</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -705,7 +705,7 @@
                   <segments>СерверБазыДанных</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>СерверБазыДанныхExtendedTooltip</name>
+                  <name>СерверБазыДанныхРасширеннаяПодсказка</name>
                   <id>64</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -745,7 +745,7 @@
                   <segments>ИмяБазыДанных</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ИмяБазыДанныхExtendedTooltip</name>
+                  <name>ИмяБазыДанныхРасширеннаяПодсказка</name>
                   <id>65</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -784,7 +784,7 @@
                   <segments>ПользовательБазыДанных</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ПользовательБазыДанныхExtendedTooltip</name>
+                  <name>ПользовательБазыДанныхРасширеннаяПодсказка</name>
                   <id>66</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -823,7 +823,7 @@
                   <segments>ПарольПользователя</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ПарольПользователяExtendedTooltip</name>
+                  <name>ПарольПользователяРасширеннаяПодсказка</name>
                   <id>67</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -863,7 +863,7 @@
                   <segments>СмещениеДат</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>СмещениеДатExtendedTooltip</name>
+                  <name>СмещениеДатРасширеннаяПодсказка</name>
                   <id>68</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -947,7 +947,7 @@
               <value>Заполнить параметры серверной базы</value>
             </title>
             <extendedTooltip>
-              <name>ЗаполнитьПараметрыСервернойБазыExtendedTooltip</name>
+              <name>ЗаполнитьПараметрыСервернойБазыРасширеннаяПодсказка</name>
               <id>59</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -972,7 +972,7 @@
             <value>Страницы</value>
           </title>
           <extendedTooltip>
-            <name>СтраницыExtendedTooltip</name>
+            <name>СтраницыРасширеннаяПодсказка</name>
             <id>53</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -996,7 +996,7 @@
           <value>Параметры информационной базы</value>
         </title>
         <extendedTooltip>
-          <name>ПараметрыExtendedTooltip</name>
+          <name>ПараметрыРасширеннаяПодсказка</name>
           <id>52</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1036,7 +1036,7 @@
           </dataPath>
           <titleLocation>Top</titleLocation>
           <extendedTooltip>
-            <name>ПутьКАрхивуСФайламиТомовExtendedTooltip</name>
+            <name>ПутьКАрхивуСФайламиТомовРасширеннаяПодсказка</name>
             <id>72</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1086,7 +1086,7 @@
           </dataPath>
           <titleLocation>Top</titleLocation>
           <extendedTooltip>
-            <name>ПутьКАрхивуСФайламиТомовLinuxExtendedTooltip</name>
+            <name>ПутьКАрхивуСФайламиТомовLinuxРасширеннаяПодсказка</name>
             <id>73</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1124,7 +1124,7 @@
           <value>Полное имя архива с файлами томов</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаПутьКАрхивуСФайламиТомовExtendedTooltip</name>
+          <name>ГруппаПутьКАрхивуСФайламиТомовРасширеннаяПодсказка</name>
           <id>71</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1157,7 +1157,7 @@
           <value>Панель действий</value>
         </title>
         <extendedTooltip>
-          <name>ПанельДействийExtendedTooltip</name>
+          <name>ПанельДействийРасширеннаяПодсказка</name>
           <id>74</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1466,7 +1466,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СоздатьНачальныйОбразExtendedTooltip</name>
+        <name>СоздатьНачальныйОбразРасширеннаяПодсказка</name>
         <id>48</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1521,7 +1521,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗакрытьExtendedTooltip</name>
+        <name>ЗакрытьРасширеннаяПодсказка</name>
         <id>49</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1546,7 +1546,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>50</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

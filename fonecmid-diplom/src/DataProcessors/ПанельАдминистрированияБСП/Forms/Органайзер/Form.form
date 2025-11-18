@@ -16,7 +16,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОписаниеРазделаExtendedTooltip</name>
+        <name>ОписаниеРазделаРасширеннаяПодсказка</name>
         <id>1639</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -49,7 +49,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>1642</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -75,7 +75,7 @@
         <value>Справка</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСправкаExtendedTooltip</name>
+        <name>ГруппаСправкаРасширеннаяПодсказка</name>
         <id>1641</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -99,7 +99,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокExtendedTooltip</name>
+      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
       <id>1638</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -148,7 +148,7 @@
               <name>ИспользоватьПочтовыйКлиентПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ИспользоватьПочтовыйКлиентExtendedTooltip</name>
+              <name>ИспользоватьПочтовыйКлиентРасширеннаяПодсказка</name>
               <id>1645</id>
               <title>
                 <key>ru</key>
@@ -184,7 +184,7 @@
           <width>43</width>
           <horizontalStretch>false</horizontalStretch>
           <extendedTooltip>
-            <name>ГруппаИспользоватьПочтовыйКлиентExtendedTooltip</name>
+            <name>ГруппаИспользоватьПочтовыйКлиентРасширеннаяПодсказка</name>
             <id>1644</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -224,7 +224,7 @@
               <name>ОтправлятьПисьмаВФорматеHTMLПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ОтправлятьПисьмаВФорматеHTMLExtendedTooltip</name>
+              <name>ОтправлятьПисьмаВФорматеHTMLРасширеннаяПодсказка</name>
               <id>1648</id>
               <title>
                 <key>ru</key>
@@ -260,7 +260,7 @@
           <width>43</width>
           <horizontalStretch>false</horizontalStretch>
           <extendedTooltip>
-            <name>ГруппаОтправлятьПисьмаВФорматеHTMLExtendedTooltip</name>
+            <name>ГруппаОтправлятьПисьмаВФорматеHTMLРасширеннаяПодсказка</name>
             <id>1647</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -284,7 +284,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>Группа8ExtendedTooltip</name>
+          <name>Группа8РасширеннаяПодсказка</name>
           <id>1643</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -328,7 +328,7 @@
               <name>ИспользоватьПрочиеВзаимодействияПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ИспользоватьПрочиеВзаимодействияExtendedTooltip</name>
+              <name>ИспользоватьПрочиеВзаимодействияРасширеннаяПодсказка</name>
               <id>1652</id>
               <title>
                 <key>ru</key>
@@ -364,7 +364,7 @@
           <width>43</width>
           <horizontalStretch>false</horizontalStretch>
           <extendedTooltip>
-            <name>ГруппаИспользоватьПрочиеВзаимодействияExtendedTooltip</name>
+            <name>ГруппаИспользоватьПрочиеВзаимодействияРасширеннаяПодсказка</name>
             <id>1651</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -404,7 +404,7 @@
               <name>ИспользоватьПризнакРассмотреноПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ИспользоватьПризнакРассмотреноExtendedTooltip</name>
+              <name>ИспользоватьПризнакРассмотреноРасширеннаяПодсказка</name>
               <id>1655</id>
               <title>
                 <key>ru</key>
@@ -441,7 +441,7 @@
           <width>43</width>
           <horizontalStretch>false</horizontalStretch>
           <extendedTooltip>
-            <name>ГруппаИспользоватьПризнакРассмотреноExtendedTooltip</name>
+            <name>ГруппаИспользоватьПризнакРассмотреноРасширеннаяПодсказка</name>
             <id>1654</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -465,7 +465,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>Группа7ExtendedTooltip</name>
+          <name>Группа7РасширеннаяПодсказка</name>
           <id>1650</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -596,7 +596,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОткрытьНастройкиСистемнойУчетнойЗаписиЭПExtendedTooltip</name>
+            <name>ОткрытьНастройкиСистемнойУчетнойЗаписиЭПРасширеннаяПодсказка</name>
             <id>1659</id>
             <title>
               <key>ru</key>
@@ -629,7 +629,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаОткрытьНастройкиСистемнойУчетнойЗаписиЭПExtendedTooltip</name>
+          <name>ГруппаОткрытьНастройкиСистемнойУчетнойЗаписиЭПРасширеннаяПодсказка</name>
           <id>1658</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -659,7 +659,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОткрытьУчетныеЗаписиЭлектроннойПочтыExtendedTooltip</name>
+            <name>ОткрытьУчетныеЗаписиЭлектроннойПочтыРасширеннаяПодсказка</name>
             <id>1662</id>
             <title>
               <key>ru</key>
@@ -692,7 +692,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаОткрытьУчетныеЗаписиЭлектроннойПочтыExtendedTooltip</name>
+          <name>ГруппаОткрытьУчетныеЗаписиЭлектроннойПочтыРасширеннаяПодсказка</name>
           <id>1661</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -716,7 +716,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>Группа6ExtendedTooltip</name>
+        <name>Группа6РасширеннаяПодсказка</name>
         <id>1657</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -780,7 +780,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОбщаяФормаНастройкаОтправкиSMSExtendedTooltip</name>
+        <name>ОбщаяФормаНастройкаОтправкиSMSРасширеннаяПодсказка</name>
         <id>1665</id>
         <title>
           <key>ru</key>
@@ -864,7 +864,7 @@
             <name>ИспользоватьЗаметкиПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьЗаметкиExtendedTooltip</name>
+            <name>ИспользоватьЗаметкиРасширеннаяПодсказка</name>
             <id>1669</id>
             <title>
               <key>ru</key>
@@ -900,7 +900,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаИспользоватьЗаметкиExtendedTooltip</name>
+          <name>ГруппаИспользоватьЗаметкиРасширеннаяПодсказка</name>
           <id>1668</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -940,7 +940,7 @@
             <name>ИспользоватьНапоминанияПользователяПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьНапоминанияПользователяExtendedTooltip</name>
+            <name>ИспользоватьНапоминанияПользователяРасширеннаяПодсказка</name>
             <id>1672</id>
             <title>
               <key>ru</key>
@@ -976,7 +976,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаИспользоватьНапоминанияПользователяExtendedTooltip</name>
+          <name>ГруппаИспользоватьНапоминанияПользователяРасширеннаяПодсказка</name>
           <id>1671</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1046,7 +1046,7 @@
           <name>ИспользоватьАнкетированиеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ИспользоватьАнкетированиеExtendedTooltip</name>
+          <name>ИспользоватьАнкетированиеРасширеннаяПодсказка</name>
           <id>1675</id>
           <title>
             <key>ru</key>
@@ -1082,7 +1082,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаИспользоватьАнкетированиеExtendedTooltip</name>
+        <name>ГруппаИспользоватьАнкетированиеРасширеннаяПодсказка</name>
         <id>1674</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1329,7 +1329,7 @@
             <name>ИспользоватьБизнесПроцессыИЗадачиПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьБизнесПроцессыИЗадачиExtendedTooltip</name>
+            <name>ИспользоватьБизнесПроцессыИЗадачиРасширеннаяПодсказка</name>
             <id>1679</id>
             <title>
               <key>ru</key>
@@ -1366,7 +1366,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаИспользоватьБизнесПроцессыИЗадачиExtendedTooltip</name>
+          <name>ГруппаИспользоватьБизнесПроцессыИЗадачиРасширеннаяПодсказка</name>
           <id>1678</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1429,7 +1429,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаОткрытьРолиИИсполнителиБизнесПроцессовExtendedTooltip</name>
+          <name>ГруппаОткрытьРолиИИсполнителиБизнесПроцессовРасширеннаяПодсказка</name>
           <id>1681</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1531,7 +1531,7 @@
             <name>ИспользоватьПодчиненныеБизнесПроцессыПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьПодчиненныеБизнесПроцессыExtendedTooltip</name>
+            <name>ИспользоватьПодчиненныеБизнесПроцессыРасширеннаяПодсказка</name>
             <id>1685</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1564,7 +1564,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаИспользоватьПодчиненныеБизнесПроцессыExtendedTooltip</name>
+          <name>ГруппаИспользоватьПодчиненныеБизнесПроцессыРасширеннаяПодсказка</name>
           <id>1684</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1604,7 +1604,7 @@
             <name>ИзменятьЗаданияЗаднимЧисломПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИзменятьЗаданияЗаднимЧисломExtendedTooltip</name>
+            <name>ИзменятьЗаданияЗаднимЧисломРасширеннаяПодсказка</name>
             <id>1688</id>
             <title>
               <key>ru</key>
@@ -1641,7 +1641,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаИзменятьЗаданияЗаднимЧисломExtendedTooltip</name>
+          <name>ГруппаИзменятьЗаданияЗаднимЧисломРасширеннаяПодсказка</name>
           <id>1687</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1744,7 +1744,7 @@
             <name>ИспользоватьДатуНачалаЗадачПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьДатуНачалаЗадачExtendedTooltip</name>
+            <name>ИспользоватьДатуНачалаЗадачРасширеннаяПодсказка</name>
             <id>1692</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1777,7 +1777,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаИспользоватьДатуНачалаЗадачExtendedTooltip</name>
+          <name>ГруппаИспользоватьДатуНачалаЗадачРасширеннаяПодсказка</name>
           <id>1691</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1817,7 +1817,7 @@
             <name>ИспользоватьДатуИВремяВСрокахЗадачПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьДатуИВремяВСрокахЗадачExtendedTooltip</name>
+            <name>ИспользоватьДатуИВремяВСрокахЗадачРасширеннаяПодсказка</name>
             <id>1695</id>
             <title>
               <key>ru</key>
@@ -1854,7 +1854,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаИспользоватьДатуИВремяВСрокахЗадачExtendedTooltip</name>
+          <name>ГруппаИспользоватьДатуИВремяВСрокахЗадачРасширеннаяПодсказка</name>
           <id>1694</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1878,7 +1878,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>Группа4ExtendedTooltip</name>
+        <name>Группа4РасширеннаяПодсказка</name>
         <id>1690</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

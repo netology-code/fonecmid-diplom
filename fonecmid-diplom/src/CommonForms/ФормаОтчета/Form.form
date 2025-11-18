@@ -3114,7 +3114,7 @@
     <defaultItem>true</defaultItem>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ОтчетТабличныйДокументExtendedTooltip</name>
+      <name>ОтчетТабличныйДокументРасширеннаяПодсказка</name>
       <id>163</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

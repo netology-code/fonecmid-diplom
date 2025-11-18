@@ -19,7 +19,7 @@
         <name>ОтборПоВидуИспользуемогоМакетаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ОтборПоИспользованиюМакетаExtendedTooltip</name>
+        <name>ОтборПоИспользованиюМакетаРасширеннаяПодсказка</name>
         <id>83</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -165,7 +165,7 @@
         <name>СтрокаПоискаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>СтрокаПоискаExtendedTooltip</name>
+        <name>СтрокаПоискаРасширеннаяПодсказка</name>
         <id>82</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -254,7 +254,7 @@
       <value>Отборы</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОтборыExtendedTooltip</name>
+      <name>ГруппаОтборыРасширеннаяПодсказка</name>
       <id>81</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

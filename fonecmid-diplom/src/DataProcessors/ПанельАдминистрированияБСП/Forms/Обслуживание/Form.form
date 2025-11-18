@@ -49,7 +49,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>1636</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -75,7 +75,7 @@
         <value>Справка</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСправкаExtendedTooltip</name>
+        <name>ГруппаСправкаРасширеннаяПодсказка</name>
         <id>1635</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -99,7 +99,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокExtendedTooltip</name>
+      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
       <id>1632</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -129,7 +129,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОбработкаЖурналРегистрацииОткрытьExtendedTooltip</name>
+        <name>ОбработкаЖурналРегистрацииОткрытьРасширеннаяПодсказка</name>
         <id>1638</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -155,7 +155,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОбработкаАктивныеПользователиОткрытьExtendedTooltip</name>
+        <name>ОбработкаАктивныеПользователиОткрытьРасширеннаяПодсказка</name>
         <id>1639</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -181,7 +181,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОбработкаБлокировкаСоединенийСИнформационнойБазойОткрытьExtendedTooltip</name>
+        <name>ОбработкаБлокировкаСоединенийСИнформационнойБазойОткрытьРасширеннаяПодсказка</name>
         <id>1640</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -207,7 +207,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОбработкаУдалениеПомеченныхОбъектовОткрытьExtendedTooltip</name>
+        <name>ОбработкаУдалениеПомеченныхОбъектовОткрытьРасширеннаяПодсказка</name>
         <id>1641</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -234,7 +234,7 @@
       <value>Частотный сервис</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЧастотныйСервисExtendedTooltip</name>
+      <name>ГруппаЧастотныйСервисРасширеннаяПодсказка</name>
       <id>1637</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -535,7 +535,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОбработкаРегламентныеИФоновыеЗаданияExtendedTooltip</name>
+            <name>ОбработкаРегламентныеИФоновыеЗаданияРасширеннаяПодсказка</name>
             <id>1645</id>
             <title>
               <key>ru</key>
@@ -569,7 +569,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаОбработкаРегламентныеИФоновыеЗаданияExtendedTooltip</name>
+          <name>ГруппаОбработкаРегламентныеИФоновыеЗаданияРасширеннаяПодсказка</name>
           <id>1644</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -690,7 +690,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ОбработкаУправлениеИтогамиИАгрегатамиОткрытьExtendedTooltip</name>
+          <name>ОбработкаУправлениеИтогамиИАгрегатамиОткрытьРасширеннаяПодсказка</name>
           <id>1652</id>
           <title>
             <key>ru</key>
@@ -725,7 +725,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаОбработкаУправлениеИтогамиИАгрегатамиОткрытьExtendedTooltip</name>
+        <name>ГруппаОбработкаУправлениеИтогамиИАгрегатамиОткрытьРасширеннаяПодсказка</name>
         <id>1651</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -753,7 +753,7 @@
       <value>Регламентные операции</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаРегламентныеОперацииExtendedTooltip</name>
+      <name>ГруппаРегламентныеОперацииРасширеннаяПодсказка</name>
       <id>1642</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1015,7 +1015,7 @@
             <width>43</width>
             <horizontalStretch>false</horizontalStretch>
             <extendedTooltip>
-              <name>ГруппаНастройкаРезервногоКопированияExtendedTooltip</name>
+              <name>ГруппаНастройкаРезервногоКопированияРасширеннаяПодсказка</name>
               <id>1666</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1687,7 +1687,7 @@
       <value>Резервное копирование и восстановление</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаРезервноеКопированиеИВосстановлениеExtendedTooltip</name>
+      <name>ГруппаРезервноеКопированиеИВосстановлениеРасширеннаяПодсказка</name>
       <id>1657</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -2153,7 +2153,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОткрытьОписаниеИзмененийСистемыExtendedTooltip</name>
+            <name>ОткрытьОписаниеИзмененийСистемыРасширеннаяПодсказка</name>
             <id>2048</id>
             <title>
               <key>ru</key>
@@ -2187,7 +2187,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаОткрытьОписаниеИзмененийСистемыExtendedTooltip</name>
+          <name>ГруппаОткрытьОписаниеИзмененийСистемыРасширеннаяПодсказка</name>
           <id>2046</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2477,7 +2477,7 @@
             <name>ДетализироватьОбновлениеИБВЖурналеРегистрацииПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ДетализироватьОбновлениеИБВЖурналеРегистрацииExtendedTooltip</name>
+            <name>ДетализироватьОбновлениеИБВЖурналеРегистрацииРасширеннаяПодсказка</name>
             <id>2065</id>
             <title>
               <key>ru</key>
@@ -2543,7 +2543,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаДетализироватьОбновлениеИБВЖурналеРегистрацииExtendedTooltip</name>
+          <name>ГруппаДетализироватьОбновлениеИБВЖурналеРегистрацииРасширеннаяПодсказка</name>
           <id>2062</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2651,7 +2651,7 @@
           <name>ВыполнятьЗамерыПроизводительностиПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ВыполнятьЗамерыПроизводительностиExtendedTooltip</name>
+          <name>ВыполнятьЗамерыПроизводительностиРасширеннаяПодсказка</name>
           <id>1674</id>
           <title>
             <key>ru</key>
@@ -2718,7 +2718,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаВыполнятьЗамерыПроизводительностиExtendedTooltip</name>
+        <name>ГруппаВыполнятьЗамерыПроизводительностиРасширеннаяПодсказка</name>
         <id>1673</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2856,7 +2856,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаОбработкаОценкаПроизводительностиExtendedTooltip</name>
+        <name>ГруппаОбработкаОценкаПроизводительностиРасширеннаяПодсказка</name>
         <id>1676</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2884,7 +2884,7 @@
       <value>Оценка производительности</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОценкаПроизводительностиExtendedTooltip</name>
+      <name>ГруппаОценкаПроизводительностиРасширеннаяПодсказка</name>
       <id>1672</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

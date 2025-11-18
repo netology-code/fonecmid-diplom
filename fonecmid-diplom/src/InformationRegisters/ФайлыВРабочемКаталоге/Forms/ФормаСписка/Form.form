@@ -453,7 +453,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>22</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

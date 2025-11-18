@@ -184,7 +184,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>НастроитьExtendedTooltip</name>
+            <name>НастроитьРасширеннаяПодсказка</name>
             <id>413</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -211,7 +211,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаОбновитьExtendedTooltip</name>
+            <name>ФормаОбновитьРасширеннаяПодсказка</name>
             <id>415</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -315,7 +315,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СброситьМоиНастройкиExtendedTooltip</name>
+              <name>СброситьМоиНастройкиРасширеннаяПодсказка</name>
               <id>421</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -362,7 +362,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаИзменитьФормуExtendedTooltip</name>
+            <name>ФормаИзменитьФормуРасширеннаяПодсказка</name>
             <id>423</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -543,7 +543,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияДлительнаяОперацияExtendedTooltip</name>
+            <name>ДекорацияДлительнаяОперацияРасширеннаяПодсказка</name>
             <id>441</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -579,7 +579,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияПоясняющийТекстДлительнойОперацииExtendedTooltip</name>
+            <name>ДекорацияПоясняющийТекстДлительнойОперацииРасширеннаяПодсказка</name>
             <id>444</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -856,7 +856,7 @@
               <value>Быстрый доступ колонка 1</value>
             </title>
             <extendedTooltip>
-              <name>БыстрыйДоступКолонка1ExtendedTooltip</name>
+              <name>БыстрыйДоступКолонка1РасширеннаяПодсказка</name>
               <id>285</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -887,7 +887,7 @@
               <value>Быстрый доступ колонка 2</value>
             </title>
             <extendedTooltip>
-              <name>БыстрыйДоступКолонка2ExtendedTooltip</name>
+              <name>БыстрыйДоступКолонка2РасширеннаяПодсказка</name>
               <id>286</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -915,7 +915,7 @@
             <value>Быстрый доступ</value>
           </title>
           <extendedTooltip>
-            <name>БыстрыйДоступExtendedTooltip</name>
+            <name>БыстрыйДоступРасширеннаяПодсказка</name>
             <id>284</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1013,7 +1013,7 @@
               <value>Без группы колонка 1</value>
             </title>
             <extendedTooltip>
-              <name>БезГруппыКолонка1ExtendedTooltip</name>
+              <name>БезГруппыКолонка1РасширеннаяПодсказка</name>
               <id>290</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1044,7 +1044,7 @@
               <value>Без группы колонка 2</value>
             </title>
             <extendedTooltip>
-              <name>БезГруппыКолонка2ExtendedTooltip</name>
+              <name>БезГруппыКолонка2РасширеннаяПодсказка</name>
               <id>291</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1072,7 +1072,7 @@
             <value>Без группы</value>
           </title>
           <extendedTooltip>
-            <name>БезГруппыExtendedTooltip</name>
+            <name>БезГруппыРасширеннаяПодсказка</name>
             <id>289</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1136,7 +1136,7 @@
               <value>С группой колонка 1</value>
             </title>
             <extendedTooltip>
-              <name>СГруппойКолонка1ExtendedTooltip</name>
+              <name>СГруппойКолонка1РасширеннаяПодсказка</name>
               <id>295</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1167,7 +1167,7 @@
               <value>С группой колонка 2</value>
             </title>
             <extendedTooltip>
-              <name>СГруппойКолонка2ExtendedTooltip</name>
+              <name>СГруппойКолонка2РасширеннаяПодсказка</name>
               <id>296</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1195,7 +1195,7 @@
             <value>С группой</value>
           </title>
           <extendedTooltip>
-            <name>СГруппойExtendedTooltip</name>
+            <name>СГруппойРасширеннаяПодсказка</name>
             <id>294</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1300,7 +1300,7 @@
               <value>См также колонка 1</value>
             </title>
             <extendedTooltip>
-              <name>СмТакжеКолонка1ExtendedTooltip</name>
+              <name>СмТакжеКолонка1РасширеннаяПодсказка</name>
               <id>300</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1331,7 +1331,7 @@
               <value>См также колонка 2</value>
             </title>
             <extendedTooltip>
-              <name>СмТакжеКолонка2ExtendedTooltip</name>
+              <name>СмТакжеКолонка2РасширеннаяПодсказка</name>
               <id>301</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1359,7 +1359,7 @@
             <value>См также</value>
           </title>
           <extendedTooltip>
-            <name>СмТакжеExtendedTooltip</name>
+            <name>СмТакжеРасширеннаяПодсказка</name>
             <id>299</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1418,7 +1418,7 @@
           <value>Колонки</value>
         </title>
         <extendedTooltip>
-          <name>КолонкиExtendedTooltip</name>
+          <name>КолонкиРасширеннаяПодсказка</name>
           <id>283</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1607,7 +1607,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СсылкаВсеОтчетыExtendedTooltip</name>
+        <name>СсылкаВсеОтчетыРасширеннаяПодсказка</name>
         <id>304</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

@@ -19,7 +19,7 @@
         <segments>Наименование</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>32</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -58,7 +58,7 @@
         <segments>Состояние</segments>
       </dataPath>
       <extendedTooltip>
-        <name>СостояниеExtendedTooltip</name>
+        <name>СостояниеРасширеннаяПодсказка</name>
         <id>33</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -97,7 +97,7 @@
         <segments>Начало</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НачалоExtendedTooltip</name>
+        <name>НачалоРасширеннаяПодсказка</name>
         <id>34</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -136,7 +136,7 @@
         <segments>Конец</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КонецExtendedTooltip</name>
+        <name>КонецРасширеннаяПодсказка</name>
         <id>35</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -175,7 +175,7 @@
         <segments>Расположение</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РасположениеExtendedTooltip</name>
+        <name>РасположениеРасширеннаяПодсказка</name>
         <id>36</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -213,7 +213,7 @@
     </title>
     <readOnly>true</readOnly>
     <extendedTooltip>
-      <name>ОсновноеExtendedTooltip</name>
+      <name>ОсновноеРасширеннаяПодсказка</name>
       <id>31</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -246,7 +246,7 @@
         <segments>Идентификатор</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИдентификаторExtendedTooltip</name>
+        <name>ИдентификаторРасширеннаяПодсказка</name>
         <id>38</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -285,7 +285,7 @@
         <segments>Ключ</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КлючExtendedTooltip</name>
+        <name>КлючРасширеннаяПодсказка</name>
         <id>39</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -324,7 +324,7 @@
         <segments>ИмяМетода</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИмяМетодаExtendedTooltip</name>
+        <name>ИмяМетодаРасширеннаяПодсказка</name>
         <id>40</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -362,7 +362,7 @@
     </title>
     <readOnly>true</readOnly>
     <extendedTooltip>
-      <name>ДополнительноExtendedTooltip</name>
+      <name>ДополнительноРасширеннаяПодсказка</name>
       <id>37</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -399,7 +399,7 @@
         <segments>НаименованиеРегламентногоЗадания</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НаименованиеРегламентногоЗаданияExtendedTooltip</name>
+        <name>НаименованиеРегламентногоЗаданияРасширеннаяПодсказка</name>
         <id>42</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -438,7 +438,7 @@
         <segments>ИдентификаторРегламентногоЗадания</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИдентификаторРегламентногоЗаданияExtendedTooltip</name>
+        <name>ИдентификаторРегламентногоЗаданияРасширеннаяПодсказка</name>
         <id>43</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -476,7 +476,7 @@
     </title>
     <readOnly>true</readOnly>
     <extendedTooltip>
-      <name>РегламентноеЗаданиеExtendedTooltip</name>
+      <name>РегламентноеЗаданиеРасширеннаяПодсказка</name>
       <id>41</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -515,7 +515,7 @@
       <value>Сообщения пользователю и описание информации об ошибке</value>
     </toolTip>
     <extendedTooltip>
-      <name>СообщенияИОписаниеИнформацииОбОшибкеExtendedTooltip</name>
+      <name>СообщенияИОписаниеИнформацииОбОшибкеРасширеннаяПодсказка</name>
       <id>45</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -561,7 +561,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗакрытьExtendedTooltip</name>
+        <name>ЗакрытьРасширеннаяПодсказка</name>
         <id>30</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

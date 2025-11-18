@@ -23,7 +23,7 @@
         <segments>РабочийКаталогПользователя</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РабочийКаталогПользователяExtendedTooltip</name>
+        <name>РабочийКаталогПользователяРасширеннаяПодсказка</name>
         <id>31</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -69,7 +69,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ПутьКРабочемуКаталогуПоУмолчаниюExtendedTooltip</name>
+        <name>ПутьКРабочемуКаталогуПоУмолчаниюРасширеннаяПодсказка</name>
         <id>32</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -96,7 +96,7 @@
       <value>Расположение</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаРасположениеExtendedTooltip</name>
+      <name>ГруппаРасположениеРасширеннаяПодсказка</name>
       <id>30</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -134,7 +134,7 @@
       <name>МаксимальныйРазмерЛокальногоКэшаФайловПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>МаксимальныйРазмерЛокальногоКэшаФайловExtendedTooltip</name>
+      <name>МаксимальныйРазмерЛокальногоКэшаФайловРасширеннаяПодсказка</name>
       <id>33</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -182,7 +182,7 @@
       <name>УдалятьФайлИзЛокальногоКэшаФайловПриЗавершенииРедактированияПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>УдалятьФайлИзЛокальногоКэшаФайловПриЗавершенииРедактированияExtendedTooltip</name>
+      <name>УдалятьФайлИзЛокальногоКэшаФайловПриЗавершенииРедактированияРасширеннаяПодсказка</name>
       <id>35</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -222,7 +222,7 @@
         <segments>КоличествоСуммарное</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КоличествоСуммарноеExtendedTooltip</name>
+        <name>КоличествоСуммарноеРасширеннаяПодсказка</name>
         <id>37</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -270,7 +270,7 @@
         <segments>РазмерФайловВРабочемКаталоге</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РазмерФайловВРабочемКаталогеExtendedTooltip</name>
+        <name>РазмерФайловВРабочемКаталогеРасширеннаяПодсказка</name>
         <id>38</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -316,7 +316,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОчиститьРабочийКаталогExtendedTooltip</name>
+        <name>ОчиститьРабочийКаталогРасширеннаяПодсказка</name>
         <id>40</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

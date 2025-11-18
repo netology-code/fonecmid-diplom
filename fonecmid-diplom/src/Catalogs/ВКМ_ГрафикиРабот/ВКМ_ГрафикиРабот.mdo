@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="aef101dc-f165-412a-9b84-1b67098c97e1">
+  <producedTypes>
+    <objectType typeId="5f259813-6bef-464b-a74b-18ae37e5adc1" valueTypeId="c4f202bf-c7b9-4e74-bd2c-b32e3aefeec0"/>
+    <refType typeId="1002bd85-b922-46e8-b754-87a2b8970a05" valueTypeId="5f82b36e-d5af-4739-841b-28b04ef68972"/>
+    <selectionType typeId="0196b280-5734-483d-9064-b26dc2d87e07" valueTypeId="fc551220-36aa-46e8-81d0-6c59c03e4a90"/>
+    <listType typeId="1149f0f3-f121-415f-9213-7382ab77dce8" valueTypeId="73eb1723-0c2c-4e49-b2c7-cb0d27a54ac2"/>
+    <managerType typeId="af737881-0a07-4e31-b364-0fb44d4dac74" valueTypeId="2c43f41e-723a-4bb6-af08-7e9cd7b05b88"/>
+  </producedTypes>
+  <name>ВКМ_ГрафикиРабот</name>
+  <synonym>
+    <key>ru</key>
+    <value>Графики работ</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ГрафикиРабот.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВКМ_ГрафикиРабот.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>График работы</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="8b6618d0-c55a-4e14-9077-bf714d0093b3">
+      <name>ОтпускКалендарныеДни</name>
+      <description>Отпуск календарные дни</description>
+      <code xsi:type="core:StringValue">
+        <value>000000001</value>
+      </code>
+    </items>
+  </predefined>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

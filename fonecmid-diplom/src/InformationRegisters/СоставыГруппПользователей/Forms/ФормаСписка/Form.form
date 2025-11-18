@@ -43,7 +43,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
+        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
         <id>12</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -69,7 +69,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОбновитьДанныеРегистраExtendedTooltip</name>
+        <name>ФормаОбновитьДанныеРегистраРасширеннаяПодсказка</name>
         <id>13</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -142,7 +142,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>ГруппаПользователейExtendedTooltip</name>
+        <name>ГруппаПользователейРасширеннаяПодсказка</name>
         <id>15</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -179,7 +179,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>ПользовательExtendedTooltip</name>
+        <name>ПользовательРасширеннаяПодсказка</name>
         <id>16</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -215,7 +215,7 @@
         <segments>Список.Используется</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИспользуетсяExtendedTooltip</name>
+        <name>ИспользуетсяРасширеннаяПодсказка</name>
         <id>17</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -243,10 +243,10 @@
       <horizontalAlign>Left</horizontalAlign>
     </autoCommandBar>
     <searchStringAddition>
-      <name>СписокSearchString</name>
+      <name>СписокСтрокаПоиска</name>
       <id>22</id>
       <extendedTooltip>
-        <name>СписокSearchStringExtendedTooltip</name>
+        <name>СписокSearchStringРасширеннаяПодсказка</name>
         <id>24</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -256,7 +256,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокSearchStringContextMenu</name>
+        <name>СписокСтрокаПоискаКонтекстноеМеню</name>
         <id>23</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -266,10 +266,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>СписокViewStatus</name>
+      <name>СписокСостояниеПросмотра</name>
       <id>25</id>
       <extendedTooltip>
-        <name>СписокViewStatusExtendedTooltip</name>
+        <name>СписокСостояниеПросмотраРасширеннаяПодсказка</name>
         <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -279,7 +279,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокViewStatusContextMenu</name>
+        <name>СписокСостояниеПросмотраКонтекстноеМеню</name>
         <id>26</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -290,10 +290,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>СписокSearchControl</name>
+      <name>СписокУправлениеПоиском</name>
       <id>28</id>
       <extendedTooltip>
-        <name>СписокSearchControlExtendedTooltip</name>
+        <name>СписокSearchControlРасширеннаяПодсказка</name>
         <id>30</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -303,7 +303,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокSearchControlContextMenu</name>
+        <name>СписокSearchControlКонтекстноеМеню</name>
         <id>29</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -314,7 +314,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>14</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

@@ -23,7 +23,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстСообщенияОбновляемаяКонфигурацияExtendedTooltip</name>
+          <name>ТекстСообщенияОбновляемаяКонфигурацияРасширеннаяПодсказка</name>
           <id>14</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -57,7 +57,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстПоясненияExtendedTooltip</name>
+          <name>ТекстПоясненияРасширеннаяПодсказка</name>
           <id>15</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -118,7 +118,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстПодготовкаКЗапускуExtendedTooltip</name>
+          <name>ТекстПодготовкаКЗапускуРасширеннаяПодсказка</name>
           <id>17</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -151,7 +151,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстПоясненияПодготовкаКЗапускуExtendedTooltip</name>
+          <name>ТекстПоясненияПодготовкаКЗапускуРасширеннаяПодсказка</name>
           <id>18</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -181,7 +181,7 @@
         <value>Начальное заполнение</value>
       </title>
       <extendedTooltip>
-        <name>НачальноеЗаполнениеExtendedTooltip</name>
+        <name>НачальноеЗаполнениеРасширеннаяПодсказка</name>
         <id>16</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -394,7 +394,7 @@
       <value>Режим запуска</value>
     </title>
     <extendedTooltip>
-      <name>РежимЗапускаExtendedTooltip</name>
+      <name>РежимЗапускаРасширеннаяПодсказка</name>
       <id>12</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

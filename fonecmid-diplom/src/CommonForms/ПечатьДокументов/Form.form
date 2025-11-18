@@ -17,7 +17,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>КнопкаПечатьКоманднаяПанельExtendedTooltip</name>
+          <name>КнопкаПечатьКоманднаяПанельРасширеннаяПодсказка</name>
           <id>145</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -72,7 +72,7 @@
       </title>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>КоманднаяПанельЛеваяЧастьExtendedTooltip</name>
+        <name>КоманднаяПанельЛеваяЧастьРасширеннаяПодсказка</name>
         <id>144</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -112,7 +112,7 @@
           <name>КопийПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>КопийExtendedTooltip</name>
+          <name>КопийРасширеннаяПодсказка</name>
           <id>146</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -233,7 +233,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КнопкаПоказатьСкрытьНастройкуКомплектаExtendedTooltip</name>
+          <name>КнопкаПоказатьСкрытьНастройкуКомплектаРасширеннаяПодсказка</name>
           <id>149</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -261,7 +261,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КнопкаРедактированиеExtendedTooltip</name>
+            <name>КнопкаРедактированиеРасширеннаяПодсказка</name>
             <id>157</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -314,7 +314,7 @@
           <value>Редактирование печатной формы</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаРедактированиеПечатнойФормыExtendedTooltip</name>
+          <name>ГруппаРедактированиеПечатнойФормыРасширеннаяПодсказка</name>
           <id>156</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -337,7 +337,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КнопкаСохранитьExtendedTooltip</name>
+            <name>КнопкаСохранитьРасширеннаяПодсказка</name>
             <id>159</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -362,7 +362,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КнопкаОтправитьExtendedTooltip</name>
+            <name>КнопкаОтправитьРасширеннаяПодсказка</name>
             <id>160</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -388,7 +388,7 @@
           <value>Сохранить отправить</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаСохранитьОтправитьExtendedTooltip</name>
+          <name>ГруппаСохранитьОтправитьРасширеннаяПодсказка</name>
           <id>158</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -412,7 +412,7 @@
           </userVisible>
           <skipOnInput>false</skipOnInput>
           <extendedTooltip>
-            <name>КнопкаПерейтиКДокументуExtendedTooltip</name>
+            <name>КнопкаПерейтиКДокументуРасширеннаяПодсказка</name>
             <id>162</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -438,7 +438,7 @@
           <value>Навигация</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаНавигацияExtendedTooltip</name>
+          <name>ГруппаНавигацияРасширеннаяПодсказка</name>
           <id>161</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -460,7 +460,7 @@
       </title>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>КоманднаяПанельПраваяЧастьExtendedTooltip</name>
+        <name>КоманднаяПанельПраваяЧастьРасширеннаяПодсказка</name>
         <id>147</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -826,7 +826,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>КнопкаПечатьВсеДействияExtendedTooltip</name>
+          <name>КнопкаПечатьВсеДействияРасширеннаяПодсказка</name>
           <id>148</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -981,7 +981,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КнопкаИзменитьМакетExtendedTooltip</name>
+            <name>КнопкаИзменитьМакетРасширеннаяПодсказка</name>
             <id>164</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1008,7 +1008,7 @@
           </userVisible>
           <skipOnInput>false</skipOnInput>
           <extendedTooltip>
-            <name>КнопкаПерейтиКУправлениюМакетамиExtendedTooltip</name>
+            <name>КнопкаПерейтиКУправлениюМакетамиРасширеннаяПодсказка</name>
             <id>165</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1035,7 +1035,7 @@
           <value>Редактирование макета</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаРедактированиеМакетаExtendedTooltip</name>
+          <name>ГруппаРедактированиеМакетаРасширеннаяПодсказка</name>
           <id>163</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1106,7 +1106,7 @@
       <value>Копий и автосумма</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКоманднаяПанельExtendedTooltip</name>
+      <name>ГруппаКоманднаяПанельРасширеннаяПодсказка</name>
       <id>143</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1278,7 +1278,7 @@
           <name>НастройкиПечатныхФормПечататьПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>НастройкиПечатныхФормПечататьExtendedTooltip</name>
+          <name>НастройкиПечатныхФормПечататьРасширеннаяПодсказка</name>
           <id>175</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1314,7 +1314,7 @@
           <segments>НастройкиПечатныхФорм.Представление</segments>
         </dataPath>
         <extendedTooltip>
-          <name>НастройкиПечатныхФормПредставлениеExtendedTooltip</name>
+          <name>НастройкиПечатныхФормПредставлениеРасширеннаяПодсказка</name>
           <id>176</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1355,7 +1355,7 @@
           <segments>НастройкиПечатныхФорм.Количество</segments>
         </dataPath>
         <extendedTooltip>
-          <name>НастройкиПечатныхФормКоличествоExtendedTooltip</name>
+          <name>НастройкиПечатныхФормКоличествоРасширеннаяПодсказка</name>
           <id>177</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1409,7 +1409,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>КнопкаУстановитьФлажкиПодменюExtendedTooltip</name>
+                <name>КнопкаУстановитьФлажкиПодменюРасширеннаяПодсказка</name>
                 <id>151</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1435,7 +1435,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>КнопкаСнятьФлажкиПодменюExtendedTooltip</name>
+                <name>КнопкаСнятьФлажкиПодменюРасширеннаяПодсказка</name>
                 <id>152</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1485,7 +1485,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>КнопкаПереместитьВверхПодменюExtendedTooltip</name>
+                <name>КнопкаПереместитьВверхПодменюРасширеннаяПодсказка</name>
                 <id>153</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1511,7 +1511,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>КнопкаПереместитьВнизПодменюExtendedTooltip</name>
+                <name>КнопкаПереместитьВнизПодменюРасширеннаяПодсказка</name>
                 <id>154</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1558,7 +1558,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаСброситьНастройкиПодменюExtendedTooltip</name>
+              <name>КнопкаСброситьНастройкиПодменюРасширеннаяПодсказка</name>
               <id>155</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1716,7 +1716,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>НастройкиПечатныхФормExtendedTooltip</name>
+        <name>НастройкиПечатныхФормРасширеннаяПодсказка</name>
         <id>174</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1740,7 +1740,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаУстановитьФлажкиКонтекстноеМенюExtendedTooltip</name>
+              <name>КнопкаУстановитьФлажкиКонтекстноеМенюРасширеннаяПодсказка</name>
               <id>168</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1766,7 +1766,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаСнятьФлажкиКонтекстноеМенюExtendedTooltip</name>
+              <name>КнопкаСнятьФлажкиКонтекстноеМенюРасширеннаяПодсказка</name>
               <id>169</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1792,7 +1792,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаПереместитьВверхКонтекстноеМенюExtendedTooltip</name>
+              <name>КнопкаПереместитьВверхКонтекстноеМенюРасширеннаяПодсказка</name>
               <id>170</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1818,7 +1818,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаПереместитьВнизКонтекстноеМенюExtendedTooltip</name>
+              <name>КнопкаПереместитьВнизКонтекстноеМенюРасширеннаяПодсказка</name>
               <id>171</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1844,7 +1844,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КнопкаСброситьНастройкиКонтекстноеМенюExtendedTooltip</name>
+              <name>КнопкаСброситьНастройкиКонтекстноеМенюРасширеннаяПодсказка</name>
               <id>172</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1870,7 +1870,7 @@
             <value>Настройка комплекта контекстное меню</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаНастройкаКомплектаКонтекстноеМенюExtendedTooltip</name>
+            <name>ГруппаНастройкаКомплектаКонтекстноеМенюРасширеннаяПодсказка</name>
             <id>167</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1890,7 +1890,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>НастройкиПечатныхФормКонтекстноеМенюКопироватьВБуферОбменаExtendedTooltip</name>
+            <name>НастройкиПечатныхФормКонтекстноеМенюКопироватьВБуферОбменаРасширеннаяПодсказка</name>
             <id>173</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2038,7 +2038,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КартинкаПечатнаяФормаНедоступнаExtendedTooltip</name>
+              <name>КартинкаПечатнаяФормаНедоступнаРасширеннаяПодсказка</name>
               <id>183</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2073,7 +2073,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьПечатнаяФормаНедоступнаExtendedTooltip</name>
+              <name>НадписьПечатнаяФормаНедоступнаРасширеннаяПодсказка</name>
               <id>184</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2104,7 +2104,7 @@
             <value>Печатная форма недоступна</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаПечатнаяФормаНедоступнаExtendedTooltip</name>
+            <name>ГруппаПечатнаяФормаНедоступнаРасширеннаяПодсказка</name>
             <id>182</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2132,7 +2132,7 @@
           <value>Страница печатная форма недоступна</value>
         </title>
         <extendedTooltip>
-          <name>СтраницаПечатнаяФормаНедоступнаExtendedTooltip</name>
+          <name>СтраницаПечатнаяФормаНедоступнаРасширеннаяПодсказка</name>
           <id>181</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2158,7 +2158,7 @@
       </title>
       <enableContentChange>true</enableContentChange>
       <extendedTooltip>
-        <name>СтраницыExtendedTooltip</name>
+        <name>СтраницыРасширеннаяПодсказка</name>
         <id>178</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2182,7 +2182,7 @@
       <value>Печатные формы</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПечатныеФормыExtendedTooltip</name>
+      <name>ГруппаПечатныеФормыРасширеннаяПодсказка</name>
       <id>166</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

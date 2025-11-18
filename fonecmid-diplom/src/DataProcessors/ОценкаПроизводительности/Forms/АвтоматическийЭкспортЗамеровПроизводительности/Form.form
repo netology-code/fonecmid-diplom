@@ -56,7 +56,7 @@
           <name>ВыполнятьЭкспортПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ВыполнятьЭкспортExtendedTooltip</name>
+          <name>ВыполнятьЭкспортРасширеннаяПодсказка</name>
           <id>29</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -540,7 +540,7 @@
         <name>ВыполнятьЭкспортВКаталогПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ВыполнятьЭкспортВЛокальныйКаталогExtendedTooltip</name>
+        <name>ВыполнятьЭкспортВЛокальныйКаталогРасширеннаяПодсказка</name>
         <id>31</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -581,7 +581,7 @@
         <name>ЛокальныйКаталогЭкспортаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ЛокальныйКаталогЭкспортаExtendedTooltip</name>
+        <name>ЛокальныйКаталогЭкспортаРасширеннаяПодсказка</name>
         <id>32</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -624,7 +624,7 @@
       <value>Настройки экспорта в локальный каталог</value>
     </title>
     <extendedTooltip>
-      <name>НастройкиЭкспортаВЛокальныйКаталогExtendedTooltip</name>
+      <name>НастройкиЭкспортаВЛокальныйКаталогРасширеннаяПодсказка</name>
       <id>30</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -663,7 +663,7 @@
         <name>ВыполнятьЭкспортВКаталогПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ВыполнятьЭкспортНаFTPExtendedTooltip</name>
+        <name>ВыполнятьЭкспортНаFTPРасширеннаяПодсказка</name>
         <id>34</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -704,7 +704,7 @@
         <name>FTPКаталогЭкспортаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>FTPКаталогЭкспортаExtendedTooltip</name>
+        <name>FTPКаталогЭкспортаРасширеннаяПодсказка</name>
         <id>35</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -742,7 +742,7 @@
       <value>Настройки экспорта на FTP</value>
     </title>
     <extendedTooltip>
-      <name>НастройкиЭкспортаНаFTPExtendedTooltip</name>
+      <name>НастройкиЭкспортаНаFTPРасширеннаяПодсказка</name>
       <id>33</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -770,7 +770,7 @@
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>НастроитьРасписаниеЭкспортаExtendedTooltip</name>
+      <name>НастроитьРасписаниеЭкспортаРасширеннаяПодсказка</name>
       <id>36</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -803,7 +803,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСохранитьЗакрытьExtendedTooltip</name>
+        <name>ФормаСохранитьЗакрытьРасширеннаяПодсказка</name>
         <id>25</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -833,7 +833,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСохранитьНастройкиExtendedTooltip</name>
+        <name>ФормаСохранитьНастройкиРасширеннаяПодсказка</name>
         <id>26</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

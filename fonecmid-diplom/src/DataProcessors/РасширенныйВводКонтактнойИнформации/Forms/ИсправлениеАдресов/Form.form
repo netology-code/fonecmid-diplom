@@ -89,7 +89,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДекорацияПрогрессExtendedTooltip</name>
+          <name>ДекорацияПрогрессРасширеннаяПодсказка</name>
           <id>18</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

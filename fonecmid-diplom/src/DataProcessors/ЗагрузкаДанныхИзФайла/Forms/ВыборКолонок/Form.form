@@ -292,10 +292,10 @@
       <name>СписокКолонокПриНачалеРедактирования</name>
     </handlers>
     <searchStringAddition>
-      <name>СписокКолонокSearchString</name>
+      <name>СписокКолонокСтрокаПоиска</name>
       <id>19</id>
       <extendedTooltip>
-        <name>СписокКолонокSearchStringExtendedTooltip</name>
+        <name>СписокКолонокСтрокаПоискаРасширеннаяПодсказка</name>
         <id>21</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -305,7 +305,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокКолонокSearchStringContextMenu</name>
+        <name>СписокКолонокСтрокаПоискаКонтекстноеМеню</name>
         <id>20</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -315,10 +315,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>СписокКолонокViewStatus</name>
+      <name>СписокКолонокСостояниеПросмотра</name>
       <id>22</id>
       <extendedTooltip>
-        <name>СписокКолонокViewStatusExtendedTooltip</name>
+        <name>СписокКолонокViewStatusРасширеннаяПодсказка</name>
         <id>24</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -328,7 +328,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокКолонокViewStatusContextMenu</name>
+        <name>СписокКолонокСостояниеПросмотраКонтекстноеМеню</name>
         <id>23</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -339,10 +339,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>СписокКолонокSearchControl</name>
+      <name>СписокКолонокУправлениеПоиском</name>
       <id>25</id>
       <extendedTooltip>
-        <name>СписокКолонокSearchControlExtendedTooltip</name>
+        <name>СписокКолонокSearchControlРасширеннаяПодсказка</name>
         <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -352,7 +352,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>СписокКолонокSearchControlContextMenu</name>
+        <name>СписокКолонокУправлениеПоискомКонтекстноеМеню</name>
         <id>26</id>
         <autoFill>true</autoFill>
       </contextMenu>

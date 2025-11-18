@@ -16,7 +16,7 @@
       <segments>ОтносительныйРазмер</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОтносительныйРазмерExtendedTooltip</name>
+      <name>ОтносительныйРазмерРасширеннаяПодсказка</name>
       <id>9</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -56,7 +56,7 @@
       <segments>МинимальныйЭффект</segments>
     </dataPath>
     <extendedTooltip>
-      <name>МинимальныйЭффектExtendedTooltip</name>
+      <name>МинимальныйЭффектРасширеннаяПодсказка</name>
       <id>10</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -98,7 +98,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>OKExtendedTooltip</name>
+        <name>OKРасширеннаяПодсказка</name>
         <id>7</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -125,7 +125,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>8</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

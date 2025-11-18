@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3cf71d33-f98b-43cc-9966-30d61e8cfa61">
+  <name>ВКМ_ДобавленныеОбъекты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавленные объекты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.BKM_Сотрудники</content>
+  <content>Catalog.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</content>
+  <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентовСпециалист</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>CommonModule.BKM_Телеграмм</content>
+  <content>Constant.ВКМ_ТокенУправленияТБотом</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыОповещения</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.BKM_НоменклатураРаботыСпециалиста</content>
+  <content>CommonModule.BKM_ДоработкаДокументаРеализацияТоваровИУслугСервер</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>DataProcessor.BKM_МассовоеСозданиеАктов</content>
+  <content>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграм</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>InformationRegister.BKM_ГрафикиРабот</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+  <content>Document.ВКМ_НачислениеЗаработнойПлаты</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>InformationRegister.ВКМ_СведенияОбОтпусках</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_ВыработкаCпециалистов</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Report.ВКМ_РасчётыССотрудниками</content>
+  <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентовМенеджер</content>
+  <content>Catalog.ВКМ_Подразделения</content>
+</mdclass:Subsystem>

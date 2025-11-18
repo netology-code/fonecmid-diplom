@@ -76,7 +76,7 @@
           <name>КодСтраныПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>КодСтраныExtendedTooltip</name>
+          <name>КодСтраныРасширеннаяПодсказка</name>
           <id>41</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -127,7 +127,7 @@
           <name>КодГородаПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>КодГородаExtendedTooltip</name>
+          <name>КодГородаРасширеннаяПодсказка</name>
           <id>42</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -179,7 +179,7 @@
           <name>НомерТелефонаПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>НомерТелефонаExtendedTooltip</name>
+          <name>НомерТелефонаРасширеннаяПодсказка</name>
           <id>43</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -230,7 +230,7 @@
           <name>ДобавочныйПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ДобавочныйExtendedTooltip</name>
+          <name>ДобавочныйРасширеннаяПодсказка</name>
           <id>44</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -305,7 +305,7 @@
         <value>Дополнительный комментарий, не попадающий в представление</value>
       </toolTip>
       <extendedTooltip>
-        <name>КомментарийExtendedTooltip</name>
+        <name>КомментарийРасширеннаяПодсказка</name>
         <id>47</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -377,7 +377,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ПредставлениеExtendedTooltip</name>
+      <name>ПредставлениеРасширеннаяПодсказка</name>
       <id>45</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -424,7 +424,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КомандаОКExtendedTooltip</name>
+        <name>КомандаОКРасширеннаяПодсказка</name>
         <id>49</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -450,7 +450,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>50</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -475,7 +475,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОчиститьТелефонExtendedTooltip</name>
+        <name>ОчиститьТелефонРасширеннаяПодсказка</name>
         <id>53</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -501,7 +501,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзменитьФормуExtendedTooltip</name>
+        <name>ИзменитьФормуРасширеннаяПодсказка</name>
         <id>55</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -527,7 +527,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>51</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

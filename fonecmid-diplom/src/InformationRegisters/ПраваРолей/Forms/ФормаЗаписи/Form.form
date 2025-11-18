@@ -12,7 +12,7 @@
       <segments>Запись.ОбъектМетаданных</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОбъектМетаданныхExtendedTooltip</name>
+      <name>ОбъектМетаданныхРасширеннаяПодсказка</name>
       <id>33</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -57,7 +57,7 @@
       <segments>Запись.Роль</segments>
     </dataPath>
     <extendedTooltip>
-      <name>РольExtendedTooltip</name>
+      <name>РольРасширеннаяПодсказка</name>
       <id>34</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -537,7 +537,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
+        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
         <id>32</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

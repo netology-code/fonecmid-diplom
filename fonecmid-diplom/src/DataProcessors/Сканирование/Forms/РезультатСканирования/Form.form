@@ -46,7 +46,7 @@
           <segments>ТаблицаФайлов.Представление</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ТаблицаФайловПредставлениеExtendedTooltip</name>
+          <name>ТаблицаФайловПредставлениеРасширеннаяПодсказка</name>
           <id>34</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -158,7 +158,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ТаблицаФайловExtendedTooltip</name>
+        <name>ТаблицаФайловРасширеннаяПодсказка</name>
         <id>33</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -179,7 +179,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ТаблицаФайловКонтекстноеМенюУдалитьExtendedTooltip</name>
+            <name>ТаблицаФайловКонтекстноеМенюУдалитьРасширеннаяПодсказка</name>
             <id>32</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -233,7 +233,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>КартинкаExtendedTooltip</name>
+        <name>КартинкаРасширеннаяПодсказка</name>
         <id>35</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -280,7 +280,7 @@
       <value>Изображения</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаИзображенияExtendedTooltip</name>
+      <name>ГруппаИзображенияРасширеннаяПодсказка</name>
       <id>31</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -420,7 +420,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДекорацияИконкаExtendedTooltip</name>
+        <name>ДекорацияИконкаРасширеннаяПодсказка</name>
         <id>37</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -487,7 +487,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>ТекстНастроекExtendedTooltip</name>
+          <name>ТекстНастроекРасширеннаяПодсказка</name>
           <id>38</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -619,7 +619,7 @@
     </title>
     <height>2</height>
     <extendedTooltip>
-      <name>ГруппаСообщениеExtendedTooltip</name>
+      <name>ГруппаСообщениеРасширеннаяПодсказка</name>
       <id>36</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -685,7 +685,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаПринятьВсеКакОдинФайлExtendedTooltip</name>
+        <name>ФормаПринятьВсеКакОдинФайлРасширеннаяПодсказка</name>
         <id>26</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -714,7 +714,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаПринятьВсеКакОтдельныеФайлыExtendedTooltip</name>
+        <name>ФормаПринятьВсеКакОтдельныеФайлыРасширеннаяПодсказка</name>
         <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -739,7 +739,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСканироватьЕщеExtendedTooltip</name>
+        <name>ФормаСканироватьЕщеРасширеннаяПодсказка</name>
         <id>24</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -769,7 +769,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ПересканироватьExtendedTooltip</name>
+        <name>ПересканироватьРасширеннаяПодсказка</name>
         <id>25</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -794,7 +794,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаНастройкаExtendedTooltip</name>
+        <name>ФормаНастройкаРасширеннаяПодсказка</name>
         <id>30</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

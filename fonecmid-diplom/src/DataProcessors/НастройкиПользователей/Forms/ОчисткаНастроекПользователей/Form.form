@@ -28,7 +28,7 @@
         <name>ПереключательКомуОчищатьНастройкиПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПереключательКомуОчищатьНастройкиExtendedTooltip</name>
+        <name>ПереключательКомуОчищатьНастройкиРасширеннаяПодсказка</name>
         <id>70</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -82,7 +82,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьПользователейExtendedTooltip</name>
+        <name>ВыбратьПользователейРасширеннаяПодсказка</name>
         <id>72</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -119,7 +119,7 @@
       <value>Очистить настройки:</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОчиститьУПользователейExtendedTooltip</name>
+      <name>ГруппаОчиститьУПользователейРасширеннаяПодсказка</name>
       <id>69</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -159,7 +159,7 @@
         <name>ПереключательОчищаемыеНастройкиПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПереключательОчищаемыеНастройкиExtendedTooltip</name>
+        <name>ПереключательОчищаемыеНастройкиРасширеннаяПодсказка</name>
         <id>74</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -221,7 +221,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьНастройкиExtendedTooltip</name>
+        <name>ВыбратьНастройкиРасширеннаяПодсказка</name>
         <id>77</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -260,7 +260,7 @@
       <value>Что очистить:</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОчищаемыеНастройкиExtendedTooltip</name>
+      <name>ГруппаОчищаемыеНастройкиРасширеннаяПодсказка</name>
       <id>73</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -293,7 +293,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОчиститьИЗакрытьExtendedTooltip</name>
+        <name>ФормаОчиститьИЗакрытьРасширеннаяПодсказка</name>
         <id>66</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -319,7 +319,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОчиститьExtendedTooltip</name>
+        <name>ОчиститьРасширеннаяПодсказка</name>
         <id>67</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -344,7 +344,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗакрытьExtendedTooltip</name>
+        <name>ФормаЗакрытьРасширеннаяПодсказка</name>
         <id>68</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

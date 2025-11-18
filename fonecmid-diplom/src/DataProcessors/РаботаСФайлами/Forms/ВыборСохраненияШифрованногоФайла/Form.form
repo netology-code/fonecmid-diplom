@@ -17,7 +17,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>СохранятьСРасшифровкойExtendedTooltip</name>
+      <name>СохранятьСРасшифровкойРасширеннаяПодсказка</name>
       <id>13</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -97,7 +97,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтменаExtendedTooltip</name>
+        <name>ФормаОтменаРасширеннаяПодсказка</name>
         <id>12</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

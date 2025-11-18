@@ -49,7 +49,7 @@
           <name>ДеревоПодсистемИспользованиеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ДеревоПодсистемИспользованиеExtendedTooltip</name>
+          <name>ДеревоПодсистемИспользованиеРасширеннаяПодсказка</name>
           <id>87</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -86,7 +86,7 @@
           <segments>ДеревоПодсистем.Представление</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ДеревоПодсистемПредставлениеExtendedTooltip</name>
+          <name>ДеревоПодсистемПредставлениеРасширеннаяПодсказка</name>
           <id>88</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -125,7 +125,7 @@
         <value>Колонок</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаКолонокExtendedTooltip</name>
+        <name>ГруппаКолонокРасширеннаяПодсказка</name>
         <id>86</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -156,7 +156,7 @@
         <name>ДеревоПодсистемВажностьПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ДеревоПодсистемВажностьExtendedTooltip</name>
+        <name>ДеревоПодсистемВажностьРасширеннаяПодсказка</name>
         <id>89</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -269,7 +269,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ДеревоПодсистемExtendedTooltip</name>
+      <name>ДеревоПодсистемРасширеннаяПодсказка</name>
       <id>85</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -290,7 +290,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДеревоПодсистемКонтекстноеМенюСнятьФлажкиExtendedTooltip</name>
+          <name>ДеревоПодсистемКонтекстноеМенюСнятьФлажкиРасширеннаяПодсказка</name>
           <id>83</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -341,7 +341,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>РазместитьExtendedTooltip</name>
+        <name>РазместитьРасширеннаяПодсказка</name>
         <id>79</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -366,7 +366,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДеревоПодсистемСнятьФлажкиExtendedTooltip</name>
+        <name>ДеревоПодсистемСнятьФлажкиРасширеннаяПодсказка</name>
         <id>80</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

@@ -15,7 +15,7 @@
         <segments>Объект.Description</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>26</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -56,7 +56,7 @@
       </dataPath>
       <skipOnInput>true</skipOnInput>
       <extendedTooltip>
-        <name>КодExtendedTooltip</name>
+        <name>КодРасширеннаяПодсказка</name>
         <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -94,7 +94,7 @@
       <value>Код и наименование</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКодИНаименованиеExtendedTooltip</name>
+      <name>ГруппаКодИНаименованиеРасширеннаяПодсказка</name>
       <id>25</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -142,7 +142,7 @@
             <name>ПолныйПутьWindowsПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ПолныйПутьWindowsExtendedTooltip</name>
+            <name>ПолныйПутьWindowsРасширеннаяПодсказка</name>
             <id>29</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -200,7 +200,7 @@
             <name>ПолныйПутьLinuxПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ПолныйПутьLinuxExtendedTooltip</name>
+            <name>ПолныйПутьLinuxРасширеннаяПодсказка</name>
             <id>30</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -239,7 +239,7 @@
           <value>Пути</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаПутиExtendedTooltip</name>
+          <name>ГруппаПутиРасширеннаяПодсказка</name>
           <id>28</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -269,7 +269,7 @@
           <segments>Объект.ПорядокЗаполнения</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПорядокExtendedTooltip</name>
+          <name>ПорядокРасширеннаяПодсказка</name>
           <id>31</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -313,7 +313,7 @@
             <segments>Объект.МаксимальныйРазмер</segments>
           </dataPath>
           <extendedTooltip>
-            <name>МаксимальныйРазмерExtendedTooltip</name>
+            <name>МаксимальныйРазмерРасширеннаяПодсказка</name>
             <id>33</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -358,7 +358,7 @@
             <value>Текущий размер всех файлов в томе в мегабайтах.</value>
           </toolTip>
           <extendedTooltip>
-            <name>ТекущийРазмерExtendedTooltip</name>
+            <name>ТекущийРазмерРасширеннаяПодсказка</name>
             <id>34</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -397,7 +397,7 @@
           <value>Максимальный размер</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаМаксимальныйРазмерExtendedTooltip</name>
+          <name>ГруппаМаксимальныйРазмерРасширеннаяПодсказка</name>
           <id>32</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -456,7 +456,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>КомментарийExtendedTooltip</name>
+          <name>КомментарийРасширеннаяПодсказка</name>
           <id>35</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -817,14 +817,7 @@
     <currentRowUse>DontUse</currentRowUse>
   </formCommands>
   <commandInterface>
-    <navigationPanel>
-      <cmiFragmentRecord>
-        <command>0</command>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-      </cmiFragmentRecord>
-    </navigationPanel>
+    <navigationPanel/>
     <commandBar/>
   </commandInterface>
   <extInfo xsi:type="form:CatalogFormExtInfo">

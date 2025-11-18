@@ -12,7 +12,7 @@
       <segments>Запись.ГруппаДоступа</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ГруппаДоступаExtendedTooltip</name>
+      <name>ГруппаДоступаРасширеннаяПодсказка</name>
       <id>11</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -194,7 +194,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
+        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
         <id>10</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

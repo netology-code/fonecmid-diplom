@@ -13,7 +13,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ВыбратьExtendedTooltip</name>
+        <name>ВыбратьРасширеннаяПодсказка</name>
         <id>16</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -171,7 +171,7 @@
           <name>ПометкаПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ПометкаExtendedTooltip</name>
+          <name>ПометкаРасширеннаяПодсказка</name>
           <id>21</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -207,7 +207,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>КартинкаExtendedTooltip</name>
+          <name>КартинкаРасширеннаяПодсказка</name>
           <id>22</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -252,7 +252,7 @@
           <segments>ДеревоОбъектовМетаданных.Представление</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПредставлениеExtendedTooltip</name>
+          <name>ПредставлениеРасширеннаяПодсказка</name>
           <id>23</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -286,7 +286,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ГруппаExtendedTooltip</name>
+        <name>ГруппаРасширеннаяПодсказка</name>
         <id>20</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -384,7 +384,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ДеревоОбъектовМетаданныхExtendedTooltip</name>
+      <name>ДеревоОбъектовМетаданныхРасширеннаяПодсказка</name>
       <id>19</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

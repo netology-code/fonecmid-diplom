@@ -25,7 +25,7 @@
       <name>ПользовательСсылкаПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ПользовательСсылкаExtendedTooltip</name>
+      <name>ПользовательСсылкаРасширеннаяПодсказка</name>
       <id>72</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -86,7 +86,7 @@
           <name>ПереключательКомуКопироватьНастройкиПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ПереключательКомуКопироватьНастройкиExtendedTooltip</name>
+          <name>ПереключательКомуКопироватьНастройкиРасширеннаяПодсказка</name>
           <id>74</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -140,7 +140,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВыбратьПользователейExtendedTooltip</name>
+          <name>ВыбратьПользователейРасширеннаяПодсказка</name>
           <id>76</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -177,7 +177,7 @@
         <value>Выбрать пользователей</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаВыбратьПользователейExtendedTooltip</name>
+        <name>ГруппаВыбратьПользователейРасширеннаяПодсказка</name>
         <id>75</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -205,7 +205,7 @@
       <value>Кому копировать:</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКомуКопироватьExtendedTooltip</name>
+      <name>ГруппаКомуКопироватьРасширеннаяПодсказка</name>
       <id>73</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -248,7 +248,7 @@
           <name>ПереключательКопируемыеНастройкиПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ПереключательКопируемыеНастройкиExtendedTooltip</name>
+          <name>ПереключательКопируемыеНастройкиРасширеннаяПодсказка</name>
           <id>78</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -301,7 +301,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВыбратьНастройкиExtendedTooltip</name>
+          <name>ВыбратьНастройкиРасширеннаяПодсказка</name>
           <id>81</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -340,7 +340,7 @@
       </title>
       <verticalStretch>true</verticalStretch>
       <extendedTooltip>
-        <name>ГруппаВыбратьExtendedTooltip</name>
+        <name>ГруппаВыбратьРасширеннаяПодсказка</name>
         <id>79</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -368,7 +368,7 @@
       <value>Что копировать:</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКопируемыеНастройкиExtendedTooltip</name>
+      <name>ГруппаКопируемыеНастройкиРасширеннаяПодсказка</name>
       <id>77</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -401,7 +401,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСкопироватьИЗакрытьExtendedTooltip</name>
+        <name>ФормаСкопироватьИЗакрытьРасширеннаяПодсказка</name>
         <id>69</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -427,7 +427,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СкопироватьExtendedTooltip</name>
+        <name>СкопироватьРасширеннаяПодсказка</name>
         <id>70</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -452,7 +452,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗакрытьExtendedTooltip</name>
+        <name>ФормаЗакрытьРасширеннаяПодсказка</name>
         <id>71</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

@@ -35,7 +35,7 @@
           <segments>НастройкиОтображенияОбъектов.МестоПоискаРеквизитПредставление</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПолеРасширеннаяПодсказка</name>
+          <name>НастройкиОтображенияОбъектовОтображаемыйРеквизитРасширеннаяПодсказка</name>
           <id>34</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -45,7 +45,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ПолеКонтекстноеМеню</name>
+          <name>НастройкиОтображенияОбъектовОтображаемыйРеквизитКонтекстноеМеню</name>
           <id>33</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -76,7 +76,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>ПолеРасширеннаяПодсказка1</name>
+          <name>НастройкиОтображенияОбъектовКартинкаРасширеннаяПодсказка</name>
           <id>39</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -86,7 +86,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ПолеКонтекстноеМеню1</name>
+          <name>НастройкиОтображенияОбъектовКартинкаКонтекстноеМеню</name>
           <id>38</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -117,7 +117,7 @@
         <value>Настройки отображения объектов группа</value>
       </title>
       <extendedTooltip>
-        <name>НастройкиОтображенияОбъектовГруппа1РасширеннаяПодсказка</name>
+        <name>НастройкиОтображенияОбъектовГруппаРасширеннаяПодсказка</name>
         <id>41</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -133,15 +133,15 @@
       </extInfo>
     </items>
     <autoCommandBar>
-      <name>КоманднаяПанель</name>
+      <name>НастройкиОтображенияОбъектовКоманднаяПанель</name>
       <id>20</id>
       <horizontalAlign>Left</horizontalAlign>
     </autoCommandBar>
     <searchStringAddition>
-      <name>Addition</name>
+      <name>НастройкиОтображенияОбъектовСтрокаПоиска</name>
       <id>23</id>
       <extendedTooltip>
-        <name>ExtendedTooltip</name>
+        <name>AdditionРасширеннаяПодсказка</name>
         <id>25</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -151,7 +151,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ContextMenu</name>
+        <name>AdditionКонтекстноеМеню</name>
         <id>24</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -161,10 +161,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>Addition</name>
+      <name>НастройкиОтображенияОбъектовСостояниеПросмотра</name>
       <id>29</id>
       <extendedTooltip>
-        <name>ExtendedTooltip</name>
+        <name>AdditionРасширеннаяПодсказка</name>
         <id>31</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -174,7 +174,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ContextMenu</name>
+        <name>AdditionКонтекстноеМеню</name>
         <id>30</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -185,10 +185,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>Addition</name>
+      <name>НастройкиОтображенияОбъектовУправлениеПоиском</name>
       <id>26</id>
       <extendedTooltip>
-        <name>ExtendedTooltip</name>
+        <name>AdditionРасширеннаяПодсказка</name>
         <id>28</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -198,7 +198,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ContextMenu</name>
+        <name>AdditionКонтекстноеМеню</name>
         <id>27</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -209,7 +209,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>РасширеннаяПодсказка</name>
+      <name>НастройкиОтображенияОбъектовРасширеннаяПодсказка</name>
       <id>22</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -219,7 +219,7 @@
       </extInfo>
     </extendedTooltip>
     <contextMenu>
-      <name>КонтекстноеМеню</name>
+      <name>НастройкиОтображенияОбъектовКонтекстноеМеню</name>
       <id>21</id>
       <items xsi:type="form:Button">
         <name>КонтекстноеМенюДобавитьНастройку</name>
@@ -339,7 +339,7 @@
         <name>ОбычноеУдалениеПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПолеРасширеннаяПодсказка5</name>
+        <name>ОбычноеУдалениеРасширеннаяПодсказка</name>
         <id>65</id>
         <title>
           <key>ru</key>
@@ -355,7 +355,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ПолеКонтекстноеМеню5</name>
+        <name>ОбычноеУдалениеКонтекстноеМеню</name>
         <id>64</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -394,7 +394,7 @@
         <name>БезопасноеУдалениеПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПолеРасширеннаяПодсказка4</name>
+        <name>БезопасноеУдалениеРасширеннаяПодсказка</name>
         <id>62</id>
         <title>
           <key>ru</key>
@@ -411,7 +411,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ПолеКонтекстноеМеню4</name>
+        <name>БезопасноеУдалениеКонтекстноеМеню</name>
         <id>61</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -450,7 +450,7 @@
         <name>МонопольноеУдалениеПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПолеРасширеннаяПодсказка2</name>
+        <name>МонопольноеУдалениеРасширеннаяПодсказка</name>
         <id>44</id>
         <title>
           <key>ru</key>
@@ -465,7 +465,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ПолеКонтекстноеМеню2</name>
+        <name>МонопольноеУдалениеКонтекстноеМеню</name>
         <id>43</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -497,7 +497,7 @@
       <value>Способ удаления</value>
     </title>
     <extendedTooltip>
-      <name>Группа1РасширеннаяПодсказка1</name>
+      <name>ГруппаНастройкаРежимаУдаленияРасширеннаяПодсказка</name>
       <id>59</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -542,7 +542,7 @@
           <name>ИспользоватьРегламентноеУдалениеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ПолеРасширеннаяПодсказка3</name>
+          <name>ИспользоватьРегламентноеУдалениеРасширеннаяПодсказка</name>
           <id>53</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -552,7 +552,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ПолеКонтекстноеМеню3</name>
+          <name>ИспользоватьРегламентноеУдалениеКонтекстноеМеню</name>
           <id>52</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -575,7 +575,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НастройкиРегламентноеУдалениеПомеченныхРасширеннаяПодсказка</name>
+          <name>УдалениеПомеченныхНастроитьРасписаниеРасширеннаяПодсказка</name>
           <id>55</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -602,7 +602,7 @@
         <value>Настройки регламентного задания</value>
       </title>
       <extendedTooltip>
-        <name>Группа1РасширеннаяПодсказка2</name>
+        <name>ГруппаНастройкаРегламентногоЗаданияРасширеннаяПодсказка</name>
         <id>69</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -667,7 +667,7 @@
       <value>Автоматически удалять помеченные объекты по расписанию</value>
     </title>
     <extendedTooltip>
-      <name>Группа1РасширеннаяПодсказка</name>
+      <name>НастройкаРегламентногоУдаленияРасширеннаяПодсказка</name>
       <id>48</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

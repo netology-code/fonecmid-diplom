@@ -48,7 +48,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаИзменитьExtendedTooltip</name>
+        <name>ФормаИзменитьРасширеннаяПодсказка</name>
         <id>32</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -152,7 +152,7 @@
         <value>Форма стандартные команды</value>
       </title>
       <extendedTooltip>
-        <name>ФормаСтандартныеКомандыExtendedTooltip</name>
+        <name>ФормаСтандартныеКомандыРасширеннаяПодсказка</name>
         <id>33</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -200,7 +200,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>34</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -773,7 +773,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>38</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -798,7 +798,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СписокКонтекстноеМенюИзменитьExtendedTooltip</name>
+          <name>СписокКонтекстноеМенюИзменитьРасширеннаяПодсказка</name>
           <id>35</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -823,7 +823,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СписокКонтекстноеМенюКопироватьВБуферОбменаExtendedTooltip</name>
+          <name>СписокКонтекстноеМенюКопироватьВБуферОбменаРасширеннаяПодсказка</name>
           <id>37</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -848,7 +848,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СписокКонтекстноеМенюУстановитьПометкуУдаленияExtendedTooltip</name>
+          <name>СписокКонтекстноеМенюУстановитьПометкуУдаленияРасширеннаяПодсказка</name>
           <id>36</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

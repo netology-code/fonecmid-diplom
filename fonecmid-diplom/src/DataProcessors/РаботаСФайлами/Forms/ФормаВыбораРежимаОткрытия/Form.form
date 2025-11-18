@@ -24,7 +24,7 @@
       </dataPath>
       <titleLocation>Top</titleLocation>
       <extendedTooltip>
-        <name>КакОткрыватьExtendedTooltip</name>
+        <name>КакОткрыватьРасширеннаяПодсказка</name>
         <id>20</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -107,7 +107,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>БольшеНеСпрашиватьExtendedTooltip</name>
+      <name>БольшеНеСпрашиватьРасширеннаяПодсказка</name>
       <id>24</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -231,7 +231,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>17</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -257,7 +257,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>18</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

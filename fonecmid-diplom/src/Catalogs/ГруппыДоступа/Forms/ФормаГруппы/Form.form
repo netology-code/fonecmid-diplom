@@ -16,7 +16,7 @@
       <value>Наименование группы (папки)</value>
     </toolTip>
     <extendedTooltip>
-      <name>НаименованиеExtendedTooltip</name>
+      <name>НаименованиеРасширеннаяПодсказка</name>
       <id>5</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -65,7 +65,7 @@
       <value>Вышестоящая группа (папка), объединяющая группы (папки) для удобства поиска</value>
     </toolTip>
     <extendedTooltip>
-      <name>РодительExtendedTooltip</name>
+      <name>РодительРасширеннаяПодсказка</name>
       <id>6</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

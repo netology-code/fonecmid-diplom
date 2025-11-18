@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7d19bc2a-998a-4e6e-8aa4-0e6c7d00f362">
+  <producedTypes>
+    <objectType typeId="8359271b-2526-4a85-b2bc-fe8c53214856" valueTypeId="4ac1b9f5-064f-4fd1-8678-e10a18257a92"/>
+    <refType typeId="6e3492f1-bccc-4c47-a5bf-a78f1d816208" valueTypeId="2024854b-c385-4e2e-b47c-439438cddb02"/>
+    <selectionType typeId="4affd61f-6455-46f3-af6c-8c31a68be75c" valueTypeId="c92f5408-1d05-4a5b-aea6-ec86eb3846a2"/>
+    <listType typeId="993d3386-b8aa-447d-b4ad-5707bca6fb18" valueTypeId="d7fcfc6a-8cb1-49aa-a53c-cbef842a667e"/>
+    <managerType typeId="02960721-454f-4d74-891c-58987c1d4be2" valueTypeId="f2328de0-ab44-4a13-9b6b-98c0bb8ac7bf"/>
+  </producedTypes>
+  <name>BKM_Сотрудники</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сотрудники</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.BKM_Сотрудники.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.BKM_Сотрудники.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Сотрудник</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultChoiceForm>Catalog.BKM_Сотрудники.Form.ФормаВыбораСпециалиста</defaultChoiceForm>
+  <forms uuid="016a31b9-876a-4832-a862-1f8def1773a9">
+    <name>ФормаВыбораСпециалиста</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма выбора специалиста</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>

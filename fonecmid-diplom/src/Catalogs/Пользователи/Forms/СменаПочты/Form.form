@@ -13,7 +13,7 @@
     </dataPath>
     <titleLocation>Top</titleLocation>
     <extendedTooltip>
-      <name>НоваяПочтаExtendedTooltip</name>
+      <name>НоваяПочтаРасширеннаяПодсказка</name>
       <id>5</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -54,7 +54,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСменитьПочтуExtendedTooltip</name>
+        <name>ФормаСменитьПочтуРасширеннаяПодсказка</name>
         <id>4</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

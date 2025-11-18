@@ -50,7 +50,7 @@
         <name>ВидОтборПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ВидОтборExtendedTooltip</name>
+        <name>ВидОтборРасширеннаяПодсказка</name>
         <id>33</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -102,7 +102,7 @@
         <name>ПубликацияОтборПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПубликацияОтборExtendedTooltip</name>
+        <name>ПубликацияОтборРасширеннаяПодсказка</name>
         <id>34</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -149,7 +149,7 @@
       <value>Быстрые отборы</value>
     </title>
     <extendedTooltip>
-      <name>БыстрыеОтборыExtendedTooltip</name>
+      <name>БыстрыеОтборыРасширеннаяПодсказка</name>
       <id>32</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -336,7 +336,7 @@
         <value>Кнопки добавления</value>
       </title>
       <extendedTooltip>
-        <name>КнопкиДобавленияExtendedTooltip</name>
+        <name>КнопкиДобавленияРасширеннаяПодсказка</name>
         <id>36</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -508,7 +508,7 @@
         <value>Команды формы</value>
       </title>
       <extendedTooltip>
-        <name>КомандыФормыExtendedTooltip</name>
+        <name>КомандыФормыРасширеннаяПодсказка</name>
         <id>40</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -635,7 +635,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>41</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -726,7 +726,7 @@
       <value>Командная панель</value>
     </title>
     <extendedTooltip>
-      <name>КоманднаяПанельExtendedTooltip</name>
+      <name>КоманднаяПанельРасширеннаяПодсказка</name>
       <id>35</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -772,7 +772,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>43</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -806,7 +806,7 @@
         <segments>Список.Вид</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВидExtendedTooltip</name>
+        <name>ВидРасширеннаяПодсказка</name>
         <id>44</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -844,7 +844,7 @@
         <segments>Список.Публикация</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ПубликацияExtendedTooltip</name>
+        <name>ПубликацияРасширеннаяПодсказка</name>
         <id>45</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -882,7 +882,7 @@
         <segments>Список.Версия</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВерсияExtendedTooltip</name>
+        <name>ВерсияРасширеннаяПодсказка</name>
         <id>46</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -918,7 +918,7 @@
         <segments>Список.Ответственный</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ОтветственныйExtendedTooltip</name>
+        <name>ОтветственныйРасширеннаяПодсказка</name>
         <id>47</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -952,7 +952,7 @@
         <segments>Список.ИмяОбъекта</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИмяОбъектаExtendedTooltip</name>
+        <name>ИмяОбъектаРасширеннаяПодсказка</name>
         <id>48</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1091,7 +1091,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>42</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1762,26 +1762,7 @@
   </parameters>
   <commandInterface>
     <navigationPanel/>
-    <commandBar>
-      <cmiFragmentRecord>
-        <command>0</command>
-        <group>FormCommandBarImportant</group>
-        <index>0</index>
-        <userVisible/>
-      </cmiFragmentRecord>
-      <cmiFragmentRecord>
-        <command>0</command>
-        <group>FormCommandBarImportant</group>
-        <index>2</index>
-        <userVisible/>
-      </cmiFragmentRecord>
-      <cmiFragmentRecord>
-        <command>0</command>
-        <group>FormCommandBarImportant</group>
-        <index>1</index>
-        <userVisible/>
-      </cmiFragmentRecord>
-    </commandBar>
+    <commandBar/>
   </commandInterface>
   <extInfo xsi:type="form:DynamicListFormExtInfo"/>
 </form:Form>

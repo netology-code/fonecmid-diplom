@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="aab75f75-b45f-4e57-8627-92c607187a61">
+  <name>BKM_ОбслуживаниеКлиентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обслуживание клиентов</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.BKM_ОбслуживаниеКлиентов</content>
+  <content>Catalog.BKM_Сотрудники</content>
+  <content>Catalog.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</content>
+  <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентовСпециалист</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>CommonModule.BKM_Телеграмм</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>DataProcessor.BKM_МассовоеСозданиеАктов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_ВыработкаCпециалистов</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Report.ВКМ_РасчётыССотрудниками</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентовМенеджер</content>
+  <content>Catalog.ВКМ_Подразделения</content>
+</mdclass:Subsystem>

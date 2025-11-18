@@ -77,10 +77,10 @@
       <name>ОбластиПоискаДублейВыбор</name>
     </handlers>
     <searchStringAddition>
-      <name>ОбластиПоискаДублейSearchString</name>
+      <name>ОбластиПоискаДублейСтрокаПоиска</name>
       <id>19</id>
       <extendedTooltip>
-        <name>ОбластиПоискаДублейSearchStringExtendedTooltip</name>
+        <name>ОбластиПоискаДублейSearchStringРасширеннаяПодсказка</name>
         <id>21</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -90,7 +90,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ОбластиПоискаДублейSearchStringContextMenu</name>
+        <name>ОбластиПоискаДублейСтрокаПоискаКонтекстноеМеню</name>
         <id>20</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -100,10 +100,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>ОбластиПоискаДублейViewStatus</name>
+      <name>ОбластиПоискаДублейСостояниеПросмотра</name>
       <id>22</id>
       <extendedTooltip>
-        <name>ОбластиПоискаДублейViewStatusExtendedTooltip</name>
+        <name>ОбластиПоискаДублейСостояниеПросмотраРасширеннаяПодсказка</name>
         <id>24</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -113,7 +113,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ОбластиПоискаДублейViewStatusContextMenu</name>
+        <name>ОбластиПоискаДублейViewStatusКонтекстноеМеню</name>
         <id>23</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -124,10 +124,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>ОбластиПоискаДублейSearchControl</name>
+      <name>ОбластиПоискаДублейУправлениеПоиском</name>
       <id>25</id>
       <extendedTooltip>
-        <name>ОбластиПоискаДублейSearchControlExtendedTooltip</name>
+        <name>ОбластиПоискаДублейУправлениеПоискомРасширеннаяПодсказка</name>
         <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -137,7 +137,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ОбластиПоискаДублейSearchControlContextMenu</name>
+        <name>ОбластиПоискаДублейУправлениеПоискомКонтекстноеМеню</name>
         <id>26</id>
         <autoFill>true</autoFill>
       </contextMenu>

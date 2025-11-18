@@ -102,7 +102,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>КомпоновщикНастроекНастройкиExtendedTooltip</name>
+      <name>КомпоновщикНастроекНастройкиРасширеннаяПодсказка</name>
       <id>130</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -239,7 +239,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>КомпоновщикНастроекНастройкиПараметрыДанныхExtendedTooltip</name>
+          <name>КомпоновщикНастроекНастройкиПараметрыДанныхРасширеннаяПодсказка</name>
           <id>133</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -284,7 +284,7 @@
         <value>Параметры</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаПараметровДанныхExtendedTooltip</name>
+        <name>СтраницаПараметровДанныхРасширеннаяПодсказка</name>
         <id>132</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -399,7 +399,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>КомпоновщикНастроекНастройкиПользовательскиеПоляExtendedTooltip</name>
+          <name>КомпоновщикНастроекНастройкиПользовательскиеПоляРасширеннаяПодсказка</name>
           <id>135</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -444,7 +444,7 @@
         <value>Пользовательские поля</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаПользовательскихПолейExtendedTooltip</name>
+        <name>СтраницаПользовательскихПолейРасширеннаяПодсказка</name>
         <id>134</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -565,7 +565,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиПоляГруппировкиДоступныеПоляПолейГруппировокExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиПоляГруппировкиДоступныеПоляПолейГруппировокРасширеннаяПодсказка</name>
               <id>139</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -695,7 +695,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиПоляГруппировкиExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиПоляГруппировкиРасширеннаяПодсказка</name>
               <id>140</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -740,7 +740,7 @@
             <value>Страница группируемых полей</value>
           </title>
           <extendedTooltip>
-            <name>НастройкиПолейГруппировкиExtendedTooltip</name>
+            <name>НастройкиПолейГруппировкиРасширеннаяПодсказка</name>
             <id>138</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -773,7 +773,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьНедоступныхПолейГруппировкиExtendedTooltip</name>
+              <name>НадписьНедоступныхПолейГруппировкиРасширеннаяПодсказка</name>
               <id>142</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -804,7 +804,7 @@
             <value>Страница недоступных группируемых полей</value>
           </title>
           <extendedTooltip>
-            <name>НедоступныеНастройкиПолейГруппировкиExtendedTooltip</name>
+            <name>НедоступныеНастройкиПолейГруппировкиРасширеннаяПодсказка</name>
             <id>141</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -829,7 +829,7 @@
           <value>Страницы группируемых полей</value>
         </title>
         <extendedTooltip>
-          <name>СтраницыПолейГруппировкиExtendedTooltip</name>
+          <name>СтраницыПолейГруппировкиРасширеннаяПодсказка</name>
           <id>137</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -853,7 +853,7 @@
         <value>Группируемые поля</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаПолейГруппировкиExtendedTooltip</name>
+        <name>СтраницаПолейГруппировкиРасширеннаяПодсказка</name>
         <id>136</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -895,7 +895,7 @@
           <name>ЛокальныеВыбранныеПоляПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ЛокальныеВыбранныеПоляExtendedTooltip</name>
+          <name>ЛокальныеВыбранныеПоляРасширеннаяПодсказка</name>
           <id>144</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1016,7 +1016,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиВыборДоступныеПоляВыбораExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиВыборДоступныеПоляВыбораРасширеннаяПодсказка</name>
               <id>147</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1145,7 +1145,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиВыборExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиВыборРасширеннаяПодсказка</name>
               <id>148</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1192,7 +1192,7 @@
             <value>Страница полей</value>
           </title>
           <extendedTooltip>
-            <name>НастройкиВыбранныхПолейExtendedTooltip</name>
+            <name>НастройкиВыбранныхПолейРасширеннаяПодсказка</name>
             <id>146</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1226,7 +1226,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьЛокальныхВыбранныхПолейExtendedTooltip</name>
+              <name>НадписьЛокальныхВыбранныхПолейРасширеннаяПодсказка</name>
               <id>150</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1259,7 +1259,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКВыбраннымПолямОтчетаExtendedTooltip</name>
+              <name>ПереходКВыбраннымПолямОтчетаРасширеннаяПодсказка</name>
               <id>151</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1294,7 +1294,7 @@
             <value>Страница отключенных полей</value>
           </title>
           <extendedTooltip>
-            <name>ОтключенныеНастройкиВыбранныхПолейExtendedTooltip</name>
+            <name>ОтключенныеНастройкиВыбранныхПолейРасширеннаяПодсказка</name>
             <id>149</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1326,7 +1326,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьНедоступныхВыбранныхПолейExtendedTooltip</name>
+              <name>НадписьНедоступныхВыбранныхПолейРасширеннаяПодсказка</name>
               <id>153</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1359,7 +1359,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКВыбраннымПолямОтчета1ExtendedTooltip</name>
+              <name>ПереходКВыбраннымПолямОтчета1РасширеннаяПодсказка</name>
               <id>154</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1394,7 +1394,7 @@
             <value>Страница недоступных полей</value>
           </title>
           <extendedTooltip>
-            <name>НедоступныеНастройкиВыбранныхПолейExtendedTooltip</name>
+            <name>НедоступныеНастройкиВыбранныхПолейРасширеннаяПодсказка</name>
             <id>152</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1419,7 +1419,7 @@
           <value>Страницы полей</value>
         </title>
         <extendedTooltip>
-          <name>СтраницыПолейВыбораExtendedTooltip</name>
+          <name>СтраницыПолейВыбораРасширеннаяПодсказка</name>
           <id>145</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1443,7 +1443,7 @@
         <value>Поля</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаПолейВыбораExtendedTooltip</name>
+        <name>СтраницаПолейВыбораРасширеннаяПодсказка</name>
         <id>143</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1485,7 +1485,7 @@
           <name>ЛокальныйОтборПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ЛокальныйОтборExtendedTooltip</name>
+          <name>ЛокальныйОтборРасширеннаяПодсказка</name>
           <id>156</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1606,7 +1606,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиОтборДоступныеПоляОтбораExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиОтборДоступныеПоляОтбораРасширеннаяПодсказка</name>
               <id>159</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1735,7 +1735,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиОтборExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиОтборРасширеннаяПодсказка</name>
               <id>160</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1784,7 +1784,7 @@
             <value>Страница полей</value>
           </title>
           <extendedTooltip>
-            <name>НастройкиОтбораExtendedTooltip</name>
+            <name>НастройкиОтбораРасширеннаяПодсказка</name>
             <id>158</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1818,7 +1818,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьЛокальногоОтбораExtendedTooltip</name>
+              <name>НадписьЛокальногоОтбораРасширеннаяПодсказка</name>
               <id>162</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1851,7 +1851,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКОтборуОтчетаExtendedTooltip</name>
+              <name>ПереходКОтборуОтчетаРасширеннаяПодсказка</name>
               <id>163</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1886,7 +1886,7 @@
             <value>Страница отключенного фильтра</value>
           </title>
           <extendedTooltip>
-            <name>ОтключенныеНастройкиОтбораExtendedTooltip</name>
+            <name>ОтключенныеНастройкиОтбораРасширеннаяПодсказка</name>
             <id>161</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1918,7 +1918,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьНедоступногоОтбораExtendedTooltip</name>
+              <name>НадписьНедоступногоОтбораРасширеннаяПодсказка</name>
               <id>165</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1951,7 +1951,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКОтборуОтчета1ExtendedTooltip</name>
+              <name>ПереходКОтборуОтчета1РасширеннаяПодсказка</name>
               <id>166</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1986,7 +1986,7 @@
             <value>Страница недоступного фильтра</value>
           </title>
           <extendedTooltip>
-            <name>НедоступныеНастройкиОтбораExtendedTooltip</name>
+            <name>НедоступныеНастройкиОтбораРасширеннаяПодсказка</name>
             <id>164</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2011,7 +2011,7 @@
           <value>Страницы фильтры</value>
         </title>
         <extendedTooltip>
-          <name>СтраницыОтбораExtendedTooltip</name>
+          <name>СтраницыОтбораРасширеннаяПодсказка</name>
           <id>157</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2035,7 +2035,7 @@
         <value>Фильтры</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаОтбораExtendedTooltip</name>
+        <name>СтраницаОтбораРасширеннаяПодсказка</name>
         <id>155</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2077,7 +2077,7 @@
           <name>ЛокальныйПорядокПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ЛокальныйПорядокExtendedTooltip</name>
+          <name>ЛокальныйПорядокРасширеннаяПодсказка</name>
           <id>168</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2198,7 +2198,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиПорядокДоступныеПоляПорядкаExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиПорядокДоступныеПоляПорядкаРасширеннаяПодсказка</name>
               <id>171</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2327,7 +2327,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиПорядокExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиПорядокРасширеннаяПодсказка</name>
               <id>172</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2372,7 +2372,7 @@
             <value>Страница сортировки</value>
           </title>
           <extendedTooltip>
-            <name>НастройкиПорядкаExtendedTooltip</name>
+            <name>НастройкиПорядкаРасширеннаяПодсказка</name>
             <id>170</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2406,7 +2406,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьЛокальногоПорядкаExtendedTooltip</name>
+              <name>НадписьЛокальногоПорядкаРасширеннаяПодсказка</name>
               <id>174</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2439,7 +2439,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКПорядкуОтчетаExtendedTooltip</name>
+              <name>ПереходКПорядкуОтчетаРасширеннаяПодсказка</name>
               <id>175</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2474,7 +2474,7 @@
             <value>Страница отключенной сортировки</value>
           </title>
           <extendedTooltip>
-            <name>ОтключенныеНастройкиПорядкаExtendedTooltip</name>
+            <name>ОтключенныеНастройкиПорядкаРасширеннаяПодсказка</name>
             <id>173</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2506,7 +2506,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьНедоступногоПорядкаExtendedTooltip</name>
+              <name>НадписьНедоступногоПорядкаРасширеннаяПодсказка</name>
               <id>177</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2539,7 +2539,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКПорядкуОтчета1ExtendedTooltip</name>
+              <name>ПереходКПорядкуОтчета1РасширеннаяПодсказка</name>
               <id>178</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2574,7 +2574,7 @@
             <value>Страница недоступной сортировки</value>
           </title>
           <extendedTooltip>
-            <name>НедоступныеНастройкиПорядкаExtendedTooltip</name>
+            <name>НедоступныеНастройкиПорядкаРасширеннаяПодсказка</name>
             <id>176</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2599,7 +2599,7 @@
           <value>Страницы сортировки</value>
         </title>
         <extendedTooltip>
-          <name>СтраницыПорядкаExtendedTooltip</name>
+          <name>СтраницыПорядкаРасширеннаяПодсказка</name>
           <id>169</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2623,7 +2623,7 @@
         <value>Сортировка</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаПорядкаExtendedTooltip</name>
+        <name>СтраницаПорядкаРасширеннаяПодсказка</name>
         <id>167</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -2665,7 +2665,7 @@
           <name>ЛокальноеУсловноеОформлениеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ЛокальноеУсловноеОформлениеExtendedTooltip</name>
+          <name>ЛокальноеУсловноеОформлениеРасширеннаяПодсказка</name>
           <id>180</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2786,7 +2786,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиУсловноеОформлениеExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиУсловноеОформлениеРасширеннаяПодсказка</name>
               <id>183</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2832,7 +2832,7 @@
             <value>Страница условного оформления</value>
           </title>
           <extendedTooltip>
-            <name>НастройкиУсловногоОформленияExtendedTooltip</name>
+            <name>НастройкиУсловногоОформленияРасширеннаяПодсказка</name>
             <id>182</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2865,7 +2865,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьЛокальногоУсловногоОформленияExtendedTooltip</name>
+              <name>НадписьЛокальногоУсловногоОформленияРасширеннаяПодсказка</name>
               <id>185</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2898,7 +2898,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКУсловномуОформлениюОтчетаExtendedTooltip</name>
+              <name>ПереходКУсловномуОформлениюОтчетаРасширеннаяПодсказка</name>
               <id>186</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2933,7 +2933,7 @@
             <value>Страница отключенного условного оформления</value>
           </title>
           <extendedTooltip>
-            <name>ОтключенныеНастройкиУсловногоОформленияExtendedTooltip</name>
+            <name>ОтключенныеНастройкиУсловногоОформленияРасширеннаяПодсказка</name>
             <id>184</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2965,7 +2965,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьНедоступногоУсловногоОформленияExtendedTooltip</name>
+              <name>НадписьНедоступногоУсловногоОформленияРасширеннаяПодсказка</name>
               <id>188</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -2998,7 +2998,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКУсловномуОформлениюОтчета1ExtendedTooltip</name>
+              <name>ПереходКУсловномуОформлениюОтчета1РасширеннаяПодсказка</name>
               <id>189</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -3033,7 +3033,7 @@
             <value>Страница недоступного условного оформления</value>
           </title>
           <extendedTooltip>
-            <name>НедоступныеНастройкиУсловногоОформленияExtendedTooltip</name>
+            <name>НедоступныеНастройкиУсловногоОформленияРасширеннаяПодсказка</name>
             <id>187</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -3058,7 +3058,7 @@
           <value>Страницы условного оформления</value>
         </title>
         <extendedTooltip>
-          <name>СтраницыУсловногоОформленияExtendedTooltip</name>
+          <name>СтраницыУсловногоОформленияРасширеннаяПодсказка</name>
           <id>181</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -3082,7 +3082,7 @@
         <value>Условное оформление</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаУсловногоОформленияExtendedTooltip</name>
+        <name>СтраницаУсловногоОформленияРасширеннаяПодсказка</name>
         <id>179</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -3124,7 +3124,7 @@
           <name>ЛокальныеПараметрыВыводаПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ЛокальныеПараметрыВыводаExtendedTooltip</name>
+          <name>ЛокальныеПараметрыВыводаРасширеннаяПодсказка</name>
           <id>191</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -3249,7 +3249,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>КомпоновщикНастроекНастройкиПараметрыВыводаExtendedTooltip</name>
+              <name>КомпоновщикНастроекНастройкиПараметрыВыводаРасширеннаяПодсказка</name>
               <id>194</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -3294,7 +3294,7 @@
             <value>Страница дополнительных настроек</value>
           </title>
           <extendedTooltip>
-            <name>НастройкиПараметровВыводаExtendedTooltip</name>
+            <name>НастройкиПараметровВыводаРасширеннаяПодсказка</name>
             <id>193</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -3327,7 +3327,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьЛокальныхПараметровВыводаExtendedTooltip</name>
+              <name>НадписьЛокальныхПараметровВыводаРасширеннаяПодсказка</name>
               <id>196</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -3360,7 +3360,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКПараметрамВыводаОтчетаExtendedTooltip</name>
+              <name>ПереходКПараметрамВыводаОтчетаРасширеннаяПодсказка</name>
               <id>197</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -3395,7 +3395,7 @@
             <value>Страница отключенных дополнительных настроек</value>
           </title>
           <extendedTooltip>
-            <name>ОтключенныеНастройкиПараметровВыводаExtendedTooltip</name>
+            <name>ОтключенныеНастройкиПараметровВыводаРасширеннаяПодсказка</name>
             <id>195</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -3427,7 +3427,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НадписьНедоступныхПараметровВыводаExtendedTooltip</name>
+              <name>НадписьНедоступныхПараметровВыводаРасширеннаяПодсказка</name>
               <id>199</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -3460,7 +3460,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПереходКПараметрамВыводаОтчета1ExtendedTooltip</name>
+              <name>ПереходКПараметрамВыводаОтчета1РасширеннаяПодсказка</name>
               <id>200</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -3495,7 +3495,7 @@
             <value>Страница недоступных дополнительных настроек</value>
           </title>
           <extendedTooltip>
-            <name>НедоступныеНастройкиПараметровВыводаExtendedTooltip</name>
+            <name>НедоступныеНастройкиПараметровВыводаРасширеннаяПодсказка</name>
             <id>198</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -3520,7 +3520,7 @@
           <value>Страницы дополнительных настроек</value>
         </title>
         <extendedTooltip>
-          <name>СтраницыПараметровВыводаExtendedTooltip</name>
+          <name>СтраницыПараметровВыводаРасширеннаяПодсказка</name>
           <id>192</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -3544,7 +3544,7 @@
         <value>Дополнительные настройки</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаПараметровВыводаExtendedTooltip</name>
+        <name>СтраницаПараметровВыводаРасширеннаяПодсказка</name>
         <id>190</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -3572,7 +3572,7 @@
       <value>Группа настроек</value>
     </title>
     <extendedTooltip>
-      <name>СтраницыНастроекExtendedTooltip</name>
+      <name>СтраницыНастроекРасширеннаяПодсказка</name>
       <id>131</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -3600,7 +3600,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗавершитьРедактированиеExtendedTooltip</name>
+        <name>ЗавершитьРедактированиеРасширеннаяПодсказка</name>
         <id>127</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -3625,7 +3625,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗакончитьРедактированиеExtendedTooltip</name>
+        <name>ФормаЗакончитьРедактированиеРасширеннаяПодсказка</name>
         <id>128</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -3650,7 +3650,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтменаExtendedTooltip</name>
+        <name>ФормаОтменаРасширеннаяПодсказка</name>
         <id>129</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

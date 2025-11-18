@@ -129,7 +129,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗавершитьИЗакрытьExtendedTooltip</name>
+        <name>ЗавершитьИЗакрытьРасширеннаяПодсказка</name>
         <id>99</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -162,7 +162,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ВыбратьГруппуВнешнихПользователейExtendedTooltip</name>
+        <name>ВыбратьГруппуВнешнихПользователейРасширеннаяПодсказка</name>
         <id>100</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -191,7 +191,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ВыбратьВнешнегоПользователяExtendedTooltip</name>
+        <name>ВыбратьВнешнегоПользователяРасширеннаяПодсказка</name>
         <id>101</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -217,7 +217,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СоздатьВнешнегоПользователяExtendedTooltip</name>
+        <name>СоздатьВнешнегоПользователяРасширеннаяПодсказка</name>
         <id>102</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -243,7 +243,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СоздатьГруппуВнешнихПользователейExtendedTooltip</name>
+        <name>СоздатьГруппуВнешнихПользователейРасширеннаяПодсказка</name>
         <id>103</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -268,7 +268,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>НазначитьГруппыExtendedTooltip</name>
+        <name>НазначитьГруппыРасширеннаяПодсказка</name>
         <id>104</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -451,7 +451,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ПользователиИБExtendedTooltip</name>
+          <name>ПользователиИБРасширеннаяПодсказка</name>
           <id>107</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -504,7 +504,7 @@
         <value>Командная панель внешние пользователи</value>
       </title>
       <extendedTooltip>
-        <name>КоманднаяПанельВнешниеПользователиExtendedTooltip</name>
+        <name>КоманднаяПанельВнешниеПользователиРасширеннаяПодсказка</name>
         <id>105</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -524,7 +524,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>108</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -668,7 +668,7 @@
               <segments>ГруппыВнешнихПользователей.Description</segments>
             </dataPath>
             <extendedTooltip>
-              <name>НаименованиеГруппыExtendedTooltip</name>
+              <name>НаименованиеГруппыРасширеннаяПодсказка</name>
               <id>113</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -830,7 +830,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>ГруппыВнешнихПользователейExtendedTooltip</name>
+            <name>ГруппыВнешнихПользователейРасширеннаяПодсказка</name>
             <id>112</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -919,7 +919,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ВыбратьГруппуExtendedTooltip</name>
+              <name>ВыбратьГруппуРасширеннаяПодсказка</name>
               <id>116</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -946,7 +946,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОтменитьВыборПользователяИлиГруппыExtendedTooltip</name>
+              <name>ОтменитьВыборПользователяИлиГруппыРасширеннаяПодсказка</name>
               <id>117</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -973,7 +973,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОчиститьСписокВыбранныхПользователейИГруппExtendedTooltip</name>
+              <name>ОчиститьСписокВыбранныхПользователейИГруппРасширеннаяПодсказка</name>
               <id>118</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1001,7 +1001,7 @@
           </title>
           <verticalStretch>true</verticalStretch>
           <extendedTooltip>
-            <name>ГруппаВыбратьГруппуExtendedTooltip</name>
+            <name>ГруппаВыбратьГруппуРасширеннаяПодсказка</name>
             <id>114</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1030,7 +1030,7 @@
           <value>Группы внешних пользователей</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаГруппыExtendedTooltip</name>
+          <name>ГруппаГруппыРасширеннаяПодсказка</name>
           <id>111</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1083,7 +1083,7 @@
               <segments>ВнешниеПользователиСписок.Наименование</segments>
             </dataPath>
             <extendedTooltip>
-              <name>НаименованиеExtendedTooltip</name>
+              <name>НаименованиеРасширеннаяПодсказка</name>
               <id>122</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1244,7 +1244,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>ВнешниеПользователиСписокExtendedTooltip</name>
+            <name>ВнешниеПользователиСписокРасширеннаяПодсказка</name>
             <id>121</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1391,7 +1391,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>ВнешниеПользователиСписокКонтекстноеМенюНазначитьГруппыExtendedTooltip</name>
+                <name>ВнешниеПользователиСписокКонтекстноеМенюНазначитьГруппыРасширеннаяПодсказка</name>
                 <id>120</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1485,7 +1485,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ВыбратьПользователяКомандаExtendedTooltip</name>
+              <name>ВыбратьПользователяКомандаРасширеннаяПодсказка</name>
               <id>125</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1511,7 +1511,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОтменитьВыборПользователяExtendedTooltip</name>
+              <name>ОтменитьВыборПользователяРасширеннаяПодсказка</name>
               <id>126</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1537,7 +1537,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОчиститьСписокВыбранныхExtendedTooltip</name>
+              <name>ОчиститьСписокВыбранныхРасширеннаяПодсказка</name>
               <id>127</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1565,7 +1565,7 @@
           </title>
           <verticalStretch>true</verticalStretch>
           <extendedTooltip>
-            <name>ГруппаВыбратьПользователяExtendedTooltip</name>
+            <name>ГруппаВыбратьПользователяРасширеннаяПодсказка</name>
             <id>123</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1594,7 +1594,7 @@
           <value>Пользователи</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаПользователиExtendedTooltip</name>
+          <name>ГруппаПользователиРасширеннаяПодсказка</name>
           <id>119</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1622,7 +1622,7 @@
         <value>Группы и пользователи</value>
       </title>
       <extendedTooltip>
-        <name>ГруппыИПользователиExtendedTooltip</name>
+        <name>ГруппыИПользователиРасширеннаяПодсказка</name>
         <id>110</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1680,7 +1680,7 @@
             <segments>ВыбранныеПользователиИГруппы.Пользователь</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ПользователиИГруппыExtendedTooltip</name>
+            <name>ПользователиИГруппыРасширеннаяПодсказка</name>
             <id>130</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1795,7 +1795,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>СписокВыбранныхПользователейИГруппExtendedTooltip</name>
+          <name>СписокВыбранныхПользователейИГруппРасширеннаяПодсказка</name>
           <id>129</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1845,7 +1845,7 @@
         <value>Выбранные пользователи и группы</value>
       </title>
       <extendedTooltip>
-        <name>ВыбранныеПользователиИГруппыExtendedTooltip</name>
+        <name>ВыбранныеПользователиИГруппыРасширеннаяПодсказка</name>
         <id>128</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1912,7 +1912,7 @@
         <name>ВыбиратьИерархическиПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ВыбиратьИерархическиExtendedTooltip</name>
+        <name>ВыбиратьИерархическиРасширеннаяПодсказка</name>
         <id>132</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1981,7 +1981,7 @@
       <value>Показывать внешних пользователей дочерних групп</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПоказыватьВнешнихПользователейДочернихГруппExtendedTooltip</name>
+      <name>ГруппаПоказыватьВнешнихПользователейДочернихГруппРасширеннаяПодсказка</name>
       <id>131</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

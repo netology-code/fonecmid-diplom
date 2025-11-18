@@ -221,10 +221,10 @@
         <name>КомпоновщикНастроекНастройкиОтборПриИзменении</name>
       </handlers>
       <searchStringAddition>
-        <name>КомпоновщикНастроекНастройкиОтборSearchString</name>
+        <name>КомпоновщикНастроекНастройкиОтборСтрокаПоиска</name>
         <id>53</id>
         <extendedTooltip>
-          <name>КомпоновщикНастроекНастройкиОтборSearchStringExtendedTooltip</name>
+          <name>КомпоновщикНастроекНастройкиОтборSearchStringРасширеннаяПодсказка</name>
           <id>55</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -234,7 +234,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>КомпоновщикНастроекНастройкиОтборSearchStringContextMenu</name>
+          <name>КомпоновщикНастроекНастройкиОтборSearchStringКонтекстноеМеню</name>
           <id>54</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -244,10 +244,10 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <name>КомпоновщикНастроекНастройкиОтборViewStatus</name>
+        <name>КомпоновщикНастроекНастройкиОтборСостояниеПросмотра</name>
         <id>56</id>
         <extendedTooltip>
-          <name>КомпоновщикНастроекНастройкиОтборViewStatusExtendedTooltip</name>
+          <name>КомпоновщикНастроекНастройкиОтборСостояниеПросмотраРасширеннаяПодсказка</name>
           <id>58</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -257,7 +257,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>КомпоновщикНастроекНастройкиОтборViewStatusContextMenu</name>
+          <name>КомпоновщикНастроекНастройкиОтборViewStatusКонтекстноеМеню</name>
           <id>57</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -268,10 +268,10 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <name>КомпоновщикНастроекНастройкиОтборSearchControl</name>
+        <name>КомпоновщикНастроекНастройкиОтборУправлениеПоиском</name>
         <id>59</id>
         <extendedTooltip>
-          <name>КомпоновщикНастроекНастройкиОтборSearchControlExtendedTooltip</name>
+          <name>КомпоновщикНастроекНастройкиОтборSearchControlРасширеннаяПодсказка</name>
           <id>61</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -281,7 +281,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>КомпоновщикНастроекНастройкиОтборSearchControlContextMenu</name>
+          <name>КомпоновщикНастроекНастройкиОтборSearchControlКонтекстноеМеню</name>
           <id>60</id>
           <autoFill>true</autoFill>
         </contextMenu>

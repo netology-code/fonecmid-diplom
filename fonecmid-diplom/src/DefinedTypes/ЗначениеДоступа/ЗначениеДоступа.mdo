@@ -10,6 +10,7 @@
   </synonym>
   <comment>Типы значений и групп значений</comment>
   <type>
+    <types>CatalogRef.ВКМ_ГрафикиРабот</types>
     <types>CatalogRef.ПапкиФайлов</types>
     <types>CatalogRef.ВнешниеПользователи</types>
     <types>CatalogRef.КлючиДоступа</types>
@@ -17,10 +18,14 @@
     <types>CatalogRef.ГруппыВнешнихПользователей</types>
     <types>CatalogRef.ГруппыПользователей</types>
     <types>EnumRef.ДополнительныеЗначенияДоступа</types>
+    <types>CatalogRef.BKM_Сотрудники</types>
+    <types>CatalogRef.ВКМ_УведомленияТелеграмБоту</types>
     <types>ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения</types>
     <types>CatalogRef.ДополнительныеОтчетыИОбработки</types>
     <types>CatalogRef.Пользователи</types>
+    <types>CatalogRef.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</types>
     <types>CatalogRef.УчетныеЗаписиЭлектроннойПочты</types>
+    <types>CatalogRef.ВКМ_Подразделения</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
   </type>
 </mdclass:DefinedType>

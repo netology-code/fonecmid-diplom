@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CalculationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0ef5a338-d137-4931-9458-81aad8af064e">
+  <producedTypes>
+    <selectionType typeId="14dfe505-c66e-49a5-8648-4ce5f189ccd9" valueTypeId="9c9c4880-095e-4685-800e-1059c89f4053"/>
+    <listType typeId="6c551aa1-1bbf-47aa-a9ce-c07386b2d4dd" valueTypeId="28c16c3b-5690-4fe5-8bfd-72e9b9878a21"/>
+    <managerType typeId="f736218f-4f0f-4f5f-8c84-2623d5f65d44" valueTypeId="2a3d9b08-be45-40ba-be68-9bb5df333630"/>
+    <recordSetType typeId="e53c9aa2-0424-47db-8054-15b43dd1ff22" valueTypeId="9f0ed5f5-9325-4589-b425-cb9663e51542"/>
+    <recordKeyType typeId="7de0a33a-828c-483f-b1bb-d36adeb936c3" valueTypeId="3184b94d-9636-41c3-a9a6-5e895d396376"/>
+    <recordType typeId="e077e082-3d6f-4b91-a555-b948b2b47d55" valueTypeId="4c0c3869-2cff-49ca-9144-f3372d5eadd0"/>
+    <recalcsType typeId="f0ef59f9-fbe8-4d64-896a-3af05122549f" valueTypeId="91876e4f-3e06-4442-814e-26ff33ca3701"/>
+  </producedTypes>
+  <name>ВКМ_ДополнительныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дополнительные начисления</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <periodicity>Month</periodicity>
+  <chartOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</chartOfCalculationTypes>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="f3f61430-ed57-451f-aa96-a4835707a02e">
+    <name>Результат</name>
+    <synonym>
+      <key>ru</key>
+      <value>Результат</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <resources uuid="59df62b2-6181-4579-ac66-ae8db7eea106">
+    <name>ЧасовКОплате</name>
+    <synonym>
+      <key>ru</key>
+      <value>Часов к оплате</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <scale>2</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <dimensions uuid="7fc1324c-6ec8-4b74-bf10-05d668c10c19">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.BKM_Сотрудники</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </dimensions>
+</mdclass:CalculationRegister>

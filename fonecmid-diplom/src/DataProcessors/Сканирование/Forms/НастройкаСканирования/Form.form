@@ -22,7 +22,7 @@
           <name>ИмяУстройстваПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ИмяУстройстваExtendedTooltip</name>
+          <name>ИмяУстройстваРасширеннаяПодсказка</name>
           <id>56</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -215,7 +215,7 @@
             </toolTip>
             <toolTipRepresentation>Button</toolTipRepresentation>
             <extendedTooltip>
-              <name>РазрешениеExtendedTooltip</name>
+              <name>РазрешениеРасширеннаяПодсказка</name>
               <id>72</id>
               <title>
                 <key>ru</key>
@@ -265,7 +265,7 @@
               <segments>Цветность</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ЦветностьExtendedTooltip</name>
+              <name>ЦветностьРасширеннаяПодсказка</name>
               <id>73</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -311,7 +311,7 @@
               <segments>Поворот</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ПоворотExtendedTooltip</name>
+              <name>ПоворотРасширеннаяПодсказка</name>
               <id>74</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -353,7 +353,7 @@
               <segments>РазмерБумаги</segments>
             </dataPath>
             <extendedTooltip>
-              <name>РазмерБумагиExtendedTooltip</name>
+              <name>РазмерБумагиРасширеннаяПодсказка</name>
               <id>75</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -396,7 +396,7 @@
             </dataPath>
             <titleLocation>Right</titleLocation>
             <extendedTooltip>
-              <name>ДвустороннееСканированиеExtendedTooltip</name>
+              <name>ДвустороннееСканированиеРасширеннаяПодсказка</name>
               <id>76</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -427,7 +427,7 @@
             <value>Основное</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаПараметрыСканированияExtendedTooltip</name>
+            <name>ГруппаПараметрыСканированияРасширеннаяПодсказка</name>
             <id>71</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -737,7 +737,7 @@
                 <name>КачествоJPGПриИзменении</name>
               </handlers>
               <extendedTooltip>
-                <name>КачествоJPGExtendedTooltip</name>
+                <name>КачествоJPGРасширеннаяПодсказка</name>
                 <id>67</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -847,7 +847,7 @@
               <segments>СжатиеTIFF</segments>
             </dataPath>
             <extendedTooltip>
-              <name>СжатиеTIFFExtendedTooltip</name>
+              <name>СжатиеTIFFРасширеннаяПодсказка</name>
               <id>68</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -929,7 +929,7 @@ TIF - Не все браузеры отображают этот формат.</
             </toolTip>
             <toolTipRepresentation>None</toolTipRepresentation>
             <extendedTooltip>
-              <name>ФорматХраненияМногостраничныйExtendedTooltip</name>
+              <name>ФорматХраненияМногостраничныйРасширеннаяПодсказка</name>
               <id>70</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -970,7 +970,7 @@ TIF - Не все браузеры отображают этот формат.</
             <value>Для многостраничных изображений</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаФорматХраненияМногостраничныйExtendedTooltip</name>
+            <name>ГруппаФорматХраненияМногостраничныйРасширеннаяПодсказка</name>
             <id>69</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1179,7 +1179,7 @@ TIF - Не все браузеры отображают этот формат.</
             </dataPath>
             <titleLocation>None</titleLocation>
             <extendedTooltip>
-              <name>ПутьКПрограммеКонвертацииExtendedTooltip</name>
+              <name>ПутьКПрограммеКонвертацииРасширеннаяПодсказка</name>
               <id>59</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1227,7 +1227,7 @@ TIF - Не все браузеры отображают этот формат.</
             <value>PDF</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаPDFExtendedTooltip</name>
+            <name>ГруппаPDFРасширеннаяПодсказка</name>
             <id>57</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1457,7 +1457,7 @@ TIF - Не все браузеры отображают этот формат.</
       <value>Настройки</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаНастройкиExtendedTooltip</name>
+      <name>ГруппаНастройкиРасширеннаяПодсказка</name>
       <id>55</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1602,7 +1602,7 @@ TIF - Не все браузеры отображают этот формат.</
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ОКExtendedTooltip</name>
+          <name>ОКРасширеннаяПодсказка</name>
           <id>50</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1629,7 +1629,7 @@ TIF - Не все браузеры отображают этот формат.</
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ОтменаExtendedTooltip</name>
+          <name>ОтменаРасширеннаяПодсказка</name>
           <id>51</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1655,7 +1655,7 @@ TIF - Не все браузеры отображают этот формат.</
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>52</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1684,7 +1684,7 @@ TIF - Не все браузеры отображают этот формат.</
           </userVisible>
           <skipOnInput>false</skipOnInput>
           <extendedTooltip>
-            <name>УстановитьСтандартныеНастройкиExtendedTooltip</name>
+            <name>УстановитьСтандартныеНастройкиРасширеннаяПодсказка</name>
             <id>78</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>

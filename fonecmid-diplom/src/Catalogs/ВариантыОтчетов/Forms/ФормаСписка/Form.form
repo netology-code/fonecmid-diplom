@@ -107,7 +107,7 @@
         <name>ОтборТипОтчетаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ОтборТипОтчетаExtendedTooltip</name>
+        <name>ОтборТипОтчетаРасширеннаяПодсказка</name>
         <id>101</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -163,7 +163,7 @@
       <value>Быстрые отборы</value>
     </title>
     <extendedTooltip>
-      <name>БыстрыеОтборыExtendedTooltip</name>
+      <name>БыстрыеОтборыРасширеннаяПодсказка</name>
       <id>98</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -224,7 +224,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьExtendedTooltip</name>
+        <name>ВыбратьРасширеннаяПодсказка</name>
         <id>103</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -252,7 +252,7 @@
         <segments>Items.Список.CurrentData.Ref</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ПросмотрExtendedTooltip</name>
+        <name>ПросмотрРасширеннаяПодсказка</name>
         <id>104</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -308,7 +308,7 @@
         <segments>Items.Список.CurrentData.Ref</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РазместитьВРазделахExtendedTooltip</name>
+        <name>РазместитьВРазделахРасширеннаяПодсказка</name>
         <id>106</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -334,7 +334,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзменитьФормуExtendedTooltip</name>
+        <name>ИзменитьФормуРасширеннаяПодсказка</name>
         <id>107</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -359,7 +359,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>108</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -490,7 +490,7 @@
         <value>Команды списка</value>
       </title>
       <extendedTooltip>
-        <name>КомандыСпискаExtendedTooltip</name>
+        <name>КомандыСпискаРасширеннаяПодсказка</name>
         <id>109</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -544,7 +544,7 @@
         <segments>Items.Список.CurrentData.Ref</segments>
       </dataPath>
       <extendedTooltip>
-        <name>СброситьНастройкиПользователейExtendedTooltip</name>
+        <name>СброситьНастройкиПользователейРасширеннаяПодсказка</name>
         <id>111</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -570,7 +570,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>УстановитьПометкуУдаленияExtendedTooltip</name>
+        <name>УстановитьПометкуУдаленияРасширеннаяПодсказка</name>
         <id>112</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -671,7 +671,7 @@
       <value>Командная панель</value>
     </title>
     <extendedTooltip>
-      <name>КоманднаяПанельExtendedTooltip</name>
+      <name>КоманднаяПанельРасширеннаяПодсказка</name>
       <id>102</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -727,7 +727,7 @@
             <segments>ДеревоПодсистем.Представление</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ДеревоПодсистемПредставлениеExtendedTooltip</name>
+            <name>ДеревоПодсистемПредставлениеРасширеннаяПодсказка</name>
             <id>116</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -851,7 +851,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ДеревоПодсистемExtendedTooltip</name>
+          <name>ДеревоПодсистемРасширеннаяПодсказка</name>
           <id>115</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -901,7 +901,7 @@
           <name>ВключаяПодчиненныеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ВключаяПодчиненныеExtendedTooltip</name>
+          <name>ВключаяПодчиненныеРасширеннаяПодсказка</name>
           <id>117</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -995,7 +995,7 @@
               <segments>Список.Наименование</segments>
             </dataPath>
             <extendedTooltip>
-              <name>НаименованиеExtendedTooltip</name>
+              <name>НаименованиеРасширеннаяПодсказка</name>
               <id>124</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1033,7 +1033,7 @@
               <segments>Список.Автор</segments>
             </dataPath>
             <extendedTooltip>
-              <name>АвторExtendedTooltip</name>
+              <name>АвторРасширеннаяПодсказка</name>
               <id>125</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1112,7 +1112,7 @@
               <value>Доступен всем пользователям</value>
             </toolTip>
             <extendedTooltip>
-              <name>ДоступенВсемПользователямExtendedTooltip</name>
+              <name>ДоступенВсемПользователямРасширеннаяПодсказка</name>
               <id>126</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1157,7 +1157,7 @@
               <value>Видимость по умолчанию в панели отчетов</value>
             </toolTip>
             <extendedTooltip>
-              <name>ВидимостьПоУмолчаниюExtendedTooltip</name>
+              <name>ВидимостьПоУмолчаниюРасширеннаяПодсказка</name>
               <id>127</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1313,7 +1313,7 @@
             <segments>Список.ИмяОтчета</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ИмяОтчетаExtendedTooltip</name>
+            <name>ИмяОтчетаРасширеннаяПодсказка</name>
             <id>128</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1347,7 +1347,7 @@
             <segments>Список.Отчет</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ОтчетExtendedTooltip</name>
+            <name>ОтчетРасширеннаяПодсказка</name>
             <id>129</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1381,7 +1381,7 @@
             <segments>Список.ТипОтчета</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ТипОтчетаExtendedTooltip</name>
+            <name>ТипОтчетаРасширеннаяПодсказка</name>
             <id>130</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1415,7 +1415,7 @@
             <segments>Список.КлючВарианта</segments>
           </dataPath>
           <extendedTooltip>
-            <name>КлючВариантаExtendedTooltip</name>
+            <name>КлючВариантаРасширеннаяПодсказка</name>
             <id>131</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1583,7 +1583,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>СписокExtendedTooltip</name>
+        <name>СписокРасширеннаяПодсказка</name>
         <id>123</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1607,7 +1607,7 @@
             <segments>Items.Список.CurrentData.Ref</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ПросмотрСписокExtendedTooltip</name>
+            <name>ПросмотрСписокРасширеннаяПодсказка</name>
             <id>118</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1663,7 +1663,7 @@
             <segments>Items.Список.CurrentData.Ref</segments>
           </dataPath>
           <extendedTooltip>
-            <name>РазместитьВРазделахСписокExtendedTooltip</name>
+            <name>РазместитьВРазделахСписокРасширеннаяПодсказка</name>
             <id>120</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1692,7 +1692,7 @@
             <value>Команды списка</value>
           </title>
           <extendedTooltip>
-            <name>КомандыСпискаСписокExtendedTooltip</name>
+            <name>КомандыСпискаСписокРасширеннаяПодсказка</name>
             <id>121</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1714,7 +1714,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>УстановитьПометкуУдаленияСписокExtendedTooltip</name>
+            <name>УстановитьПометкуУдаленияСписокРасширеннаяПодсказка</name>
             <id>122</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1781,7 +1781,7 @@
       <value>Горизонтальная</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаГоризонтальнаяExtendedTooltip</name>
+      <name>ГруппаГоризонтальнаяРасширеннаяПодсказка</name>
       <id>113</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

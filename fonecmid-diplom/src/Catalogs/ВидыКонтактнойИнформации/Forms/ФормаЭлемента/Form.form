@@ -22,7 +22,7 @@
           <name>ТипПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ТипExtendedTooltip</name>
+          <name>ТипРасширеннаяПодсказка</name>
           <id>86</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -103,7 +103,7 @@
         <name>НаименованиеПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>87</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -142,7 +142,7 @@
         <segments>Объект.Parent</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РодительExtendedTooltip</name>
+        <name>РодительРасширеннаяПодсказка</name>
         <id>89</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -258,7 +258,7 @@
           <name>ОбязательноеЗаполнениеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ОбязательноеЗаполнениеExtendedTooltip</name>
+          <name>ОбязательноеЗаполнениеРасширеннаяПодсказка</name>
           <id>92</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -480,7 +480,7 @@
           <name>РазрешитьВводНесколькихЗначенийПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>РазрешитьВводНесколькихЗначенийExtendedTooltip</name>
+          <name>РазрешитьВводНесколькихЗначенийРасширеннаяПодсказка</name>
           <id>94</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -511,7 +511,7 @@
         <value>Тип общие для всех</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаТипОбщиеДляВсехExtendedTooltip</name>
+        <name>ГруппаТипОбщиеДляВсехРасширеннаяПодсказка</name>
         <id>91</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -552,7 +552,7 @@
             </dataPath>
             <titleLocation>Right</titleLocation>
             <extendedTooltip>
-              <name>ВключатьСтрануВПредставлениеExtendedTooltip</name>
+              <name>ВключатьСтрануВПредставлениеРасширеннаяПодсказка</name>
               <id>107</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -647,7 +647,7 @@
             <value>Адрес</value>
           </title>
           <extendedTooltip>
-            <name>АдресExtendedTooltip</name>
+            <name>АдресРасширеннаяПодсказка</name>
             <id>100</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -682,7 +682,7 @@
             </dataPath>
             <titleLocation>Right</titleLocation>
             <extendedTooltip>
-              <name>ПроверятьКорректностьExtendedTooltip</name>
+              <name>ПроверятьКорректностьРасширеннаяПодсказка</name>
               <id>109</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -713,7 +713,7 @@
             <value>Адрес электронной почты</value>
           </title>
           <extendedTooltip>
-            <name>АдресЭлектроннойПочтыExtendedTooltip</name>
+            <name>АдресЭлектроннойПочтыРасширеннаяПодсказка</name>
             <id>108</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1132,7 +1132,7 @@
             <value>Другое</value>
           </title>
           <extendedTooltip>
-            <name>ДругоеExtendedTooltip</name>
+            <name>ДругоеРасширеннаяПодсказка</name>
             <id>110</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1215,7 +1215,7 @@
           <value>Проверки</value>
         </title>
         <extendedTooltip>
-          <name>ПроверкиExtendedTooltip</name>
+          <name>ПроверкиРасширеннаяПодсказка</name>
           <id>99</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1239,7 +1239,7 @@
         <value>Наименование настройки по типам</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаНаименованиеНастройкиПоТипамExtendedTooltip</name>
+        <name>ГруппаНаименованиеНастройкиПоТипамРасширеннаяПодсказка</name>
         <id>97</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1268,7 +1268,7 @@
       <value>Тип контактной информации</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаТипКонтактнойИнформацииExtendedTooltip</name>
+      <name>ГруппаТипКонтактнойИнформацииРасширеннаяПодсказка</name>
       <id>90</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

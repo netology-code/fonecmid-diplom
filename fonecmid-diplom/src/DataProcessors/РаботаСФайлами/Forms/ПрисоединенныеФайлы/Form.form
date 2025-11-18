@@ -461,7 +461,7 @@
             <value>Имя файла (без расширения)</value>
           </toolTip>
           <extendedTooltip>
-            <name>СписокНаименованиеExtendedTooltip</name>
+            <name>СписокНаименованиеРасширеннаяПодсказка</name>
             <id>159</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -702,7 +702,7 @@
           <value>Размер файла в килобайтах</value>
         </toolTip>
         <extendedTooltip>
-          <name>СписокРазмерExtendedTooltip</name>
+          <name>СписокРазмерРасширеннаяПодсказка</name>
           <id>164</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1011,7 +1011,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>СписокExtendedTooltip</name>
+        <name>СписокРасширеннаяПодсказка</name>
         <id>156</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1243,7 +1243,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СписокКонтекстноеМенюРедактироватьExtendedTooltip</name>
+              <name>СписокКонтекстноеМенюРедактироватьРасширеннаяПодсказка</name>
               <id>136</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1272,7 +1272,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СписокКонтекстноеМенюЗакончитьРедактированиеExtendedTooltip</name>
+              <name>СписокКонтекстноеМенюЗакончитьРедактированиеРасширеннаяПодсказка</name>
               <id>137</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1423,7 +1423,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюЗашифроватьExtendedTooltip</name>
+                <name>СписокКонтекстноеМенюЗашифроватьРасширеннаяПодсказка</name>
                 <id>154</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1448,7 +1448,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюРасшифроватьExtendedTooltip</name>
+                <name>СписокКонтекстноеМенюРасшифроватьРасширеннаяПодсказка</name>
                 <id>155</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -1524,7 +1524,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СписокКонтекстноеМенюСкопироватьExtendedTooltip</name>
+              <name>СписокКонтекстноеМенюСкопироватьРасширеннаяПодсказка</name>
               <id>140</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1599,7 +1599,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СписокКонтекстноеМенюСохранитьКакExtendedTooltip</name>
+              <name>СписокКонтекстноеМенюСохранитьКакРасширеннаяПодсказка</name>
               <id>142</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1649,7 +1649,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СписокКонтекстноеМенюОсвободитьExtendedTooltip</name>
+              <name>СписокКонтекстноеМенюОсвободитьРасширеннаяПодсказка</name>
               <id>138</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1674,7 +1674,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СписокКонтекстноеМенюОбновитьИзФайлаНаДискеExtendedTooltip</name>
+              <name>СписокКонтекстноеМенюОбновитьИзФайлаНаДискеРасширеннаяПодсказка</name>
               <id>143</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1699,7 +1699,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СписокКонтекстноеМенюОткрытьКаталогФайлаExtendedTooltip</name>
+              <name>СписокКонтекстноеМенюОткрытьКаталогФайлаРасширеннаяПодсказка</name>
               <id>145</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1774,7 +1774,7 @@
             <value>Контекстное меню группа команд от списка</value>
           </title>
           <extendedTooltip>
-            <name>СписокКонтекстноеМенюГруппаКомандОтСпискаExtendedTooltip</name>
+            <name>СписокКонтекстноеМенюГруппаКомандОтСпискаРасширеннаяПодсказка</name>
             <id>146</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2262,7 +2262,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаРедактироватьExtendedTooltip</name>
+          <name>ФормаРедактироватьРасширеннаяПодсказка</name>
           <id>107</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2286,7 +2286,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаЗакончитьРедактированиеExtendedTooltip</name>
+          <name>ФормаЗакончитьРедактированиеРасширеннаяПодсказка</name>
           <id>108</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2592,7 +2592,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаЗашифроватьExtendedTooltip</name>
+            <name>ФормаЗашифроватьРасширеннаяПодсказка</name>
             <id>115</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2617,7 +2617,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаРасшифроватьExtendedTooltip</name>
+            <name>ФормаРасшифроватьРасширеннаяПодсказка</name>
             <id>116</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -2743,7 +2743,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаСкопироватьExtendedTooltip</name>
+          <name>ФормаСкопироватьРасширеннаяПодсказка</name>
           <id>118</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2769,7 +2769,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаСохранитьКакExtendedTooltip</name>
+          <name>ФормаСохранитьКакРасширеннаяПодсказка</name>
           <id>120</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2926,7 +2926,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОсвободитьExtendedTooltip</name>
+          <name>ФормаОсвободитьРасширеннаяПодсказка</name>
           <id>109</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2951,7 +2951,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОбновитьИзФайлаНаДискеExtendedTooltip</name>
+          <name>ФормаОбновитьИзФайлаНаДискеРасширеннаяПодсказка</name>
           <id>121</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2980,7 +2980,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОткрытьКаталогФайлаExtendedTooltip</name>
+          <name>ФормаОткрытьКаталогФайлаРасширеннаяПодсказка</name>
           <id>123</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -3632,7 +3632,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>131</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

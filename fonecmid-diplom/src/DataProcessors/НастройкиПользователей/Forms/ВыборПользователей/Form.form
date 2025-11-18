@@ -16,7 +16,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьExtendedTooltip</name>
+        <name>ВыбратьРасширеннаяПодсказка</name>
         <id>52</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -45,7 +45,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПометитьВсеExtendedTooltip</name>
+          <name>ПометитьВсеРасширеннаяПодсказка</name>
           <id>53</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -70,7 +70,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СнятьПометкуСоВсехExtendedTooltip</name>
+          <name>СнятьПометкуСоВсехРасширеннаяПодсказка</name>
           <id>54</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -118,7 +118,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ПометитьВыбранныеExtendedTooltip</name>
+        <name>ПометитьВыбранныеРасширеннаяПодсказка</name>
         <id>55</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -144,7 +144,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СнятьПометкуВыбранныхExtendedTooltip</name>
+        <name>СнятьПометкуВыбранныхРасширеннаяПодсказка</name>
         <id>56</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -170,7 +170,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаАктивныеПользователиExtendedTooltip</name>
+        <name>ФормаАктивныеПользователиРасширеннаяПодсказка</name>
         <id>57</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -228,7 +228,7 @@
       <value>Командная панель</value>
     </title>
     <extendedTooltip>
-      <name>КоманднаяПанельExtendedTooltip</name>
+      <name>КоманднаяПанельРасширеннаяПодсказка</name>
       <id>51</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -256,7 +256,7 @@
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>НадписьExtendedTooltip</name>
+      <name>НадписьРасширеннаяПодсказка</name>
       <id>58</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -323,7 +323,7 @@
           </dataPath>
           <titleLocation>None</titleLocation>
           <extendedTooltip>
-            <name>ГруппыПользователейГруппаExtendedTooltip</name>
+            <name>ГруппыПользователейГруппаРасширеннаяПодсказка</name>
             <id>65</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -363,7 +363,7 @@
             <segments>ГруппыПользователей.Картинка</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ГруппыПользователейКартинкаExtendedTooltip</name>
+            <name>ГруппыПользователейКартинкаРасширеннаяПодсказка</name>
             <id>66</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -403,7 +403,7 @@
           <value>И картинка</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаИКартинкаExtendedTooltip</name>
+          <name>ГруппаИКартинкаРасширеннаяПодсказка</name>
           <id>64</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -432,10 +432,10 @@
         <name>ГруппыПользователейПриАктивизацииСтроки</name>
       </handlers>
       <searchStringAddition>
-        <name>ГруппыПользователейSearchString</name>
+        <name>ГруппыПользователейСтрокаПоиска</name>
         <id>77</id>
         <extendedTooltip>
-          <name>ГруппыПользователейSearchStringExtendedTooltip</name>
+          <name>ГруппыПользователейСтрокаПоискаРасширеннаяПодсказка</name>
           <id>79</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -445,7 +445,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ГруппыПользователейSearchStringContextMenu</name>
+          <name>ГруппыПользователейSearchStringКонтекстноеМеню</name>
           <id>78</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -455,10 +455,10 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <name>ГруппыПользователейViewStatus</name>
+        <name>ГруппыПользователейСостояниеПросмотра</name>
         <id>80</id>
         <extendedTooltip>
-          <name>ГруппыПользователейViewStatusExtendedTooltip</name>
+          <name>ГруппыПользователейViewStatusРасширеннаяПодсказка</name>
           <id>82</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -468,7 +468,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ГруппыПользователейViewStatusContextMenu</name>
+          <name>ГруппыПользователейViewStatusКонтекстноеМеню</name>
           <id>81</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -479,10 +479,10 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <name>ГруппыПользователейSearchControl</name>
+        <name>ГруппыПользователейУправлениеПоиском</name>
         <id>83</id>
         <extendedTooltip>
-          <name>ГруппыПользователейSearchControlExtendedTooltip</name>
+          <name>ГруппыПользователейSearchControlРасширеннаяПодсказка</name>
           <id>85</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -492,7 +492,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ГруппыПользователейSearchControlContextMenu</name>
+          <name>ГруппыПользователейУправлениеПоискомКонтекстноеМеню</name>
           <id>84</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -503,7 +503,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ГруппыПользователейExtendedTooltip</name>
+        <name>ГруппыПользователейРасширеннаяПодсказка</name>
         <id>63</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -524,7 +524,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ГруппыПользователейКонтекстноеМенюИзменитьExtendedTooltip</name>
+            <name>ГруппыПользователейКонтекстноеМенюИзменитьРасширеннаяПодсказка</name>
             <id>60</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -549,7 +549,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ГруппыПользователейКонтекстноеМенюКопироватьВБуферОбменаExtendedTooltip</name>
+            <name>ГруппыПользователейКонтекстноеМенюКопироватьВБуферОбменаРасширеннаяПодсказка</name>
             <id>61</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -574,7 +574,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ГруппыПользователейКонтекстноеМенюВыделитьВсеExtendedTooltip</name>
+            <name>ГруппыПользователейКонтекстноеМенюВыделитьВсеРасширеннаяПодсказка</name>
             <id>62</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -660,7 +660,7 @@
             <name>ПользователиФлажокПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ПользователиФлажокExtendedTooltip</name>
+            <name>ПользователиФлажокРасширеннаяПодсказка</name>
             <id>72</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -694,7 +694,7 @@
           </dataPath>
           <titleLocation>None</titleLocation>
           <extendedTooltip>
-            <name>ПользователиExtendedTooltip</name>
+            <name>ПользователиРасширеннаяПодсказка</name>
             <id>73</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -807,7 +807,7 @@
           <value>Пользователи</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаПользователиExtendedTooltip</name>
+          <name>ГруппаПользователиРасширеннаяПодсказка</name>
           <id>71</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -834,10 +834,10 @@
         <name>СписокПользователейВыбор</name>
       </handlers>
       <searchStringAddition>
-        <name>СписокПользователейSearchString</name>
+        <name>СписокПользователейСтрокаПоиска</name>
         <id>86</id>
         <extendedTooltip>
-          <name>СписокПользователейSearchStringExtendedTooltip</name>
+          <name>СписокПользователейSearchStringРасширеннаяПодсказка</name>
           <id>88</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -847,7 +847,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>СписокПользователейSearchStringContextMenu</name>
+          <name>СписокПользователейSearchStringКонтекстноеМеню</name>
           <id>87</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -857,10 +857,10 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <name>СписокПользователейViewStatus</name>
+        <name>СписокПользователейСостояниеПросмотра</name>
         <id>89</id>
         <extendedTooltip>
-          <name>СписокПользователейViewStatusExtendedTooltip</name>
+          <name>СписокПользователейViewStatusРасширеннаяПодсказка</name>
           <id>91</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -870,7 +870,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>СписокПользователейViewStatusContextMenu</name>
+          <name>СписокПользователейСостояниеПросмотраКонтекстноеМеню</name>
           <id>90</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -881,10 +881,10 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <name>СписокПользователейSearchControl</name>
+        <name>СписокПользователейУправлениеПоиском</name>
         <id>92</id>
         <extendedTooltip>
-          <name>СписокПользователейSearchControlExtendedTooltip</name>
+          <name>СписокПользователейУправлениеПоискомРасширеннаяПодсказка</name>
           <id>94</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -894,7 +894,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>СписокПользователейSearchControlContextMenu</name>
+          <name>СписокПользователейУправлениеПоискомКонтекстноеМеню</name>
           <id>93</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -905,7 +905,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>СписокПользователейExtendedTooltip</name>
+        <name>СписокПользователейРасширеннаяПодсказка</name>
         <id>70</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -926,7 +926,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>СписокПользователейКонтекстноеМенюИзменитьExtendedTooltip</name>
+            <name>СписокПользователейКонтекстноеМенюИзменитьРасширеннаяПодсказка</name>
             <id>67</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -951,7 +951,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>СписокПользователейКонтекстноеМенюКопироватьВБуферОбменаExtendedTooltip</name>
+            <name>СписокПользователейКонтекстноеМенюКопироватьВБуферОбменаРасширеннаяПодсказка</name>
             <id>68</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -976,7 +976,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>СписокПользователейКонтекстноеМенюВыделитьВсеExtendedTooltip</name>
+            <name>СписокПользователейКонтекстноеМенюВыделитьВсеРасширеннаяПодсказка</name>
             <id>69</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1018,7 +1018,7 @@
       <value>Выбор пользователей</value>
     </title>
     <extendedTooltip>
-      <name>ВыборПользователяExtendedTooltip</name>
+      <name>ВыборПользователяРасширеннаяПодсказка</name>
       <id>59</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1067,7 +1067,7 @@
           <name>ПоказыватьПользователейДочернихГруппПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ПоказыватьПользователейДочернихГруппExtendedTooltip</name>
+          <name>ПоказыватьПользователейДочернихГруппРасширеннаяПодсказка</name>
           <id>76</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1098,7 +1098,7 @@
         <value>Установить свойство</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаУстановитьСвойствоExtendedTooltip</name>
+        <name>ГруппаУстановитьСвойствоРасширеннаяПодсказка</name>
         <id>75</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1123,7 +1123,7 @@
       <value>Показывать пользователей дочерних групп</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПоказыватьПользователейДочернихГруппExtendedTooltip</name>
+      <name>ГруппаПоказыватьПользователейДочернихГруппРасширеннаяПодсказка</name>
       <id>74</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

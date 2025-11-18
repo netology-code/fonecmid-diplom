@@ -12,7 +12,7 @@
       <segments>Объект.Description</segments>
     </dataPath>
     <extendedTooltip>
-      <name>НаименованиеExtendedTooltip</name>
+      <name>НаименованиеРасширеннаяПодсказка</name>
       <id>96</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -51,7 +51,7 @@
       <segments>Объект.Parent</segments>
     </dataPath>
     <extendedTooltip>
-      <name>РодительExtendedTooltip</name>
+      <name>РодительРасширеннаяПодсказка</name>
       <id>97</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -107,7 +107,7 @@
         <segments>Объект.ДополнительныеРеквизиты.Свойство</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ДополнительныеРеквизитыСвойствоExtendedTooltip</name>
+        <name>ДополнительныеРеквизитыСвойствоРасширеннаяПодсказка</name>
         <id>99</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -143,10 +143,10 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <name>ДополнительныеРеквизитыSearchString</name>
+      <name>ДополнительныеРеквизитыСтрокаПоиска</name>
       <id>104</id>
       <extendedTooltip>
-        <name>ДополнительныеРеквизитыSearchStringExtendedTooltip</name>
+        <name>ДополнительныеРеквизитыSearchStringРасширеннаяПодсказка</name>
         <id>106</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -156,7 +156,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДополнительныеРеквизитыSearchStringContextMenu</name>
+        <name>ДополнительныеРеквизитыSearchStringКонтекстноеМеню</name>
         <id>105</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -166,10 +166,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>ДополнительныеРеквизитыViewStatus</name>
+      <name>ДополнительныеРеквизитыСостояниеПросмотра</name>
       <id>107</id>
       <extendedTooltip>
-        <name>ДополнительныеРеквизитыViewStatusExtendedTooltip</name>
+        <name>ДополнительныеРеквизитыСостояниеПросмотраРасширеннаяПодсказка</name>
         <id>109</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -179,7 +179,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДополнительныеРеквизитыViewStatusContextMenu</name>
+        <name>ДополнительныеРеквизитыСостояниеПросмотраКонтекстноеМеню</name>
         <id>108</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -190,10 +190,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>ДополнительныеРеквизитыSearchControl</name>
+      <name>ДополнительныеРеквизитыУправлениеПоиском</name>
       <id>110</id>
       <extendedTooltip>
-        <name>ДополнительныеРеквизитыSearchControlExtendedTooltip</name>
+        <name>ДополнительныеРеквизитыУправлениеПоискомРасширеннаяПодсказка</name>
         <id>112</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -203,7 +203,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДополнительныеРеквизитыSearchControlContextMenu</name>
+        <name>ДополнительныеРеквизитыSearchControlКонтекстноеМеню</name>
         <id>111</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -214,7 +214,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ДополнительныеРеквизитыExtendedTooltip</name>
+      <name>ДополнительныеРеквизитыРасширеннаяПодсказка</name>
       <id>98</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -279,7 +279,7 @@
         <segments>Объект.ДополнительныеСведения.Свойство</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ДополнительныеСведенияСвойствоExtendedTooltip</name>
+        <name>ДополнительныеСведенияСвойствоРасширеннаяПодсказка</name>
         <id>102</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -315,10 +315,10 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <name>ДополнительныеСведенияSearchString</name>
+      <name>ДополнительныеСведенияСтрокаПоиска</name>
       <id>113</id>
       <extendedTooltip>
-        <name>ДополнительныеСведенияSearchStringExtendedTooltip</name>
+        <name>ДополнительныеСведенияСтрокаПоискаРасширеннаяПодсказка</name>
         <id>115</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -328,7 +328,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДополнительныеСведенияSearchStringContextMenu</name>
+        <name>ДополнительныеСведенияСтрокаПоискаКонтекстноеМеню</name>
         <id>114</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -338,10 +338,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>ДополнительныеСведенияViewStatus</name>
+      <name>ДополнительныеСведенияСостояниеПросмотра</name>
       <id>116</id>
       <extendedTooltip>
-        <name>ДополнительныеСведенияViewStatusExtendedTooltip</name>
+        <name>ДополнительныеСведенияСостояниеПросмотраРасширеннаяПодсказка</name>
         <id>118</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -351,7 +351,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДополнительныеСведенияViewStatusContextMenu</name>
+        <name>ДополнительныеСведенияСостояниеПросмотраКонтекстноеМеню</name>
         <id>117</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -362,10 +362,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>ДополнительныеСведенияSearchControl</name>
+      <name>ДополнительныеСведенияУправлениеПоиском</name>
       <id>119</id>
       <extendedTooltip>
-        <name>ДополнительныеСведенияSearchControlExtendedTooltip</name>
+        <name>ДополнительныеСведенияSearchControlРасширеннаяПодсказка</name>
         <id>121</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -375,7 +375,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДополнительныеСведенияSearchControlContextMenu</name>
+        <name>ДополнительныеСведенияSearchControlКонтекстноеМеню</name>
         <id>120</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -386,7 +386,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ДополнительныеСведенияExtendedTooltip</name>
+      <name>ДополнительныеСведенияРасширеннаяПодсказка</name>
       <id>101</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

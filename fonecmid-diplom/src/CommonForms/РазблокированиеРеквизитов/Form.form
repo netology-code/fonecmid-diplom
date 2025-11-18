@@ -18,7 +18,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаРазрешитьРедактированиеExtendedTooltip</name>
+            <name>ФормаРазрешитьРедактированиеРасширеннаяПодсказка</name>
             <id>18</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>

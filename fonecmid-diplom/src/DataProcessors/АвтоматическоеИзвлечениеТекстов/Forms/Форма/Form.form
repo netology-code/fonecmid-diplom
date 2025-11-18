@@ -23,7 +23,7 @@
         <name>ИнтервалВремениВыполненияПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ИнтервалВремениВыполненияExtendedTooltip</name>
+        <name>ИнтервалВремениВыполненияРасширеннаяПодсказка</name>
         <id>26</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -65,7 +65,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДекорацияСекExtendedTooltip</name>
+        <name>ДекорацияСекРасширеннаяПодсказка</name>
         <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -96,7 +96,7 @@
       <value>Интервал времени</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаИнтервалВремениExtendedTooltip</name>
+      <name>ГруппаИнтервалВремениРасширеннаяПодсказка</name>
       <id>25</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -130,7 +130,7 @@
       <name>КоличествоФайловВПорцииПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>КоличествоФайловВПорцииExtendedTooltip</name>
+      <name>КоличествоФайловВПорцииРасширеннаяПодсказка</name>
       <id>28</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -208,7 +208,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>СтатусExtendedTooltip</name>
+        <name>СтатусРасширеннаяПодсказка</name>
         <id>31</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -243,7 +243,7 @@
       <value>Статуса</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаСтатусаExtendedTooltip</name>
+      <name>ГруппаСтатусаРасширеннаяПодсказка</name>
       <id>30</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -275,7 +275,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СтартExtendedTooltip</name>
+        <name>СтартРасширеннаяПодсказка</name>
         <id>21</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -300,7 +300,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СтопExtendedTooltip</name>
+        <name>СтопРасширеннаяПодсказка</name>
         <id>22</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -325,7 +325,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзвлечьТекстИзВсехФайловExtendedTooltip</name>
+        <name>ИзвлечьТекстИзВсехФайловРасширеннаяПодсказка</name>
         <id>23</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -351,7 +351,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗакрытьExtendedTooltip</name>
+        <name>ЗакрытьРасширеннаяПодсказка</name>
         <id>24</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

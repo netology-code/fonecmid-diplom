@@ -123,7 +123,7 @@
         </dataPath>
         <toolTipRepresentation>Button</toolTipRepresentation>
         <extendedTooltip>
-          <name>РазрешениеExtendedTooltip</name>
+          <name>РазрешениеРасширеннаяПодсказка</name>
           <id>63</id>
           <title>
             <key>ru</key>
@@ -174,7 +174,7 @@
           <segments>Цветность</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ЦветностьExtendedTooltip</name>
+          <name>ЦветностьРасширеннаяПодсказка</name>
           <id>64</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -220,7 +220,7 @@
           <segments>Поворот</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПоворотExtendedTooltip</name>
+          <name>ПоворотРасширеннаяПодсказка</name>
           <id>65</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -262,7 +262,7 @@
           <segments>РазмерБумаги</segments>
         </dataPath>
         <extendedTooltip>
-          <name>РазмерБумагиExtendedTooltip</name>
+          <name>РазмерБумагиРасширеннаяПодсказка</name>
           <id>66</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -305,7 +305,7 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <extendedTooltip>
-          <name>ДвустороннееСканированиеExtendedTooltip</name>
+          <name>ДвустороннееСканированиеРасширеннаяПодсказка</name>
           <id>67</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -381,7 +381,7 @@
               <name>ФорматСканированногоИзображенияПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ФорматСканированногоИзображенияExtendedTooltip</name>
+              <name>ФорматСканированногоИзображенияРасширеннаяПодсказка</name>
               <id>56</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -472,7 +472,7 @@
             <value>Формата сканирования</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаФорматаСканированияExtendedTooltip</name>
+            <name>ГруппаФорматаСканированияРасширеннаяПодсказка</name>
             <id>55</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -654,7 +654,7 @@
             <segments>СжатиеTIFF</segments>
           </dataPath>
           <extendedTooltip>
-            <name>СжатиеTIFFExtendedTooltip</name>
+            <name>СжатиеTIFFРасширеннаяПодсказка</name>
             <id>59</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -735,7 +735,7 @@
           <value>Для одностраничных изображений</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаФорматХраненияОдиночныйExtendedTooltip</name>
+          <name>ГруппаФорматХраненияОдиночныйРасширеннаяПодсказка</name>
           <id>51</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -770,7 +770,7 @@
             <segments>ФорматХраненияМногостраничный</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ФорматХраненияМногостраничныйExtendedTooltip</name>
+            <name>ФорматХраненияМногостраничныйРасширеннаяПодсказка</name>
             <id>61</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -811,7 +811,7 @@
           <value>Для многостраничных изображений</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаФорматХраненияМногостраничныйExtendedTooltip</name>
+          <name>ГруппаФорматХраненияМногостраничныйРасширеннаяПодсказка</name>
           <id>60</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -901,7 +901,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОКExtendedTooltip</name>
+        <name>ОКРасширеннаяПодсказка</name>
         <id>48</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -928,7 +928,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>49</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -954,7 +954,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>50</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

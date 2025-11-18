@@ -1305,7 +1305,7 @@
             <name>ЗаголовокПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ЗаголовокExtendedTooltip</name>
+            <name>ЗаголовокРасширеннаяПодсказка</name>
             <id>118</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1431,7 +1431,7 @@
               <name>ТипЗначенияПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ТипЗначенияExtendedTooltip</name>
+              <name>ТипЗначенияРасширеннаяПодсказка</name>
               <id>126</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1467,7 +1467,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>РедактироватьФорматЗначенияExtendedTooltip</name>
+              <name>РедактироватьФорматЗначенияРасширеннаяПодсказка</name>
               <id>127</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1830,7 +1830,7 @@
               <name>МногострочноеПолеВводаЧислоПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>МногострочноеПолеВводаЧислоExtendedTooltip</name>
+              <name>МногострочноеПолеВводаЧислоРасширеннаяПодсказка</name>
               <id>132</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1875,7 +1875,7 @@
             <value>Многострочное поле ввода настройки</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаМногострочноеПолеВводаНастройкиExtendedTooltip</name>
+            <name>ГруппаМногострочноеПолеВводаНастройкиРасширеннаяПодсказка</name>
             <id>130</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1902,7 +1902,7 @@
           <value>Многострочность</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаМногострочностьExtendedTooltip</name>
+          <name>ГруппаМногострочностьРасширеннаяПодсказка</name>
           <id>129</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2765,7 +2765,7 @@
               </dataPath>
               <titleHeight>2</titleHeight>
               <extendedTooltip>
-                <name>ПодсказкаExtendedTooltip</name>
+                <name>ПодсказкаРасширеннаяПодсказка</name>
                 <id>155</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -2813,7 +2813,7 @@
                   <value>Используется в заголовке формы дополнительного значения свойства.</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ЗаголовокФормыЗначенияExtendedTooltip</name>
+                  <name>ЗаголовокФормыЗначенияРасширеннаяПодсказка</name>
                   <id>157</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -2859,7 +2859,7 @@
                   <value>Используется в заголовке формы выбора дополнительного значения свойства.</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ЗаголовокФормыВыбораЗначенияExtendedTooltip</name>
+                  <name>ЗаголовокФормыВыбораЗначенияРасширеннаяПодсказка</name>
                   <id>158</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -2898,7 +2898,7 @@
                 <value>Заголовки форм значений</value>
               </title>
               <extendedTooltip>
-                <name>ГруппаЗаголовкиФормЗначенийExtendedTooltip</name>
+                <name>ГруппаЗаголовкиФормЗначенийРасширеннаяПодсказка</name>
                 <id>156</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -2929,7 +2929,7 @@
               </dataPath>
               <titleLocation>Left</titleLocation>
               <extendedTooltip>
-                <name>КомментарийExtendedTooltip</name>
+                <name>КомментарийРасширеннаяПодсказка</name>
                 <id>159</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -2978,7 +2978,7 @@
               <value>Остальные реквизиты</value>
             </title>
             <extendedTooltip>
-              <name>ОстальныеРеквизитыExtendedTooltip</name>
+              <name>ОстальныеРеквизитыРасширеннаяПодсказка</name>
               <id>154</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -3016,7 +3016,7 @@
                 <value>Переход к набору.</value>
               </toolTip>
               <extendedTooltip>
-                <name>УточнениеНаборовКомментарийExtendedTooltip</name>
+                <name>УточнениеНаборовКомментарийРасширеннаяПодсказка</name>
                 <id>161</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -3050,7 +3050,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>УточнениеНаборовИзменитьExtendedTooltip</name>
+                <name>УточнениеНаборовИзменитьРасширеннаяПодсказка</name>
                 <id>162</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -3077,7 +3077,7 @@
               <value>Уточнение наборов</value>
             </title>
             <extendedTooltip>
-              <name>УточнениеНаборовExtendedTooltip</name>
+              <name>УточнениеНаборовРасширеннаяПодсказка</name>
               <id>160</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -3164,7 +3164,7 @@
                     <segments>Значения.Наименование</segments>
                   </dataPath>
                   <extendedTooltip>
-                    <name>ЗначенияНаименованиеExtendedTooltip</name>
+                    <name>ЗначенияНаименованиеРасширеннаяПодсказка</name>
                     <id>148</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -3200,7 +3200,7 @@
                     <segments>Значения.Вес</segments>
                   </dataPath>
                   <extendedTooltip>
-                    <name>ЗначенияВесExtendedTooltip</name>
+                    <name>ЗначенияВесРасширеннаяПодсказка</name>
                     <id>149</id>
                     <type>Label</type>
                     <autoMaxWidth>true</autoMaxWidth>
@@ -3274,7 +3274,7 @@
                         <common>true</common>
                       </userVisible>
                       <extendedTooltip>
-                        <name>ЗначенияСоздатьExtendedTooltip</name>
+                        <name>ЗначенияСоздатьРасширеннаяПодсказка</name>
                         <id>141</id>
                         <type>Label</type>
                         <autoMaxWidth>true</autoMaxWidth>
@@ -3299,7 +3299,7 @@
                         <common>true</common>
                       </userVisible>
                       <extendedTooltip>
-                        <name>ЗначенияСоздатьГруппуExtendedTooltip</name>
+                        <name>ЗначенияСоздатьГруппуРасширеннаяПодсказка</name>
                         <id>142</id>
                         <type>Label</type>
                         <autoMaxWidth>true</autoMaxWidth>
@@ -3324,7 +3324,7 @@
                         <common>true</common>
                       </userVisible>
                       <extendedTooltip>
-                        <name>ЗначенияИзменитьExtendedTooltip</name>
+                        <name>ЗначенияИзменитьРасширеннаяПодсказка</name>
                         <id>143</id>
                         <type>Label</type>
                         <autoMaxWidth>true</autoMaxWidth>
@@ -3349,7 +3349,7 @@
                         <common>true</common>
                       </userVisible>
                       <extendedTooltip>
-                        <name>ЗначенияУстановитьПометкуУдаленияExtendedTooltip</name>
+                        <name>ЗначенияУстановитьПометкуУдаленияРасширеннаяПодсказка</name>
                         <id>144</id>
                         <type>Label</type>
                         <autoMaxWidth>true</autoMaxWidth>
@@ -3375,7 +3375,7 @@
                       <value>Значения командная панель редактирования</value>
                     </title>
                     <extendedTooltip>
-                      <name>ЗначенияКоманднаяПанельРедактированияExtendedTooltip</name>
+                      <name>ЗначенияКоманднаяПанельРедактированияРасширеннаяПодсказка</name>
                       <id>140</id>
                       <type>Label</type>
                       <autoMaxWidth>true</autoMaxWidth>
@@ -3395,7 +3395,7 @@
                       <common>true</common>
                     </userVisible>
                     <extendedTooltip>
-                      <name>ЗначенияНайтиExtendedTooltip</name>
+                      <name>ЗначенияНайтиРасширеннаяПодсказка</name>
                       <id>145</id>
                       <type>Label</type>
                       <autoMaxWidth>true</autoMaxWidth>
@@ -3420,7 +3420,7 @@
                       <common>true</common>
                     </userVisible>
                     <extendedTooltip>
-                      <name>ЗначенияОтменитьПоискExtendedTooltip</name>
+                      <name>ЗначенияОтменитьПоискРасширеннаяПодсказка</name>
                       <id>146</id>
                       <type>Label</type>
                       <autoMaxWidth>true</autoMaxWidth>
@@ -3678,7 +3678,7 @@
                   </extInfo>
                 </searchControlAddition>
                 <extendedTooltip>
-                  <name>ЗначенияExtendedTooltip</name>
+                  <name>ЗначенияРасширеннаяПодсказка</name>
                   <id>147</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -3806,7 +3806,7 @@
                         <value>Значения контекстное меню стандартные команды</value>
                       </title>
                       <extendedTooltip>
-                        <name>ЗначенияКонтекстноеМенюСтандартныеКомандыExtendedTooltip</name>
+                        <name>ЗначенияКонтекстноеМенюСтандартныеКомандыРасширеннаяПодсказка</name>
                         <id>139</id>
                         <type>Label</type>
                         <autoMaxWidth>true</autoMaxWidth>
@@ -3829,7 +3829,7 @@
                       <value>Значения контекстное меню редактирования</value>
                     </title>
                     <extendedTooltip>
-                      <name>ЗначенияКонтекстноеМенюРедактированияExtendedTooltip</name>
+                      <name>ЗначенияКонтекстноеМенюРедактированияРасширеннаяПодсказка</name>
                       <id>134</id>
                       <type>Label</type>
                       <autoMaxWidth>true</autoMaxWidth>
@@ -3889,7 +3889,7 @@
                 <value>Дополнительные значения:</value>
               </title>
               <extendedTooltip>
-                <name>ДополнительныеЗначенияExtendedTooltip</name>
+                <name>ДополнительныеЗначенияРасширеннаяПодсказка</name>
                 <id>133</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -4340,7 +4340,7 @@
               <name>ДополнительныеЗначенияСВесомПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ДополнительныеЗначенияСВесомExtendedTooltip</name>
+              <name>ДополнительныеЗначенияСВесомРасширеннаяПодсказка</name>
               <id>150</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -4381,7 +4381,7 @@
                 <value>Переход к редактированию списка значений.</value>
               </toolTip>
               <extendedTooltip>
-                <name>УточнениеСпискаЗначенийКомментарийExtendedTooltip</name>
+                <name>УточнениеСпискаЗначенийКомментарийРасширеннаяПодсказка</name>
                 <id>152</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -4415,7 +4415,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>УточнениеСпискаЗначенийИзменитьExtendedTooltip</name>
+                <name>УточнениеСпискаЗначенийИзменитьРасширеннаяПодсказка</name>
                 <id>153</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -4442,7 +4442,7 @@
               <value>Уточнение списка значений</value>
             </title>
             <extendedTooltip>
-              <name>УточнениеСпискаЗначенийExtendedTooltip</name>
+              <name>УточнениеСпискаЗначенийРасширеннаяПодсказка</name>
               <id>151</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>

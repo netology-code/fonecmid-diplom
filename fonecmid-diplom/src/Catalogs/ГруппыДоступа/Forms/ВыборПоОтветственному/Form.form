@@ -46,7 +46,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>9</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -119,10 +119,10 @@
       <name>ГруппыДоступаВыбор</name>
     </handlers>
     <searchStringAddition>
-      <name>ГруппыДоступаSearchString</name>
+      <name>ГруппыДоступаСтрокаПоиска</name>
       <id>10</id>
       <extendedTooltip>
-        <name>ГруппыДоступаSearchStringExtendedTooltip</name>
+        <name>ГруппыДоступаСтрокаПоискаРасширеннаяПодсказка</name>
         <id>12</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -132,7 +132,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ГруппыДоступаSearchStringContextMenu</name>
+        <name>ГруппыДоступаСтрокаПоискаКонтекстноеМеню</name>
         <id>11</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -142,10 +142,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>ГруппыДоступаViewStatus</name>
+      <name>ГруппыДоступаСостояниеПросмотра</name>
       <id>13</id>
       <extendedTooltip>
-        <name>ГруппыДоступаViewStatusExtendedTooltip</name>
+        <name>ГруппыДоступаСостояниеПросмотраРасширеннаяПодсказка</name>
         <id>15</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -155,7 +155,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ГруппыДоступаViewStatusContextMenu</name>
+        <name>ГруппыДоступаСостояниеПросмотраКонтекстноеМеню</name>
         <id>14</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -166,10 +166,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>ГруппыДоступаSearchControl</name>
+      <name>ГруппыДоступаУправлениеПоиском</name>
       <id>16</id>
       <extendedTooltip>
-        <name>ГруппыДоступаSearchControlExtendedTooltip</name>
+        <name>ГруппыДоступаУправлениеПоискомРасширеннаяПодсказка</name>
         <id>18</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -179,7 +179,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ГруппыДоступаSearchControlContextMenu</name>
+        <name>ГруппыДоступаУправлениеПоискомКонтекстноеМеню</name>
         <id>17</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -190,7 +190,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ГруппыДоступаExtendedTooltip</name>
+      <name>ГруппыДоступаРасширеннаяПодсказка</name>
       <id>8</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -284,7 +284,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьExtendedTooltip</name>
+        <name>ВыбратьРасширеннаяПодсказка</name>
         <id>7</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

@@ -411,7 +411,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаЗашифроватьExtendedTooltip</name>
+            <name>ФормаЗашифроватьРасширеннаяПодсказка</name>
             <id>75</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -436,7 +436,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаРасшифроватьExtendedTooltip</name>
+            <name>ФормаРасшифроватьРасширеннаяПодсказка</name>
             <id>76</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -517,7 +517,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаСтандартныеУстановитьПометкуУдаленияExtendedTooltip</name>
+          <name>ФормаСтандартныеУстановитьПометкуУдаленияРасширеннаяПодсказка</name>
           <id>61</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -594,7 +594,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаСохранитьКакExtendedTooltip</name>
+          <name>ФормаСохранитьКакРасширеннаяПодсказка</name>
           <id>67</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -646,7 +646,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОсвободитьExtendedTooltip</name>
+          <name>ФормаОсвободитьРасширеннаяПодсказка</name>
           <id>66</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -672,7 +672,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОбновитьИзФайлаНаДискеExtendedTooltip</name>
+          <name>ФормаОбновитьИзФайлаНаДискеРасширеннаяПодсказка</name>
           <id>68</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -698,7 +698,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОткрытьКаталогФайлаExtendedTooltip</name>
+          <name>ФормаОткрытьКаталогФайлаРасширеннаяПодсказка</name>
           <id>69</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1045,7 +1045,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОткрытьФайлДляПросмотраExtendedTooltip</name>
+          <name>ФормаОткрытьФайлДляПросмотраРасширеннаяПодсказка</name>
           <id>63</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1688,7 +1688,7 @@
       <value>Общая информация о файле</value>
     </toolTip>
     <extendedTooltip>
-      <name>ГруппаОбщаяИнформацияExtendedTooltip</name>
+      <name>ГруппаОбщаяИнформацияРасширеннаяПодсказка</name>
       <id>77</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -2020,7 +2020,7 @@
           <value>Основные сведения</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаСведенияЧасть1ExtendedTooltip</name>
+          <name>ГруппаСведенияЧасть1РасширеннаяПодсказка</name>
           <id>80</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2425,7 +2425,7 @@
           <value>Дополнительные сведения</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаСведенияЧасть2ExtendedTooltip</name>
+          <name>ГруппаСведенияЧасть2РасширеннаяПодсказка</name>
           <id>81</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -2457,7 +2457,7 @@
         <value>Информация о файле</value>
       </toolTip>
       <extendedTooltip>
-        <name>ГруппаСведенияОФайлеExtendedTooltip</name>
+        <name>ГруппаСведенияОФайлеРасширеннаяПодсказка</name>
         <id>79</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -3321,7 +3321,7 @@
             <segments>СертификатыШифрования.Представление</segments>
           </dataPath>
           <extendedTooltip>
-            <name>СертификатыШифрованияПредставлениеExtendedTooltip</name>
+            <name>СертификатыШифрованияПредставлениеРасширеннаяПодсказка</name>
             <id>97</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -3487,7 +3487,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>СертификатыШифрованияExtendedTooltip</name>
+          <name>СертификатыШифрованияРасширеннаяПодсказка</name>
           <id>96</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -3594,7 +3594,7 @@
       <value>Дополнительные данные</value>
     </toolTip>
     <extendedTooltip>
-      <name>ГруппаДополнительныеДанныеСтраницыExtendedTooltip</name>
+      <name>ГруппаДополнительныеДанныеСтраницыРасширеннаяПодсказка</name>
       <id>78</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -4981,37 +4981,10 @@
   <commandInterface>
     <navigationPanel>
       <cmiFragmentRecord>
-        <command>0</command>
-        <type>Added</type>
-        <group>FormNavigationPanelGoTo</group>
-        <index>0</index>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-      </cmiFragmentRecord>
-      <cmiFragmentRecord>
-        <command>0</command>
-        <type>Added</type>
-        <group>FormNavigationPanelGoTo</group>
-        <index>1</index>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-      </cmiFragmentRecord>
-      <cmiFragmentRecord>
         <command>InformationRegister.ДвоичныеДанныеФайлов.StandardCommand.OpenByValue.Файл</command>
         <group>FormNavigationPanelGoTo</group>
         <index>2</index>
         <userVisible/>
-      </cmiFragmentRecord>
-      <cmiFragmentRecord>
-        <command>0</command>
-        <type>Added</type>
-        <group>FormNavigationPanelGoTo</group>
-        <index>3</index>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
       </cmiFragmentRecord>
     </navigationPanel>
     <commandBar/>

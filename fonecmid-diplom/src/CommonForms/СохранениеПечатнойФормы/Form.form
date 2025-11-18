@@ -22,7 +22,7 @@
         <name>ВариантСохраненияПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ВариантСохраненияExtendedTooltip</name>
+        <name>ВариантСохраненияРасширеннаяПодсказка</name>
         <id>83</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -76,7 +76,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>ПапкаДляСохраненияФайловExtendedTooltip</name>
+        <name>ПапкаДляСохраненияФайловРасширеннаяПодсказка</name>
         <id>86</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -120,7 +120,7 @@
       <value>Выбор места сохранения файла</value>
     </title>
     <extendedTooltip>
-      <name>ВыборМестаСохраненияФайлаExtendedTooltip</name>
+      <name>ВыборМестаСохраненияФайлаРасширеннаяПодсказка</name>
       <id>82</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -186,7 +186,7 @@
           <segments>ВыбранныеФорматыСохранения.Check</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияПометкаExtendedTooltip</name>
+          <name>ВыбранныеФорматыСохраненияПометкаРасширеннаяПодсказка</name>
           <id>91</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -223,7 +223,7 @@
           <segments>ВыбранныеФорматыСохранения.Value</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияЗначениеExtendedTooltip</name>
+          <name>ВыбранныеФорматыСохраненияЗначениеРасширеннаяПодсказка</name>
           <id>92</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -258,10 +258,10 @@
         <horizontalAlign>Left</horizontalAlign>
       </autoCommandBar>
       <searchStringAddition>
-        <name>ВыбранныеФорматыСохраненияSearchString</name>
+        <name>ВыбранныеФорматыСохраненияСтрокаПоиска</name>
         <id>95</id>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияSearchStringExtendedTooltip</name>
+          <name>ВыбранныеФорматыСохраненияСтрокаПоискаРасширеннаяПодсказка</name>
           <id>97</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -271,7 +271,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ВыбранныеФорматыСохраненияSearchStringContextMenu</name>
+          <name>ВыбранныеФорматыСохраненияSearchStringКонтекстноеМеню</name>
           <id>96</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -281,10 +281,10 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <name>ВыбранныеФорматыСохраненияViewStatus</name>
+        <name>ВыбранныеФорматыСохраненияСостояниеПросмотра</name>
         <id>98</id>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияViewStatusExtendedTooltip</name>
+          <name>ВыбранныеФорматыСохраненияСостояниеПросмотраРасширеннаяПодсказка</name>
           <id>100</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -294,7 +294,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ВыбранныеФорматыСохраненияViewStatusContextMenu</name>
+          <name>ВыбранныеФорматыСохраненияСостояниеПросмотраКонтекстноеМеню</name>
           <id>99</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -305,10 +305,10 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <name>ВыбранныеФорматыСохраненияSearchControl</name>
+        <name>ВыбранныеФорматыСохраненияУправлениеПоиском</name>
         <id>101</id>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияSearchControlExtendedTooltip</name>
+          <name>ВыбранныеФорматыСохраненияУправлениеПоискомРасширеннаяПодсказка</name>
           <id>103</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -318,7 +318,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ВыбранныеФорматыСохраненияSearchControlContextMenu</name>
+          <name>ВыбранныеФорматыСохраненияSearchControlКонтекстноеМеню</name>
           <id>102</id>
           <autoFill>true</autoFill>
         </contextMenu>
@@ -329,7 +329,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ВыбранныеФорматыСохраненияExtendedTooltip</name>
+        <name>ВыбранныеФорматыСохраненияРасширеннаяПодсказка</name>
         <id>90</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -370,7 +370,7 @@
       <value>В форматах</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаВыборФорматовExtendedTooltip</name>
+      <name>ГруппаВыборФорматовРасширеннаяПодсказка</name>
       <id>89</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -411,7 +411,7 @@
       </dataPath>
       <titleLocation>Right</titleLocation>
       <extendedTooltip>
-        <name>УпаковатьВАрхивExtendedTooltip</name>
+        <name>УпаковатьВАрхивРасширеннаяПодсказка</name>
         <id>94</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -515,7 +515,7 @@
       <value>Дополнительные параметры</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаДополнительныеПараметрыExtendedTooltip</name>
+      <name>ГруппаДополнительныеПараметрыРасширеннаяПодсказка</name>
       <id>93</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -552,7 +552,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>КнопкаСохранитьExtendedTooltip</name>
+        <name>КнопкаСохранитьРасширеннаяПодсказка</name>
         <id>80</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -580,7 +580,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КнопкаОтменаExtendedTooltip</name>
+        <name>КнопкаОтменаРасширеннаяПодсказка</name>
         <id>81</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

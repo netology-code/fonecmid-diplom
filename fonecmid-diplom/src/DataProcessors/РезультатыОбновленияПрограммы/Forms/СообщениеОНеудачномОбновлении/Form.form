@@ -20,7 +20,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КартинкаОшибкиExtendedTooltip</name>
+        <name>КартинкаОшибкиРасширеннаяПодсказка</name>
         <id>16</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -55,7 +55,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ТекстСообщенияОбОшибкеExtendedTooltip</name>
+        <name>ТекстСообщенияОбОшибкеРасширеннаяПодсказка</name>
         <id>17</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -86,7 +86,7 @@
       <value>Сообщение об ошибке</value>
     </title>
     <extendedTooltip>
-      <name>СообщениеОбОшибкеExtendedTooltip</name>
+      <name>СообщениеОбОшибкеРасширеннаяПодсказка</name>
       <id>15</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -148,7 +148,7 @@
       </userVisible>
       <toolTipRepresentation>Button</toolTipRepresentation>
       <extendedTooltip>
-        <name>ТехническаяИнформацияОРезультатахОбновленияExtendedTooltip</name>
+        <name>ТехническаяИнформацияОРезультатахОбновленияРасширеннаяПодсказка</name>
         <id>20</id>
         <title>
           <key>ru</key>
@@ -187,7 +187,7 @@
       <value>Техническая информация о результатах обновления</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаТехническаяИнформацияОРезультатахОбновленияExtendedTooltip</name>
+      <name>ГруппаТехническаяИнформацияОРезультатахОбновленияРасширеннаяПодсказка</name>
       <id>18</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -219,7 +219,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗавершитьРаботуExtendedTooltip</name>
+        <name>ЗавершитьРаботуРасширеннаяПодсказка</name>
         <id>13</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -245,7 +245,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ПерезапуститьПрограммуExtendedTooltip</name>
+        <name>ПерезапуститьПрограммуРасширеннаяПодсказка</name>
         <id>14</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

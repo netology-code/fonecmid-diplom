@@ -10,8 +10,13 @@
   </synonym>
   <type>
     <types>CatalogObject.УчетныеЗаписиЭлектроннойПочты</types>
+    <types>CatalogObject.ВКМ_ГрафикиРабот</types>
+    <types>CatalogObject.ВКМ_УведомленияТелеграмБоту</types>
+    <types>CatalogObject.BKM_Сотрудники</types>
+    <types>CatalogObject.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</types>
     <types>ChartOfCharacteristicTypesObject.ДополнительныеРеквизитыИСведения</types>
     <types>CatalogObject.ДополнительныеОтчетыИОбработки</types>
     <types>CatalogObject.ИдентификаторыОбъектовМетаданных</types>
+    <types>CatalogObject.ВКМ_Подразделения</types>
   </type>
 </mdclass:DefinedType>

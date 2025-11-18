@@ -103,7 +103,7 @@
         <segments>Список.Ссылка</segments>
       </dataPath>
       <extendedTooltip>
-        <name>СсылкаExtendedTooltip</name>
+        <name>СсылкаРасширеннаяПодсказка</name>
         <id>36</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -217,7 +217,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>34</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

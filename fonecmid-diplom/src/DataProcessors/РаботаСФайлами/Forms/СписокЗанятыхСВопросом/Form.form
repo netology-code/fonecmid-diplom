@@ -196,7 +196,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>СообщениеЗаголовокExtendedTooltip</name>
+      <name>СообщениеЗаголовокРасширеннаяПодсказка</name>
       <id>78</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -536,7 +536,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>89</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -913,7 +913,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>ПоказыватьЗанятыеФайлыПриЗавершенииРаботыExtendedTooltip</name>
+      <name>ПоказыватьЗанятыеФайлыПриЗавершенииРаботыРасширеннаяПодсказка</name>
       <id>94</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -947,7 +947,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>СообщениеВопросExtendedTooltip</name>
+      <name>СообщениеВопросРасширеннаяПодсказка</name>
       <id>95</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -988,7 +988,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ДаExtendedTooltip</name>
+        <name>ДаРасширеннаяПодсказка</name>
         <id>97</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1019,7 +1019,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>НетExtendedTooltip</name>
+        <name>НетРасширеннаяПодсказка</name>
         <id>98</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1049,7 +1049,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>99</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1075,7 +1075,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
+      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
       <id>96</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

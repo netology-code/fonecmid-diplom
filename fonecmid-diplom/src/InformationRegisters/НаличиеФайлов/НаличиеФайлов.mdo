@@ -65,7 +65,9 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <dataHistory>Use</dataHistory>
-    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:BooleanValue">
+      <value>true</value>
+    </fillValue>
   </resources>
   <attributes uuid="9a5fa511-59e8-4a1b-a101-f276f0b7b261">
     <name>ИдентификаторОбъекта</name>

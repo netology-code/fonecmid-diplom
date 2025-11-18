@@ -20,7 +20,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КартинкаПредупреждениеExtendedTooltip</name>
+        <name>КартинкаПредупреждениеРасширеннаяПодсказка</name>
         <id>29</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -62,7 +62,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ВерсияExtendedTooltip</name>
+            <name>ВерсияРасширеннаяПодсказка</name>
             <id>32</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -94,7 +94,7 @@
           <value>Версия</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаВерсияExtendedTooltip</name>
+          <name>ГруппаВерсияРасширеннаяПодсказка</name>
           <id>31</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -125,7 +125,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстСообщенияExtendedTooltip</name>
+          <name>ТекстСообщенияРасширеннаяПодсказка</name>
           <id>34</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -160,7 +160,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстСсылкиExtendedTooltip</name>
+          <name>ТекстСсылкиРасширеннаяПодсказка</name>
           <id>35</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -198,7 +198,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстВопросаExtendedTooltip</name>
+          <name>ТекстВопросаРасширеннаяПодсказка</name>
           <id>36</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -230,7 +230,7 @@
         <value>Текст</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаТекстExtendedTooltip</name>
+        <name>ГруппаТекстРасширеннаяПодсказка</name>
         <id>30</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -258,7 +258,7 @@
       <value>Предупреждение</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПредупреждениеExtendedTooltip</name>
+      <name>ГруппаПредупреждениеРасширеннаяПодсказка</name>
       <id>28</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -289,7 +289,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗавершитьРаботуExtendedTooltip</name>
+        <name>ФормаЗавершитьРаботуРасширеннаяПодсказка</name>
         <id>26</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -315,7 +315,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаНетExtendedTooltip</name>
+        <name>ФормаНетРасширеннаяПодсказка</name>
         <id>27</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

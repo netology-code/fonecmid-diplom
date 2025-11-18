@@ -118,7 +118,7 @@
           </userVisible>
           <skipOnInput>false</skipOnInput>
           <extendedTooltip>
-            <name>ВыбратьExtendedTooltip</name>
+            <name>ВыбратьРасширеннаяПодсказка</name>
             <id>28</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -208,7 +208,7 @@
                 <segments>СписокДоменов.ИмяДомена</segments>
               </dataPath>
               <extendedTooltip>
-                <name>ДоменыExtendedTooltip</name>
+                <name>ДоменыРасширеннаяПодсказка</name>
                 <id>34</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -299,10 +299,10 @@
               <name>ТаблицаДоменовПриАктивизацииСтроки</name>
             </handlers>
             <searchStringAddition>
-              <name>ТаблицаДоменовSearchString</name>
+              <name>ТаблицаДоменовСтрокаПоиска</name>
               <id>53</id>
               <extendedTooltip>
-                <name>ТаблицаДоменовSearchStringExtendedTooltip</name>
+                <name>ТаблицаДоменовSearchStringРасширеннаяПодсказка</name>
                 <id>55</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -312,7 +312,7 @@
                 </extInfo>
               </extendedTooltip>
               <contextMenu>
-                <name>ТаблицаДоменовSearchStringContextMenu</name>
+                <name>ТаблицаДоменовSearchStringКонтекстноеМеню</name>
                 <id>54</id>
                 <autoFill>true</autoFill>
               </contextMenu>
@@ -322,10 +322,10 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <name>ТаблицаДоменовViewStatus</name>
+              <name>ТаблицаДоменовСостояниеПросмотра</name>
               <id>56</id>
               <extendedTooltip>
-                <name>ТаблицаДоменовViewStatusExtendedTooltip</name>
+                <name>ТаблицаДоменовСостояниеПросмотраРасширеннаяПодсказка</name>
                 <id>58</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -335,7 +335,7 @@
                 </extInfo>
               </extendedTooltip>
               <contextMenu>
-                <name>ТаблицаДоменовViewStatusContextMenu</name>
+                <name>ТаблицаДоменовViewStatusКонтекстноеМеню</name>
                 <id>57</id>
                 <autoFill>true</autoFill>
               </contextMenu>
@@ -346,10 +346,10 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <name>ТаблицаДоменовSearchControl</name>
+              <name>ТаблицаДоменовУправлениеПоиском</name>
               <id>59</id>
               <extendedTooltip>
-                <name>ТаблицаДоменовSearchControlExtendedTooltip</name>
+                <name>ТаблицаДоменовSearchControlРасширеннаяПодсказка</name>
                 <id>61</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -359,7 +359,7 @@
                 </extInfo>
               </extendedTooltip>
               <contextMenu>
-                <name>ТаблицаДоменовSearchControlContextMenu</name>
+                <name>ТаблицаДоменовУправлениеПоискомКонтекстноеМеню</name>
                 <id>60</id>
                 <autoFill>true</autoFill>
               </contextMenu>
@@ -370,7 +370,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>ТаблицаДоменовExtendedTooltip</name>
+              <name>ТаблицаДоменовРасширеннаяПодсказка</name>
               <id>33</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -391,7 +391,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ТаблицаДоменовКонтекстноеМенюНайтиExtendedTooltip</name>
+                  <name>ТаблицаДоменовКонтекстноеМенюНайтиРасширеннаяПодсказка</name>
                   <id>30</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -416,7 +416,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ТаблицаДоменовКонтекстноеМенюОтменитьПоискExtendedTooltip</name>
+                  <name>ТаблицаДоменовКонтекстноеМенюОтменитьПоискРасширеннаяПодсказка</name>
                   <id>31</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -441,7 +441,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ТаблицаДоменовКонтекстноеМенюВывестиСписокExtendedTooltip</name>
+                  <name>ТаблицаДоменовКонтекстноеМенюВывестиСписокРасширеннаяПодсказка</name>
                   <id>32</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -547,7 +547,7 @@
                 <segments>СписокПользователейТекущегоДомена.ИмяПользователя</segments>
               </dataPath>
               <extendedTooltip>
-                <name>ПользователиExtendedTooltip</name>
+                <name>ПользователиРасширеннаяПодсказка</name>
                 <id>40</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -638,10 +638,10 @@
               <name>ТаблицаПользователейДоменаВыбор</name>
             </handlers>
             <searchStringAddition>
-              <name>ТаблицаПользователейДоменаSearchString</name>
+              <name>ТаблицаПользователейДоменаСтрокаПоиска</name>
               <id>62</id>
               <extendedTooltip>
-                <name>ТаблицаПользователейДоменаSearchStringExtendedTooltip</name>
+                <name>ТаблицаПользователейДоменаSearchStringРасширеннаяПодсказка</name>
                 <id>64</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -651,7 +651,7 @@
                 </extInfo>
               </extendedTooltip>
               <contextMenu>
-                <name>ТаблицаПользователейДоменаSearchStringContextMenu</name>
+                <name>ТаблицаПользователейДоменаSearchStringКонтекстноеМеню</name>
                 <id>63</id>
                 <autoFill>true</autoFill>
               </contextMenu>
@@ -661,10 +661,10 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <name>ТаблицаПользователейДоменаViewStatus</name>
+              <name>ТаблицаПользователейДоменаСостояниеПросмотра</name>
               <id>65</id>
               <extendedTooltip>
-                <name>ТаблицаПользователейДоменаViewStatusExtendedTooltip</name>
+                <name>ТаблицаПользователейДоменаСостояниеПросмотраРасширеннаяПодсказка</name>
                 <id>67</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -674,7 +674,7 @@
                 </extInfo>
               </extendedTooltip>
               <contextMenu>
-                <name>ТаблицаПользователейДоменаViewStatusContextMenu</name>
+                <name>ТаблицаПользователейДоменаСостояниеПросмотраКонтекстноеМеню</name>
                 <id>66</id>
                 <autoFill>true</autoFill>
               </contextMenu>
@@ -685,10 +685,10 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <name>ТаблицаПользователейДоменаSearchControl</name>
+              <name>ТаблицаПользователейДоменаУправлениеПоиском</name>
               <id>68</id>
               <extendedTooltip>
-                <name>ТаблицаПользователейДоменаSearchControlExtendedTooltip</name>
+                <name>ТаблицаПользователейДоменаSearchControlРасширеннаяПодсказка</name>
                 <id>70</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -698,7 +698,7 @@
                 </extInfo>
               </extendedTooltip>
               <contextMenu>
-                <name>ТаблицаПользователейДоменаSearchControlContextMenu</name>
+                <name>ТаблицаПользователейДоменаУправлениеПоискомКонтекстноеМеню</name>
                 <id>69</id>
                 <autoFill>true</autoFill>
               </contextMenu>
@@ -709,7 +709,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>ТаблицаПользователейДоменаExtendedTooltip</name>
+              <name>ТаблицаПользователейДоменаРасширеннаяПодсказка</name>
               <id>39</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -730,7 +730,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ТаблицаПользователейДоменаКонтекстноеМенюВыбратьExtendedTooltip</name>
+                  <name>ТаблицаПользователейДоменаКонтекстноеМенюВыбратьРасширеннаяПодсказка</name>
                   <id>35</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -755,7 +755,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ТаблицаПользователейДоменаКонтекстноеМенюНайтиExtendedTooltip</name>
+                  <name>ТаблицаПользователейДоменаКонтекстноеМенюНайтиРасширеннаяПодсказка</name>
                   <id>36</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -780,7 +780,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ТаблицаПользователейДоменаКонтекстноеМенюОтменитьПоискExtendedTooltip</name>
+                  <name>ТаблицаПользователейДоменаКонтекстноеМенюОтменитьПоискРасширеннаяПодсказка</name>
                   <id>37</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -805,7 +805,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ТаблицаПользователейДоменаКонтекстноеМенюВывестиСписокExtendedTooltip</name>
+                  <name>ТаблицаПользователейДоменаКонтекстноеМенюВывестиСписокРасширеннаяПодсказка</name>
                   <id>38</id>
                   <type>Label</type>
                   <autoMaxWidth>true</autoMaxWidth>
@@ -884,7 +884,7 @@
           <value>Домены и пользователи</value>
         </title>
         <extendedTooltip>
-          <name>ДоменыИПользователиExtendedTooltip</name>
+          <name>ДоменыИПользователиРасширеннаяПодсказка</name>
           <id>29</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

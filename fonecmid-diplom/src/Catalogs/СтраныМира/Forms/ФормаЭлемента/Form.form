@@ -15,7 +15,7 @@
         <segments>Объект.Description</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>14</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -25,7 +25,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>Наименование_КонтекстноеМеню</name>
+        <name>НаименованиеКонтекстноеМеню</name>
         <id>4</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -54,7 +54,7 @@
         <segments>Объект.Code</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КодExtendedTooltip</name>
+        <name>КодРасширеннаяПодсказка</name>
         <id>15</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -64,7 +64,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>Код_КонтекстноеМеню</name>
+        <name>КодКонтекстноеМеню</name>
         <id>2</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -124,7 +124,7 @@
       <segments>Объект.НаименованиеПолное</segments>
     </dataPath>
     <extendedTooltip>
-      <name>НаименованиеПолноеExtendedTooltip</name>
+      <name>НаименованиеПолноеРасширеннаяПодсказка</name>
       <id>16</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -134,7 +134,7 @@
       </extInfo>
     </extendedTooltip>
     <contextMenu>
-      <name>НаименованиеПолное_КонтекстноеМеню</name>
+      <name>НаименованиеПолноеКонтекстноеМеню</name>
       <id>6</id>
       <autoFill>true</autoFill>
     </contextMenu>
@@ -206,7 +206,7 @@
         <segments>Объект.КодАльфа2</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КодАльфа2ExtendedTooltip</name>
+        <name>КодАльфа2РасширеннаяПодсказка</name>
         <id>18</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -216,7 +216,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>КодАльфа2_КонтекстноеМеню</name>
+        <name>КодАльфа2КонтекстноеМеню</name>
         <id>8</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -247,7 +247,7 @@
         <segments>Объект.КодАльфа3</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КодАльфа3ExtendedTooltip</name>
+        <name>КодАльфа3РасширеннаяПодсказка</name>
         <id>19</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -257,7 +257,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>КодАльфа3_КонтекстноеМеню</name>
+        <name>КодАльфа3КонтекстноеМеню</name>
         <id>10</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -286,7 +286,7 @@
       <value>Альфа кодов</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаАльфаКодовExtendedTooltip</name>
+      <name>ГруппаАльфаКодовРасширеннаяПодсказка</name>
       <id>17</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -343,7 +343,7 @@
     <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
   </items>
   <autoCommandBar>
-    <name>Форма_КоманднаяПанель</name>
+    <name>ФормаКоманднаяПанель</name>
     <id>-1</id>
     <horizontalAlign>Left</horizontalAlign>
     <autoFill>true</autoFill>

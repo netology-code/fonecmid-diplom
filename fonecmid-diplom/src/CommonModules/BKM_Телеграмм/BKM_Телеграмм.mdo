@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f230fe6e-08f7-44ff-98ec-3a20702f9e4d">
+  <name>BKM_Телеграмм</name>
+  <synonym>
+    <key>ru</key>
+    <value>Телеграмм</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

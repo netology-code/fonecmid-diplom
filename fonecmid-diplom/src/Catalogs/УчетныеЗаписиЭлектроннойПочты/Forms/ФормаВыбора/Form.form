@@ -34,7 +34,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>13</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -206,7 +206,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>12</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -302,7 +302,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВыбратьExtendedTooltip</name>
+        <name>ФормаВыбратьРасширеннаяПодсказка</name>
         <id>9</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -328,7 +328,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаИзменитьExtendedTooltip</name>
+        <name>ФормаИзменитьРасширеннаяПодсказка</name>
         <id>10</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -353,7 +353,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>11</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

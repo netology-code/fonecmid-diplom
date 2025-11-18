@@ -22,7 +22,7 @@
           <name>НаименованиеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>НаименованиеExtendedTooltip</name>
+          <name>НаименованиеРасширеннаяПодсказка</name>
           <id>117</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -113,7 +113,7 @@
             <name>ДоступенПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ДоступенExtendedTooltip</name>
+            <name>ДоступенРасширеннаяПодсказка</name>
             <id>120</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -643,7 +643,7 @@
             <name>ОписаниеПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ОписаниеExtendedTooltip</name>
+            <name>ОписаниеРасширеннаяПодсказка</name>
             <id>136</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -770,7 +770,7 @@
               <value>Новый</value>
             </title>
             <extendedTooltip>
-              <name>НовыйExtendedTooltip</name>
+              <name>НовыйРасширеннаяПодсказка</name>
               <id>127</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -836,7 +836,7 @@
               <value>Перезапись</value>
             </title>
             <extendedTooltip>
-              <name>ПерезаписьExtendedTooltip</name>
+              <name>ПерезаписьРасширеннаяПодсказка</name>
               <id>125</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1170,7 +1170,7 @@
               <name>ДеревоПодсистемИспользованиеПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ДеревоПодсистемИспользованиеExtendedTooltip</name>
+              <name>ДеревоПодсистемИспользованиеРасширеннаяПодсказка</name>
               <id>133</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1204,7 +1204,7 @@
               <segments>ДеревоПодсистем.Представление</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ДеревоПодсистемПредставлениеExtendedTooltip</name>
+              <name>ДеревоПодсистемПредставлениеРасширеннаяПодсказка</name>
               <id>134</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -1244,7 +1244,7 @@
             <value>Колонок</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаКолонокExtendedTooltip</name>
+            <name>ГруппаКолонокРасширеннаяПодсказка</name>
             <id>132</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1275,7 +1275,7 @@
             <name>ДеревоПодсистемВажностьПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ДеревоПодсистемВажностьExtendedTooltip</name>
+            <name>ДеревоПодсистемВажностьРасширеннаяПодсказка</name>
             <id>135</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -1427,7 +1427,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ДеревоПодсистемExtendedTooltip</name>
+          <name>ДеревоПодсистемРасширеннаяПодсказка</name>
           <id>131</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1498,7 +1498,7 @@
       <value>Страницы</value>
     </title>
     <extendedTooltip>
-      <name>СтраницыExtendedTooltip</name>
+      <name>СтраницыРасширеннаяПодсказка</name>
       <id>111</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1526,7 +1526,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НазадExtendedTooltip</name>
+          <name>НазадРасширеннаяПодсказка</name>
           <id>107</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1578,7 +1578,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДалееExtendedTooltip</name>
+          <name>ДалееРасширеннаяПодсказка</name>
           <id>108</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1604,7 +1604,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СохранитьExtendedTooltip</name>
+          <name>СохранитьРасширеннаяПодсказка</name>
           <id>109</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -1630,7 +1630,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ОтменаExtendedTooltip</name>
+          <name>ОтменаРасширеннаяПодсказка</name>
           <id>110</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>

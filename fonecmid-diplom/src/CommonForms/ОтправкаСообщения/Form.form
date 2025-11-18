@@ -343,7 +343,7 @@
           <name>УстановитьПризнакМодифицированностиФормы</name>
         </handlers>
         <extendedTooltip>
-          <name>ТемаПисьмаExtendedTooltip</name>
+          <name>ТемаПисьмаРасширеннаяПодсказка</name>
           <id>53</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -584,7 +584,7 @@
         <name>УстановитьПризнакМодифицированностиФормы</name>
       </handlers>
       <extendedTooltip>
-        <name>ТелоПисьмаExtendedTooltip</name>
+        <name>ТелоПисьмаРасширеннаяПодсказка</name>
         <id>54</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -648,7 +648,7 @@
             <segments>ПредставлениеВложений.Вложение1</segments>
           </dataPath>
           <extendedTooltip>
-            <name>Вложение1ExtendedTooltip</name>
+            <name>Вложение1РасширеннаяПодсказка</name>
             <id>62</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -687,7 +687,7 @@
             <segments>ПредставлениеВложений.Вложение2</segments>
           </dataPath>
           <extendedTooltip>
-            <name>Вложение2ExtendedTooltip</name>
+            <name>Вложение2РасширеннаяПодсказка</name>
             <id>63</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
@@ -727,7 +727,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>ПриложитьФайлExtendedTooltip</name>
+              <name>ПриложитьФайлРасширеннаяПодсказка</name>
               <id>60</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -841,7 +841,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ВложенияExtendedTooltip</name>
+          <name>ВложенияРасширеннаяПодсказка</name>
           <id>61</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -866,7 +866,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>КонтекстноеМенюВложенияПриложитьФайлExtendedTooltip</name>
+                <name>КонтекстноеМенюВложенияПриложитьФайлРасширеннаяПодсказка</name>
                 <id>57</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -892,7 +892,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>КонтекстноеМенюВложенияУдалитьExtendedTooltip</name>
+                <name>КонтекстноеМенюВложенияУдалитьРасширеннаяПодсказка</name>
                 <id>58</id>
                 <type>Label</type>
                 <autoMaxWidth>true</autoMaxWidth>
@@ -918,7 +918,7 @@
               <value>Приложить файл</value>
             </title>
             <extendedTooltip>
-              <name>ГруппаПриложитьФайлExtendedTooltip</name>
+              <name>ГруппаПриложитьФайлРасширеннаяПодсказка</name>
               <id>56</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -939,7 +939,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>КонтекстноеМенюВложенияОткрытьФайлExtendedTooltip</name>
+              <name>КонтекстноеМенюВложенияОткрытьФайлРасширеннаяПодсказка</name>
               <id>59</id>
               <type>Label</type>
               <autoMaxWidth>true</autoMaxWidth>
@@ -984,7 +984,7 @@
         <value>Вложения</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаВложенияExtendedTooltip</name>
+        <name>ГруппаВложенияРасширеннаяПодсказка</name>
         <id>55</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1022,7 +1022,7 @@
         <name>УстановитьПризнакМодифицированностиФормы</name>
       </handlers>
       <extendedTooltip>
-        <name>АдресОтветаExtendedTooltip</name>
+        <name>АдресОтветаРасширеннаяПодсказка</name>
         <id>66</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1071,7 +1071,7 @@
       <value>Основная группа тела письма</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяГруппаТелаПисьмаExtendedTooltip</name>
+      <name>ОсновнаяГруппаТелаПисьмаРасширеннаяПодсказка</name>
       <id>51</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1103,7 +1103,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтправитьПисьмоExtendedTooltip</name>
+        <name>ОтправитьПисьмоРасширеннаяПодсказка</name>
         <id>49</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -1155,7 +1155,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>50</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

@@ -52,7 +52,7 @@
       <segments>Запись.Пользователь</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПользовательExtendedTooltip</name>
+      <name>ПользовательРасширеннаяПодсказка</name>
       <id>37</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -92,7 +92,7 @@
       <segments>Запись.Право</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПравоExtendedTooltip</name>
+      <name>ПравоРасширеннаяПодсказка</name>
       <id>38</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -201,7 +201,7 @@
       <value>Свойства права</value>
     </title>
     <extendedTooltip>
-      <name>СвойстваПраваExtendedTooltip</name>
+      <name>СвойстваПраваРасширеннаяПодсказка</name>
       <id>39</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -274,7 +274,7 @@
         <segments>Запись.Таблица</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ТаблицаExtendedTooltip</name>
+        <name>ТаблицаРасширеннаяПодсказка</name>
         <id>43</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -649,7 +649,7 @@
         <value>Горизонтальная группа</value>
       </title>
       <extendedTooltip>
-        <name>ГоризонтальнаяГруппаExtendedTooltip</name>
+        <name>ГоризонтальнаяГруппаРасширеннаяПодсказка</name>
         <id>44</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -677,7 +677,7 @@
       <value>Вспомогательные данные</value>
     </title>
     <extendedTooltip>
-      <name>ВспомогательныеДанныеExtendedTooltip</name>
+      <name>ВспомогательныеДанныеРасширеннаяПодсказка</name>
       <id>42</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -709,7 +709,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
+        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
         <id>35</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>

@@ -58,7 +58,7 @@
       <value>Быстрые фильтры</value>
     </title>
     <extendedTooltip>
-      <name>БыстрыеОтборыExtendedTooltip</name>
+      <name>БыстрыеОтборыРасширеннаяПодсказка</name>
       <id>31</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -89,7 +89,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьExtendedTooltip</name>
+        <name>ВыбратьРасширеннаяПодсказка</name>
         <id>34</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -115,7 +115,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзменитьExtendedTooltip</name>
+        <name>ИзменитьРасширеннаяПодсказка</name>
         <id>35</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -144,7 +144,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>УдалитьExtendedTooltip</name>
+        <name>УдалитьРасширеннаяПодсказка</name>
         <id>36</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -172,7 +172,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовExtendedTooltip</name>
+        <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовРасширеннаяПодсказка</name>
         <id>37</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -198,7 +198,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОбновитьExtendedTooltip</name>
+        <name>ФормаОбновитьРасширеннаяПодсказка</name>
         <id>38</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -255,7 +255,7 @@
         <value>Командная панель дерева</value>
       </title>
       <extendedTooltip>
-        <name>КоманднаяПанельДереваExtendedTooltip</name>
+        <name>КоманднаяПанельДереваРасширеннаяПодсказка</name>
         <id>39</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -278,7 +278,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
+      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
       <id>33</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -330,7 +330,7 @@
         <segments>ДеревоВариантовОтчета.Наименование</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаПредставлениеExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаПредставлениеРасширеннаяПодсказка</name>
         <id>43</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -374,7 +374,7 @@
         <value>Доступен всем пользователям</value>
       </toolTip>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаКартинкаАвтораExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаКартинкаАвтораРасширеннаяПодсказка</name>
         <id>44</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -421,7 +421,7 @@
         <segments>ДеревоВариантовОтчета.Автор</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаАвторExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаАвторРасширеннаяПодсказка</name>
         <id>45</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -527,10 +527,10 @@
       <name>ДеревоВариантовОтчетаПередНачаломИзменения</name>
     </handlers>
     <searchStringAddition>
-      <name>ДеревоВариантовОтчетаSearchString</name>
+      <name>ДеревоВариантовОтчетаСтрокаПоиска</name>
       <id>47</id>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаSearchStringExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаSearchStringРасширеннаяПодсказка</name>
         <id>49</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -540,7 +540,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДеревоВариантовОтчетаSearchStringContextMenu</name>
+        <name>ДеревоВариантовОтчетаSearchStringКонтекстноеМеню</name>
         <id>48</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -550,10 +550,10 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <name>ДеревоВариантовОтчетаViewStatus</name>
+      <name>ДеревоВариантовОтчетаСостояниеПросмотра</name>
       <id>50</id>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаViewStatusExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаViewStatusРасширеннаяПодсказка</name>
         <id>52</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -563,7 +563,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДеревоВариантовОтчетаViewStatusContextMenu</name>
+        <name>ДеревоВариантовОтчетаViewStatusКонтекстноеМеню</name>
         <id>51</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -574,10 +574,10 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <name>ДеревоВариантовОтчетаSearchControl</name>
+      <name>ДеревоВариантовОтчетаУправлениеПоиском</name>
       <id>53</id>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаSearchControlExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаУправлениеПоискомРасширеннаяПодсказка</name>
         <id>55</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -587,7 +587,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДеревоВариантовОтчетаSearchControlContextMenu</name>
+        <name>ДеревоВариантовОтчетаSearchControlКонтекстноеМеню</name>
         <id>54</id>
         <autoFill>true</autoFill>
       </contextMenu>
@@ -598,7 +598,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ДеревоВариантовОтчетаExtendedTooltip</name>
+      <name>ДеревоВариантовОтчетаРасширеннаяПодсказка</name>
       <id>42</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -623,7 +623,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>УдалитьКМExtendedTooltip</name>
+          <name>УдалитьКМРасширеннаяПодсказка</name>
           <id>40</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -651,7 +651,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовКМExtendedTooltip</name>
+          <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовКМРасширеннаяПодсказка</name>
           <id>41</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -712,7 +712,7 @@
     </dataPath>
     <titleLocation>Left</titleLocation>
     <extendedTooltip>
-      <name>ВариантОписаниеExtendedTooltip</name>
+      <name>ВариантОписаниеРасширеннаяПодсказка</name>
       <id>46</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>

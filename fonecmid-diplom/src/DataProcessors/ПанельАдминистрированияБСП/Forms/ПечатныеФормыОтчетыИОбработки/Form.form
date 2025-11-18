@@ -49,7 +49,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>1604</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -75,7 +75,7 @@
         <value>Справка</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСправкаExtendedTooltip</name>
+        <name>ГруппаСправкаРасширеннаяПодсказка</name>
         <id>1603</id>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
@@ -99,7 +99,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокExtendedTooltip</name>
+      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
       <id>1600</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -135,7 +135,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОткрытьМакетыПечатныхФормExtendedTooltip</name>
+            <name>ОткрытьМакетыПечатныхФормРасширеннаяПодсказка</name>
             <id>1606</id>
             <title>
               <key>ru</key>
@@ -447,7 +447,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОткрытьВариантыОтчетовExtendedTooltip</name>
+              <name>ОткрытьВариантыОтчетовРасширеннаяПодсказка</name>
               <id>1610</id>
               <title>
                 <key>ru</key>
@@ -704,7 +704,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОткрытьРассылкиОтчетовExtendedTooltip</name>
+            <name>ОткрытьРассылкиОтчетовРасширеннаяПодсказка</name>
             <id>1613</id>
             <title>
               <key>ru</key>
@@ -1124,7 +1124,7 @@
             <name>ИспользоватьДополнительныеОтчетыИОбработкиПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьДополнительныеОтчетыИОбработкиExtendedTooltip</name>
+            <name>ИспользоватьДополнительныеОтчетыИОбработкиРасширеннаяПодсказка</name>
             <id>1617</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
