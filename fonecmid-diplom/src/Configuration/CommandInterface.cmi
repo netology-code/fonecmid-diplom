@@ -3,6 +3,7 @@
   <subsystemsOrder>
     <subsystems>Subsystem.ПокупкиИПродажи</subsystems>
     <subsystems>Subsystem.Деньги</subsystems>
+    <subsystems>Subsystem.ВКМ_ОбслуживаниеКлиентов</subsystems>
     <subsystems>Subsystem.Администрирование</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>

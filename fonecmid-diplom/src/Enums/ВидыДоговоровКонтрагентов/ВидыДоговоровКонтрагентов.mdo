@@ -26,4 +26,11 @@
       <value>Покупатель</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="406c77d2-828d-4f1f-8e50-6c1acd2e266c">
+    <name>ВКМ_АбоненскаяПлата</name>
+    <synonym>
+      <key>ru</key>
+      <value>Абоненская плата</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>

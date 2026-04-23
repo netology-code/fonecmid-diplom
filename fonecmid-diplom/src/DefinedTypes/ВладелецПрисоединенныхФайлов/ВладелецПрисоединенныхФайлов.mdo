@@ -11,6 +11,7 @@
   <type>
     <types>CatalogRef.Контрагенты</types>
     <types>CatalogRef.ПапкиФайлов</types>
+    <types>DocumentRef.ВКМ_ОбслуживаниеКлиента</types>
     <types>DocumentRef.ЗаказПокупателя</types>
     <types>CatalogRef.Организации</types>
     <types>DocumentRef.ПоступлениеТоваровУслуг</types>

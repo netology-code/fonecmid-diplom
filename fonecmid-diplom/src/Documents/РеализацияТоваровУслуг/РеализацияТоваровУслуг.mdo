@@ -130,8 +130,13 @@
     </choiceParameterLinks>
     <choiceParameters>
       <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:ReferenceValue">
-        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
+      <value xsi:type="core:FixedArrayValue">
+        <values xsi:type="core:ReferenceValue">
+          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
+        </values>
+        <values xsi:type="core:ReferenceValue">
+          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.ВКМ_АбоненскаяПлата</value>
+        </values>
       </value>
     </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>
@@ -166,6 +171,7 @@
       <value>Основание</value>
     </synonym>
     <type>
+      <types>DocumentRef.ВКМ_ОбслуживаниеКлиента</types>
       <types>DocumentRef.ЗаказПокупателя</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
@@ -410,4 +416,11 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <templates uuid="f13342a1-b0c5-46d8-a9b6-0ac4bbfab32f">
+    <name>ВКМ_АктОбОказанииУслуг</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт об оказании услуг</value>
+    </synonym>
+  </templates>
 </mdclass:Document>
