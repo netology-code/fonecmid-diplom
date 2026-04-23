@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9b96569d-b530-4325-b6bf-3bc4cde4473c">
+  <name>ВКМ_Кадровик</name>
+  <synonym>
+    <key>ru</key>
+    <value>Кадровик</value>
+  </synonym>
+</mdclass:Role>

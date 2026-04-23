@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fff079ca-8d89-435e-87a5-05b80422e983">
+  <producedTypes>
+    <selectionType typeId="e815369b-2e40-42cc-a9b2-ac28513cd36f" valueTypeId="2506f204-aadd-45f9-ab09-77b9da7fff85"/>
+    <listType typeId="762550c7-7d2c-4f57-a249-395cfa39faa5" valueTypeId="cd47dc4c-e65a-47d1-9197-8c982e80f3c5"/>
+    <managerType typeId="6f7513d5-272f-4467-af4d-7b7ef49c24ae" valueTypeId="4186679e-d146-4c3b-9ec6-dbefc015a152"/>
+    <recordSetType typeId="05932fad-6c98-492e-9001-2a36d2e9d4b0" valueTypeId="ed5b8a04-8ab3-45d8-b267-b9c826e7f409"/>
+    <recordKeyType typeId="86fffe2a-8451-4a94-87e9-7d32f619dec3" valueTypeId="2f90182c-8143-47ec-89ed-a7d813d71b1b"/>
+    <recordType typeId="939993d4-0c8f-47cf-925a-95da45ba23a7" valueTypeId="22a3f7dd-789c-479e-bc26-099ecfd2cde1"/>
+  </producedTypes>
+  <name>ВКМ_ВзаиморасчетыССотрудниками</name>
+  <synonym>
+    <key>ru</key>
+    <value>Взаиморасчеты с сотрудниками</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <resources uuid="8630d666-5f87-4c8a-abec-12014bf4cc58">
+    <name>Сумма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>12</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <attributes uuid="b9ef070d-1df2-4173-9b79-69fea86a7888">
+    <name>СуммаДоВычетаНДФЛ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма до вычета НДФЛ</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <attributes uuid="45d824a1-993e-4728-8b76-8a70e0150449">
+    <name>НДФЛ</name>
+    <synonym>
+      <key>ru</key>
+      <value>НДФЛ 13%</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <format>
+      <key>ru</key>
+      <value>ЧО=2</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>ЧО=2</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <dimensions uuid="0aacdd37-aa22-42c1-98e8-a2e9c7f8cd63">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Пользователи</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+</mdclass:AccumulationRegister>
