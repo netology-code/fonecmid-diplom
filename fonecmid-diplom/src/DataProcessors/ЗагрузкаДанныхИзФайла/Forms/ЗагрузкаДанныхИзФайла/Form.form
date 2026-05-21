@@ -1432,6 +1432,7 @@
           <name>УстранитьНеоднозначность</name>
           <id>459</id>
           <visible>true</visible>
+          <enabled>false</enabled>
           <userVisible>
             <common>true</common>
           </userVisible>

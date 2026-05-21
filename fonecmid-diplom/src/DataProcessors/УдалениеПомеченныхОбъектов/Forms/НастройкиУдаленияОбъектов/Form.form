@@ -571,6 +571,7 @@
           <value>Настроить расписание</value>
         </title>
         <visible>true</visible>
+        <enabled>false</enabled>
         <userVisible>
           <common>true</common>
         </userVisible>
@@ -772,6 +773,7 @@
         <name>УдаляемыеОбъекты</name>
         <id>81</id>
         <visible>true</visible>
+        <enabled>false</enabled>
         <userVisible>
           <common>true</common>
         </userVisible>

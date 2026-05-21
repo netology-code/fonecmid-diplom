@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f9619874-34fb-40d9-9da4-84ea5f874d20">
+  <producedTypes>
+    <refType typeId="71607ffa-f83c-4cd5-be79-3261d6c929ef" valueTypeId="b47d7c27-5778-4667-8888-5be10ea6023e"/>
+    <listType typeId="3323762d-98e3-4937-b5e8-6fb8bbed63e3" valueTypeId="b326112a-647e-4666-a157-c0aa457e412b"/>
+    <managerType typeId="11308a06-c9c3-4d32-a503-3904ece1d30f" valueTypeId="2c07eaa1-ed59-4d55-87cb-b40248d40c79"/>
+  </producedTypes>
+  <name>ВКМ_Должности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Должности</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="2c4c5660-ce8b-4c58-af54-5355d2047493">
+    <name>Специалист</name>
+    <synonym>
+      <key>ru</key>
+      <value>Специалист</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="1570dcb7-4066-4613-91ec-e3d9ce99dbb6">
+    <name>Менеджер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Менеджер</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="bb408498-dcb7-41f4-a379-2dc5c231289f">
+    <name>Бухгалтер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Бухгалтер</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="66db40c7-7c07-4d93-b388-351b61bc9695">
+    <name>ГлавныйБухгалтер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Главный бухгалтер</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="0eefb78a-df64-4c4d-9497-99d9341d23b7">
+    <name>Кадровик</name>
+    <synonym>
+      <key>ru</key>
+      <value>Кадровик</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

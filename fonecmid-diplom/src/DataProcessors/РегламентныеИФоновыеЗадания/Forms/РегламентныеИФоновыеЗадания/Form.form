@@ -1905,6 +1905,7 @@
             <name>РегламентноеЗаданиеДляОтбора</name>
             <id>56</id>
             <visible>true</visible>
+            <enabled>false</enabled>
             <userVisible>
               <common>true</common>
             </userVisible>

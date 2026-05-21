@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4fcd452c-9e48-4b56-a367-966cd3045087">
+  <name>ВКМ_ОткрытиеКалендаря</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ открытие календаря</value>
+  </synonym>
+</mdclass:Role>
