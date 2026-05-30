@@ -6,5 +6,6 @@
     <value>Все файлы</value>
   </synonym>
   <group>NavigationPanelOrdinary</group>
+  <commandParameterType/>
   <representation>Auto</representation>
 </mdclass:CommonCommand>

@@ -191,7 +191,6 @@
       <name>КлассификаторУчастникЕАЭС</name>
       <id>84</id>
       <visible>true</visible>
-      <enabled>false</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>

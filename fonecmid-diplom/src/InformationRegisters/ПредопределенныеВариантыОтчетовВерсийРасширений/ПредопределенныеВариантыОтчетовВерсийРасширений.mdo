@@ -124,7 +124,9 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <indexing>Index</indexing>
     <dataHistory>Use</dataHistory>
-    <fillValue xsi:type="core:StringValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
     <mainFilter>true</mainFilter>
   </dimensions>
 </mdclass:InformationRegister>

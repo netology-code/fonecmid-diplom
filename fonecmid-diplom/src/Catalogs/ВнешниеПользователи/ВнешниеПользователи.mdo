@@ -236,7 +236,9 @@
     <multiLine>true</multiLine>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:StringValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
@@ -433,6 +435,7 @@
     </synonym>
     <comment>Внешний пользователь объекта авторизации</comment>
     <group>FormCommandBarImportant</group>
+    <commandParameterType/>
     <representation>Picture</representation>
     <toolTip>
       <key>ru</key>

@@ -167,7 +167,6 @@
     </synonym>
     <type>
       <types>DocumentRef.ЗаказПокупателя</types>
-      <types>DocumentRef.ВКМ_ОбслуживаниеКлиента</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
@@ -203,7 +202,9 @@
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:StringValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
@@ -409,11 +410,4 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
-  <templates uuid="28465c6d-4813-4bb4-8175-9eb430ce6b29">
-    <name>ПФ_MXL_АктОказанныхУслуг</name>
-    <synonym>
-      <key>ru</key>
-      <value>Акт оказанных услуг</value>
-    </synonym>
-  </templates>
 </mdclass:Document>

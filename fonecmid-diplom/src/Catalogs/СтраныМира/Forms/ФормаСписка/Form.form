@@ -201,7 +201,6 @@
       <name>УчастникЕАЭС</name>
       <id>57</id>
       <visible>true</visible>
-      <enabled>false</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>

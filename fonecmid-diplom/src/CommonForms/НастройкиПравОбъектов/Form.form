@@ -284,7 +284,6 @@
         <name>ГруппыПравКонтекстноеМенюСнятьУстановкуПрава</name>
         <id>39</id>
         <visible>true</visible>
-        <enabled>false</enabled>
         <userVisible>
           <common>true</common>
         </userVisible>
@@ -309,7 +308,6 @@
         <name>ГруппыПравКонтекстноеМенюУстановитьЗапретПрава</name>
         <id>40</id>
         <visible>true</visible>
-        <enabled>false</enabled>
         <userVisible>
           <common>true</common>
         </userVisible>
@@ -334,7 +332,6 @@
         <name>ГруппыПравКонтекстноеМенюУстановитьРазрешениеПрава</name>
         <id>41</id>
         <visible>true</visible>
-        <enabled>false</enabled>
         <userVisible>
           <common>true</common>
         </userVisible>

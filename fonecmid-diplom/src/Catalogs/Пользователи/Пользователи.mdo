@@ -97,7 +97,9 @@
       <value>Представление пользователя в интерфейсе,
 обычно: Фамилия Имя Отчество</value>
     </toolTip>
-    <fillValue xsi:type="core:StringValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
     <fillChecking>ShowError</fillChecking>
     <fullTextSearch>Use</fullTextSearch>
     <minValue xsi:type="core:UndefinedValue"/>
@@ -273,7 +275,9 @@
     <multiLine>true</multiLine>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:StringValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
@@ -836,6 +840,7 @@
       <value>Пользователи информационной базы</value>
     </synonym>
     <group>FormCommandBarImportant</group>
+    <commandParameterType/>
     <representation>Auto</representation>
     <toolTip>
       <key>ru</key>

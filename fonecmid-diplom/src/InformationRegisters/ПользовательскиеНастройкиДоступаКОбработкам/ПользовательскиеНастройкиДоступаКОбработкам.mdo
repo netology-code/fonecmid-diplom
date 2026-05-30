@@ -110,7 +110,9 @@
     <denyIncompleteValues>true</denyIncompleteValues>
     <indexing>Index</indexing>
     <dataHistory>Use</dataHistory>
-    <fillValue xsi:type="core:StringValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
     <mainFilter>true</mainFilter>
   </dimensions>
   <dimensions uuid="00d1d85b-c258-4f10-9d13-a99375a29fc1">
