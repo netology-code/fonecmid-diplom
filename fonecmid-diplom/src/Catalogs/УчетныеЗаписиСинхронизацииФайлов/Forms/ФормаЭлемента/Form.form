@@ -128,9 +128,7 @@
               <key>ru</key>
               <value>Ввести свой адрес сервиса</value>
             </presentation>
-            <value xsi:type="core:StringValue">
-              <value></value>
-            </value>
+            <value xsi:type="core:StringValue"/>
           </choiceList>
           <autoCorrectionOnTextInput>DontUse</autoCorrectionOnTextInput>
           <inputHint>

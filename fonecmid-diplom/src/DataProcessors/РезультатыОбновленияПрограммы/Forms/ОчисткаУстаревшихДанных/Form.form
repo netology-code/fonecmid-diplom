@@ -343,6 +343,7 @@
         <name>ФормаОчистить</name>
         <id>22</id>
         <visible>true</visible>
+        <enabled>false</enabled>
         <userVisible>
           <common>true</common>
         </userVisible>
