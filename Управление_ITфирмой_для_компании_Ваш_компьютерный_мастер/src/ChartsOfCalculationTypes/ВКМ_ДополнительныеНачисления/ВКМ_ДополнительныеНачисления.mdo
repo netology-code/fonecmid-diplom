@@ -41,6 +41,13 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <predefined>
+    <items id="a3237dc3-bb5f-4b72-be8a-ec53cdb5b308">
+      <name>ПроцентОтВыполненныхРабот</name>
+      <description>Процент от выполненных работ</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
     <items id="b717b550-8f86-4aa0-9617-e117511c7261">
       <name>ФиксированнаяПремия</name>
       <description>Фиксированная премия</description>

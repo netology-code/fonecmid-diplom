@@ -60,13 +60,6 @@
         <value>2</value>
       </code>
     </items>
-    <items id="7c3d58e6-da2d-4957-8f75-48d86235f230">
-      <name>ПроцентОтРабот</name>
-      <description>Процент от работ</description>
-      <code xsi:type="core:StringValue">
-        <value>3</value>
-      </code>
-    </items>
   </predefined>
   <attributes uuid="e7c77774-af77-4049-b317-ef05f84103a2">
     <name>СпособРасчета</name>

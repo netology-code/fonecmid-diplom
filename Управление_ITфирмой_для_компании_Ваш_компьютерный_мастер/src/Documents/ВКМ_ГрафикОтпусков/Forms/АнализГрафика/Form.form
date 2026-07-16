@@ -268,26 +268,10 @@
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>Объект.RegisterRecords</segments>
     </notDefaultUseAlwaysAttributes>
-    <main>true</main>
+    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
+      <segments>Объект.ОтпускаСотрудников</segments>
+    </notDefaultUseAlwaysAttributes>
     <savedData>true</savedData>
-  </attributes>
-  <attributes>
-    <name>АдресДанных</name>
-    <title>
-      <key>ru</key>
-      <value>Адрес данных</value>
-    </title>
-    <id>2</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
   </attributes>
   <attributes>
     <name>Год</name>
@@ -325,6 +309,7 @@
     <edit>
       <common>true</common>
     </edit>
+    <savedData>true</savedData>
     <extInfo xsi:type="form:GanttChartExtInfo"/>
   </attributes>
   <formCommands>
@@ -359,7 +344,4 @@
     <navigationPanel/>
     <commandBar/>
   </commandInterface>
-  <extInfo xsi:type="form:DocumentFormExtInfo">
-    <repostOnWrite>true</repostOnWrite>
-  </extInfo>
 </form:Form>

@@ -36,6 +36,7 @@
   <content>Report.ВКМ_РасчетыССотрудниками</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
   <content>InformationRegister.ВКМ_ГрафикиОтпусков</content>
+  <content>AccumulationRegister.ВКМ_ВыставленныеАкты</content>
   <subsystems>ВКМ_Зарплата</subsystems>
   <subsystems>ВКМ_ОбслуживаниеКлиента</subsystems>
   <subsystems>ВМК_Константы</subsystems>
