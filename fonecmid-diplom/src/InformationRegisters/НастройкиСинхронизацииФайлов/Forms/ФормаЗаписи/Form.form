@@ -703,6 +703,7 @@
             <name>ПравилоНастройкиОтборКонтекстноеМенюДобавитьУсловиеПоДате</name>
             <id>147</id>
             <visible>true</visible>
+            <enabled>false</enabled>
             <userVisible>
               <common>true</common>
             </userVisible>

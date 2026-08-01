@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCalculationTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c1cf62f4-f64b-4aeb-b85a-053313ef7279">
+  <producedTypes>
+    <objectType typeId="bf98b1ac-754c-4909-b217-a74b3b7b0f6b" valueTypeId="760b71e0-ebcf-47be-af43-5d7588b0d264"/>
+    <refType typeId="9dc6b66c-5b58-4c19-a4e8-21068d2cddcb" valueTypeId="3eff33eb-7bd4-4849-81b3-0c08371f24dd"/>
+    <selectionType typeId="52c6591a-214b-4b73-b39f-6060a46e5a58" valueTypeId="df547b84-3632-40e5-8a13-a3cf78120a44"/>
+    <listType typeId="c0981931-1fe4-4b3b-a6c9-365c485ce10f" valueTypeId="d286dd52-0c70-41a0-ac64-4e1867b794b3"/>
+    <managerType typeId="b151bfc1-dd32-46b6-b386-1604e76e9c7b" valueTypeId="8ebf16c2-008b-490b-8fc9-18473a18029c"/>
+    <displacingCalculationTypesType typeId="1a3ec93d-5318-4f70-88ff-20d53c39f20d" valueTypeId="b20b5a98-b514-46d3-9bc9-bf4ddb896650"/>
+    <displacingCalculationTypesRowType typeId="a51a25e8-3f5e-4257-b378-731dada2931f" valueTypeId="f0b34d65-5dd2-4c42-a814-2548698cf08c"/>
+    <baseCalculationTypesType typeId="4bd8deae-8644-4fb4-bf9e-87ac6908fe8c" valueTypeId="f4e49d25-b113-46b6-bae7-01ad9ef06b4f"/>
+    <baseCalculationTypesRowType typeId="ddb0bea4-139e-48e6-97fb-0f572ce6d756" valueTypeId="dd542aa8-cdc2-4541-85d8-7ae83182c426"/>
+    <leadingCalculationTypesType typeId="4d597e20-481a-4532-8a70-27d7f4ccbd7e" valueTypeId="73ad4435-901d-4229-a942-467463f808c1"/>
+    <leadingCalculationTypesRowType typeId="4d8dc8cf-392f-431f-912b-8e23a593df29" valueTypeId="c63360fa-454a-4d96-ab36-9bc6d96b99a1"/>
+  </producedTypes>
+  <name>ВКМ_ОсновныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Основные начисления</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.StandardAttribute.Description</inputByString>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Основное начисление</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Основные начисления</value>
+  </listPresentation>
+  <codeLength>9</codeLength>
+  <descriptionLength>40</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <dependenceOnCalculationTypes>OnActionPeriod</dependenceOnCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</baseCalculationTypes>
+  <actionPeriodUse>true</actionPeriodUse>
+  <predefined>
+    <items id="c554040f-dc00-4ab4-93e3-6d52c35ce166">
+      <name>Оклад</name>
+      <description>Оклад</description>
+      <code xsi:type="core:StringValue">
+        <value>1</value>
+      </code>
+      <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпускные</displaced>
+    </items>
+    <items id="6860169c-aa00-4754-bebb-799f7ca7f676">
+      <name>Отпускные</name>
+      <description>Отпускные</description>
+      <code xsi:type="core:StringValue">
+        <value>2</value>
+      </code>
+    </items>
+  </predefined>
+  <attributes uuid="e7c77774-af77-4049-b317-ef05f84103a2">
+    <name>СпособРасчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Способ расчета</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ВКМ_СпособРасчета</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:ChartOfCalculationTypes>

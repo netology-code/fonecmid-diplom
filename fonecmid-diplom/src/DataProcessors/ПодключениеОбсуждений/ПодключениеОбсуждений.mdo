@@ -59,7 +59,6 @@
       <value>Отключение обсуждений</value>
     </synonym>
     <group>ActionsPanelTools</group>
-    <commandParameterType/>
     <representation>Auto</representation>
   </commands>
   <commands uuid="25741b39-1c6b-4851-8584-9711d25ef05a">
@@ -69,7 +68,6 @@
       <value>Настройки сообщений из других программ</value>
     </synonym>
     <group>ActionsPanelTools</group>
-    <commandParameterType/>
     <representation>Auto</representation>
   </commands>
 </mdclass:DataProcessor>

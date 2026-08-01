@@ -1499,6 +1499,7 @@
             <name>ЗаглушкаАлгоритмы</name>
             <id>339</id>
             <visible>true</visible>
+            <enabled>false</enabled>
             <userVisible>
               <common>true</common>
             </userVisible>
@@ -1549,6 +1550,7 @@
             <name>Заглушка</name>
             <id>201</id>
             <visible>true</visible>
+            <enabled>false</enabled>
             <userVisible>
               <common>true</common>
             </userVisible>

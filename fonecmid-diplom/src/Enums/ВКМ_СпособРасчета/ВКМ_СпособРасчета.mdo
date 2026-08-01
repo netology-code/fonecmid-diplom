@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9637172e-82e7-4cf0-aa2f-808e5e3b4bc6">
+  <producedTypes>
+    <refType typeId="5934e565-acfe-42fa-825e-15d153a5d92d" valueTypeId="93f4ca4c-5c84-4a92-852b-2d254e30f168"/>
+    <listType typeId="3828eae6-3222-4d69-aa2f-e7b508905cf7" valueTypeId="9104ab39-e3e9-4966-aba5-7a8e7cc819cb"/>
+    <managerType typeId="dfbdf7e4-25b2-44e0-bd6d-ddeafafade22" valueTypeId="506bdad5-d026-42c6-bf12-339453a9dc0d"/>
+  </producedTypes>
+  <name>ВКМ_СпособРасчета</name>
+  <synonym>
+    <key>ru</key>
+    <value>Способ расчета</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="82e08bef-93c6-42f2-b6ab-f1411c6b8009">
+    <name>Оклад</name>
+    <synonym>
+      <key>ru</key>
+      <value>Оклад</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
