@@ -287,10 +287,6 @@
         <autoMaxHeight>true</autoMaxHeight>
         <wrap>true</wrap>
         <extendedEditMultipleValues>true</extendedEditMultipleValues>
-        <editFormat>
-          <key>ru</key>
-          <value>ДФ=dd.MM</value>
-        </editFormat>
         <chooseType>true</chooseType>
         <typeDomainEnabled>true</typeDomainEnabled>
         <textEdit>true</textEdit>
@@ -338,7 +334,7 @@
         <extendedEditMultipleValues>true</extendedEditMultipleValues>
         <editFormat>
           <key>ru</key>
-          <value>ДФ=dd.MM</value>
+          <value></value>
         </editFormat>
         <chooseType>true</chooseType>
         <typeDomainEnabled>true</typeDomainEnabled>

@@ -126,49 +126,4 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
-  <tabularSections uuid="1296cb33-3271-4994-b3d1-202e4a69ad6f">
-    <producedTypes>
-      <objectType typeId="9155973c-34c3-40c2-97c2-b3bc10d50514" valueTypeId="855a1452-8c85-4b59-9ff4-d40acd0af1c2"/>
-      <rowType typeId="9df1d626-1402-406b-9af7-05184bb67793" valueTypeId="4b142de4-ebc8-45b0-9104-f4ddf9fb630d"/>
-    </producedTypes>
-    <name>ДополнительныеНачисления</name>
-    <synonym>
-      <key>ru</key>
-      <value>Дополнительные начисления</value>
-    </synonym>
-    <attributes uuid="df5399a3-8b6f-45d9-acf6-07c5f8eedc58">
-      <name>Сотрудник</name>
-      <synonym>
-        <key>ru</key>
-        <value>Сотрудник</value>
-      </synonym>
-      <type>
-        <types>DefinedType.ФизическоеЛицо</types>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
-    <attributes uuid="b0df4687-f748-4890-be24-cf90b458f1c7">
-      <name>ВидРасчета</name>
-      <synonym>
-        <key>ru</key>
-        <value>Вид расчета</value>
-      </synonym>
-      <type>
-        <types>ChartOfCalculationTypesRef.ВКМ_ДополнительныеНачисления</types>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <choiceParameters>
-        <name>Отбор.Ссылка</name>
-        <value xsi:type="core:ReferenceValue">
-          <value>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.ПроцентЗаВыполненныеРаботы</value>
-        </value>
-      </choiceParameters>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
-  </tabularSections>
 </mdclass:Document>
