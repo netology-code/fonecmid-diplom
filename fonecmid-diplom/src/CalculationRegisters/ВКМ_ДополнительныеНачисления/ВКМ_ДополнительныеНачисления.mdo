@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CalculationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f6d6a9bd-e8e6-48b6-8757-713edf99d418">
+  <producedTypes>
+    <selectionType typeId="3612058c-9861-4022-b143-073fb62ac7a9" valueTypeId="37e8b539-11ee-4698-823b-079d8e26faf6"/>
+    <listType typeId="c6ae63fa-cebc-4d9b-9394-14683cb6fb3d" valueTypeId="63d8096e-6c34-499f-ae36-a6debd3e72ed"/>
+    <managerType typeId="2c9061f7-b947-4a25-9fa8-160f863979a6" valueTypeId="cafa3100-d1f5-4200-8d95-b51b959f3aa1"/>
+    <recordSetType typeId="32a26902-230e-4636-9352-516d0e4720ea" valueTypeId="5c512228-9b8a-4c2e-b247-e992227c9647"/>
+    <recordKeyType typeId="d4ea0b61-e1f9-4bc1-8de8-3ced4f5b00a9" valueTypeId="29aeb850-fa34-4d7d-a9ec-56f41b669201"/>
+    <recordType typeId="cf9a980e-63b2-4e7e-b1c1-7a6d1cd8506a" valueTypeId="632374e7-8df0-49aa-ae86-2ae6f3f2b3fa"/>
+    <recalcsType typeId="ca654252-1823-46f9-8c8e-a90711318a5f" valueTypeId="bd06b918-c2f6-4060-adbc-371987efa86f"/>
+  </producedTypes>
+  <name>ВКМ_ДополнительныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дополнительные начисления</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <periodicity>Month</periodicity>
+  <basePeriod>true</basePeriod>
+  <chartOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</chartOfCalculationTypes>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="52463a65-a5a3-42b5-8455-e8b332d0ebfc">
+    <name>Результат</name>
+    <synonym>
+      <key>ru</key>
+      <value>Результат</value>
+    </synonym>
+    <type>
+      <types>DefinedType.ВКМ_Сумма</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <attributes uuid="03de5976-d8d6-4c99-b314-ec8275d39f19">
+    <name>Показатель</name>
+    <synonym>
+      <key>ru</key>
+      <value>Показатель</value>
+    </synonym>
+    <type>
+      <types>DefinedType.ВКМ_Сумма</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <dimensions uuid="232dd5f0-9ffd-414c-8eb5-88d6aa59a7e9">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>DefinedType.ФизическоеЛицо</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </dimensions>
+</mdclass:CalculationRegister>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1895c386-848d-46e7-8386-fe1f8dab5b0f">
+  <producedTypes>
+    <selectionType typeId="ffca7b04-f3e4-4ef9-8a5d-7bcd250b4e12" valueTypeId="4b73ebeb-8c76-44a2-a3f3-4867c0b3f2df"/>
+    <listType typeId="d7d3a385-ba27-4e3d-b187-74cc35ae761f" valueTypeId="22cce711-8af6-47e1-814f-9cf2d200b3e2"/>
+    <managerType typeId="7ec47c09-6f9b-43ad-8aff-761d9c24f33c" valueTypeId="9001bcc5-70cf-4774-add0-7f42d8106b7d"/>
+    <recordSetType typeId="214d2821-75b5-4927-b767-c5fd9581effe" valueTypeId="92bf4a28-fe17-47dd-a9a5-917ea1eaf6ab"/>
+    <recordKeyType typeId="343028fa-2d7f-4ce4-b571-c43886bc503f" valueTypeId="3f77133e-859e-4224-ad28-6f0c277f73e5"/>
+    <recordType typeId="796357ae-b74b-4199-985c-a5c4a6330c4d" valueTypeId="626cabde-3b04-449d-97df-4d79f7794405"/>
+  </producedTypes>
+  <name>ВКМ_ВзаиморасчетыССотрудниками</name>
+  <synonym>
+    <key>ru</key>
+    <value>Взаиморасчеты с сотрудниками</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <resources uuid="617f1b25-b1a4-4e3d-a026-13fc9be80636">
+    <name>Сумма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма</value>
+    </synonym>
+    <type>
+      <types>DefinedType.ВКМ_Сумма</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <dimensions uuid="580e8af0-6b3f-4ede-8766-09e03ced620b">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВКМ_ФизическиеЛица</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+</mdclass:AccumulationRegister>

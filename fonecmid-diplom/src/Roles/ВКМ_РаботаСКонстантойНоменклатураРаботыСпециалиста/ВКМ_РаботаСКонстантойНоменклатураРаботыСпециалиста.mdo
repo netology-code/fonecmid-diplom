@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b4802559-2eb5-48ef-9769-46f3b62d3a11">
+  <name>ВКМ_РаботаСКонстантойНоменклатураРаботыСпециалиста</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с константой &quot;Номенклатура работы специалиста&quot;</value>
+  </synonym>
+</mdclass:Role>

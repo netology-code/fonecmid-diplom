@@ -72,6 +72,7 @@
   <defaultListForm>Document.РеализацияТоваровУслуг.Form.ФормаСписка</defaultListForm>
   <registerRecords>AccumulationRegister.ОстаткиТоваров</registerRecords>
   <registerRecords>AccumulationRegister.ОбработкаЗаказов</registerRecords>
+  <registerRecords>AccumulationRegister.ВКМ_ОказанныеКлиентамУслуги</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="c7ac2c20-577c-4b41-9689-ee5f9e0b5bea">
@@ -130,8 +131,13 @@
     </choiceParameterLinks>
     <choiceParameters>
       <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:ReferenceValue">
-        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
+      <value xsi:type="core:FixedArrayValue">
+        <values xsi:type="core:ReferenceValue">
+          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
+        </values>
+        <values xsi:type="core:ReferenceValue">
+          <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.ВКМ_АбонентскоеОбслуживание</value>
+        </values>
       </value>
     </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>
@@ -170,7 +176,6 @@
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
-    <fillChecking>ShowError</fillChecking>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
@@ -410,4 +415,12 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <templates uuid="93657b23-6f06-4228-b923-f9cdcf2ccf15">
+    <name>ВКМ_ПФ_DOC_АктОбОказанныхУслугах</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт об оказанных услугах (DOC)</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
 </mdclass:Document>

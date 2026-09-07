@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="153f80c4-7873-4ca3-ad76-c013d7fed27d">
+  <name>ВКМ_РаботаСПланомВидовРасчетаДополнительныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с планом видов расчета &quot;Дополнительные начисления&quot;</value>
+  </synonym>
+</mdclass:Role>

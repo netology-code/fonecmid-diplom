@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6f86b298-2ab8-44aa-92f6-81e038fc46b4">
+  <name>ВКМ_РаботаСоСправочникомУведомленияТелеграмБотуДляОтправки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа со справочником уведомления телеграм боту для отправки</value>
+  </synonym>
+</mdclass:Role>

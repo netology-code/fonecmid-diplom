@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="50e2d32f-e2a2-4af1-9902-4d2cd5457d24">
+  <producedTypes>
+    <objectType typeId="b6d62c51-ba6d-4898-a97b-891f10b0448f" valueTypeId="cc89e201-ff4a-4244-803d-04747c347428"/>
+    <refType typeId="b3a27489-0508-44ac-8ea9-e752cb8d0c6f" valueTypeId="273c03e4-a4e2-401f-b107-951aa73fdb0b"/>
+    <selectionType typeId="3e856daa-6559-4d67-98bb-716064d8c4f3" valueTypeId="a68642e0-e402-49fb-9a87-830d14486947"/>
+    <listType typeId="744d87e8-08d8-42e5-9aa7-b76226717a03" valueTypeId="9de87be8-ab5f-4640-a573-872b1ff6027f"/>
+    <managerType typeId="8cd718d4-642a-425f-bc5a-75dabbda0a11" valueTypeId="68951a65-3aa1-48a5-99d5-a70a558f596d"/>
+  </producedTypes>
+  <name>ВКМ_НачислениеФиксированнойПремии</name>
+  <synonym>
+    <key>ru</key>
+    <value>Начисление фиксированной премии</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ВКМ_НачислениеФиксированнойПремии.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Начисление фиксированной премии</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Начисление фиксированной премии</value>
+  </listPresentation>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <registerRecords>CalculationRegister.ВКМ_Удержания</registerRecords>
+  <registerRecords>CalculationRegister.ВКМ_ДополнительныеНачисления</registerRecords>
+  <registerRecords>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</registerRecords>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="2c389b08-c19e-4ff0-875b-5dcf266ce227">
+    <name>Комментарий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Комментарий</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="59eeda3a-27b6-4e37-a453-5ae5543d118c">
+    <producedTypes>
+      <objectType typeId="6ea00372-0ac2-4c40-b741-96c8f72827ac" valueTypeId="8dfe7e85-f6ee-48b9-9404-6b9a0248e17a"/>
+      <rowType typeId="f0414ba0-445b-4bd9-8fd3-6fd27f2da386" valueTypeId="64202e25-c4b9-4b9a-817f-23d7ed2c5e4d"/>
+    </producedTypes>
+    <name>СписокСотрудников</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список сотрудников</value>
+    </synonym>
+    <attributes uuid="6eebbdf4-001e-4f64-b598-c8245125fe06">
+      <name>Сотрудник</name>
+      <synonym>
+        <key>ru</key>
+        <value>Сотрудник</value>
+      </synonym>
+      <type>
+        <types>DefinedType.ФизическоеЛицо</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="fe6bd1bf-c002-4b76-97ba-61d80b8f2150">
+      <name>СуммаПремии</name>
+      <synonym>
+        <key>ru</key>
+        <value>Сумма премии</value>
+      </synonym>
+      <type>
+        <types>DefinedType.ВКМ_Сумма</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+</mdclass:Document>

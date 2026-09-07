@@ -444,6 +444,10 @@
     <horizontalAlign>Left</horizontalAlign>
     <autoFill>true</autoFill>
   </autoCommandBar>
+  <handlers>
+    <event>OnCreateAtServer</event>
+    <name>ПриСозданииНаСервере</name>
+  </handlers>
   <saveWindowSettings>true</saveWindowSettings>
   <autoTitle>true</autoTitle>
   <autoUrl>true</autoUrl>
@@ -483,7 +487,11 @@
 		КОГДА НаличиеФайлов.ЕстьФайлы
 			ТОГДА 1
 		ИНАЧЕ 0
-	КОНЕЦ КАК ЕстьФайлы
+	КОНЕЦ КАК ЕстьФайлы,
+	СправочникДоговорыКонтрагентов.ВКМ_ДатаНачалаДействияДоговора КАК ВКМ_ДатаНачалаДействияДоговора,
+	СправочникДоговорыКонтрагентов.ВКМ_ДатаОкончанияДействияДоговора КАК ВКМ_ДатаОкончанияДействияДоговора,
+	СправочникДоговорыКонтрагентов.ВКМ_СуммаЕжемесячнойАбонентскойПлаты КАК ВКМ_СуммаЕжемесячнойАбонентскойПлаты,
+	СправочникДоговорыКонтрагентов.ВКМ_СтоимостьЧасаРаботыСпециалиста КАК ВКМ_СтоимостьЧасаРаботыСпециалиста
 ИЗ
 	Справочник.ДоговорыКонтрагентов КАК СправочникДоговорыКонтрагентов
 		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.НаличиеФайлов КАК НаличиеФайлов
@@ -533,6 +541,22 @@
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>ЕстьФайлы</dataPath>
         <field>ЕстьФайлы</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>ВКМ_ДатаНачалаДействияДоговора</dataPath>
+        <field>ВКМ_ДатаНачалаДействияДоговора</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>ВКМ_ДатаОкончанияДействияДоговора</dataPath>
+        <field>ВКМ_ДатаОкончанияДействияДоговора</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>ВКМ_СуммаЕжемесячнойАбонентскойПлаты</dataPath>
+        <field>ВКМ_СуммаЕжемесячнойАбонентскойПлаты</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>ВКМ_СтоимостьЧасаРаботыСпециалиста</dataPath>
+        <field>ВКМ_СтоимостьЧасаРаботыСпециалиста</field>
       </fields>
     </extInfo>
   </attributes>

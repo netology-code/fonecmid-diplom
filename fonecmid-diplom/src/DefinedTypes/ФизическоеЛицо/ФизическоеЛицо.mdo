@@ -9,9 +9,6 @@
     <value>Физическое лицо</value>
   </synonym>
   <type>
-    <types>String</types>
-    <stringQualifiers>
-      <length>10</length>
-    </stringQualifiers>
+    <types>CatalogRef.ВКМ_ФизическиеЛица</types>
   </type>
 </mdclass:DefinedType>

@@ -8,6 +8,7 @@
   <comment>АПК:256 - обработчик в серверном модуле</comment>
   <source>
     <types>CatalogManager.ПоступлениеТоваровУслугПрисоединенныеФайлы</types>
+    <types>CatalogManager.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</types>
     <types>CatalogManager.КонтрагентыПрисоединенныеФайлы</types>
     <types>CatalogManager.РеализацияТоваровУслугПрисоединенныеФайлы</types>
     <types>CatalogManager.ДоговорыКонтрагентовПрисоединенныеФайлы</types>

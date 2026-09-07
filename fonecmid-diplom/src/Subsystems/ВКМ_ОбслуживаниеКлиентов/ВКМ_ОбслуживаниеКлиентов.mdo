@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="df2b4d8b-04f8-4867-8246-2df685bfb2ce">
+  <name>ВКМ_ОбслуживаниеКлиентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обслуживание клиентов</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>StdPicture.ActiveUsers</picture>
+  </picture>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>DefinedType.ВКМ_Количество</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
+  <content>DefinedType.ПрисоединенныйФайл</content>
+  <content>DefinedType.ПрисоединенныйФайлОбъект</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>Role.ВКМ_РаботаСДокументомОбслуживаниеКлиента</content>
+  <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
+  <content>CommonModule.ВКМ_Телеграм</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБотуДляОтправки</content>
+  <content>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграм</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_МассовоеСозданиеДокументовРеализации</content>
+  <content>Catalog.ВКМ_ФизическиеЛица</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>AccumulationRegister.ВКМ_ОказанныеКлиентамУслуги</content>
+  <content>DefinedType.ВКМ_Сумма</content>
+  <content>Role.ВКМ_РаботаСоСправочникомОбслуживаниеКлиентаПрисоединенныеФайлы</content>
+  <content>Role.ВКМ_РаботаСоСправочникомУведомленияТелеграмБотуДляОтправки</content>
+  <content>Role.ВКМ_РаботаСоСправочникомВКМ_ФизическиеЛица</content>
+  <content>Role.ВКМ_РаботаСОтчетомВКМ_ВыработкаСпециалистов</content>
+  <content>Role.ВКМ_РаботаСОтчетомВКМ_АнализВыставленныхАктов</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Catalog.Контрагенты</content>
+  <content>CommandGroup.ВКМ_Справочники</content>
+  <content>CommandGroup.ВКМ_Документы</content>
+  <content>CommandGroup.ВКМ_Регистры</content>
+  <content>Role.ВКМ_РаботаСКонстантойНоменклатураАбонентскаяПлата</content>
+  <content>Role.ВКМ_РаботаСКонстантойНоменклатураРаботыСпециалиста</content>
+  <content>Role.ВКМ_РаботаСПодсистемойОбслуживаниеКлиентов</content>
+</mdclass:Subsystem>
