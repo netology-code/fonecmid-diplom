@@ -1221,6 +1221,7 @@
   <documents>Document.РеализацияТоваровУслуг</documents>
   <documents>Document.EDT_Test_261026</documents>
   <documents>Document.EDT_Test_261026_2</documents>
+  <documents>Document.EDT_Test_271026</documents>
   <documentJournals>DocumentJournal.Деньги</documentJournals>
   <enums>Enum.ВариантыОтображенияМеток</enums>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
