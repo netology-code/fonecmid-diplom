@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b2403605-3ee3-446d-a8ac-6eab4cd9168a">
+  <producedTypes>
+    <objectType typeId="418fb0ba-4901-4be6-aa0e-255292459138" valueTypeId="dee7ba58-137a-4378-8c99-64a784cf4de9"/>
+    <refType typeId="717de4f0-39a2-4d65-8161-7b4552885ff2" valueTypeId="e3713dea-65c1-4129-8a14-10c03e122988"/>
+    <selectionType typeId="b070abb3-6173-4d0f-8ad7-c59c528cffd6" valueTypeId="a84e13e6-382d-4400-a392-7b1bd8d76c58"/>
+    <listType typeId="9302d6fe-5d6a-434f-a80d-ce23c20f7a67" valueTypeId="b9dbb6fe-8e44-4ebe-9aeb-246c9ec18cd6"/>
+    <managerType typeId="817d561e-7b9a-4ee8-a561-9ac241ea69c7" valueTypeId="1f9d1692-d88d-48e1-8bc3-967fcf2d99fa"/>
+  </producedTypes>
+  <name>EDT_Test_261026</name>
+  <synonym>
+    <key>ru</key>
+    <value>EDT test 261026</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.EDT_Test_261026.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
